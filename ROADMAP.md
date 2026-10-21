@@ -19,7 +19,7 @@
 - [x] 作战室：多 bot 分工 + 文件交接 + 人工闸门（`examples/war-room.md`）
 - [x] X 雷达：每日抓取 + 摘要推送（`examples/x-radar.md`，待真机验证）
 - [x] 出海客服：多语言工单分流（`examples/outbound-support.md`，待真机验证）
-- [ ] 内容流水线：选题 → 初稿 → 人审 → 发布
+- [x] 内容流水线：选题 → 初稿 → 人审 → 发布（[配方](examples/content-pipeline.md)）
 - [x] 周报 routine（`examples/weekly-review.md`，待真机验证）
 - [x] Teach-a-Task：把一次手动操作录成技能（`examples/teach-a-task.md`，待真机验证）
 - [x] 研发四角色（`examples/dev-four-roles.md`，待真机验证）
