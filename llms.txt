@@ -1,0 +1,31 @@
+# awesome-grokbot-playbooks
+
+> 一个 Grok Bot 中文配方库，收录可抄的配方、模板与逐条核实的生态资源清单，面向中文一人公司、多 Bot 作战室和 Routine 场景。
+
+纯文档型仓库，内容为分类目录：官方与 SDK、模板与目录、技能与玩法、多 Bot 团队、Routine、自托管平替等九类，每条附短评、标签和实测状态。配方为本仓自写，模板可在 Grok Bot 内一键导入；新用户建议先读快速上手，再按目录查找现成团队或模板。
+
+## Docs
+
+- [awesome-grokbot-playbooks README](https://raw.githubusercontent.com/sit-in/awesome-grokbot-playbooks/main/README.md): Grok Bot 中文配方库总览：产品介绍、3 分钟上手捷径、最近更新和九大分类目录。
+- [Grok Bot 快速上手](https://raw.githubusercontent.com/sit-in/awesome-grokbot-playbooks/main/docs/quickstart.md): 第一次用 Grok Bot 的 5 步上手流程：设安全底线、导入模板、教技能、开第一条 Routine。
+- [Roadmap](https://raw.githubusercontent.com/sit-in/awesome-grokbot-playbooks/main/ROADMAP.md): 仓库路线图：目标定位、里程碑，以及已写和待认领的配方缺口清单。
+- [社区 Grok Bot 教程精选](https://raw.githubusercontent.com/sit-in/awesome-grokbot-playbooks/main/docs/community-tutorials.md): 其他博主在 X 上公开分享的 Grok Bot 教程精选，按入门、作战室、Routine 等主题分类。
+- [sitin 的 Grok Bot 教程索引](https://raw.githubusercontent.com/sit-in/awesome-grokbot-playbooks/main/docs/sitin-tutorials.md): 本仓作者 sitin 写的 Grok Bot 实战教程和 X 分享索引，按主题分类并标注计划整理成配方的条目。
+- [X 大 V 的 Grok Bot 文章精选](https://raw.githubusercontent.com/sit-in/awesome-grokbot-playbooks/main/docs/x-articles.md): X 大 V 写的 Grok Bot 长文和串帖精选，中英文分列，附收录标准和本仓短评。
+
+## Examples
+
+- [配方名称](https://raw.githubusercontent.com/sit-in/awesome-grokbot-playbooks/main/examples/_template.md): 配方模板：场景、输入、步骤、Prompt、产出与坑的固定结构，以及提交前自查清单。
+- [竞品雷达 routine](https://raw.githubusercontent.com/sit-in/awesome-grokbot-playbooks/main/examples/competitor-radar.md): 每天定时抓取竞品公开页面并对比快照，只推送有变化的摘要，含步骤与常见坑。
+- [研发四角色：需求 → 复现 → 出 PR → 验 PR](https://raw.githubusercontent.com/sit-in/awesome-grokbot-playbooks/main/examples/dev-four-roles.md): 把需求、复现、出 PR、验 PR 拆给不同 bot，人只在两个闸门批准，含角色 prompt 与坑。
+- [一人三岗：客服 + 内容 + 调研最小闭环](https://raw.githubusercontent.com/sit-in/awesome-grokbot-playbooks/main/examples/one-person-three-roles.md): 一人公司用调研、客服、内容三个 bot 每天定时产出草稿，人只审核发布，含 prompt 与坑。
+- [出海客服：多语言工单分流](https://raw.githubusercontent.com/sit-in/awesome-grokbot-playbooks/main/examples/outbound-support.md): 出海多语言工单的脱敏导入、分流、草稿与人工闸门流程，含事实卡、升级规则与坑。
+- [Routine 额度体检](https://raw.githubusercontent.com/sit-in/awesome-grokbot-playbooks/main/examples/routine-budget.md): 额度快烧光时的急停、盘点、分级、逐个重开检查单，配首席 Bot 只读 prompt 与坑。
+- [Teach-a-Task：把一次手动操作录成技能](https://raw.githubusercontent.com/sit-in/awesome-grokbot-playbooks/main/examples/teach-a-task.md): 把一次手动操作示范收成可复用技能卡：抽取、脱敏、干跑、小样本真跑与入库的完整步骤和常见坑。
+- [作战室：多 bot 分工 + 文件交接 + 人工闸门](https://raw.githubusercontent.com/sit-in/awesome-grokbot-playbooks/main/examples/war-room.md): 用 3–6 个职责清晰的 Grok Bot 分工跑情报与草稿，靠文件交接和人工闸门发布，含角色、步骤与 prompt。
+- [周报 routine：每周五自动出初稿](https://raw.githubusercontent.com/sit-in/awesome-grokbot-playbooks/main/examples/weekly-review.md): 让 bot 每周五从 GitHub、文档、日历等只读数据源收集痕迹，自动生成周报初稿供人删改后发出。
+- [X 雷达：每日抓取 + 摘要推送](https://raw.githubusercontent.com/sit-in/awesome-grokbot-playbooks/main/examples/x-radar.md): 用 routine 每日抓取 X/Twitter 公开帖，初筛、摘要后仅在有实质信号时推送，含关键词设置与防编造链接的坑。
+
+## Optional
+
+- [贡献指南](https://raw.githubusercontent.com/sit-in/awesome-grokbot-playbooks/main/CONTRIBUTING.md): 收录门槛、条目格式、禁止内容、配方投稿规范与审核流程等贡献规则。
