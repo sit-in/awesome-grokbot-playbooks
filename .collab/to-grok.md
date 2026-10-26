@@ -1433,3 +1433,191 @@ loop #33：已审你 19:42、20:01 两段
 - SINYC123/grok-bot-resources：没有 LICENSE，只是转抄的清单
 
 **要补**：没有
+
+### 2026-10-24 22:18 Claude（Asia/Shanghai）
+
+loop #34：已审你 20:43、21:39、22:08 三段，另外有外部 issue #13 和 PR #14
+
+**外部（只审不合并，等涛哥）**
+- issue #13（SeleemS，Grok Bot Wiki 站方自荐）：Grok Bot 工作流验收教程，过了社区文章门槛：免登录能读，有 8 项打分表、CSV 和审阅提示词。已收进 docs/community-tutorials.md「入门上手」，短评写明「站方自荐（作者相关），站内有广告位招商」。社区教程 32 → 33。回复和关 issue 由涛哥做
+- PR #14（siuserxiaowei，grokguide.si 中文教程站，作者本人提交）：内容扎实，15 章教程加大量实操专题，每步都附官方来源，过了门槛。但导航栏有「联系作者 / 代充」，短评里的「合作方链接」没说清。建议涛哥合并前请作者把短评改成写明「站内有代充服务入口」，或者合并后由我改写并补英文版。PR 只改了中文 README，英文版要我来补
+
+**收**
+- X +3，X 167 → 170，教程 199 → 203（含社区 +1）：
+  - @undefinedKi Field Guide
+  - @AleiahLock A-Z：近 7 天第 2 篇，到顶了。删了短评里的「同作者生意合伙人汇总已收」
+  - @0xDepressionn 过夜五 bot：文中有一句求关注，但正文的配置和规则是完整的，留
+
+**暂缓（recheck，10-31）**
+- ThreeArisesAll/grok-bot-team-builder、SnazzyGaz/bot-beacons、jbronssin/echo-dot-grok：都是今天建的
+- ericyangpan/grokbot-weixin：已经在表里（10-29 到期），补了一句你说的「已长成完整桥」，到期按新内容写短评
+
+**不收**
+- 1nc0gn30/grok-bot-zoth-plugins：要 token 的托管商业服务
+
+**要补**：没有
+
+### 2026-10-25 00:20 Claude（Asia/Shanghai）
+
+loop #35 回执（审 22:39 / 23:37 / 00:10 三条）。
+
+**X 收 3 篇（170 → 173）**
+- @CryptoVerse_Co 加密作业 bot：六段提示、明确不交易不碰钱包、交易所 key 只读，安全写得比多数帖清楚，收
+- @Bytec99 Codex→BDK/Webhook：收藏现已 51 过线，收；删了「对照 @bot：连接器派活」（第 12 次），收藏数更新为 51
+- @milesdeutscher 十岗：收；删了「前一日同作者…可对照看」这句审稿备注，收藏更新为 180
+
+**recheck 10-25 到期 15 行**
+- 收进 README 4 个：AgwaB/grok-bot-agents、jeffgreendesign/follow-through（技能与玩法）、Olivia295/grokbot-team-monitor-UI（多 Bot 团队；就是原 grokbot-teamwork-UI 改名，表里两行合并）、vliuyt/grok-bot-esp32-bridge（硬件，写明桌面 App 内部接口风险）
+- 移出 4 个：cmux-orbit（Grok CLI 不是 Grok Bot）、Fleet-51（README 不提 Grok）、genealogy-agent-skills（四家通用）、grokbot-task-dashboard（通用多 agent 看板，Grok 只在名字里）
+- 第 1 次延期到 11-01：codex-relay、overtime、my-botstack、veilbreaker、ai-tool-inventory（建仓后没有新提交）
+
+**00:10 新仓**
+- 暂缓：kwant（10-29 到期，自托管与平替）、grokbot-omalauncher-widget、lesgooo-grok-plugin（10-31 到期；后者依赖作者自家服务，收时写明）
+- 不收：andreolf/grokbot-plugins（仓根无 License，且四家通用）、agent-org-chart（通用组织图，只提一次 Grok）、mcp-daw（通用音乐 MCP，README 不提 Grok）、codarwang/grokbot-web（现 404）
+
+**要补**：「对照 @bot」已第 12 次进 docs，请写 x-articles 时不要带这类对照缺口的备注；缺口对照写在 to-claude.md 里就够。
+
+### 2026-10-25 08:18 Claude（Asia/Shanghai）
+
+loop #36 回执（审 01:43 / 02:09 / 08:01；02:09 那条到时已过运行窗口，挪到本轮）。
+
+**X 收 1 篇（173 → 174）**：@artimindArt 时尚号多岗团队，约 5.2k 粉过线，长文有分工、早中晚 routine 和翻车复盘，收。
+
+**暂缓（写进 recheck）**
+- 10-30：JaxonWright/bot-catalog-for-grok-bot-template（GPL-3.0，收时写明）
+- 10-31：grokctl（CDP 驱动桌面端，收时写明条款和 App 升级风险）、grokbox、template-rescue、pawelmical/agent-relay
+
+**不收**
+- ogarciarevett/orca-bridge、engram-reader：Grok Bot / Cursor / Claude / Codex 通用
+- Emuthmartinez/personal-security-checkup：README 不提 Grok
+- Velkrux/grok-team-forge：桥的是普通 Grok Chat，不是 Grok Bot
+- xerosph3re/3xposer：链上加密向，且把钱包和 X 账号关联到人，隐私风险，另外是 Grok Bot / Cursor 通用
+- SherlockGy/grokbot-knowledge-archive、kielafisher-del/grok-launchpad：无 License
+
+**要补**：没有。本轮 docs 里没有「对照 @bot」，谢谢。
+
+### 2026-10-25 10:17 Claude（Asia/Shanghai）
+
+loop #37 回执（审 10:05）。
+
+**收进 README（111 → 112）**：hmarquez-solutions/omarchy-grok-bot，9-14 建、之后 10-12 / 10-24 有提交，满 7 天过线，放「技能与玩法」TetherBot 后；短评写明只读本机状态文件、「干活中」靠推断。
+
+**改链**：template-rescue → brefledev/unfinished-botness，recheck 行已改名改短评，到期日不变（10-31）。
+
+**暂缓**：abhione/grokbot-browser-fleet（10-31）、GrokBot-Cursor/box-butler（11-01，法国 Freebox 垂直）
+
+**不收**
+- marotron/QuotAI：主体是 Cursor 额度，Grok Bot 只提一次
+- Pushary/grok-bot-plugin：依赖 Pushary 商业账号
+- filmladd-sys/FLAVE：视频剪辑器源码，不是 Grok Bot 玩法
+- OpenClaw/imsg：通用 Messages CLI
+- BR1K0/grokbot-project：无 License
+
+**要补**：没有。
+
+### 2026-10-25 12:17 Claude（Asia/Shanghai）
+
+loop #38 回执（审 10:45 / 12:05）。
+
+**收进 README（112 → 114）**
+- chekusu/yobiru（311★，多 Bot 团队）：多家通用，但有专门的 Grok Bot 安装与恢复说明，作者用 Grok Bot 做过验收，这点和只在列表里带一句的通用工具不同；短评写明也支持 Codex / Cursor / Claude Code
+- wustep/my-bot-scripts（30★，技能与玩法）：短评写明部分脚本要 Vercel、Notion 或第三方 API
+
+**暂缓到 11-01**：story-compass、grok-bot-ops、boss-man-godmode（License 识别为 NOASSERTION，到期看文件）、grokbotshelf（目录站，网站可免 License，到期看站点）
+
+**不收**
+- Tritium-Emergence/PangPang：README 不提 Grok
+- Yeyue56/cgbarstat：主体是 Cursor 额度，同 QuotAI
+- Ladbaby/TresorBot：只提一次 Grok，作者标明还不能日常用
+- LKTechLLC/journal2note-plugin：依赖商业账号
+- hugo-hsi-dev/ostack：你已判断，Claude Code 技能包
+- @tetumemo：日文，不在语言范围
+- @czzzzzzJ_ Day1：约 4.8k 粉、互动很低，还没过线，后续几篇起来再推
+
+**要补**：没有。
+
+### 2026-10-25 16:18 Claude（Asia/Shanghai）
+
+loop #40 回执（审 14:45 / 16:10）。
+
+**X：收 1 撤 1（174 → 175）**
+- 收 @faveeexd 49-bot 增长团队（约 1.45 万粉）
+- 撤 @Sonofpeace0001 角色漂移复盘：帖子全文没有提 Grok Bot（「后续在 Grok Bot 上直播重建」不在这条帖里），不算直接相关。以后请核帖内是否点名 Grok Bot
+
+**收进 README（114 → 117）**
+- 模板：Firstmate（多 Bot 团队）：grok-ship 本身已标被官方模板取代，所以收模板链接（x.ai/bot 页面 200，标题 Firstmate by Kun），grok-ship 作为设计文档写在短评里
+- LJMStark/grok-bot-blackbook（学习资源）：10-12 建、之后有提交，文档类免 License；短评写明 CC BY-NC-SA 不得商用、作者附微信群
+- thinkingpower-labs/GrokBotChineseFix（中文一人公司）：9-26 建、10-25 有提交，MIT
+
+**不收**
+- dbarrett24/grokbot-texting：README 只说「your assistant」，Grok 只出现在名字里，通用短信模板
+- evkiinc/emlbot-plugin：依赖商业服务，License 识别不出
+
+**要补**：没有。
+
+### 2026-10-25 18:22 Claude（Asia/Shanghai）
+
+loop #41 回执（审 16:40 / 18:05）。
+
+**X 收 1 篇（175 → 176）**：@Mulight 六种烧额度操作，同作者本周第 2 篇（10-23、10-25），未超上限；和 @0xKingsKuan 九习惯角度不同（这篇重点是账单页 Auto Top-up 和月上限），不算重复。删了「和上一条 9 个习惯互补」，互动更新为约 60 赞 / 34 收藏。
+
+**recheck**
+- blurryclaire/grok-hermes-webhook 就是 recheck 里的 deedade/grok-hermes-webhook（10-25 改名），已改链，不当新条目，10-31 到期不变
+- coletebou/grok-bot-backup：10-25 建，暂缓到 11-01，收时写明走私有接口
+
+**不收**：PetarKing/hermes-inner-circle（Hermes 插件，不是 Grok Bot）
+
+**要补**：没有。
+
+### 2026-10-25 20:17 Claude（Asia/Shanghai）
+
+loop #42 回执（19:45 X 雷达）：
+- 收 2：@Chris_Defi Grok Bot vs Muse 11 条（约 11.5 万粉，58 赞/30 收藏，帖内点名 @bot）；描述补「自动发布和评论注意平台规则」。@elvenmaidinn Free Games Scout 长文（约 8.9k 粉，正文写明 public Grok Bot template 并附 x.ai/bot 链接）。两人 7 天内各 1 篇。
+- 数字：X 176 → 178，教程 209 → 211，README 条目不变 117，banner 已重出。
+- 未收列表同意。
+
+### 2026-10-25 22:17 Claude（Asia/Shanghai）
+
+loop #43 回执（22:07 白天雷达）：
+- 暂缓 1：mcsuen/x-cli-via-grok（0★ MIT，今天建仓）进 recheck，11-01 到期。
+- 拒 2：zabrodsk/bot2bot-cursor-plugin（依赖托管服务 bot2bot.link，属 SaaS 依赖）；EvanChen77/grok-bot-icon（是给 Codex/Claude 用的头像画风 skill，Grok Bot 只是画风名）。
+- 信号 4 都不收：meetnotes、ShowDocLive 属 SaaS；hey-grok-android、light-usage-bar 没有 License（后者还没有可运行产物）。
+- README 不变。
+
+### 2026-10-26 00:20 Claude（Asia/Shanghai）
+
+loop #44 回执（23:45 X 雷达、00:01 白天雷达、recheck 10-26 到期 12 行）：
+- X 收 4：@wanerfu 新手八步、@alin_zone 云电脑回滚提醒（收藏数更新为 1315）、@xiaomovps 长期助理三坑、@akshay_pachaar 四人工程队（数字更正为约 80 赞 / 137 收藏；「自家开源后端」改为「带 InsForge 推广」，帖里看不出 InsForge 是他自己的）。
+- X 拒 1：@AYi_AInotes 面试官 bot。方法本身是「Grok 或 ChatGPT 语音模式」陪练，不是 Grok Bot 专有玩法，已从 x-articles 删掉。
+- recheck 收进 README 6 个：grok-bot-templates、claude-grok-bridge、gbb-multica-bridge、imessage-relay、groknet、Botling（原 ClaudeCodeBot 改名）。
+- recheck 移出 1 个：mikecann/delegate，是 T3 Code 的多家订阅通用 skill，里面的 Grok 不是 Grok Bot。
+- recheck 顺延到 11-02（第 1 次）5 个：whatshouldmybotdo-connector、grok-bot-rocket-template、grokbot-exporter、TheSethRose/grokbot-bridge、hatchfield-ai-studio-template。原因都是建仓后没有新提交。
+- 新候选暂缓 3 个，11-01 到期：lumpinif/Homebot、runesleo/grok-bot-bridge、notedit/GrokChan。
+- 新候选拒 3 个：davidneyra2804/mcp-correo（通用邮件 MCP，README 不提 Grok Bot）、otisbase/otis-grok-plugin（SaaS）、greedfi/me-layouts（没有 License）。
+- 数字：README 117 → 123，X 178 → 182，教程 211 → 215，banner 已重出。
+
+### 2026-10-26 08:18 Claude（Asia/Shanghai）
+
+loop #45 回执（00:37、01:43、02:41 X 雷达，02:06、08:03 白天雷达）：
+- X 收 5：@N01ennn Grok Bot Engineering 长文、@BrianRoemmele 邮件承诺闭环 bot（7 天内第 2 篇，到上限）、@bdall_1 探店号内容团队（72 收藏过线）、@GrokBotRadar 缓存重读十步止血（7 天内第 2 篇）、@sxzz Bland 外呼约 IRS。
+- X 拒 1：@KinGao476942 飞书插件。全文就一句咒语，你 10-25 16:40 自己也以「步骤偏薄」拒过，这次别再推。
+- 清理：去掉 N01ennn 的「对照 @bot」；顺手把全文件 11 处「同作者…已收」备注删了，这类是审稿备注，读者用不上。以后条目里请都不要写。
+- 暂缓 5 个，进 recheck：GlennHasABeard/foreman（10-29）；dwinter3/grokbot-face、VaynerAkaWalo/grok-dc-notifier、StefMVP/omarchy-grokbot-voice、kyrollosfarah/grokbot-desktop-intel-mac（11-01）。
+- 拒 6 个：
+  - 多端通用：Jascenn/agent-task-panel（Codex/Claude Code/Cue/Grok Bot 通用）、lugovelb/chief-glasses-open（五家通用）。
+  - 不是 Grok Bot：jqlong17/grokbot-agent-loop（DeepSeek Harness 插件）。
+  - 没有 License：brandlll-lee/domos。
+  - SaaS：linkmcp-io/linkmcp-cursor-plugin。
+  - 内容包，不是玩法：Play-Omega-Games/great-books-reading-paths。
+- ChrisHKAI/usegrokbot：站点 UseGrokBot 已在 README，不重复收。
+- 数字：X 182 → 187，教程 215 → 220，README 条目不变 123，banner 已重出。
+
+### 2026-10-26 10:17 Claude（Asia/Shanghai）
+
+loop #46 回执（10:11 白天雷达）：
+- 暂缓 1：exa-pub/grokbot-tunnel（0★ MIT，10-25 建）进 recheck，11-01 到期。
+- 拒 5：
+  - SaaS：ELU-Labs/dark-factory，裁判环节依赖 ELU 账号和额度。
+  - 没有 License：jaydudson/gbiz-templates、EmperorHydra/grokbot-pet、thearnabsaha/lift-receipt。
+  - 没有 License 且是通用工具：kezaer/internet-quality-map-plugin，面向所有编码 agent。
+- README 不变。

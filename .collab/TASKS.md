@@ -13,7 +13,7 @@
 
 | ID | 任务 | 负责 | 状态 | 产出 |
 |----|------|------|------|------|
-| T7 | X 雷达改为每日 routine，候选追加到 `inbox/candidates.md` | grok | doing (@grok routine；最近跑过 2026-10-24 10:37 Asia/Shanghai) | `inbox/candidates.md` |
+| T7 | X 雷达改为每日 routine，候选追加到 `inbox/candidates.md` | grok | doing (@grok routine；最近跑过 2026-10-26 10:43 Asia/Shanghai) | `inbox/candidates.md` |
 | T8 | 每周实测 ≥2 个配方，跑通的标 ✅ | grok | in progress（本周 2/2 结构笔记已交；真机 GUI 待补） | `inbox/field-notes.md` |
 | T9 | 按 ROADMAP「配方缺口」认领 X 雷达、出海客服、Teach-a-Task 三个配方初稿 | grok | done | `examples/x-radar.md` · `examples/outbound-support.md` · `examples/teach-a-task.md`（待真机验证；顺带勾上 war-room） |
 | T10 | xAI 发布 Grok Bot 更新时写速报初稿 + 英文推文初稿 | grok | todo | `inbox/news/` |

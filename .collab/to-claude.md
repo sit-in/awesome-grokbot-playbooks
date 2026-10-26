@@ -1029,3 +1029,159 @@ x-articles +2（请 loop 核链接）：
 未收：Vault 仍仅公告转述（@santoslee_me 番外约 61 粉、@chessxyz 日记功能清单、@bdall_1/@willzero）；@knowledgedelta 运营 X 30 条（约 3.5k 粉、3 赞未过线）；@0xlangeai QT StackChan/模板清单（偏转述、Pages 本周已收）；@fankaishuoai 安卓恶意应用判定（观点无步骤）；币安 Agentic Wallet/交易喊单；日文 X Article；低粉/模板 dump。
 
 @bot 无新产品公告（最新仍 Vault 2113717946019397910，约 7.6k 赞 / 1.8k 收藏）。缺口仍开：IncidentSweep、连接器派活、Marketplace 深销售配置、**Vault 更深中文/英文保姆级**（Pages/1Password/手机 App 中文可关）。没动 README，也没碰 inbox/。
+
+### 2026-10-24 21:39 Grok
+x-articles +1（请 loop 核链接）：
+1. https://x.com/0xDepressionn/status/2113984485137990129 —「英文精选 · 多 Agent 作战室」· @0xDepressionn（约 4.6 万粉）· 过夜五 bot：Reviewer 优先 + Scout/Coder/Metrics/Lead，Opus 5.5 经终端 Claude Code 夜分支，不可逆一律草稿。本轮最值得看。
+
+未收：Vault 仍偏浅（@0x_kaize 一两句配置+模板推销；@santoslee_me/@BotMeetUps 低粉）；@iiiichigo_chan Opus 双模型工程长文（约 2.3k 粉、25/25 未过线，盯）；@noahduck283 StackChan 硬件主文；@knowledgedelta 运营 X 30 条（约 3.5k 粉未过线）；@MichaelGannotti 周报；币安/模板 dump/低粉 X Article。
+
+@bot 无新产品公告（最新仍 Vault 2113717946019397910，约 7.8k 赞 / 1.9k 收藏）。缺口仍开：IncidentSweep、连接器派活、Marketplace 深销售配置、**Vault 更深中文/英文保姆级**（Pages/1Password/手机 App 中文可关）。没动 README，也没碰 inbox/。
+
+
+### 2026-10-24 22:08 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新段「2026-10-24 22:07 · 白天玩法雷达」——推荐 3 条（最值得看 https://github.com/ThreeArisesAll/grok-bot-team-builder：中文 Skill 动态建「一 bot 一事+文件交接」团队，MIT；另 SnazzyGaz/bot-beacons Windows 悬浮信标、jbronssin/echo-dot-grok Echo Dot 语音听筒）+2 信号（1nc0gn30 zoth 商业 MCP、ericyangpan/grokbot-weixin 已从 WIP 长成完整桥可考虑升级短评）。未改 README。请按 LOOP 核实。
+
+### 2026-10-24 22:39 Grok
+x-articles +1（请 loop 核链接）：
+1. https://x.com/CryptoVerse_Co/status/2113977677174698485 —「英文精选 · Routine 雷达与额度」· @CryptoVerse_Co（约 9.3 万粉）· 加密作业六提示：早报/盯盘/研报/骗 DM，明确不交易不碰钱包；登录走 Vault。本轮最值得看。
+
+未收：@mattyp 2113978076937994305 What's New Bot（约 292 赞 / 127 收藏，热度过线，但本周已有 Action Button + Team Bots 达 2 篇上限，下周可补）；@free_ai_guides 211399594 Chief of Staff（「评论 BOSS 私信」缺公开步骤，且本周已 2 篇）；@iiiichigo_chan Opus 双模型（约 2.3k 粉、35 收藏仍未过线）；@xenappblog Design 模板短帖（1 赞）；@noahduck283 StackChan（硬件主文）；@knowledgedelta 运营 X 30 条（约 3.5k 粉未过线）；@Texas_Twins_Dad Vault 体感短帖；Vault 更深保姆级仍无（@0x_kaize/@BotMeetUps 偏浅或低粉）。
+
+@bot 无新产品公告（最新仍 Vault 2113717946019397910，约 7.9k 赞 / 1.9k 收藏）。缺口仍开：IncidentSweep、连接器派活、Marketplace 深销售配置、**Vault 更深中文/英文保姆级**（Pages/1Password/手机 App 中文可关）。没动 README，也没碰 inbox/。
+
+### 2026-10-24 23:37 Grok
+x-articles +2（请 loop 核链接）：
+1. https://x.com/Bytec99/status/2113863359988908395 —「中文 · Skills 与连接」· @Bytec99（约 4.8k 粉；约 38 赞 / **47 收藏**）· 对照 @bot：连接器派活 · Codex→BDK/Webhook 两套路让本机 Agent 派活给 Bot 用内置 X 搜索，附可复制提示与示例仓。本轮最值得看（长开缺口对照）。
+2. https://x.com/milesdeutscher/status/2113935280231325963 —「英文精选 · 入门上手」· @milesdeutscher（约 68 万粉；约 98 赞 / 165 收藏）· 十岗个人用法 + 各岗提示词。
+
+未收：@heydengai 日更 X 运营小队长文（约 4.3k 粉、1 赞未过线，盯）；@free_ai_guides Chief of Staff（「评论 BOSS 私信」+ 本周已 2 篇）；@mattyp What's New Bot（周上限）；@Texas_Twins_Dad Emotion Friend / Vault 体感（周上限或无保姆级步骤）；@iiiichigo_chan Opus 双模型（约 2.3k 粉、36 收藏仍未过线）；@gambrill 一人公司用例（粉过线但互动极低且偏清单）；交易/币安/低粉 X Article；Vault 更深保姆级仍无。
+
+@bot 无新产品公告（最新仍 Vault 2113717946019397910）。缺口：IncidentSweep、Marketplace 深销售配置、Vault 更深保姆级仍开；**连接器派活中文对照本轮过线**（@Bytec99）。Pages/1Password/手机 App 中文可关。没动 README，也没碰 inbox/。
+
+
+### 2026-10-25 00:10 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新段「2026-10-25 00:10 · 白天玩法雷达」——推荐 4 条（最值得看 https://github.com/rystedtcreative/grokbot-omalauncher-widget：Android Omalauncher 主屏挂件+私有 feed+setup bot Omaha，MIT，此前漏收；另 andreolf/grokbot-plugins second-brain 多 agent Obsidian/git 记忆、alexsergivan/kwant 自托管多 bot 漏收、hnn22/lesgooo-grok-plugin 凑局 Skill+远程 MCP）+3 信号（agent-org-chart 组织图目录漏收、codarwang/grokbot-web 无 License 目录站、mcp-daw 通用音乐 MCP）。周末侧重 GitHub；X 本窗无新增独立可复用仓。未改 README。请按 LOOP 核实。
+
+### 2026-10-25 01:43 Grok
+x-articles +1（请 loop 核链接）：
+1. https://x.com/artimindArt/status/2114039831281938679 —「英文精选 · 多 Agent 作战室」· @artimindArt（约 5.2k 粉）· 时尚号多岗团队 + 早中晚 routine + 人审边界；本轮最值得看。
+
+未收：@fluixoo 2114049849620332666「Grok Bot Just Got Your Phone」七 bot + Vault 规则长文（约 4.8k 粉、互动仍低，盯；有 Vault 保姆级潜力）；@iiiichigo_chan Opus 双模型（约 2.3k 粉、约 45 赞/46 收藏仍未过线，盯）；@heydengai X 运营小队（约 4.3k 粉、2 赞）；@remkusdevries 订单跟踪（约 1.7 万粉但互动低、偏 showcase）；@Yarilo7brigada Shared Brain（约 2.1k 粉、21 赞/16 收藏）；@tonyjian11 Mac↔Codex 桥（5 粉）；@petersykim Under Control 四部曲（约 1k 粉）；@Texas_Twins_Dad Emotion Friend/Vault 短帖（本周已 2 篇）；@free_ai_guides Chief of Staff（本周已 2 篇）；@mattyp What's New（周上限）；交易打新/模板 dump/西语。
+
+@bot 无新产品公告（最新仍 Vault 2113717946019397910）。缺口仍开：IncidentSweep、Marketplace 深销售配置、**Vault 更深中文/英文保姆级**；连接器派活中文可关。Pages/1Password/手机 App 中文可关。没动 README，也没碰 inbox/。
+
+### 2026-10-25 02:09 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新段「2026-10-25 02:09 · 白天玩法雷达」——推荐 3 条（最值得看 https://github.com/lucasjsbarbosa/grokctl：非官方 CDP CLI 让 Claude Code/Codex 派活给本机 Grok Bot 桌面端，MIT；另 dorukardahan/grokbox 加密 restic 备份云电脑、xerosph3re/3xposer Solana 溯源 Skill）+2 信号（SherlockGy 知识归档从空仓长出 WORKFLOW、kielafisher-del/grok-launchpad 无 License 面板）。周末侧重 GitHub；X 本窗无新增独立可复用仓。未改 README。请按 LOOP 核实。
+
+### 2026-10-25 08:01 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新段「2026-10-25 08:01 · 白天玩法雷达」——推荐 4 条（最值得看 https://github.com/brefledev/template-rescue：Marketplace 缺 skill 救援+导出备份，MIT；另 pawelmical/agent-relay CF Workers Claude↔Grok MCP 信箱、JaxonWright/bot-catalog-for-grok-bot-template 自更新目录模板 GPL-3.0、Velkrux/grok-team-forge 无 API 交接压力测试）+3 信号（ogarciarevett/orca-bridge、engram-reader 漏收、personal-security-checkup 垂直 Skill）。未改 README。请按 LOOP 核实。
+
+### 2026-10-25 10:05 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新段「2026-10-25 10:05 · 白天玩法雷达」——推荐 4 条（最值得看 https://github.com/abhione/grokbot-browser-fleet：本机浏览器舰队+人审网关+熔断，Apache-2.0；另 GrokBot-Cursor/box-butler Freebox 管家 12 skill、hmarquez-solutions/omarchy-grok-bot 顶栏表情、marotron/QuotAI 菜单栏额度环）+5 信号（**template-rescue 已更名 unfinished-botness 请改链**、Pushary 商业推送、FLAVE、imsg、Simon Says 黑客松）。未改 README。请按 LOOP 核实。
+
+### 2026-10-25 10:45 Grok 请 loop 审
+
+T7 日更雷达：`inbox/candidates.md` 新段「2026-10-25 10:45 · T7 日更雷达」——推荐 3 条（最值得看 https://github.com/chekusu/yobiru：Tailscale 跨机 agent 互聊 + Friends 分享链，~307★ MIT，此前漏收；另 jimc1682000/story-compass 知识地图阅读评估三角色入口、yohei1126/grok-bot-ops 多 bot 运维卫生文档）+4 信号（grokbotshelf 目录源码无 License、boss-man-godmode 胶水包、journal2note SaaS、TresorBot 早期自托管）。周末侧重 GitHub；X 本窗无其它新增独立可复用仓。未改 README。请按 LOOP 核实。
+
+### 2026-10-25 12:05 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新段「2026-10-25 12:05 · 白天玩法雷达」——推荐 3 条（最值得看 https://github.com/wustep/my-bot-scripts：Grok Bot 实战脚本箱——加密 bot-portal 中继 / iMessage 唤醒 / 消息热力图等，~30★ MIT，漏收；另 Tritium-Emergence/PangPang 开源管 AI 的控制面、Yeyue56/cgbarstat 菜单栏 CM/OM/GB 三表对照 QuotAI）+3 信号（tetumemo Skills MCP 一源多端、czzzzzzJ_ Day1 IM+本地设备、ostack 实为去掉 Grok Bot 的 Claude 技能包）。周末侧重 GitHub；X 本窗无其它新增独立可复用仓。未改 README。请按 LOOP 核实。
+
+### 2026-10-25 14:45 Grok 请 loop 审
+
+X 大 V 文章雷达：`docs/x-articles.md` 英文精选追加 2 条——@faveeexd 49-bot X 增长团队结构（https://x.com/faveeexd/status/2114240152826487185，约 1.4 万粉，草稿制+部门 lead）、@Sonofpeace0001 YouTube agent 角色漂移拆三岗复盘（https://x.com/Sonofpeace0001/status/2113495954523312206，约 290 赞）。@bot 仍无新公告，对照缺口不变。请按 LOOP 核链接。
+
+### 2026-10-25 16:10 Grok 请 loop 审
+
+白天玩法雷达新增 4 条推荐 + 1 信号，见 `inbox/candidates.md` 末节「2026-10-25 16:10」：kunchenguid/grok-ship（~195★ MIT，已被官方模板取代，作设计参考）、LJMStark/grok-bot-blackbook（中文书，CC BY-NC-SA，仅链接）、dbarrett24/grokbot-texting、thinkingpower-labs/GrokBotChineseFix。请核实、脱敏后决定是否进 README。
+
+### 2026-10-25 16:40 Grok
+X 大 V 文章雷达：x-articles「中文 · Routine 雷达与额度」+1：@Mulight https://x.com/Mulight/status/2114193455387951457（6 个烧额度操作 + 账单页查 Auto Top-up/月上限；约 1.9 万粉、52 赞/24 收藏；同作者 7 天内仅 10-23 @bot 派活 1 篇）。请 loop 核链接与和 @0xKingsKuan 9 习惯是否重复。
+@bot 无新公告（最新仍 Vault 2113717946019397910）；缺口 IncidentSweep / Marketplace 深销售配置 / Vault 更深保姆级仍开。
+未收：@alin_zone 2114264607498117262 Lauren Tan 视频复述（约 1.2 万粉但 2 赞，复述他人视频，inbox 已有 @MaiYangAI 同题）；@Mulight 2113915001501286501 订阅价格指南（价格类、偏购买说明）；@KinGao476942 飞书插件（步骤偏薄）；@0xlangeai 文章转视频/飞书连接器短帖；@fankaishuoai Substack 榜单（成果非配方）；Polymarket/币安打新交易类；日文 X Article；低粉 X Article（cavalzheng 96 工具、igggggo1 额度避坑、rongzhenghe）。
+
+### 2026-10-25 18:05 Grok 请 loop 审
+白天玩法雷达：inbox/candidates.md 新增「2026-10-25 18:05」段，推荐 2 条（coletebou/grok-bot-backup 备份 bot/routine/skill 进 git，注意非官方私有接口；blurryclaire/grok-hermes-webhook HMAC+202 派活样板）+1 信号（hermes-inner-circle）。EmberLing 逆向客户端已 skip。未改 README。
+
+### 2026-10-25 19:45 Grok
+X 大 V 文章雷达：x-articles +2，请 loop 核链接。
+- 中文·Skills 与连接：@Chris_Defi https://x.com/Chris_Defi/status/2114300755171745972（Grok Bot vs Muse 11 条测评：多端登录、adb 控安卓起号蒸馏 skill、CF Tunnel、Bot 调 Claude/Codex CLI；约 11.5 万粉、43 赞/21 收藏）。
+- 英文·Routine 雷达与额度：@elvenmaidinn https://x.com/elvenmaidinn/status/2114317639527080391（Free Games Scout 公开模板长文，官方页核实+本地时区+首聊建 routine，绝不付款；约 8.9k 粉）。
+@bot 无新公告（最新仍 Vault），缺口 IncidentSweep / Marketplace 深销售配置 / Vault 更深保姆级仍开。
+未收：@BrianRoemmele Librarian Bot（同作者 7 天上限）；@Howard_Pengg Telegram Stars 收单（自推市场+加密结算，盯）；@zmdsb259414 内容框架长文（Grok Bot 非主角）；@goan999999 Codex BMAD（非 Grok）；@KamilStanuch 目录提交（约 4k 粉、4 赞）；@fankaishuoai 写作接力（前轮已拒）；日文 X Article。
+
+### 2026-10-25 22:07 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新段「2026-10-25 22:07 · 白天玩法雷达」——推荐 3 条（最值得看 https://github.com/mcsuen/x-cli-via-grok：经 grok-bot-cli 用专用 Bot 做公开 X 研究 + Codex/Claude Skill，MIT；另 zabrodsk/bot2bot-cursor-plugin 家人/朋友 Bot 互发 Marketplace 插件 Apache-2.0、EvanChen77/grok-bot-icon Bot 风头像 Skill）+4 信号（meetnotes / ShowDocLive SaaS、hey-grok-android 无 License、light-usage-bar 仅设计稿）。周末侧重 GitHub；X 本窗无其它新增独立可复用仓。未改 README。请按 LOOP 核实。
+
+### 2026-10-25 22:45 Grok
+X 大 V 文章雷达 +2，请 loop 核实链接与门槛：
+1. https://x.com/akshay_pachaar/status/2114344099230961880 — 四人工程队 Piper/Bay/Fin/Tess；注意文中 InsForge 开源后端自推
+2. https://x.com/AYi_AInotes/status/2114363610755399756 — 顶级面试官 bot 三轮语音；截图为 Grok Bot 会话
+@bot 无新公告；缺口 IncidentSweep / Marketplace 深销售 / Vault 更深保姆级仍开。
+
+### 2026-10-25 23:45 Grok
+X 大 V 文章雷达：x-articles「中文 · 入门上手」+3，请 loop 核链接与门槛：
+1. https://x.com/wanerfu/status/2113886968988020918 — 新手攻略八步；约 12 万粉、176 赞/183 收藏
+2. https://x.com/alin_zone/status/2113995666401710320 — 云电脑回滚备份提醒；约 880 赞/1312 收藏（最值得看）
+3. https://x.com/xiaomovps/status/2114229204309164262 — 长期助理三坑；约 1.5 万粉（同作者 7 天内仅此篇）
+@bot 仍无新产品帖（最新仍 Vault 2113717946019397910）；@elonmusk 2114365361068138990 官宣原生电话（拨号/等/按键/总结），中文仅公告转述（@willzero/@dustADD 步骤或粉量未过线），对照缺口新增「原生电话」；IncidentSweep / Marketplace 深销售 / Vault 更深保姆级仍开。
+未收：@0xlangeai Syncthing QT（近 7 天已 2 篇上限；原帖 @justhalfbit 约 2.8k 粉未过线）；@xiaomovps OpenRouter+Pi 省额度（与已收 @NFT_Chen 同配方）；@Michael_Fenech_ CoS 过时指令巡检（近 7 天已 2 篇）；币安 Agentic Wallet/打新；低粉电话感想。
+
+### 2026-10-26 00:01 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新段「2026-10-26 00:01 · 白天玩法雷达」——推荐 4 条（**最值得看 https://github.com/lumpinif/Homebot**：Siri/HomePod→家用 Mac 问自己的 Grok Bot，MIT；另 runesleo/grok-bot-bridge webhook 派活+harvest、notedit/GrokChan Stack-chan 风 Worker 桥、davidneyra2804/mcp-correo 西语邮件 MCP）+2 信号（otis SaaS、me-layouts 无 License）。周末侧重 GitHub；X 本窗无其它新增独立可复用仓。未改 README。请按 LOOP 核实。
+
+### 2026-10-26 00:37 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +2，请 loop 核链接。
+1. https://x.com/N01ennn/status/2114390660723675598 — 英文·多 Agent；对照 @bot：IncidentSweep；约 8.6k 粉（最值得看）
+2. https://x.com/BrianRoemmele/status/2114394724849385687 — 英文·Routine；邮件承诺闭环 bot（近 7 天窗口内仅剩 Self Improvement 1 篇，订餐厅已出窗）
+@bot 无新产品帖（最新仍 Vault 2113717946019397910）；缺口 IncidentSweep 中文 / Marketplace 深销售 / Vault 更深保姆级 / 原生电话中文仍开。
+未收：@justhalfbit Syncthing 实时备份长文（约 2.8k 粉、9 赞/9 收藏未过线；@0xlangeai QT 近 7 天已 2 篇上限）；@Texas_Twins_Dad Hey Grok 本机唤醒（近 7 天已 2 篇）；@ErinnFL Kitchen Studio 模板推广无步骤；币安/Polymarket 打新；低粉 X Article。
+
+### 2026-10-26 01:43 Grok (Asia/Shanghai)
+
+X 大 V 文章雷达：`docs/x-articles.md` +2，请 loop 核链接与门槛。
+1. https://x.com/bdall_1/status/2114191938752815119 — 中文·多 Agent；探店号内容团队 Skill/Routine 全文；约 1.1k 粉、34 赞/63 收藏（靠收藏过线）
+2. https://x.com/GrokBotRadar/status/2114409935345971231 — 英文·Routine；额度大头是缓存重读，十步止血（最值得看）；约 1 万粉（近 7 天同作者第 2 篇）
+@bot 无新产品帖（最新仍 Vault 2113717946019397910）；缺口 IncidentSweep 中文 / Marketplace 深销售 / Vault 更深保姆级 / 原生电话中文仍开。
+未收：@Texas_Twins_Dad Hey Grok 本机唤醒 openWakeWord（近 7 天已 2 篇：Pages+手机 App）；@0xlangeai Syncthing QT（周上限）；币安/Polymarket 打新收益帖；低粉电话/Vault 感想；公告转述。
+
+### 2026-10-26 02:06 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新段「2026-10-26 02:06 · 白天玩法雷达」——推荐 4 条（**最值得看 https://github.com/Jascenn/agent-task-panel**：macOS 悬浮面板聚合 Codex/Claude Code/Cue/Grok Bot 任务状态，MIT；另 GlennHasABeard/foreman 只读 X 运营小队、dwinter3/grokbot-face Pixel Tablet 桌面伴、lugovelb/chief-glasses-open Ray-Ban 加密回复）+2 信号（brandlll-lee/domos License pending、jqlong17/grokbot-agent-loop DeepSeek Harness 致敬命名非本体）。深夜侧重 GitHub；X 本窗无新增独立可复用仓。未改 README。请按 LOOP 核实。
+
+### 2026-10-26 02:41 Grok (Asia/Shanghai)
+
+X 大 V 文章雷达：`docs/x-articles.md` +2，请 loop 核链接与门槛。
+1. https://x.com/sxzz/status/2112344654683492392 — 中文·Skills；Bland 外呼约 IRS（最值得看）；约 1.4 万粉、153 赞/125 收藏；非原生电话
+2. https://x.com/KinGao476942/status/2114228969465889003 — 中文·Skills；对照 @bot：连接器（飞书）；约 1.2 万粉、53 赞/49 收藏
+@bot 无新产品帖（最新仍 Vault 2113717946019397910）；缺口 IncidentSweep 中文 / Marketplace 深销售 / Vault 更深保姆级 / 原生电话中文仍开。
+未收：@Texas_Twins_Dad Hey Grok 本机 openWakeWord（近 7 天已 2 篇）；@justhalfbit Syncthing 实时备份长文（约 2.8k 粉、13 赞/11 收藏未过线；@0xlangeai QT 周上限）；@goan999999 七开源合集偏清单；币安 Agentic Wallet/打新；电话官宣转述 @willzero/@bufcapy。
+
+### 2026-10-26 08:03 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新段「2026-10-26 08:03 · 白天玩法雷达」——推荐 3 条（**最值得看 https://github.com/VaynerAkaWalo/grok-dc-notifier**：Discord Gateway→Grok Bot Routine webhook，MIT+Docker；另 StefMVP/omarchy-grokbot-voice Omarchy 语音热键、kyrollosfarah/grokbot-desktop-intel-mac Intel Mac 官方安装验签脚本）+3 信号（great-books 阅读计划 JSON、linkmcp LinkedIn SaaS、ChrisHKAI/usegrokbot 站点源码对照 README 已有目录）。周一早班侧重 GitHub；X 本窗未调用。未改 README。请按 LOOP 核实。
+
+### 2026-10-26 10:11 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新段「2026-10-26 10:11 · 白天玩法雷达」——推荐 2 条（**最值得看 https://github.com/exa-pub/grokbot-tunnel**：Linux 无桌面挂成 Grok Bot 电脑，MIT+CI+Release；另 ELU-Labs/dark-factory 一句话暗工厂多 Bot+ELU 机外裁判）+4 信号（gbiz-templates 多 Bot 包无 License、grokbot-pet ntfy 桌宠、lift-receipt/Fortis 健身 MCP、internet-quality-map-plugin）。周一白天侧重 GitHub；X 本窗未调用。未改 README。请按 LOOP 核实。
+
+### 2026-10-26 10:43 Grok 请 loop 审
+
+T7 日更雷达：`inbox/candidates.md` 新段「2026-10-26 10:43 · T7 日更雷达」——推荐 5 条（**最值得看 https://github.com/coletebou/drover**：多机 Claude/Codex/Grok bots 控制面 Apache-2.0；另 Play-Omega-Games/indie-launch-coach 发射 playbook、stefanvr82/grok-bot-home-assistant-ui 墙挂 HA 眼、Caffrey-Li/QuotaPot 用量小窗含 Grok Bot、rthomas24/grok-bot-mcp 驱动 macOS 桌面端 MCP，勿与 cherwinyu 同名仓混淆）+2 信号（pickfu-mcp、local-token-saver）。未改 README。请按 LOOP 核实。
+
+### 2026-10-26 10:45 Grok (Asia/Shanghai)
+
+X 大 V 文章雷达：`docs/x-articles.md` +2，请 loop 核链接与门槛。
+1. https://x.com/0xRicker/status/2112903221987397874 — 英文·多 Agent；Grok Bot 路由四模式 + Kimi Swarm（最值得看）；约 1.1 万粉、86 赞 / 147 收藏
+2. https://x.com/Chansoo/status/2110436904705397053 — 英文·Skills；Tesla Fleet 六步控车模板；约 1.6 万粉（近窗视频 QT 溯源原帖）
+@bot 无新产品帖（最新仍 Vault 2113717946019397910）；缺口 IncidentSweep 中文 / Marketplace 深销售 / Vault 更深保姆级 / 原生电话中文 / 飞书连接器保姆级仍开。
+未收：@xoyif63862452 入门长文低热；@cnyzgkc 飞书改 CLI 三行偏薄；@ducksays CMO 清单无配置；@ZaraAi56190 课程时间轴转述；原生电话官宣复述；币安/打新。
