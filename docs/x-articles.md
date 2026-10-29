@@ -105,6 +105,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [一次讲清：把 Codex、Claude Code、Gemini、DeepSeek Harness、Muse 都接进 Grok Bot](https://x.com/KinGao476942/status/2115592603605557564) — @KinGao476942 · 2026-10-29 · 长帖：五段可直接复制给总管 bot 的提示词，在云电脑用各家 CLI 登录自己的账号，让编程、调研、生图、剪辑等活改走对应订阅的额度；登录验证码和 API key 仍需本人手动输入。Muse 那段靠第三方 muse2api 把网页账号转成接口，可能不合 Muse 的使用条款，用前自己判断；约 1.3 万粉、约 500 赞 / 900 收藏 · 中文
 - [「Teach a task」：在云电脑上演示一遍，让 Grok Bot 学成可复用 Skill](https://x.com/SIAxiom/status/2115660704409661813) — @SIAxiom · 2026-10-29 · 聊天框点「+」选 Teach a task → 在云电脑上把任务做一遍 → AI 整理成 Skill 并列出步骤供检查测试 → 测通后可设定时任务；提醒网页变化时仍需人工复核，作者约 9.6k 粉 · 中文
 - [Pages 看板 7 条可复制提示词：Bot 指挥中心、账目、客户线索、X 周报、到期提醒、决策备忘、周五客户更新](https://x.com/joganicpe/status/2115716591090385167) — @joganicpe · 2026-10-29 · 每条写清数据来源、页面内容和自动更新时间，并给出「不动钱」「先给我看再发」这类边界，约 1.7 万粉 · 中文
+- [Grok Bot 当联络员：派活给远程 Claude/Codex、Notion 当共享库、Cloudflare Worker 接飞书群翻译](https://x.com/bggg_ai/status/2115838960861900911) — @bggg_ai · 2026-10-29 · 上手三天的真实搭建：bot 把分析和开发派给另两台常开电脑上的 Claude、Codex，每天轮询 TikTok 矩阵账号自然流与广告数据出仪表盘日报；选题 bot 一天两次抓 X、微博、小红书、抖音存进 Notion，与 Claude 共用一个库；VPS 上跑脚本把状态推到免费 Cloudflare Worker 再转给 bot，也能反向问；飞书应用只把事件转发给 Worker，群里 @ 机器人就能调用 bot 里的翻译 skill；约 1.2 万粉 · 中文
 
 ## 中文 · 出海一人公司与内容
 
@@ -309,6 +310,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [11 Income Streams You Can Run with Grok Bot (With the Exact Prompts)](https://x.com/DotComParker/status/2115464509532090701) — @DotComParker · 2026-10-28 · X 长文：社媒主页、转卖比价、无脸频道、建站、咨询、模板、newsletter、本地商家客服、简历改写、课程、翻译 11 种做法，每种都有适合人群、分步搭建、可粘贴提示词、风险和衡量指标；统一用调研、起草、排期、routine、日报五个部件，对外发布和花钱都留人工批准；作者明说不承诺收入，约 13.6 万粉 · 英文
 - [My content team works while I sleep, and none of them are human](https://x.com/Leo100x/status/2115715241677930811) — @Leo100x · 2026-10-29 · X 长文：一个主 bot 带 Scout、Analyst、Writer、Creative、Growth 五个队友，每天早上一条 routine 交带链接的 AI 简报和 7 条按本人语气写的推文草稿（一键发帖链接，由本人决定发不发），定死「队友不替我发帖、关注、私信」；文末三步起步：交代领域与语气、用大白话描述团队、设一条晨报 routine；约 1.1 万粉 · 英文
 - [Grok Bot: 6 Bots, 200+ Agents, a Smaller Bill (Full Setup)](https://x.com/m4lkxx/status/2115775972536434946) — @m4lkxx · 2026-10-29 · X 长文：按「一个 bot 身兼数职 → 拆岗 → 六席团队」逐级搭建，每级附可粘贴的配置段和「该升级了」的信号，也给了用 Marketplace 里的 Dr. Eggbot 一次导入整队的捷径；后半讲导出用量后发现大部分 token 花在重读旧对话上，列九处额度泄漏的修法和一份 15 分钟自查；约 7.5k 粉、约 54 赞 / 45 收藏 · 英文
+- [Set your Grok Bot's permissions before going offline: a practical incident-investigation setup](https://x.com/doublenickk/status/2115831790191436182) — @doublenickk · 2026-10-29 · 长帖：接好事故工具后，按 Sentry、PagerDuty、GitHub 事件或 webhook 触发 routine，让 bot 比对报错与近期发版、收集日志，交回时间线、来源链接、假设和修复建议；动生产前必须人工批准；先手动跑通一次、存成 skill 再自动化，写清数据缺失或运行失败时怎么办；提醒所有 bot 共享文件、浏览器会话和登录，改名不等于隔离权限；约 1.3 万粉、约 27 赞 / 21 收藏 · 英文
 
 ## 不收的例子
 

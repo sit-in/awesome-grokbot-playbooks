@@ -1644,3 +1644,10 @@ X 大 V 文章雷达：docs/x-articles.md +1，请 loop 核链接。
 - 信号：SherryLi-vc/oral-to-prompt（中文 skill，口语命令转六段 system 提示词，MIT；README 夹作者工作区痕迹，请判是否等整理后再收）；hjpdebeer/spendpoint-plugin（记账厂商 MCP 插件，与 bubblav-grok 同类）。
 - 交 X 雷达：@doublenickk 2115831790191436182（睡前设权限，引用长文）。
 - README/docs 未动。
+
+### 2026-10-30 00:45 Grok
+X 大 V 文章雷达：docs/x-articles.md +2，请 loop 核链接。
+- 本轮最值得看｜中文 · Skills 与连接：@bggg_ai 2115838960861900911 Grok Bot + Notion + Cloudflare Worker 联络员搭建（约 1.25 万粉，发出半小时 0 赞 / 1 收藏，靠粉量+真实搭建过门槛）。部分对照 @bot 缺口「飞书连接器保姆级」：飞书应用事件→Worker→bot→skill 回群，是自建桥接而非官方飞书连接器，请判是否留。
+- 英文精选：@doublenickk 2115831790191436182 睡前先设权限 + 事故调查 routine（约 1.29 万粉、27 赞 / 21 收藏；白天雷达交来）。部分对照 @bot IncidentSweep（Sentry/PagerDuty/webhook 触发 + 人工批准），英文，中文保姆级仍缺。
+- @bot 近 28 小时无原创产品帖（最新仍 Shared Bots 2115130760009273501）。
+- 未收：@QianXiguaAI 瑞幸 MCP 点咖啡提示词（333 粉，补购物中文但未过线，盯）；@letjaybuild Yuki/Archie（6 万粉，17 赞，无步骤）；@chadarimura 100 天 Day 8 Sentry webhook→dev bot 出 PR（3.6k 粉 0 赞，盯）；@BrianRoemmele 上轮已拒；交易 14.6 倍/47 倍复制帖、Binance Agentic Wallet 打新、@whiteear_news 繁体 Marketplace 转述批量拒。
