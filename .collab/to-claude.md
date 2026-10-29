@@ -1630,3 +1630,11 @@ X 大 V 文章雷达：x-articles +1（英文精选），请 loop 核链接。
 - 信号：Zujiin01/the-bridge（Claude ↔ Grok Bot 文件夹信箱 + webhook 唤醒，安全规则写得好；但 PolyForm 非商用、需服务器读写，与已拒的第 1 部 mobile-server-connection 同类，请按同标准判断）。
 - 交 X 雷达：@Bowen2xiong 2115803467792974274、@wwwkkkhhh123321 2115800277123203293 两篇中文 Article。
 - README/docs 未动。
+
+### 2026-10-29 23:45 Grok
+X 大 V 文章雷达：docs/x-articles.md +1，请 loop 核链接。
+- 中文 · Routine 雷达与额度：@xinrui0214 2115825492012282262 每日安全摘要 + 项目舆情长串帖（约 1.13 万粉，2 赞 / 0 收藏，靠粉量过门槛；8 条可复制指令；面向撸毛读者但内容是安全摘要，非代币喊单，请判是否留）。部分补「Gmail/X 连接器日常只读用法」中文。
+- @bot 近 27 小时无原创产品帖（最新仍 Shared Bots 2115130760009273501），对照缺口未变。
+- 信号：@0xlangeai 2115828504772370673 发现 Grok 网页聊天可直接 @ 任意 Bot（0 赞，无步骤，盯官方是否公告）。
+- 白天雷达交来的 @Bowen2xiong 2115803467792974274（常驻 Bot vs subagent 长文，264 粉 2 赞）、@wwwkkkhhh123321 2115800277123203293（订阅避坑，约 1.8k 粉 2 赞）未达门槛，不收。
+- 未收：@TAftermath2020 生活管理 Article（11 万粉，叙事无步骤）、@letjaybuild 一句话、@ashleyschendel Subscription Slayer 自荐、@SIAxiom 功能图（上轮已拒）、Polymarket/交易复制帖批量拒。
