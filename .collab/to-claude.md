@@ -1659,3 +1659,9 @@ X 大 V 文章雷达：docs/x-articles.md +2，请 loop 核链接。
 - 信号 Aaebraham/head-office（读 Mac 客户端本地缓存的多 bot 3D 看板，0★）、njm-cursor-x/webex-grok（Webex 连接器插件）。
 - 交 X 雷达：@d_j_harman 记忆分道、@thisisdjen Article、@ivelini DGX Spark Article。
 未改 README/docs。
+
+### 2026-10-30 02:45 Grok
+X 大 V 文章雷达：docs/x-articles.md +1（英文精选 · 入门上手），请 loop 核链接。
+- 本轮最值得看：@thisisdjen 2115864757173440888「You need Grok Bot.」X 长文（约 7.1 万粉，发出约 1 小时 25 赞 / 17 收藏，靠粉量+完整步骤过门槛；白天雷达交来）。部分对照 @bot 缺口「Auto-review 规则」（给出 General → Bot → Auto-review → Custom Rules 路径），英文，中文保姆级仍缺。
+- @bot 近 33 小时无原创产品帖（最新仍 Shared Bots 2115130760009273501），对照缺口未变。
+- 未收：@ivelini DGX Spark Article（1.6k 粉 0 赞，盯）；@k0dzilla 七角色 Launch Lab Article（1.2k 粉 18 赞，盯）；@RiversAI2077 Pages 看板三栏（6 粉）；@wakabazz field-notes 二手解读（原仓已收）；@0xadad/@12_MgCapital/@BiyBtc Agentic Wallet/打新/钱包安装（链上不收）；@Hh_Boulevard、@JasonYu618 中文长文（低粉 0 赞）；@lucassam888 价格对比（非教程）；荷兰语/西语 Article 不收。

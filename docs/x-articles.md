@@ -150,6 +150,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [The Complete Grok Bot Guide: From Beginner to Advanced](https://x.com/alpha_founders/status/2115160193763778775) — @alpha_founders · 2026-10-28 · X 长文：Founders School 给学生写的三级上手指南，第一级接连接器、设晨间收件箱和会前准备 routine、做「像我一样写」skill，第二级拆出专职效率 bot 并让 bot 互相派活、接 SEO 等 API，第三级讲 23 个 bot 分工和手机端派活；开头附一段「先采访我再建两个 bot」的提示词；约 400 收藏 · 英文
 - [How Elon Musk & SpaceXSI Use Grok Bot (copy this)](https://x.com/aiedge_/status/2115459312994914327) — @aiedge_ · 2026-10-28 · X 长文：把 Elon 和官方团队公开过的用法改成可复制提示词，含查账单抓僵尸订阅、IncidentSweep 式同类工单批量回复（先批准再发）、比价下单并在签收后自动停查物流、iPhone Action Button 绑定语音派活的设置路径，并提醒外呼电话尚未进稳定版；作者约 8 万粉、约 200 收藏，经约 68 万粉的 @milesdeutscher 转引后近 400 收藏 · 英文
 - [Grok Bot Pages and dashboards: the 5 dashboards I built](https://x.com/AlexFinn/status/2115596225793921048) — @AlexFinn · 2026-10-29 · 约 12 分钟视频：新上线的 Pages 与仪表盘功能怎么用，作者搭的 5 个仪表盘，其中一个用来盯用量、帮他省了不少额度；约 48 万粉、约 1700 赞 / 2400 收藏 · 英文
+- [You need Grok Bot.](https://x.com/thisisdjen/status/2115864757173440888) — @thisisdjen · 2026-10-30 · X 长文：零基础上手全流程，从建第一个 bot、用「Show me the rules」查规则，到只接必要的连接器、网站登录时接管电脑，再到把试好的任务改成工作日 7 点的 routine（附「只起草不发送、登录失败要报」等规则）、拉群让主 bot 分派、把会前准备存成 skill，以及在 Auto-review 里加自定义审批规则；作者约 7 万粉 · 英文
 
 ### 多 Agent 作战室
 
