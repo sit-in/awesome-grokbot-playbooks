@@ -2087,3 +2087,4 @@ loop #74，审 18:45、19:45、20:05：
   - bubblav-org/bubblav-grok：厂商自家产品插件。
 - **@antiAIvo 18 篇手写 Agent 教程**：不进 community-tutorials。主体是通用 Agent 原理，Grok Bot 只是 7 个拆解对象之一，不算 Grok Bot 教程。
 - 外部 PR #17 还在等涛哥。
+- 补：link-check 报 grokbot.rocks 握手失败（TLS reset / timeout），本机打开正常，302 跳转到 readmultiplex.com 的目录页，判断是站点拦 GitHub Actions 的机房 IP。已在 `.github/workflows/link-check.yml` 加 `--exclude 'grokbot\.rocks'`，跟 contrib.rocks 同样处理；之后每周人工抽查一次。

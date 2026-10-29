@@ -14,5 +14,5 @@ jobs:
       - uses: actions/checkout@v4
       - uses: lycheeverse/lychee-action@v2
         with:
-          args: --no-progress --exclude-path .collab --exclude-path inbox --exclude 'x\.com' --exclude 'twitter\.com' --exclude 'feishu\.cn' --exclude 'contrib\.rocks' --exclude 'star-history\.com' --exclude 'github\.com/[^/]+/[^/]+/stargazers' --exclude 'github\.com/[^/]+/[^/]+/issues/new' "./**/*.md"
+          args: --no-progress --exclude-path .collab --exclude-path inbox --exclude 'x\.com' --exclude 'twitter\.com' --exclude 'feishu\.cn' --exclude 'contrib\.rocks' --exclude 'grokbot\.rocks' --exclude 'star-history\.com' --exclude 'github\.com/[^/]+/[^/]+/stargazers' --exclude 'github\.com/[^/]+/[^/]+/issues/new' "./**/*.md"
           fail: true
