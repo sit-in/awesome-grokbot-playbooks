@@ -3335,3 +3335,25 @@ choiking/Bot27（自称「更好的免费 Grok Bot」，macOS 替代品，非 Gr
 ### Skip（本轮）
 
 SvenKunkka/grokbot-byok-dsh-setup（DeepSeekBot BYOK 配置，主角非 Grok Bot，且含拆客户端 asar 内容）；NUSLCC/grokbot-robot-manipulation（仅标题 README）。X 侧 @GoldenCicada OKX Agentic Wallet 安装（钱包/交易类不收）、@0xburg3r 链上情报试水 Article、@caocaorich 链上项目助手 Article（链上类）、@panExorcist 投研盘前笔记（交易题材）、@fluixoo/@crbpite8 转述 200 agent 工程师帖、@AISystems_hq 订阅引流、@KuttyPrabhu webhook 三步（低粉、与官方功能说明重复）不收；@xiaomovps「从 0 到 1」新 Article 2115738442181333337、@KanikaBK「Hire Grok Bot」Article 交 X 雷达。
+
+## 2026-10-29 20:05 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name / 链接与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。`gh search repos`（grokbot / grok-bot / "grok bot"，created≥10-29，看 16:00 后新建）+ X `search_posts_all`×1（自 18:00 起）。未改 README/docs。
+
+### 推荐收录（待 Claude 核）
+
+| 名称 | 链接 | 短评 | 建议节 | 标签 | Stars / License | 来源 |
+|------|------|------|--------|------|-----------|------|
+| tantan1hao/grok-multi-bot-workflow | https://github.com/tantan1hao/grok-multi-bot-workflow | **纯提示词的多 Bot 协作工作流（中文）**：Grok Bot 当总助和项目负责人，Codex / Cursor / Antigravity 当工程师；每个项目一份 TODO、派单保留原话并编号、送达/开工/验收/交付分别取证、独立验收绑定同一受检版本。仓里有 roles、flows、templates、DEPLOY 说明，不含服务端或密钥。作者自标实验性 v0.1.0、尚未做完整真实任务验收，短评里要带上这句。本轮最值得看 | Multi-bot / Orchestration | `multi-bot` `prompts` `codex` `cursor` `zh` | 0★ / MIT | **GitHub**（10-29 19:33 建） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| vexo-x1/agent-playbooks | https://github.com/vexo-x1/agent-playbooks | 每条玩法一页可复制模板、数字标出处；Grok Bot 页「Stop paying for empty runs」整理的是 @gippp69（7 bot 一个时钟）与 @unknownnode404 的 routine 审计提示词，原帖 docs 已收，只算二手汇编；目前仅 2 篇，等积累再看 | Routines / Cost | **GitHub**（10-29 18:05 建，无 License） |
+| bubblav-org/bubblav-grok | https://github.com/bubblav-org/bubblav-grok | BubblaV 客服聊天机器人厂商的 Grok Bot / Grok Build 插件（远程 MCP + OAuth，无需 key）：查解决率、找答不上的问题、补知识库、装 widget；厂商自家产品插件，若开「第三方连接器」节可列，否则只作信号 | Connectors / Plugins | **GitHub**（10-29 19:58 建，MIT） |
+| Pages 管多项目：一项目一页 | https://x.com/Michael_Fenech_/status/2115774649598705774 | 约 6 万粉作者：别拿聊天当项目管理，每个项目一张 Page 让 Bot 团队读写；刚发约 10 分钟，交 X 雷达看是否展开成长文 | Pages / Project mgmt | **X**（10-29） |
+
+### Skip（本轮）
+
+robinbril/grokbot-reconstruction（仿制本地工作区，非玩法）；nox1020/ai（离线仿 Grok Bot 安卓 app）；karloshagen/karlos-umbrel-apps、sbaluja10/snapgrok（与 Grok Bot 玩法弱相关）；falkoro/grok-bot-eu-translations、weritas247/util-grokbot-research（第三方资讯站翻译/韩文资讯站）；AgentConnect/matchall-plugins（商业插件源码）。X 侧 @CopperForgeAI 用 Cloudflare 隧道绕网络限制（涉翻墙，不收）、@HYhongyu8/@dxseyi3 段子、@crbpite8 转述对冲基金帖、@UncleKripro 低粉营销、@grok 自动回复、@free_ai_guides「官方 18 个 playbook」导读（转述官方，原文若未收交 X 雷达核）不收；@4ro_ro4 日文 Article 交 X 雷达。

@@ -1612,3 +1612,9 @@ X 大 V 文章雷达：x-articles +1（英文 · Skills 与连接），请 loop 
 - 本轮最值得看：@debs_obrien https://x.com/debs_obrien/status/2115750113721114878 「My Hire Me Page Can Talk」Article（约 2.37 万粉，发出约 1 小时 5 赞 / 1 收藏，互动低但粉量过线、真实搭建+测试+成本完整）。对照 @bot 能力：@bot 派 Cursor 云端代理写码 + 连接外部 API（ElevenLabs），可作「@bot 派活」英文对照，中文仍缺。
 - @bot：from:bot 近 24h 零原创，最新仍 Shared Bots 2115130760009273501。
 - 未收：@antiAIvo 2115755286967558317 从零手写 Agent 18 篇教程（2.9 万粉、57 赞/30 收藏，但主体是通用 Agent 原理，Grok Bot 只是 7 个拆解对象之一，可留 Claude 判断是否进 community-tutorials）；@isagi1000x 2115736886622740789 一 bot 代币筛查台（1.3k 粉、18 赞，链上交易类）；@KanikaBK Hire Article（上轮已拒，FILL 占位）；@crbpite8 / @hyeke3 对冲基金转述；@runes_leo 大使申请（非玩法）；@Maruo_0314 日文 Article；@GoldenCicada OKX 钱包（链上）。
+
+### 2026-10-29 20:05 Grok 请 loop 审
+白天玩法雷达：inbox/candidates.md +4（1 推荐 + 3 信号）。
+- 推荐：tantan1hao/grok-multi-bot-workflow（MIT，中文纯提示词多 Bot 协作：Grok Bot 总助 + Codex/Cursor/Antigravity 工程师，TODO/取证/独立验收）；作者自标实验性 v0.1.0，收录短评需注明。
+- 信号：vexo-x1/agent-playbooks（二手汇编，原帖已收）、bubblav-org/bubblav-grok（厂商插件）、@Michael_Fenech_ 2115774649598705774 Pages 管多项目（交 X 雷达）。
+- README/docs 未动。
