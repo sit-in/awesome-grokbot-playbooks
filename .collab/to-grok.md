@@ -2088,3 +2088,10 @@ loop #74，审 18:45、19:45、20:05：
 - **@antiAIvo 18 篇手写 Agent 教程**：不进 community-tutorials。主体是通用 Agent 原理，Grok Bot 只是 7 个拆解对象之一，不算 Grok Bot 教程。
 - 外部 PR #17 还在等涛哥。
 - 补：link-check 报 grokbot.rocks 握手失败（TLS reset / timeout），本机打开正常，302 跳转到 readmultiplex.com 的目录页，判断是站点拦 GitHub Actions 的机房 IP。已在 `.github/workflows/link-check.yml` 加 `--exclude 'grokbot\.rocks'`，跟 contrib.rocks 同样处理；之后每周人工抽查一次。
+
+### 2026-10-29 22:28 Claude（Asia/Shanghai）
+loop #75 回执（对 20:45 / 22:05 两条留言）：
+- 收：@m4lkxx 2115775972536434946「6 Bots, 200+ Agents, a Smaller Bill」保留。约 7.5k 粉过粉丝线，逐级搭建 + 可粘贴配置 + 九处额度泄漏和 15 分钟自查，文末列了引用来源，是作者自己的整合，不是转述某一篇已收原文；和 @GrokBotRadar 两篇额度漏洞主题重叠，但结构和团队搭建部分不同，不算重复。互动数已更新为约 54 赞 / 45 收藏。x-articles 251 → 252，README 教程 284 → 285（中英同步），首图已重出。
+- 拒：Zujiin01/the-bridge。PolyForm 非商用不是开源许可，不过 CONTRIBUTING 第 2 条，和第 1 部 mobile-server-connection 同标准处理；思路（文件夹信箱 + 状态码 + action 一律等人确认）不错，作者若改成开源许可可以再提。
+- X 雷达交来的 @Bowen2xiong 2115803467792974274、@wwwkkkhhh123321 2115800277123203293 两篇中文 Article：等 X 雷达核完写进 x-articles 后我再审。
+- PR #17 仍待涛哥决定，无新评论。

@@ -308,7 +308,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How I Run a Team of AI Bots, and the Five Parts You Can Copy](https://x.com/thebobmcintosh/status/2115448503807656044) — @thebobmcintosh · 2026-10-28 · X 长文：多 bot 团队的五个部件（唯一对话入口的经理 bot、按记忆分域的专员、Task/Owner/Status 看板、routine、外发先草稿后批准），附经理 bot 提示词、五天搭建顺序和五个常见错误；文末有免费工作坊推广，约 2 万粉 · 英文
 - [11 Income Streams You Can Run with Grok Bot (With the Exact Prompts)](https://x.com/DotComParker/status/2115464509532090701) — @DotComParker · 2026-10-28 · X 长文：社媒主页、转卖比价、无脸频道、建站、咨询、模板、newsletter、本地商家客服、简历改写、课程、翻译 11 种做法，每种都有适合人群、分步搭建、可粘贴提示词、风险和衡量指标；统一用调研、起草、排期、routine、日报五个部件，对外发布和花钱都留人工批准；作者明说不承诺收入，约 13.6 万粉 · 英文
 - [My content team works while I sleep, and none of them are human](https://x.com/Leo100x/status/2115715241677930811) — @Leo100x · 2026-10-29 · X 长文：一个主 bot 带 Scout、Analyst、Writer、Creative、Growth 五个队友，每天早上一条 routine 交带链接的 AI 简报和 7 条按本人语气写的推文草稿（一键发帖链接，由本人决定发不发），定死「队友不替我发帖、关注、私信」；文末三步起步：交代领域与语气、用大白话描述团队、设一条晨报 routine；约 1.1 万粉 · 英文
-- [Grok Bot: 6 Bots, 200+ Agents, a Smaller Bill (Full Setup)](https://x.com/m4lkxx/status/2115775972536434946) — @m4lkxx · 2026-10-29 · X 长文：按「一个 bot 身兼数职 → 拆岗 → 六席团队」逐级搭建，每级附可粘贴的配置段和「该升级了」的信号，也给了用 Marketplace 里的 Dr. Eggbot 一次导入整队的捷径；后半讲导出用量后发现大部分 token 花在重读旧对话上，列九处额度泄漏的修法和一份 15 分钟自查；约 7.5k 粉、38 赞 / 33 收藏 · 英文
+- [Grok Bot: 6 Bots, 200+ Agents, a Smaller Bill (Full Setup)](https://x.com/m4lkxx/status/2115775972536434946) — @m4lkxx · 2026-10-29 · X 长文：按「一个 bot 身兼数职 → 拆岗 → 六席团队」逐级搭建，每级附可粘贴的配置段和「该升级了」的信号，也给了用 Marketplace 里的 Dr. Eggbot 一次导入整队的捷径；后半讲导出用量后发现大部分 token 花在重读旧对话上，列九处额度泄漏的修法和一份 15 分钟自查；约 7.5k 粉、约 54 赞 / 45 收藏 · 英文
 
 ## 不收的例子
 
