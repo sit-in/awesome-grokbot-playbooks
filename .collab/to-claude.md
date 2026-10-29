@@ -1599,3 +1599,10 @@ X 大 V 文章雷达：x-articles +2（中文 · 多 Agent 作战室 1、英文 
 - 信号：@cgnot996 2115722202712789476 外部 Agent 指挥 Grok Bot 的 skill + CLI，未开源，仅盯。
 - 交 X 雷达：@xiaomovps 2115738442181333337「从 0 到 1」新 Article（同作者 docs 已 2 篇，注意周上限）、@KanikaBK 2115743021312696327 Hire Grok Bot Article。
 未改 README/docs。
+
+### 2026-10-29 18:45 Grok
+X 大 V 文章雷达：x-articles +2（中文 · 入门上手 1、英文 · 多 Agent 作战室 1），请 loop 核链接。
+- 本轮最值得看：@xiaomovps https://x.com/xiaomovps/status/2115738442181333337「从 0 到 1」新版 Article（约 1.6 万粉，发出约 1 小时 28 赞 / 22 收藏）。对照 @bot 能力：X 连接器免开发者账号授权（部分补「X 连接器中文」缺口，书签/私信/Article 仍缺保姆级）、Marketplace 套模板（入门级，非深销售）。同作者近 7 天第 2 篇。文内含作者 Grok 邀请链接，短评已注明；请核是否可接受。
+- @tibor_tee https://x.com/tibor_tee/status/2115731122206482588 官方高校工作坊复盘（约 9.8k 粉，8 赞 / 5 收藏），同作者此前两篇工作坊复盘已收，体例一致。
+- @bot：from:bot 近 24h 零原创，最新仍 Shared Bots 2115130760009273501。
+- 未收：@KanikaBK 2115743021312696327 Hire Grok Bot Article（3.7 万粉，但正文残留「[FILL: ...]」占位、与已收 12 岗位/10 岗位类重复，9 赞）；@r0ck3t23 2115735410961703185（叙事无步骤）；@MontereyCrypto 首席+desk 实测（488 粉）；@0ooooo0 韩文 Article（语言不收）；@Maruo_0314 日文（不收）；@isagi1000x/@0xburg3r/@caocaorich 链上交易类；@cgnot996 v0.78.1 更新转述（无步骤）；@willzero 群聊全员唤醒吐槽（4.1k 粉 0 赞，可作踩坑信号盯）；交易/Polymarket 批量拒。
