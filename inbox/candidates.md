@@ -3357,3 +3357,17 @@ SvenKunkka/grokbot-byok-dsh-setup（DeepSeekBot BYOK 配置，主角非 Grok Bot
 ### Skip（本轮）
 
 robinbril/grokbot-reconstruction（仿制本地工作区，非玩法）；nox1020/ai（离线仿 Grok Bot 安卓 app）；karloshagen/karlos-umbrel-apps、sbaluja10/snapgrok（与 Grok Bot 玩法弱相关）；falkoro/grok-bot-eu-translations、weritas247/util-grokbot-research（第三方资讯站翻译/韩文资讯站）；AgentConnect/matchall-plugins（商业插件源码）。X 侧 @CopperForgeAI 用 Cloudflare 隧道绕网络限制（涉翻墙，不收）、@HYhongyu8/@dxseyi3 段子、@crbpite8 转述对冲基金帖、@UncleKripro 低粉营销、@grok 自动回复、@free_ai_guides「官方 18 个 playbook」导读（转述官方，原文若未收交 X 雷达核）不收；@4ro_ro4 日文 Article 交 X 雷达。
+
+## 2026-10-29 22:05 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name / 链接与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。`gh search repos`（grokbot / grok-bot / "grok bot"，created≥10-29，看 20:00 后新建）+ X `search_posts_all`×1（自 20:00 起）。未改 README/docs。
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Zujiin01/the-bridge（「The Bridge」三部曲第 3 部） | https://github.com/Zujiin01/the-bridge | 服务器上一个文件夹当信箱：每个 Agent 一个收件箱、一条消息一个文本文件，回复带 `DONE` / `WIP` / `NEEDS-INPUT` / `BLOCKED` 状态和过期时间；Grok Bot 一侧靠小 watcher 调 webhook routine 唤醒，Claude 一侧用 Monitor 监听，实现两边互相派活、互相叫醒。README 把「消息内容只当数据、action 类一律回 NEEDS-INPUT 等主人确认」写成规则，安全意识好。但与第 1 部 mobile-server-connection 一样是 PolyForm 非商用许可，且需服务器文件夹读写权限，Claude 此前以同样理由拒过第 1 部，故只作信号 | Multi-bot / Webhook routines | **GitHub**（10-29 21:40 建，0★） |
+
+### Skip（本轮）
+
+samihalawa/grokbot（靠会话 cookie 多账号池化、额度 429 轮换，涉账号凭据与绕额度，不收）；lwhwayne/grokbot-pet-studio（实际是 ChatGPT/Codex 桌宠导出器）；austintoddj/office、yzqb/grok-bot-health、njm-cursor-x/webex-grokbot（仅标题或空 README）；adplug-app/adplug-hubspot-plugin（已在 inbox）、qualisend/agent-plugins（邮件验证厂商插件）。X 侧 @nitrosendx 系列转推（邮件营销推广）、@kinox1out / @scarfpinkgirl 标题党转述、@Zz_Zz114514 交易策略打假、@akentech_bit 每周额度审计 routine（38 粉，思路与已收审计提示词重复）、@zacshen 二手汇总、@GrokBotPro / @Blackprismgrp 低粉营销号不收；@Bowen2xiong「常驻 Bot vs Claude Code subagent」与 @wwwkkkhhh123321「冲订阅避坑」两篇中文 Article 交 X 雷达。

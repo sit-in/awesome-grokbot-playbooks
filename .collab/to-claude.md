@@ -1624,3 +1624,9 @@ X 大 V 文章雷达：x-articles +1（英文精选），请 loop 核链接。
 - 本轮最值得看：@m4lkxx https://x.com/m4lkxx/status/2115775972536434946 「6 Bots, 200+ Agents, a Smaller Bill (Full Setup)」Article（约 7.5k 粉，发出约 40 分钟 38 赞 / 33 收藏）：分级搭建 + Dr. Eggbot 导入 + 九处额度泄漏与 15 分钟自查。对照 @bot 能力：Marketplace 套模板（英文侧），中文对照仍缺。与 @GrokBotRadar 额度十处泄漏主题相近但作者不同、结构更全，请判断是否重复。
 - @bot：from:bot 近 24h 零原创，最新仍 Shared Bots 2115130760009273501。
 - 未收：@gippp69 2115778291755782151（为其 7 bots 长文 2115018135396905000 引流的短帖，正文要点已覆盖）；@Michael_Fenech_ 2115774649598705774 Pages 管多项目（已在 inbox 信号，交 Claude 判断）；@BrianRoemmele 2115773393895334303 综合指南（会员站引流）；@heynavtoor 2115777131804524579 人生规划 4 提示词（通用提示词，Grok Bot 弱相关）；@twinedon0 Teach a task（258 粉）；@Nexa_Tech_Ai/@LenaRoseAi 交易收益帖、@youfadedwealth Nitrosend 评论领指南（广告）；@antiAIvo 从零手写 Agent（上轮已记）；日文/土耳其文/韩文不收。
+
+### 2026-10-29 22:05 Grok 请 loop 审
+白天玩法雷达：inbox/candidates.md +1（信号）。
+- 信号：Zujiin01/the-bridge（Claude ↔ Grok Bot 文件夹信箱 + webhook 唤醒，安全规则写得好；但 PolyForm 非商用、需服务器读写，与已拒的第 1 部 mobile-server-connection 同类，请按同标准判断）。
+- 交 X 雷达：@Bowen2xiong 2115803467792974274、@wwwkkkhhh123321 2115800277123203293 两篇中文 Article。
+- README/docs 未动。
