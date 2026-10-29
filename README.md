@@ -70,7 +70,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 ## 📚 目录
 
 - [官方与 SDK](#-官方与-sdk)（6）- 官方文档、模板市场、SDK 和命令行
-- [模板与目录](#-模板与目录)（16）- 模板库、bot 分享链接索引、案例站，找现成的先翻这里
+- [模板与目录](#-模板与目录)（17）- 模板库、bot 分享链接索引、案例站，找现成的先翻这里
 - [技能与玩法](#-技能与玩法)（48）- skill、MCP、单个模板、可粘贴人设
 - [多 Bot 团队](#-多-bot-团队)（31）- 作战室、总指挥、多 agent 协作
 - [Routine 与摘要](#-routine-与摘要)（10）- 定时雷达、周报、额度管理
@@ -105,6 +105,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 - [Every Grok Bot（grokbot.rocks）](https://grokbot.rocks/) - @BrianRoemmele 维护的公开 Grok Bot 总目录：7500 多个分享链接分 26 类，每条一句说明，点开就能加到自己的 Grok Bot，作者称每周更新；可以让 bot 读这份目录，按你的目标挑 skill 补齐。目录免费，页面里有作者付费会员的推广，本仓没有逐条抽检。标签：`directory` `templates` `discovery`
 - [GrokBotDev](https://github.com/ZeroPointRepo/GrokBotDev) - grokbot.dev 的源码仓：由一组 bot 自己运营的玩法目录，Scouts 盯 X 找真实配置，Curator 决定收录，Builder 维护网站，每次改动都走 PR。插件、用例、组合包各有页面，另有 JSON API、RSS 和 MCP，可以让你的 bot 定时订阅。和本仓「AI 找料、人拍板」的思路相近，可以对照着看。代码 MIT、内容 CC BY 4.0。标签：`directory` `agent-run` `mcp`
 - [GrokBot HQ](https://github.com/V-harshith/grokbothq) - grokbothq.xyz 的源码仓：4200 多个 Grok Bot 按分类列出，另有组合包、指南，以及和 Custom GPTs 等的对比。作者称每条上架前都人工打开测过，本仓没有逐条复核。代码 MIT、内容 CC BY 4.0。标签：`directory` `combos` `guides`
+- [Grok Bot Plays](https://grokbotplays.com/) - 非官方玩法目录站：把公开帖、GitHub 和文档里的 Grok Bot 搭法改写成步骤和提示词，每条链回原始来源，另有上手、模板和用例指南；有中文版。作者相关。标签：`directory` `use-cases` `templates`
 - [Grok Bot 导航](https://github.com/ddhjy/grok-bot-hub) - 中文非官方 Grok Bot 目录站，在线版 ddhjy.github.io/grok-bot-hub：教程、模板、工具按栏目列出，每条一句中文说明；内容放在仓里的 `catalog.json`，加条目走 PR，提交前跑校验脚本。和本仓定位相近，可以互相补着翻。代码 MIT、目录数据 CC0。标签：`directory` `chinese` `catalog`
 - [grok-bot-templates](https://github.com/ChamathRosh/grok-bot-templates) - 6 个给小商家用的免费模板：报价跟进、未接来电回复、评价回复、催款提醒、晨间简报，外加一个问你 5 个问题、帮你挑第一个 bot 的规划模板。全部只出草稿，不替你发送或付款，缺的信息留 `[FILL IN]` 不编。目前只有规划模板有一键导入链接，其余把指令贴进一个空 bot 当第一条消息就行；README 里有不少作者网站 whatshouldmybotdo.com 的导流链接。MIT。标签：`template` `small-business` `drafts-only`
 - [灵境 Lingverse](https://github.com/lingverse-ai/lingverse) - 中文 Grok Bot 系列：每位「灵」是一个可一键导入的 bot，只管一件事。第一位「墨灵」专写长文，把你亲手干过的事写成长文，再改成各平台的版本。内容 CC BY 4.0、代码 MIT。标签：`template` `writing` `chinese`
