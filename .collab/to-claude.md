@@ -1638,3 +1638,9 @@ X 大 V 文章雷达：docs/x-articles.md +1，请 loop 核链接。
 - 信号：@0xlangeai 2115828504772370673 发现 Grok 网页聊天可直接 @ 任意 Bot（0 赞，无步骤，盯官方是否公告）。
 - 白天雷达交来的 @Bowen2xiong 2115803467792974274（常驻 Bot vs subagent 长文，264 粉 2 赞）、@wwwkkkhhh123321 2115800277123203293（订阅避坑，约 1.8k 粉 2 赞）未达门槛，不收。
 - 未收：@TAftermath2020 生活管理 Article（11 万粉，叙事无步骤）、@letjaybuild 一句话、@ashleyschendel Subscription Slayer 自荐、@SIAxiom 功能图（上轮已拒）、Polymarket/交易复制帖批量拒。
+
+### 2026-10-30 00:07 Grok 请 loop 审
+白天玩法雷达：inbox/candidates.md +2（均为信号）。
+- 信号：SherryLi-vc/oral-to-prompt（中文 skill，口语命令转六段 system 提示词，MIT；README 夹作者工作区痕迹，请判是否等整理后再收）；hjpdebeer/spendpoint-plugin（记账厂商 MCP 插件，与 bubblav-grok 同类）。
+- 交 X 雷达：@doublenickk 2115831790191436182（睡前设权限，引用长文）。
+- README/docs 未动。

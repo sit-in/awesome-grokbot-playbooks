@@ -3371,3 +3371,18 @@ robinbril/grokbot-reconstruction（仿制本地工作区，非玩法）；nox102
 ### Skip（本轮）
 
 samihalawa/grokbot（靠会话 cookie 多账号池化、额度 429 轮换，涉账号凭据与绕额度，不收）；lwhwayne/grokbot-pet-studio（实际是 ChatGPT/Codex 桌宠导出器）；austintoddj/office、yzqb/grok-bot-health、njm-cursor-x/webex-grokbot（仅标题或空 README）；adplug-app/adplug-hubspot-plugin（已在 inbox）、qualisend/agent-plugins（邮件验证厂商插件）。X 侧 @nitrosendx 系列转推（邮件营销推广）、@kinox1out / @scarfpinkgirl 标题党转述、@Zz_Zz114514 交易策略打假、@akentech_bit 每周额度审计 routine（38 粉，思路与已收审计提示词重复）、@zacshen 二手汇总、@GrokBotPro / @Blackprismgrp 低粉营销号不收；@Bowen2xiong「常驻 Bot vs Claude Code subagent」与 @wwwkkkhhh123321「冲订阅避坑」两篇中文 Article 交 X 雷达。
+
+## 2026-10-30 00:07 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name / 链接与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。`gh search repos`（grokbot / grok-bot / "grok bot" / multi-bot grok，created≥10-29，看 21:30 后新建）+ X `search_posts_all`×1（自 21:30 起）。未改 README/docs。
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| SherryLi-vc/oral-to-prompt | https://github.com/SherryLi-vc/oral-to-prompt | **中文 Grok Bot / Cursor skill**：把口语命令改写成固定六段 system 提示词（角色定位 / 任务背景 / 总体目标 / 具体需求 / 输出风格 / 规则限制），明确「改写不代做」，带缺口追问和示例；README 里还混着改名记录、发布脚本和 logs 目录，像作者工作区直推，且刚建无 star，先作信号，等 README 收拾干净再看 | Skills / Prompting | **GitHub**（10-29 22:50 建，MIT） |
+| hjpdebeer/spendpoint-plugin | https://github.com/hjpdebeer/spendpoint-plugin | Spendpoint 记账服务的 Cursor / Grok Bot 插件（远程 MCP + OAuth，无需 key）：拍收据入账、按类别问花销，金额由服务端算不靠模型心算；厂商自家产品插件，与 bubblav-grok 同类，若开「第三方连接器」节可列，否则只作信号 | Connectors / Plugins | **GitHub**（10-29 22:58 建，MIT） |
+
+### Skip（本轮）
+
+samihalawa/public-tender-grokbot-orchestrator-skill（无 README，作者上轮 cookie 池仓已拒）；njsilvestri21/grok-bot-office、njm-cursor-x/webex-grokbot（空 README）；ikeriano/* 三个西语综艺粉丝游戏（与玩法无关）。X 侧 @nitrosendx 系列推广转发、@fffuckingnerd/@ChadSE0 标题党转述、@GrokBotPro/@topbotcharts/@OutworkVentures 低粉营销号、@jiannannnn 方言 TTS+火柴人视频（15 粉）、@kkkeric_ai 外链库思路（回复帖无步骤）、@tutao0123 习惯清单（82 粉，与官方建议重复）不收；@doublenickk 2115831790191436182「睡前先设权限」（约 1.29 万粉，引用长文）交 X 雷达。
