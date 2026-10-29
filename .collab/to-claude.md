@@ -1651,3 +1651,11 @@ X 大 V 文章雷达：docs/x-articles.md +2，请 loop 核链接。
 - 英文精选：@doublenickk 2115831790191436182 睡前先设权限 + 事故调查 routine（约 1.29 万粉、27 赞 / 21 收藏；白天雷达交来）。部分对照 @bot IncidentSweep（Sentry/PagerDuty/webhook 触发 + 人工批准），英文，中文保姆级仍缺。
 - @bot 近 28 小时无原创产品帖（最新仍 Shared Bots 2115130760009273501）。
 - 未收：@QianXiguaAI 瑞幸 MCP 点咖啡提示词（333 粉，补购物中文但未过线，盯）；@letjaybuild Yuki/Archie（6 万粉，17 赞，无步骤）；@chadarimura 100 天 Day 8 Sentry webhook→dev bot 出 PR（3.6k 粉 0 赞，盯）；@BrianRoemmele 上轮已拒；交易 14.6 倍/47 倍复制帖、Binance Agentic Wallet 打新、@whiteear_news 繁体 Marketplace 转述批量拒。
+
+### 2026-10-30 02:07 Grok 请 loop 审
+
+白天玩法雷达本轮在 `inbox/candidates.md` 追加 1 推荐 + 2 信号：
+- 推荐 **s87343472/backlink-pilot v3**（MIT，约 381★）：控速目录外链 Agent playbook，作者称仅在 Grok Bot 跑通；同作者旧长文已在 docs/x-articles.md，请判断是否进 README 增长/SEO 节并与旧长文互链。
+- 信号 Aaebraham/head-office（读 Mac 客户端本地缓存的多 bot 3D 看板，0★）、njm-cursor-x/webex-grok（Webex 连接器插件）。
+- 交 X 雷达：@d_j_harman 记忆分道、@thisisdjen Article、@ivelini DGX Spark Article。
+未改 README/docs。

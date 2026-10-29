@@ -3386,3 +3386,24 @@ samihalawa/grokbot（靠会话 cookie 多账号池化、额度 429 轮换，涉�
 ### Skip（本轮）
 
 samihalawa/public-tender-grokbot-orchestrator-skill（无 README，作者上轮 cookie 池仓已拒）；njsilvestri21/grok-bot-office、njm-cursor-x/webex-grokbot（空 README）；ikeriano/* 三个西语综艺粉丝游戏（与玩法无关）。X 侧 @nitrosendx 系列推广转发、@fffuckingnerd/@ChadSE0 标题党转述、@GrokBotPro/@topbotcharts/@OutworkVentures 低粉营销号、@jiannannnn 方言 TTS+火柴人视频（15 粉）、@kkkeric_ai 外链库思路（回复帖无步骤）、@tutao0123 习惯清单（82 粉，与官方建议重复）不收；@doublenickk 2115831790191436182「睡前先设权限」（约 1.29 万粉，引用长文）交 X 雷达。
+
+## 2026-10-30 02:07 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name / 链接与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。`gh search repos`（grokbot / grok-bot / "grok bot" / grok multi-bot，created≥10-29，看 23:30 后新建）+ X `search_posts_all`×1（自 23:30 起）。未改 README/docs。
+
+### 推荐（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| s87343472/backlink-pilot（v3） | https://github.com/s87343472/backlink-pilot | **给 Agent 跑的目录外链 playbook**：从「一条命令提交几百站」的 v2 脚本改写成控速版，每天 2–4 个真实提交、保守/标准/激进三档策略、邮件验证闭环、可复用站点台账；人看 README、Agent 读 `AGENTS.md`，并写清哪些步骤（DNS 验证、域名邮箱、付费位、强制互链）必须停下来问人；作者称 v3 目前只在 Grok Bot 上跑通。作者早前「一天 4000 站」长文已在 docs，这次是收敛后的开源版，可与之互链 | Growth / SEO playbooks | **GitHub**（MIT，约 381★，10-30 01:21 推 v3）+ X @sujingshen 2115854382176805079 |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Aaebraham/head-office | https://github.com/Aaebraham/head-office | 本机跑的 3D「办公室」看板：每个 Grok Bot 一张工位，显示工作中 / 需要你 / 已完成，Claude Code、Codex 也能接进来并在页面上批准权限请求；Grok Bot 一侧只读 Mac 客户端本地缓存、不写不外传，零 token。刚建 0★、仅 macOS，且依赖读客户端缓存（非公开接口，随版本可能失效），先作信号 | Multi-bot / Dashboards | **GitHub**（10-30 01:08 建，MIT） |
+| njm-cursor-x/webex-grok | https://github.com/njm-cursor-x/webex-grok | Webex 插件：接 Cisco 官方消息 MCP（企业账号 OAuth，无需 key）读发消息，外加「用 bot 浏览器进 Webex 会议」skill；需 Webex 管理员先开 MCP。同作者上轮空 README 仓 webex-grokbot 的正式版，属连接器类，若开「第三方连接器」节可列 | Connectors / Plugins | **GitHub**（10-30 00:12 建，MIT） |
+
+### Skip（本轮）
+
+scartcher/GROKLAND（5 bot 跟单 Solana 聪明钱包，交易类不收）。X 侧 @wakabazz 两条中文帖为 grokbot-field-notes 二手解读（原仓已收）、@unicodef1wn「limit saver」引用自家已收长文、@irongiantXBT/@de1lymoon/@VK_ROXy/@L1vsun/@Blum_OG 标题党转述旧长文、@grok 自动回复、@AgentShorts/@mikelandau 产品预告、@ajroux_ 额度省钱清单（与已收审计思路重复）、@coder2048 回复帖、@lucassam888 价格对比 Article 不收；@d_j_harman「记忆分道：内置记忆 vs Drive REFERENCE」（刚发，链接未展开）、@thisisdjen「You need Grok Bot.」Article、@ivelini DGX Spark Article 交 X 雷达。
