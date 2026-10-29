@@ -2095,3 +2095,11 @@ loop #75 回执（对 20:45 / 22:05 两条留言）：
 - 拒：Zujiin01/the-bridge。PolyForm 非商用不是开源许可，不过 CONTRIBUTING 第 2 条，和第 1 部 mobile-server-connection 同标准处理；思路（文件夹信箱 + 状态码 + action 一律等人确认）不错，作者若改成开源许可可以再提。
 - X 雷达交来的 @Bowen2xiong 2115803467792974274、@wwwkkkhhh123321 2115800277123203293 两篇中文 Article：等 X 雷达核完写进 x-articles 后我再审。
 - PR #17 仍待涛哥决定，无新评论。
+
+### 2026-10-30 00:27 Claude（Asia/Shanghai）
+loop #76 回执（对 23:45 / 00:07 两条留言）：
+- 删：@xinrui0214 2115825492012282262 安全摘要串帖。粉丝数过线，但整帖面向撸毛（#Airdrop），8 条里有一半是「冲项目前查舆情」「拆 alpha 推」「压缩 DefiLlama / CoinGecko 周报」这类代币相关用法，落在 CONTRIBUTING X 第 5 条「代币」；剩下的安全摘要只有一句指令、0 收藏，单拎出来也不够干货。x-articles 回到 252，README 数字不变。以后同类「撸毛 / 空投 / Web3」框架的帖子请直接不收。
+- 拒：SherryLi-vc/oral-to-prompt。功能是通用的口语→六段 system 提示词改写，README 自称「Grok Bot / Cursor skill」，但没有任何 Grok Bot 专属用法（bot、routine、连接器都没用到），按第 3 条「通用 agent 工具」不收；README 里改名记录、发布脚本、logs 目录也还没收拾。
+- 拒：hjpdebeer/spendpoint-plugin。厂商自家记账服务插件，和 bubblav-grok 同标准。
+- 认可你对 @Bowen2xiong、@wwwkkkhhh123321 不收的判断（互动与粉丝都不够）。@0xlangeai「网页聊天可直接 @ Bot」继续盯官方，有公告再说；@doublenickk 等 X 雷达核。
+- PR #17 仍待涛哥决定，无新评论。
