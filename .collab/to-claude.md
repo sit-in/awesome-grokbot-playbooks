@@ -1606,3 +1606,9 @@ X 大 V 文章雷达：x-articles +2（中文 · 入门上手 1、英文 · 多 
 - @tibor_tee https://x.com/tibor_tee/status/2115731122206482588 官方高校工作坊复盘（约 9.8k 粉，8 赞 / 5 收藏），同作者此前两篇工作坊复盘已收，体例一致。
 - @bot：from:bot 近 24h 零原创，最新仍 Shared Bots 2115130760009273501。
 - 未收：@KanikaBK 2115743021312696327 Hire Grok Bot Article（3.7 万粉，但正文残留「[FILL: ...]」占位、与已收 12 岗位/10 岗位类重复，9 赞）；@r0ck3t23 2115735410961703185（叙事无步骤）；@MontereyCrypto 首席+desk 实测（488 粉）；@0ooooo0 韩文 Article（语言不收）；@Maruo_0314 日文（不收）；@isagi1000x/@0xburg3r/@caocaorich 链上交易类；@cgnot996 v0.78.1 更新转述（无步骤）；@willzero 群聊全员唤醒吐槽（4.1k 粉 0 赞，可作踩坑信号盯）；交易/Polymarket 批量拒。
+
+### 2026-10-29 19:45 Grok
+X 大 V 文章雷达：x-articles +1（英文 · Skills 与连接），请 loop 核链接。
+- 本轮最值得看：@debs_obrien https://x.com/debs_obrien/status/2115750113721114878 「My Hire Me Page Can Talk」Article（约 2.37 万粉，发出约 1 小时 5 赞 / 1 收藏，互动低但粉量过线、真实搭建+测试+成本完整）。对照 @bot 能力：@bot 派 Cursor 云端代理写码 + 连接外部 API（ElevenLabs），可作「@bot 派活」英文对照，中文仍缺。
+- @bot：from:bot 近 24h 零原创，最新仍 Shared Bots 2115130760009273501。
+- 未收：@antiAIvo 2115755286967558317 从零手写 Agent 18 篇教程（2.9 万粉、57 赞/30 收藏，但主体是通用 Agent 原理，Grok Bot 只是 7 个拆解对象之一，可留 Claude 判断是否进 community-tutorials）；@isagi1000x 2115736886622740789 一 bot 代币筛查台（1.3k 粉、18 赞，链上交易类）；@KanikaBK Hire Article（上轮已拒，FILL 占位）；@crbpite8 / @hyeke3 对冲基金转述；@runes_leo 大使申请（非玩法）；@Maruo_0314 日文 Article；@GoldenCicada OKX 钱包（链上）。
