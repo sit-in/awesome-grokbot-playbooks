@@ -44,6 +44,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [最近 9 个更新怎么用：Pages、视频生成、手机应用、Vault、聊天里设 Auto-review 规则等](https://x.com/xiangxiang103/status/2115266384276099575) — @xiangxiang103 · 2026-10-28 · 按官方更新帖逐条讲用在哪，Pages 看板、转发邮件整理、提醒、一张卡片问完多个问题都附了可直接粘的提示词；约 1.8 万粉 · 中文
 - [文件丢进去、成品拿回来：六步用附件交付代替聊天](https://x.com/panExorcist/status/2115470918583472625) — @panExorcist · 2026-10-28 · 长帖配视频：拖文件进对话框、提示词写清格式/文件名/存放位置、文件卡片预览、事实与判断分开写、改原文件不建副本、熟了再拆多模型；附避坑（别传密码证件、大文件先截小段、发信发帖先出草稿）；约 2 万粉 · 中文
 - [Grok Bot、Muse、Dots 三家自带云电脑的 Bot 怎么选，附三套可照抄玩法](https://x.com/heizolshao/status/2115436150034677945) — @heizolshao · 2026-10-28 · X 长文：按价格、稳定性、地区限制对比三家，再给出录屏教 bot 学操作存成 Skill、定时多 bot 接力出日报、一个项目一个 bot 三套做法和三步行动清单；约 160 收藏 · 中文
+- [平时最常用 5 个 Personal Agent，如何分工：Muse / Grok Bot / Claude Duet / WorkBuddy / 灵光](https://x.com/_0xKenny/status/2115968594743820379) — @_0xKenny · 2026-10-30 · X 长文：按实时情报与定时、幕僚写作、中国业务、国内生活、英文跑腿给五家划岗，点名 Grok Bot 原生接 X 和定时例程的优势，也提醒共用云电脑不是安全边界；约 2.7 万粉 · 中文
 
 ## 中文 · 多 Agent 作战室
 
@@ -264,6 +265,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [I Wrote an X Article with Grok Bot](https://x.com/FFBuncho/status/2114935585098129851) — @FFBuncho · 2026-10-27 · X 长文：免开发者账号后直接让 bot 起草 Article，草稿写入 X Articles（含引用帖），本人点发布，bot 不代发；约 1.06 万粉 · 英文
 - [Set Up Grok Bot Vault: A Step-by-Step Guide](https://x.com/PromptLLM/status/2115472384530555202) — @PromptLLM · 2026-10-28 · X 长文：Vault 七步上手，存登录/卡/联系信息、加使用提示、聊天里勾选保存、CSV 导入密码、接 1Password，以及让 bot 先查 Vault 再问你；约 9.7 万粉 · 英文
 - [My Hire Me Page Can Talk：用 Grok Bot + ElevenLabs 做会答问的语音求职页](https://x.com/debs_obrien/status/2115750113721114878) — @debs_obrien · 2026-10-29 · X 长文：bot 起草页面文案和 Markdown 规格，派 Cursor 云端代理写代码、本人批合并，经 ElevenAgents API 建语音助手；写清只按已给事实回答、数字不改、不谈隐私等规则，跑 7 条测试各 3 次，附上线首日 111 通对话的调整与成本；约 2.4 万粉 · 英文
+- [How to organize every tweet you've posted with Grok Bot + Trello](https://x.com/LoPassFilter28/status/2115971630031667365) — @LoPassFilter28 · 2026-10-30 · 八步：申请 X 归档 → 装桌面端 → 接 Trello → 把归档丢进项目让 bot 按类建板（可含原帖链接），也可用本地文件夹替代；约 7.5k 粉 · 英文
 
 ### 出海一人公司
 

@@ -1672,3 +1672,10 @@ X 大 V 文章雷达：docs/x-articles.md +1（英文精选 · 入门上手）�
 - 另：codejunkie99/grok-bot-code-agents（打包 realTaki/bot-codex-delegate + Claude/OpenCode，避免与已收条目重复堆）、LofiSu/grok-export-tool（本机 cookie 导出 Bot/聊天，MIT）、dtredwing1/bot-team-dashboard（公开多 bot 看板）。
 - 交 X 雷达：@doublenickk 链上调查、@zhulizhong headless Article。
 - README/docs 未动。
+
+### 2026-10-30 09:44 Grok
+X 大 V 文章雷达：docs/x-articles.md +2，请 loop 核链接。
+- 本轮最值得看｜中文 · 入门上手：@_0xKenny 2115968594743820379 五家 Personal Agent 分工长文（约 2.7 万粉，发出约 1 小时 2 赞 / 3 收藏，靠粉量+划岗实操过门槛）。非 @bot 能力对照，选型向。
+- 英文精选 · Skills 与连接：@LoPassFilter28 2115971630031667365 X 归档→Trello 八步（约 7.5k 粉，2 赞 / 0 收藏，步骤完整但两步写「自己查」，请判是否留）。
+- @bot 近 40 小时无原创产品帖（最新仍 Shared Bots 2115130760009273501），对照缺口未变。
+- 未收：@xiaomovps Lauren Tan 工作流长文（同作者近 7 天已 2 篇达周上限）；@ai_goge 系列 1-8 Teach a task（约 3.8k 粉 0 赞，周上限且未过线，盯）；@MaiYangAI 导入记忆公告转述；@doublenickk 链上调查（Polymarket/交易向，拒）；@BrianRoemmele 付费目录/自营生帖（上轮已拒）；@KinGao476942 自推旧微信教程；@SIAxiom 插件清单无步骤；@santoslee_me 多 Bot 分工 10/10（61 粉）；日文 Article 不收。
