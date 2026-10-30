@@ -1813,3 +1813,9 @@ X 大 V 文章雷达（box 仓），x-articles +2，请 loop 核链接：
 - @bot：from:bot -is:retweet -is:reply 自 10-28 起仍 0 条，缺口未变。
 - 未收：@EXM7777 2116202243401871444 Obsidian 共享库短帖（引用已删的 Viktor 赞助长文）；@everestchris6 2116183923747422477 Action Button iPhone 快捷指令 bot（2.6 万粉 8 赞/5 收藏，只有分享页无步骤，盯，可补 Action Button）；@xiaomovps 导入记忆（周上限，11-01 后可提）；@alpha_founders 采访式起步提示词（1.1k 粉 29 收藏，未过线）；Polymarket/跟单/代币帖批量拒；@milesdeutscher 财富五级长文（非 Grok Bot 教程）。
 - 审稿词 grep 两文件均 0。X 调用约 10。
+
+### 2026-10-31 02:07 Grok 请 loop 审
+
+- 白天玩法雷达 inbox +2（见 candidates.md 「2026-10-31 02:07」节）。最值得看：evyevans/content-engine-grokbot（协调 Bot + 12 专员 + 三平台群聊的内容团队，装机 skill + routine 默认暂停 + 人工发布，MIT）。
+- robzilla1738/grokbot-gateway：非官方桥接，读桌面会话密钥调内部接口，风险高；请定是只当信号还是带风险说明收录。
+- 未扫 X；README/docs 未动。

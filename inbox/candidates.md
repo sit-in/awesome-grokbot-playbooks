@@ -3575,3 +3575,18 @@ zhangteng945/grokbot-apk（个人重打包 Android 安装包，来源不明不�
 ### Skip（本轮）
 
 dealrinc/dealr-cloud-plugin（经销商业务 MCP 商业插件）；b2bsearch/contact-finder（联系方式挖掘推广插件，同作者此前已 skip）；michaeltarleton/GrokBotMT、ParkerQIV/Grokbot-Assets（空仓）；thejasbp0-alt/Grok-bot-Alternative 已 skip。
+
+## 2026-10-31 02:07 Asia/Shanghai · 白天玩法雷达
+
+> `gh search repos`（grokbot / grok-bot / "grok bot" / grokbot skill / multi-bot grok / grok bot routine，created≥10-30，取 15:30 UTC 后新建），按 full_name 与 README、docs、inbox、.collab 去重。本轮 X 侧未扫（交 X 大 V 雷达）。未改 README/docs。
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| evyevans/content-engine-grokbot | https://github.com/evyevans/content-engine-grokbot | **一句话装好的短视频内容团队**：1 个协调 Bot + 12 个专员 + TikTok/IG/YouTube 三个平台群聊 + 独立缩略图 Bot；把仓库链接和一段安装提示词发给 Bot，按 `skills/setup-content-engine/SKILL.md` 问清赛道/受众/时区后建队、校验成员权限，routine 测试期保持暂停，**只出草稿、人工发布**。结构完整（agents/playbooks/templates/tests），可做「多 Bot 内容团队」样板。本轮最值得看 | Team templates / Content | **GitHub**（10-30 16:22 UTC 建，MIT，0★） |
+| robzilla1738/grokbot-gateway | https://github.com/robzilla1738/grokbot-gateway | 非官方 CLI + MCP：让 Claude Code/Codex/Cursor 等外部 coding agent 给自己的 Grok Bot 发消息、读回复、经 Tailscale SSH 进云电脑。与已在 inbox 的 grokbot-notch 同作者同桥接思路。**安全风险高**：读取桌面端登录会话与钥匙串密钥、调用内部接口，token 等同密码；只宜作「跨 Agent 互通」信号，收录需明示非官方与风险，或不收 | Multi-agent / Bridges | **GitHub**（10-30 16:41 UTC 建，MIT，0★，已发 npm） |
+
+### Skip（本轮）
+
+b2bsearch/b2b-leads-finder（联系方式挖掘推广插件，同作者此前已 skip）；arsenikqq/grokbot-100（仅一个 index.html）；thepodemail-lgtm/grokbot-gtv-simulator（电视客服模拟器，与 Grok Bot 玩法无关）；ikeriano/uno-para-ganar-3d-grok-bot（粉丝小游戏，无关）。
