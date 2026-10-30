@@ -3407,3 +3407,20 @@ samihalawa/public-tender-grokbot-orchestrator-skill（无 README，作者上轮 
 ### Skip（本轮）
 
 scartcher/GROKLAND（5 bot 跟单 Solana 聪明钱包，交易类不收）。X 侧 @wakabazz 两条中文帖为 grokbot-field-notes 二手解读（原仓已收）、@unicodef1wn「limit saver」引用自家已收长文、@irongiantXBT/@de1lymoon/@VK_ROXy/@L1vsun/@Blum_OG 标题党转述旧长文、@grok 自动回复、@AgentShorts/@mikelandau 产品预告、@ajroux_ 额度省钱清单（与已收审计思路重复）、@coder2048 回复帖、@lucassam888 价格对比 Article 不收；@d_j_harman「记忆分道：内置记忆 vs Drive REFERENCE」（刚发，链接未展开）、@thisisdjen「You need Grok Bot.」Article、@ivelini DGX Spark Article 交 X 雷达。
+
+## 2026-10-30 08:07 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name / 链接与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。`gh search repos`（grokbot / grok-bot / "Grok Bot"，created≥10-29，看 02:00 后新建/更新）+ X `search_posts_all`×2（自 18:00 UTC 起，中英）。未改 README/docs。
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| bonorio/herald-for-grokbot（Herald） | https://github.com/bonorio/herald-for-grokbot | **给 Grok Bot 配的手机 PWA 前台**：Bot 扫邮箱/日历后，卡片进你自己 Cloudflare 账号的 D1；首页是简报 / 接下来 / 需要你 / 已处理，左右滑归档/稍后，聊天里点选回答；密钥走 Bot 安全箱 + webhook routine，不碰密码。自托管、`npm run setup` 一键部署。**无 License**、0★，本轮最值得看，请 Claude 判许可后再定是否进 README | Channels / Mobile UX | **GitHub**（10-29 22:34 建） |
+| codejunkie99/grok-bot-code-agents | https://github.com/codejunkie99/grok-bot-code-agents | 把「派 Codex / Claude Code 云会话 / OpenCode」三套 skill 打成一仓 + 一条安装提示词；Codex 段源自已在 inbox 的 realTaki/bot-codex-delegate（保留上游 MIT），Claude/OpenCode 为另写。作者称未在 Grok Bot 端到端实测，先作信号，避免与 realTaki 条目重复堆 | Skills / Delegation | **GitHub**（10-29 21:35 建，MIT） |
+| LofiSu/grok-export-tool | https://github.com/LofiSu/grok-export-tool | **本机导出自己的 Grok Bot 与普通 Grok 对话**：读本机已登录浏览器 cookie（macOS Keychain / Windows DPAPI），CLI + 零依赖 MCP + agent skill，写出 JSONL/Markdown 归档；不发新消息、不要 API key。中英 README。读 cookie 属敏感能力，与已收 agent-cookie-sync 同向，先信号 | Skills / Backup | **GitHub**（10-29 11:50 建，MIT，1★） |
+| dtredwing1/bot-team-dashboard | https://github.com/dtredwing1/bot-team-dashboard | 公开只读的多 Bot 团队看板（静态 `bots.json` + 隐私检查脚本，可 Cloud Run）；演示「把编制/亮点/可抄想法摊出来给人看」的做法，非通用框架。**无 License**、0★，先信号 | Multi-bot / Dashboards | **GitHub**（10-29 22:59 建） |
+
+### Skip（本轮）
+
+bobbyhalljr/grok-bot-template-output-check（教学用 TypeScript 合约校验，非玩法）；厂商 MCP 插件堆（baselam88/kairos-* 带评估 CTA、bluuulabs/bluu-plugin、OneNine-Design/perfect-mail-plugin、scratchpad-ai/frame-plugin、Reits0/forthclear-plugin）与已信号的 bubblav/spendpoint 同类，本轮不堆；yzqb/grok-bot-health、samihalawa/public-tender-grokbot-orchestrator-skill（上轮已拒作者/空仓）不收。X 侧大量 Auto-review 故障帖、@BIGMayrr 转述已收 @gippp69 七点、@tezzarc Bookmarks Librarian（95 粉）、对冲基金复制帖、@rosemoni18 买站营销不收；@doublenickk 链上调查长帖、@zhulizhong headless Article 交 X 雷达。
