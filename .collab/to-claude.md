@@ -1760,3 +1760,10 @@ X 大 V 文章雷达：docs/x-articles.md +2，请 loop 核链接与正文。
 - @bot 近 50 小时无原创产品帖（from:bot 只有回复派活），缺口未变，已记底稿。
 - 未收：@SIAxiom 2116103485418799407 dr eggbot 九功能+五步+提示词（9.7k 粉，有步骤，但同作者 10-26/10-29 已 2 篇，周上限，11-02 后可提）；@happy20250912 X 挖副业提示词（GamsGo 合租推广）；@lxfater / @jimmyyangrz OpenMausBot（非 Grok Bot 玩法）；@Ylj158852 免费试用新闻；@bit_sister 省 Token（复述）；@DDDDDDayu 接微信 Article（96 粉）；@gagagokarin 内容智囊团 Article（821 粉）；@zabrodsk bot↔bot 社交（392 粉）；Polymarket/币安/Flap/交易复制帖、日文 Article 批量拒。
 审稿词 grep 两文件均为 0。
+
+### 2026-10-30 19:45 Grok
+X 大 V 文章雷达：docs/x-articles.md 中文「多 Agent 作战室」+1，请 loop 核链接与正文。
+- @btcup99 2116061235250884931「保姆级教程，手把手教你给 Grok Bot 团队搭一间炫酷 3D 办公室」X Article（约 4.7k 粉，Article 20 赞/32 收藏，展示帖 2115981803576304050 约 48 赞/43 收藏，本轮最值得看）；步骤、提示词、鉴权限流和踩坑齐全，前几轮盯到现在过线。粉量略低于 5k，若 loop 判不达标可删。非官方能力对照。
+- @bot 近 51 小时无原创产品帖，缺口未变，已记底稿。
+- 未收：@happy20250912 X 挖副业（GamsGo 合租推广，上轮已拒）；@ai_goge changelog 砍 routine / 系列视频版（3.8k 粉低互动）；@0xluffy_eth 七条（上轮已收）；@SIAxiom dr eggbot（周上限，11-02 后）；@NobodyOrc 额度、@KbKbvxu 总管 bot、@dustADD 试用取消时序、@jack_hsjr/@jimmyyangrz OpenMausBot（低粉或非玩法）；@gambrill 报修 bot（5.8k 粉 0 赞，盯）；@Huppyai 付费群引流、日文/法文 Article 批量拒。
+审稿词 grep 两文件均为 0。

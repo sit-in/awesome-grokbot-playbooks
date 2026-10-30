@@ -64,6 +64,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grokbot 怎么管理：从企业组织架构学会分工与协作](https://x.com/AdrianPunk115/status/2114648961399349608) — @AdrianPunk115 · 2026-10-26 · X 长文：直线制、职能型、事业部、矩阵、项目制、扁平化、网络型七种组织架构各配一个多 bot 分工例子，结论是小任务直接找岗位、复杂任务才组队加层 · 中文
 - [走在马路上交代一句：把 Grok Bot 当秘书，按「路由」规矩分活给云电脑上的 Claude Code / Codex](https://x.com/wshuyi/status/2114712927358128211) — @wshuyi · 2026-10-26 · X 长文：语音派活、改 Skill 后由秘书判断哪些片子续做哪些重拍，简单活自己干、难活按大白话路由交给云电脑上的编码 Agent，末尾附起步建议 · 中文
 
+- [保姆级教程：给 Grok Bot 团队搭一间 3D 虚拟办公室](https://x.com/btcup99/status/2116061235250884931) — @btcup99 · 2026-10-30 · X 长文：Three.js 等距办公室显示每个 bot 实时状态，后端一个只读状态接口加一个带 token 的上报接口，给 bot 一条 office-report 上报命令，附可直接复制的搭建提示词和 Cloudflare Workers 免服务器方案；隐私规则（只报笼统任务类型）、限流和踩坑写得清楚；约 4.7k 粉，展示帖约 48 赞 / 43 收藏 · 中文
+
 ## 中文 · Routine 雷达与额度
 
 - [一小时用 Grok Bot 做出每日 AI 热点新闻站](https://x.com/fankaishuoai/status/2109967621710070238) — @fankaishuoai · 2026-10-13 · 抓 X 热点 → 生成日报 → 发布到 GitHub Pages，每天定时出四份，是最小可用的雷达 routine · 中文
