@@ -28,7 +28,7 @@
 | **150** | 个条目，每条都用 GitHub API 或页面核过：仓库存在、还在更新、确实和 Grok Bot 相关；许可证情况写在短评里 |
 | **10** | 个可抄配方，统一格式：场景 → 输入 → 步骤 → prompt → 产出 → 坑，样例全部脱敏 |
 | **3 级** | 验证标记：✅ 真机跑通 · 🔍 读过文档和配置 · 无标记＝只核实过仓库。✅ 只给真跑过的 |
-| **290** | 篇社区教程和 X 长文精选（[社区教程](docs/community-tutorials.md) 33 + [X 大 V 文章](docs/x-articles.md) 257），加上作者自己的连载索引，每条都核过存活、作者和发布日期 |
+| **291** | 篇社区教程和 X 长文精选（[社区教程](docs/community-tutorials.md) 33 + [X 大 V 文章](docs/x-articles.md) 258），加上作者自己的连载索引，每条都核过存活、作者和发布日期 |
 | **2 个 AI** | 在维护：Grok Bot 每天找料，Claude Code 核实、写短评，人只拍板。协作记录全公开在 [`.collab/`](.collab/README.md) |
 
 和英文生态导航 [awesome-grok-bot](https://github.com/ZeroPointRepo/awesome-grok-bot) 的分工：它覆盖面广；本仓侧重**中文一人公司、多 Bot 作战室、雷达 Routine 和可抄配方**。不拼数量，宁缺毋滥。
@@ -61,7 +61,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 
 ## 🆕 最近更新
 
-- **10-30** 新增 1 个：控速目录外链 playbook [backlink-pilot](https://github.com/s87343472/backlink-pilot)；X 大 V 文章增至 257 篇
+- **10-30** 新增 1 个：控速目录外链 playbook [backlink-pilot](https://github.com/s87343472/backlink-pilot)；X 大 V 文章增至 258 篇
 - **10-29** 新增 9 个：Bot 搬家打包 [personal-agent-dossier](https://github.com/AidaShika/personal-agent-dossier)、7500 多个公开 bot 的总目录 [grokbot.rocks](https://grokbot.rocks/)、微信私聊桥 [grokbot-weixin](https://github.com/ericyangpan/grokbot-weixin)、经 Tailscale 让本机 Claude Code 带队干活的 [stampede](https://github.com/vib-z/stampede)、家庭和小公司 bot 团队制度包 [Project SAGE](https://github.com/crusader0711/specialized-ai-grok-empire)、只读 X 运营队 [Foreman](https://github.com/GlennHasABeard/foreman)、云电脑数据导出 [Grok Bot Backup](https://github.com/company-notes/grok-bot-backup)、只读 [Tesla MCP](https://github.com/naoiseirwin/Tesla-Grokbot-Connector)、自托管 bot 团队 [kwant](https://github.com/alexsergivan/kwant)；X 大 V 文章增至 252 篇
 - **10-28** 新增 7 个：幕僚长 bot 配置 [Chief of Staff](https://github.com/twhit223/grok-bot-cos)、自建桌面版 [MyGrokbot](https://github.com/DynamaxVV/mygrokbot-host)、中文 [保姆级使用攻略](https://github.com/AIPMAndy/grok-bot-handbook)、跨 bot 泄露事故的 [复现与护栏](https://github.com/themsquared/grok-bot-cross-agent-leak)、管 X 提及的模板 [tibot](https://x.ai/bot/xZ4wRvomWqzCXnyYFr7i3)、短信和语音留言派活的 [Command Line](https://x.ai/bot/PKtdrwJNC54pLQIAT3H60)、T3 Code 伴侣 [T3 Tots](https://github.com/Deepusleepy/t3-tots)；X 大 V 文章增至 232 篇
 
@@ -271,7 +271,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 - [两个 bot 把 CEO 银行余额发进 Slack：复现与护栏](https://github.com/themsquared/grok-bot-cross-agent-leak) - 复现 10-19 Techdirt 报道的事故：同一台机器上一个只读银行的 bot、一个能发 Slack 的 bot，敏感数据跨工具流了出去；用两个玩具 MCP 先重现泄露，再加一条 agentgateway 护栏拦住带敏感标记的内容进入发消息工具。附作者长文。Apache-2.0。标签：`security` `mcp` `incident`
 - [sitin 的 Grok Bot 教程索引](docs/sitin-tutorials.md) - 本仓作者的「Grok Bot 实战」连载与 X 教程，按入门 / 作战室 / Routine / Skills / 一人公司分类，只收公开链接（作者相关）。标签：`chinese` `tutorials` `author`
 - [社区 Grok Bot 教程精选](docs/community-tutorials.md) - 33 篇其他博主的教程和长文，以 X 为主，也收博客、掘金、V2EX、B 站等平台上能照着做的；按入门、作战室、Routine 与额度、Skills、一人公司、合集分类；每条都核过存活和日期。标签：`chinese` `tutorials` `community`
-- [X 大 V 的 Grok Bot 文章精选](docs/x-articles.md) - 257 篇 X 长文和串帖，中英文都有，按入门、作战室、Routine 与额度、Skills、一人公司分类；只收有真实互动的教程和配置分享，帖内数字为作者自述。标签：`tutorials` `x` `community`
+- [X 大 V 的 Grok Bot 文章精选](docs/x-articles.md) - 258 篇 X 长文和串帖，中英文都有，按入门、作战室、Routine 与额度、Skills、一人公司分类；只收有真实互动的教程和配置分享，帖内数字为作者自述。标签：`tutorials` `x` `community`
 - [配方模板](examples/_template.md) - 投稿配方前先照这个格式写：场景 / 输入 / 步骤 / prompt / 产出 / 坑。标签：`template` `learning`
 
 <sub>[⬆ 回到目录](#-目录)</sub>

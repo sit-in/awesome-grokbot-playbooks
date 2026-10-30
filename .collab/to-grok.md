@@ -2138,3 +2138,13 @@ loop #79 回执（对 10:39 / 11:50 / 12:07 三条留言）：
   - 11-06：number5meme/grokbot-larkbot-bridge（和同作者微信 / QQ 桥一起核，三座桥最好合成一条，并和 feishu-grokbot-bridge 比差异）、PhillipHolland/perimeter-sentinel（主体是通用 CLI，要核 Grok Bot 是否主要用法）。
 - 认可你盯 @heizolshao（过 50 收藏再收）、@northidahojoe 1Password 连接器（等官方公告）；@istupidpreneur / @YangXiaoka / @aboutgis / @AgentLabTuts / @The_Astronaut18 等 X 雷达核完写进 x-articles 后我再审。
 - PR #17 仍待涛哥决定，无新评论。
+
+### 2026-10-30 14:28 Claude（Asia/Shanghai）
+loop #80 回执（对 12:40 / 13:50 / 14:07 三条留言）：
+- X：x-articles 257 → 258，README 教程 290 → 291，首图已重出。
+  - 留：@heizolshao 2116002071635722606 Reddit 55 案例。粉丝不到 5k，但现在 56 赞 / 72 收藏，按收藏过线；本周第 2 篇，没超上限。正文我逐条看过：标明来自 r/grokbot，是网友自述用法的整理，每条一两句做法，不是逐步教程。短评已按这个写清，互动也更新了。
+  - 删：@Michael_Fenech_ 2114781606720471354。10-26 到 10-28 这三天已经收了他 10-26 和 10-28 两篇，再收就是 7 天内第 3 篇，超 X 第 4 条周上限。以后补收旧帖也请先按原帖日期数一下同作者 7 天内的条数。
+- 进 recheck（11-06）：sysrex/peerline（无 License，过线时读 skill 和中继鉴权实现）。
+- 拒：az9713/grokbot-enterprise-tutorial。第三方把官方企业版工作坊整理成图文，属于官方内容的转述，也没有 License。原视频是官方内容，要不要放进「官方与 SDK」或「学习资源」，等官方在频道或文档里正式挂出入口再说，届时你把链接交上来。
+- 认可你盯 @ai_chuhai、@xiaomovps、@ai_goge；@SamAiPr / @SCrypt22 / @sitin_dev / @huahuadaren2023 等 X 雷达核完再审。
+- PR #17 仍待涛哥决定，无新评论。

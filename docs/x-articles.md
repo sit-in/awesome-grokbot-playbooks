@@ -44,7 +44,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [最近 9 个更新怎么用：Pages、视频生成、手机应用、Vault、聊天里设 Auto-review 规则等](https://x.com/xiangxiang103/status/2115266384276099575) — @xiangxiang103 · 2026-10-28 · 按官方更新帖逐条讲用在哪，Pages 看板、转发邮件整理、提醒、一张卡片问完多个问题都附了可直接粘的提示词；约 1.8 万粉 · 中文
 - [文件丢进去、成品拿回来：六步用附件交付代替聊天](https://x.com/panExorcist/status/2115470918583472625) — @panExorcist · 2026-10-28 · 长帖配视频：拖文件进对话框、提示词写清格式/文件名/存放位置、文件卡片预览、事实与判断分开写、改原文件不建副本、熟了再拆多模型；附避坑（别传密码证件、大文件先截小段、发信发帖先出草稿）；约 2 万粉 · 中文
 - [Grok Bot、Muse、Dots 三家自带云电脑的 Bot 怎么选，附三套可照抄玩法](https://x.com/heizolshao/status/2115436150034677945) — @heizolshao · 2026-10-28 · X 长文：按价格、稳定性、地区限制对比三家，再给出录屏教 bot 学操作存成 Skill、定时多 bot 接力出日报、一个项目一个 bot 三套做法和三步行动清单；约 160 收藏 · 中文
-- [翻遍 Reddit 整理出 55 个 Grok Bot 真实案例](https://x.com/heizolshao/status/2116002071635722606) — @heizolshao · 2026-10-30 · X 长文：把 Reddit 上网友真实在跑的 55 个用法汇成一篇，适合找灵感后挑一个照着搭；约 2.9k 粉、46 赞 / 54 收藏 · 中文
+- [翻遍 Reddit 整理出 55 个 Grok Bot 真实案例](https://x.com/heizolshao/status/2116002071635722606) — @heizolshao · 2026-10-30 · X 长文：把 Reddit r/grokbot 上网友自述在跑的 55 个用法汇成一篇，从工资单核对、超市代购、骑行教练到多角色家庭管家，每条一两句说清怎么搭，不是逐步教程，适合找灵感后挑一个自己搭；约 2.9k 粉、约 56 赞 / 72 收藏 · 中文
 
 ## 中文 · 多 Agent 作战室
 
@@ -315,7 +315,6 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [My content team works while I sleep, and none of them are human](https://x.com/Leo100x/status/2115715241677930811) — @Leo100x · 2026-10-29 · X 长文：一个主 bot 带 Scout、Analyst、Writer、Creative、Growth 五个队友，每天早上一条 routine 交带链接的 AI 简报和 7 条按本人语气写的推文草稿（一键发帖链接，由本人决定发不发），定死「队友不替我发帖、关注、私信」；文末三步起步：交代领域与语气、用大白话描述团队、设一条晨报 routine；约 1.1 万粉 · 英文
 - [Grok Bot: 6 Bots, 200+ Agents, a Smaller Bill (Full Setup)](https://x.com/m4lkxx/status/2115775972536434946) — @m4lkxx · 2026-10-29 · X 长文：按「一个 bot 身兼数职 → 拆岗 → 六席团队」逐级搭建，每级附可粘贴的配置段和「该升级了」的信号，也给了用 Marketplace 里的 Dr. Eggbot 一次导入整队的捷径；后半讲导出用量后发现大部分 token 花在重读旧对话上，列九处额度泄漏的修法和一份 15 分钟自查；约 7.5k 粉、约 54 赞 / 45 收藏 · 英文
 - [Set your Grok Bot's permissions before going offline: a practical incident-investigation setup](https://x.com/doublenickk/status/2115831790191436182) — @doublenickk · 2026-10-29 · 长帖：接好事故工具后，按 Sentry、PagerDuty、GitHub 事件或 webhook 触发 routine，让 bot 比对报错与近期发版、收集日志，交回时间线、来源链接、假设和修复建议；动生产前必须人工批准；先手动跑通一次、存成 skill 再自动化，写清数据缺失或运行失败时怎么办；提醒所有 bot 共享文件、浏览器会话和登录，改名不等于隔离权限；约 1.3 万粉、约 37 赞 / 25 收藏 · 英文
-- [Hand Grok Bot seven after-work life-admin jobs, with a copyable prompt for each](https://x.com/Michael_Fenech_/status/2114781606720471354) — @Michael_Fenech_ · 2026-10-27 · 长帖：七段可直接粘贴的提示词，覆盖催回复、约预约、五天晚餐与购物清单、退货退款追踪、比价选购、找三家修理报价、把零散事务排成一周计划；每段都要求先给你批准再发送或下单，并约好跟进节奏；没接连接器时可以先转发邮件、上传单据起步；约 6 万粉、约 20 赞 / 30 收藏 · 英文
 
 ## 不收的例子
 
