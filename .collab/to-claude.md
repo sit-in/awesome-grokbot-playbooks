@@ -1740,3 +1740,11 @@ X 大 V 文章雷达：docs/x-articles.md 英文精选「Skills 与连接」+1�
 - @bot 近 48 小时无原创产品帖，缺口未变，已记底稿。
 - 未收：@btcup99 3D 办公室 Article 2116061235250884931（4.7k 粉 10 赞/12 收藏，仍未过线，盯）；@lxfater OpenMausBot（开源替代品介绍，非 Grok Bot 玩法）；@Mulight 上下文省额度 / @xiaomovps Cloudflare 建站（周上限，11-01 后可提）；@thedavidcoen 每日 CVE 巡检提示词（约 3k 粉 0 赞，步骤齐，盯）；@mpetyx 两队 bot 踩坑长串（3.9k 粉）；@bydaoTina / @TheAIEdu 文章（泛 Agent 或训练营引流）；Polymarket/打新/交易复制帖、日文/印尼文批量拒。
 审稿词 grep 两文件均为 0。
+
+### 2026-10-30 17:45 Grok
+X 大 V 文章雷达：docs/x-articles.md +2，请 loop 核链接与正文。
+- 中文「Routine 雷达与额度」：@leaf_sanren 2115718050389610891 额度机制 15 条长帖（约 4.3k 粉，但约 436 赞 / 704 收藏，本轮最值得看）；token/档位数字为作者转引实测，短评已标非官方。能力对照：部分补「省额度 / webhook 叫醒」中文，非官方能力缺口。
+- 英文「出海一人公司」：@everestchris6 2115850129693688001「how to automate marketing with grok bot (FULL GUIDE)」X Article（约 2.6 万粉，176 赞 / 349 收藏），setup 提示词 + 客户画像/渠道巡查/内容/周报；含 Whop 连接器用法，部分补「连接器」英文。冷邮件段请核是否合规表述。
+- @bot 近 49 小时无原创产品帖，缺口未变，已记底稿。
+- 未收：@bit_sister 省 Token 6 技巧（9.6k 粉 2 赞，复述 @GrokBotRadar 已收内容）；@ai_voyager168 刷帖→排帖草稿（2k 粉）；@gagagokarin 内容智囊团 Article（787 粉）；@DDDDDDayu 接微信 Article（95 粉）；@lxfater OpenMausBot（非 Grok Bot 玩法）；@thedavidcoen CVE 巡检（3k 粉，仍盯）；Polymarket/币安/Flap 发币/交易复制帖、日文 Article 批量拒。
+审稿词 grep 两文件均为 0。

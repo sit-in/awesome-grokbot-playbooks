@@ -75,6 +75,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot 额度两天就爆？9 个省额度习惯](https://x.com/0xKingsKuan/status/2113541121892921683) — @0xKingsKuan · 2026-10-23 · 讲清额度按动作而不是消息条数烧：一任务一新对话、先连接器后浏览器、定时任务别太勤、需求一次说全、一个 bot 一个角色、别常改 bot 描述、重活外包、失败 3 次就停、先测量再放大，每条附一句可复制提示词；文中 Token 和价格数字为作者整理转引，未核实；约 4.6 万粉 · 中文
 - [Grok Bot 最烧额度的 6 种操作，新会员先查自动充值](https://x.com/Mulight/status/2114193455387951457) — @Mulight · 2026-10-25 · 多 Bot 群聊别来回聊、定时任务先设每天 2～3 次、一个窗口一类活、需求一次说清、报错就停；最有用的是最后一步：去账单页的 Additional Usage 检查 Auto Top-up 和每月额外消费上限，免得意外扣费；约 1.9 万粉、约 60 赞 / 34 收藏 · 中文
 - [routine 里别写死工具名，只写意图](https://x.com/airkin_/status/2115999728492282049) — @airkin_ · 2026-10-30 · 踩坑：把 MCP 工具名和参数写进 routine，接口一改整条就挂；改成只写要达成的结果、约束与语气、同步去哪，具体调哪个工具留给 bot 每轮自己查，作者称跑一周坏掉次数约少一半；约 1.35 万粉 · 中文
+- [Grok Bot 额度机制 15 条：按干的活扣、看图最贵、定时任务算唤醒](https://x.com/leaf_sanren/status/2115718050389610891) — @leaf_sanren · 2026-10-29 · 长帖：额度按模型调用、上下文和工具调用扣而不是按消息条数；截图看视频最烧，能走连接器就别开浏览器；重活交给云电脑上的命令行工具，跑完用 webhook 叫醒 bot 验收；定时任务按唤醒次数算（每 15 分钟一周 672 次），盯数据改成脚本盯、有变化再叫醒；一任务一对话、少开 bot 群聊、复杂活先跑 1～2 个样本；文中 token 和档位数字为作者及他人实测反推，非官方；约 4.3k 粉、约 430 赞 / 700 收藏 · 中文
 
 ## 中文 · Skills 与连接
 
@@ -317,6 +318,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [My content team works while I sleep, and none of them are human](https://x.com/Leo100x/status/2115715241677930811) — @Leo100x · 2026-10-29 · X 长文：一个主 bot 带 Scout、Analyst、Writer、Creative、Growth 五个队友，每天早上一条 routine 交带链接的 AI 简报和 7 条按本人语气写的推文草稿（一键发帖链接，由本人决定发不发），定死「队友不替我发帖、关注、私信」；文末三步起步：交代领域与语气、用大白话描述团队、设一条晨报 routine；约 1.1 万粉 · 英文
 - [Grok Bot: 6 Bots, 200+ Agents, a Smaller Bill (Full Setup)](https://x.com/m4lkxx/status/2115775972536434946) — @m4lkxx · 2026-10-29 · X 长文：按「一个 bot 身兼数职 → 拆岗 → 六席团队」逐级搭建，每级附可粘贴的配置段和「该升级了」的信号，也给了用 Marketplace 里的 Dr. Eggbot 一次导入整队的捷径；后半讲导出用量后发现大部分 token 花在重读旧对话上，列九处额度泄漏的修法和一份 15 分钟自查；约 7.5k 粉、约 54 赞 / 45 收藏 · 英文
 - [Set your Grok Bot's permissions before going offline: a practical incident-investigation setup](https://x.com/doublenickk/status/2115831790191436182) — @doublenickk · 2026-10-29 · 长帖：接好事故工具后，按 Sentry、PagerDuty、GitHub 事件或 webhook 触发 routine，让 bot 比对报错与近期发版、收集日志，交回时间线、来源链接、假设和修复建议；动生产前必须人工批准；先手动跑通一次、存成 skill 再自动化，写清数据缺失或运行失败时怎么办；提醒所有 bot 共享文件、浏览器会话和登录，改名不等于隔离权限；约 1.3 万粉、约 37 赞 / 25 收藏 · 英文
+- [how to automate marketing with grok bot (FULL GUIDE)](https://x.com/everestchris6/status/2115850129693688001) — @everestchris6 · 2026-10-29 · X 长文：用一段填空式 setup 提示词让 bot 把营销拆成几个岗位：先去客户聚集的地方调研、做出带原话的客户画像，再每天巡查固定渠道、把购买信号连同回复草稿推给你，按调研出内容和素材，周报只看真正带来转化的东西；工具清单含 Apify 抓取、Replicate 出图出视频、Whop 连接器，B2B 冷邮件要另用发信域名；约 2.6 万粉、约 176 赞 / 349 收藏 · 英文
 
 ## 不收的例子
 
