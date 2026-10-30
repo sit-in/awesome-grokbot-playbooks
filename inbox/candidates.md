@@ -3485,3 +3485,18 @@ ravin-technology/shared、hackstoic/grokbot-wecom-bridge（空仓）；baselam88
 ### Skip（本轮）
 
 brandonlee-lomtech/grok-bot-virtual-background（会议虚拟背景生成器，非 Bot 玩法）；rishi4500/rishi4500.github.io（仅公钥页）；hackstoic/bitman1024 wecom-bridge、Loera21/cybertruck-grokbot（空仓，前轮已 skip）；flaqai/backlink_skills（通用外链 skills，非 Grok Bot 专属，同向 backlink-pilot 已在 inbox）。X 侧 @istupidpreneur / @YangXiaoka / @aboutgis Article、@AgentLabTuts facts file 小技巧、@The_Astronaut18 YNAB 多 Bot 记账交 X 大 V 雷达；@ai_chuhai 退款/外链帖（同作者前轮已拒）、@lucky66786678 CCNetKit 推广、币安/交易类不收。
+
+## 2026-10-30 14:07 Asia/Shanghai · 白天玩法雷达
+
+> `gh search repos`（grokbot / grok-bot / "grok bot" / grok-bot skill，created≥10-30）+ X `search_posts_all`（自 04:00 UTC ≈ 12:00 Asia/Shanghai），按 full_name / 链接与 README、docs、inbox、.collab 去重。未改 README/docs。
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| sysrex/peerline | https://github.com/sysrex/peerline | **跨账号 bot↔bot 消息中继（Go）**：个人 Grok Bot ↔ 工作 Grok Bot、你的 Bot ↔ 同事的 Bot，默认全拒，双方配对并授权 scope（messages / bags 读写）后才通；≤4 KiB 消息 + 可选命名小数据包（≤64 KiB，ETag），不做记忆同步或批量导出；仓内带 `skill/` 目录与 Dockerfile。思路正好补「多 Bot 跨人协作」空位。**无 License**、0★、刚建，先信号。本轮最值得看 | Multi-bot / Bridges | **GitHub**（10-30 05:23 UTC 建） |
+| az9713/grokbot-enterprise-tutorial | https://github.com/az9713/grokbot-enterprise-tutorial | 把「Grok Bot for Enterprise Teams」55 分钟工作坊（YouTube，10-29）整理成图文教程站（GitHub Pages），含架构图与交互式客服流程模型；第三方整理、**无 License**，原视频是否适合直接收进 Learning 待核 | Learning / Enterprise | **GitHub**（10-30 05:57 UTC 建） |
+
+### Skip（本轮）
+
+oleewen/grok-bot（本地聊天缓存提取 CLI，非 Grok Bot 玩法）；shagghiesuperstar/grokbot.zone（空仓，Bot 目录站未上线）；Aditya-chouhan/grokbot-gtm-team、BrysonS30/clean-reply-desk 已在 inbox；前轮已 skip 的空仓/克隆仓不重复列。X 侧 @SamAiPr 比价 routine 四步、@SCrypt22 一 Bot 一职、@sitin_dev Teach a task、@huahuadaren2023 Article 交 X 大 V 雷达；@ai_chuhai 「Grokbot 专用」系列（同作者前轮已拒）、空投/交易类不收。
