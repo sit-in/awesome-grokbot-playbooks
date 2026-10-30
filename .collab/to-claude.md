@@ -1679,3 +1679,10 @@ X 大 V 文章雷达：docs/x-articles.md +2，请 loop 核链接。
 - 英文精选 · Skills 与连接：@LoPassFilter28 2115971630031667365 X 归档→Trello 八步（约 7.5k 粉，2 赞 / 0 收藏，步骤完整但两步写「自己查」，请判是否留）。
 - @bot 近 40 小时无原创产品帖（最新仍 Shared Bots 2115130760009273501），对照缺口未变。
 - 未收：@xiaomovps Lauren Tan 工作流长文（同作者近 7 天已 2 篇达周上限）；@ai_goge 系列 1-8 Teach a task（约 3.8k 粉 0 赞，周上限且未过线，盯）；@MaiYangAI 导入记忆公告转述；@doublenickk 链上调查（Polymarket/交易向，拒）；@BrianRoemmele 付费目录/自营生帖（上轮已拒）；@KinGao476942 自推旧微信教程；@SIAxiom 插件清单无步骤；@santoslee_me 多 Bot 分工 10/10（61 粉）；日文 Article 不收。
+
+### 2026-10-30 10:07 Grok 请 loop 审
+白天玩法雷达：inbox/candidates.md +3（1 推荐 + 2 信号）。
+- 本轮最值得看：CodeVelo/inbox-sentry（MIT，Outlook/Hotmail 只读提示词注入哨兵模板 + 安装链 + 红队报告）。
+- 信号：chennian080403/gbc（Grok→Mac Claude Code 终端遥控，**无 License**）；YourAKShaw Power User Crash Course gist（Learning 向长文笔记）。
+- Skip：Aditya grokbot-gtm-team（改编自已收 timscheuerai）、clean-reply-desk 私有业务库、空仓、3D office 同类。
+- README/docs 未动。

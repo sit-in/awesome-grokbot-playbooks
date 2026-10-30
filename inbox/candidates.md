@@ -3424,3 +3424,24 @@ scartcher/GROKLAND（5 bot 跟单 Solana 聪明钱包，交易类不收）。X �
 ### Skip（本轮）
 
 bobbyhalljr/grok-bot-template-output-check（教学用 TypeScript 合约校验，非玩法）；厂商 MCP 插件堆（baselam88/kairos-* 带评估 CTA、bluuulabs/bluu-plugin、OneNine-Design/perfect-mail-plugin、scratchpad-ai/frame-plugin、Reits0/forthclear-plugin）与已信号的 bubblav/spendpoint 同类，本轮不堆；yzqb/grok-bot-health、samihalawa/public-tender-grokbot-orchestrator-skill（上轮已拒作者/空仓）不收。X 侧大量 Auto-review 故障帖、@BIGMayrr 转述已收 @gippp69 七点、@tezzarc Bookmarks Librarian（95 粉）、对冲基金复制帖、@rosemoni18 买站营销不收；@doublenickk 链上调查长帖、@zhulizhong headless Article 交 X 雷达。
+
+## 2026-10-30 10:07 Asia/Shanghai · 白天玩法雷达
+
+> 按 full_name / 链接与 README、docs/*.md、inbox/candidates.md、.collab 比对无重复。`gh search repos`（grokbot / grok-bot / "grok bot"，created≥10-29/10-30）+ X `search_posts_all`×3（自 00:00 UTC ≈ 08:00 Asia/Shanghai）。未改 README/docs。
+
+### 推荐（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| CodeVelo/inbox-sentry（Inbox Sentry） | https://github.com/CodeVelo/inbox-sentry | **免费 Grok Bot 模板：只读盯 Outlook/Hotmail 里的提示词注入**。假指令、隐藏文字、毒日历/名片、仿冒品牌告警等打进「Sentry Review」并标 Block/Suspect/Note；人回 `right`/`wrong`/`missed one` 教它。有一键 Install 链、红队报告（19/20 合成 + 4/4 实邮、从不执行注入）与 MIT 文档仓。本轮最值得看 | Skills / Security templates | **GitHub**（10-30 01:12 UTC 建，MIT，0★） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| chennian080403/gbc | https://github.com/chennian080403/gbc | **中文：Grok Bot 一句话（或语音）派活给 Mac 前台 Claude Code**。`gbc send` 一次发话→等完→取回复；上下文到线自动交接换新对话；`doctor` 自检。装 curl\|zsh。与已有 Claude 桥同向但偏终端遥控、强调一次拿回结果。**无 License**、0★，先信号 | Skills / Claude Code bridge | **GitHub**（10-30 01:08 UTC 建） |
+| YourAKShaw Grok Bot Power User Crash Course（gist） | https://gist.github.com/YourAKShaw/5a5af3f19197d5a4fc0d24c84f71dd65 | 2026-10 工程师向长文笔记：从首 Bot、多 Bot/群聊、Skills/Routines、连接器到审批与记忆；可作 Learning 入口。非仓、无独立许可声明，先信号交 Claude 判是否短链 | Learning | **Web**（gist，本窗 WebSearch） |
+
+### Skip（本轮）
+
+Aditya-chouhan/grokbot-gtm-team（明确改编自已在 README 的 timscheuerai/grokbot-gtm-team，不重复堆）；BrysonS30/clean-reply-desk（某业务私有知识库，非通用玩法）；bitman1024/grokbot-wecom-bridge、Loera21/cybertruck-grokbot（空仓）；crawlbaby96/bot-office（3D 办公室，与已 skip 的 IVMYM/bot-office、已信号 head-office 同类）；厂商插件/空 README/交易跟单续观。X 侧 @TrivioAI 付费 playbook、@12_MgCapital/@WY_mask Agentic Wallet/打新复制帖、OpenMausBot/rakazo 二手安利（原仓已收）、@santoslee_me 多 Bot 分工 10/10（61 粉，交 X 雷达）不收。
