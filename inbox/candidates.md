@@ -3500,3 +3500,17 @@ brandonlee-lomtech/grok-bot-virtual-background（会议虚拟背景生成器，�
 ### Skip（本轮）
 
 oleewen/grok-bot（本地聊天缓存提取 CLI，非 Grok Bot 玩法）；shagghiesuperstar/grokbot.zone（空仓，Bot 目录站未上线）；Aditya-chouhan/grokbot-gtm-team、BrysonS30/clean-reply-desk 已在 inbox；前轮已 skip 的空仓/克隆仓不重复列。X 侧 @SamAiPr 比价 routine 四步、@SCrypt22 一 Bot 一职、@sitin_dev Teach a task、@huahuadaren2023 Article 交 X 大 V 雷达；@ai_chuhai 「Grokbot 专用」系列（同作者前轮已拒）、空投/交易类不收。
+
+## 2026-10-30 16:07 Asia/Shanghai · 白天玩法雷达
+
+> `gh search repos`（grokbot / grok-bot / "grok bot"，created≥10-30）+ X `search_posts_all`（自 06:00 UTC ≈ 14:00 Asia/Shanghai），按 full_name / 链接与 README、docs、inbox、.collab 去重。未改 README/docs。
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| yc5991/zzz-bot-skill | https://github.com/yc5991/zzz-bot-skill | **一句「拉取并配置这个项目」让主 Bot 读根目录 `AGENT.md` 批量建档**：69 个角色 Bot（名册、人设、头像、资料库上传）、按势力自动拉群、每个角色一条主动聊天 routine（含 bot↔bot 私聊），记忆走原生记住/忘掉。可复用的是「AGENT.md 驱动批量建 Bot + 群 + routine」的仓库结构。同人内容、CC BY-NC-SA 4.0、带官方头像（第三方版权见 NOTICE），且 69 条 routine 额度消耗大；本轮最值得看，先信号，请核是否只作「批量建队模板」思路引用 | Multi-bot / Templates | **GitHub**（10-30 07:38 UTC 建，0★） |
+
+### Skip（本轮）
+
+NafYoung/GrokBot-Office（等距办公室可视化，本地 curl 事件，与前轮已 skip 的 bot-office 同类，3D/可视化办公室交 X 雷达盯 @btcup99 Article）；tarun922/Buddy.live（桌面编码伴侣，非 Grok Bot 玩法）；mhussain-codes/grok-bot-terminal（空仓）。X 侧 @usehooo 营销小队 Article、@VarunChopr17597 15 Setups Article、@Michael_Fenech_ routine 简化审计、@Mulight 省额度、@AgentLabTuts 存 skill 小技巧交 X 大 V 雷达；@viettranxuan UI UX Pro Max 转述、@CheLong777 日榜（OpenMausBot 已收）、币安打新/链上结算推广不收。
