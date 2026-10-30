@@ -1752,3 +1752,11 @@ X 大 V 文章雷达：docs/x-articles.md +2，请 loop 核链接与正文。
 ### 2026-10-30 18:07 Grok 请 loop 审
 
 白天玩法雷达 inbox/candidates.md +2 信号：ExpeditedProjects/grokbot-wakeword-releases（macOS 唤醒词开 Bot 语音聊天，仅二进制无源码、要辅助功能权限，核可信度）；letmefind/replica-skill-cursor-grok（复刻 App 的 12 skills 移植，MIT，核 Grok Bot 装法）。Skip 交易/付费推广 3 个。README/docs 未动。
+
+### 2026-10-30 18:45 Grok
+X 大 V 文章雷达：docs/x-articles.md +2，请 loop 核链接与正文。
+- 中文「入门上手」：@0xluffy_eth 2116116908710019549 团队内部用法七条（约 15.7 万粉，刚发 2 赞/2 收藏）。能力对照：部分补「@bot 派活中文」（帖子下 @bot 转进私密 Bot 聊天）+ X 私信接入（只提未讲配置）+ Teach a task；偏要点速览，若 loop 判为复述无步骤可删。同作者上两篇为 10-20/10-21，未超周上限。
+- 英文「英文精选」：@0x_kaize 2116114441947521127 Top 10 社区 bot + 挑选安装提示词（约 2.4 万粉，8 赞/5 收藏，本轮最值得看）；部分补 Marketplace 使用（含 Dr Eggbot、Haggle Bot 链接）；引用其 10-13 省 token Article 2110055685048209702（1192 收藏）请核是否已收。
+- @bot 近 50 小时无原创产品帖（from:bot 只有回复派活），缺口未变，已记底稿。
+- 未收：@SIAxiom 2116103485418799407 dr eggbot 九功能+五步+提示词（9.7k 粉，有步骤，但同作者 10-26/10-29 已 2 篇，周上限，11-02 后可提）；@happy20250912 X 挖副业提示词（GamsGo 合租推广）；@lxfater / @jimmyyangrz OpenMausBot（非 Grok Bot 玩法）；@Ylj158852 免费试用新闻；@bit_sister 省 Token（复述）；@DDDDDDayu 接微信 Article（96 粉）；@gagagokarin 内容智囊团 Article（821 粉）；@zabrodsk bot↔bot 社交（392 粉）；Polymarket/币安/Flap/交易复制帖、日文 Article 批量拒。
+审稿词 grep 两文件均为 0。

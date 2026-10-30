@@ -45,6 +45,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [文件丢进去、成品拿回来：六步用附件交付代替聊天](https://x.com/panExorcist/status/2115470918583472625) — @panExorcist · 2026-10-28 · 长帖配视频：拖文件进对话框、提示词写清格式/文件名/存放位置、文件卡片预览、事实与判断分开写、改原文件不建副本、熟了再拆多模型；附避坑（别传密码证件、大文件先截小段、发信发帖先出草稿）；约 2 万粉 · 中文
 - [Grok Bot、Muse、Dots 三家自带云电脑的 Bot 怎么选，附三套可照抄玩法](https://x.com/heizolshao/status/2115436150034677945) — @heizolshao · 2026-10-28 · X 长文：按价格、稳定性、地区限制对比三家，再给出录屏教 bot 学操作存成 Skill、定时多 bot 接力出日报、一个项目一个 bot 三套做法和三步行动清单；约 160 收藏 · 中文
 - [翻遍 Reddit 整理出 55 个 Grok Bot 真实案例](https://x.com/heizolshao/status/2116002071635722606) — @heizolshao · 2026-10-30 · X 长文：把 Reddit r/grokbot 上网友自述在跑的 55 个用法汇成一篇，从工资单核对、超市代购、骑行教练到多角色家庭管家，每条一两句说清怎么搭，不是逐步教程，适合找灵感后挑一个自己搭；约 2.9k 粉、约 56 赞 / 72 收藏 · 中文
+- [团队内部怎么用 Grok Bot：私信里派活、帖子下 @bot、一 bot 一岗、跑通存成技能](https://x.com/0xluffy_eth/status/2116116908710019549) — @0xluffy_eth · 2026-10-30 · 七条要点：在任意帖子下回复 @bot 任务就转进你的私密 Bot 聊天、每个 bot 只给一个角色再让它们分头组队、跑通的任务存成技能并设成例行任务、用「教一个任务」演示一遍浏览器操作、碰敏感信息别关审批；附销售/工程/市场/数据四个岗位示例，偏要点速览、每条不展开；约 15.7 万粉 · 中文
 
 ## 中文 · 多 Agent 作战室
 
@@ -318,6 +319,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot: 6 Bots, 200+ Agents, a Smaller Bill (Full Setup)](https://x.com/m4lkxx/status/2115775972536434946) — @m4lkxx · 2026-10-29 · X 长文：按「一个 bot 身兼数职 → 拆岗 → 六席团队」逐级搭建，每级附可粘贴的配置段和「该升级了」的信号，也给了用 Marketplace 里的 Dr. Eggbot 一次导入整队的捷径；后半讲导出用量后发现大部分 token 花在重读旧对话上，列九处额度泄漏的修法和一份 15 分钟自查；约 7.5k 粉、约 54 赞 / 45 收藏 · 英文
 - [Set your Grok Bot's permissions before going offline: a practical incident-investigation setup](https://x.com/doublenickk/status/2115831790191436182) — @doublenickk · 2026-10-29 · 长帖：接好事故工具后，按 Sentry、PagerDuty、GitHub 事件或 webhook 触发 routine，让 bot 比对报错与近期发版、收集日志，交回时间线、来源链接、假设和修复建议；动生产前必须人工批准；先手动跑通一次、存成 skill 再自动化，写清数据缺失或运行失败时怎么办；提醒所有 bot 共享文件、浏览器会话和登录，改名不等于隔离权限；约 1.3 万粉、约 37 赞 / 25 收藏 · 英文
 - [how to automate marketing with grok bot (FULL GUIDE)](https://x.com/everestchris6/status/2115850129693688001) — @everestchris6 · 2026-10-29 · X 长文：用一段填空式 setup 提示词让 bot 把营销拆成几个岗位：先去客户聚集的地方调研、做出带原话的客户画像，再每天巡查固定渠道、把购买信号连同回复草稿推给你，按调研出内容和素材，周报只看真正带来转化的东西；工具清单含 Apify 抓取、Replicate 出图出视频、Whop 连接器，B2B 冷邮件要另用发信域名；约 2.6 万粉、约 180 赞 / 360 收藏 · 英文
+- [I ranked every Grok Bot launched since August: top 10 community bots + a setup prompt](https://x.com/0x_kaize/status/2116114441947521127) — @0x_kaize · 2026-10-30 · 长帖：列出十个 Marketplace 热门 bot（删骚扰电话号码、查信用报告纠错、替你打电话订餐厅、把 ChatGPT/Claude 记忆迁进来、读合同等），每个附链接；再给一段让 bot 按你的已连应用和近 30 天需求挑不超过 5 个装的提示词，并提醒装前看清它要哪些数据、发送/付款/签署一律留人工确认、先拿真实任务试跑、一周后复盘留哪些；约 2.4 万粉 · 英文
 
 ## 不收的例子
 
