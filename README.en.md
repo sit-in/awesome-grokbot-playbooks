@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/stargazers"><img src="https://img.shields.io/github/stars/sit-in/awesome-grokbot-playbooks?style=flat-square&color=ff7a1a" alt="Stars"></a>
-  <img src="https://img.shields.io/badge/entries-150-blue?style=flat-square" alt="Entries">
+  <img src="https://img.shields.io/badge/entries-149-blue?style=flat-square" alt="Entries">
   <img src="https://img.shields.io/badge/recipes-10-blueviolet?style=flat-square" alt="Recipes">
   <img src="https://img.shields.io/badge/last%20verified-2026--10--30-success?style=flat-square" alt="Last verified">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml"><img src="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml/badge.svg" alt="link-check"></a>
@@ -25,7 +25,7 @@
 
 | | |
 |---:|---|
-| **150** | entries, each checked via the GitHub API or the live page: it exists, is still maintained and is actually about Grok Bot; license caveats are noted in the review |
+| **149** | entries, each checked via the GitHub API or the live page: it exists, is still maintained and is actually about Grok Bot; license caveats are noted in the review |
 | **10** | copy-paste recipes in one format: scenario → inputs → steps → prompt → output → pitfalls, all examples sanitized |
 | **3 levels** | of verification: ✅ run end-to-end · 🔍 docs and config reviewed · no mark = repo verified only. ✅ is only for things actually run |
 | **294** | curated community tutorials and X articles ([33 tutorials](docs/community-tutorials.md) + [261 articles from top X creators](docs/x-articles.md)) plus the maintainer's own series, each checked for liveness, author and date |
@@ -61,7 +61,7 @@ It is a different product from the Grok chat assistant and the Grok Build coding
 
 ## 🆕 Recently added
 
-- **10-30** Added one: paced directory-backlink playbook [backlink-pilot](https://github.com/s87343472/backlink-pilot); X articles grew to 261
+- **10-30** Added one: paced directory-backlink playbook [backlink-pilot](https://github.com/s87343472/backlink-pilot); removed grok-starter-kit after its repo was deleted; X articles grew to 261
 - **10-29** Added nine: bot moving kit [personal-agent-dossier](https://github.com/AidaShika/personal-agent-dossier), the 7,500-bot public directory [grokbot.rocks](https://grokbot.rocks/), WeChat DM bridge [grokbot-weixin](https://github.com/ericyangpan/grokbot-weixin), [stampede](https://github.com/vib-z/stampede) for a Claude Code lead on your Mac over Tailscale, the household and small-business team doctrine [Project SAGE](https://github.com/crusader0711/specialized-ai-grok-empire), the read-only X crew [Foreman](https://github.com/GlennHasABeard/foreman), cloud-computer export [Grok Bot Backup](https://github.com/company-notes/grok-bot-backup), a read-only [Tesla MCP](https://github.com/naoiseirwin/Tesla-Grokbot-Connector), and the self-hosted bot team [kwant](https://github.com/alexsergivan/kwant); X articles grew to 252
 - **10-28** Added seven: the [Chief of Staff](https://github.com/twhit223/grok-bot-cos) bot setup, the self-built desktop [MyGrokbot](https://github.com/DynamaxVV/mygrokbot-host), a Chinese [Grok Bot handbook](https://github.com/AIPMAndy/grok-bot-handbook), and a [repro and guardrail](https://github.com/themsquared/grok-bot-cross-agent-leak) for the cross-bot leak incident, the X-mentions template [tibot](https://x.ai/bot/xZ4wRvomWqzCXnyYFr7i3), [Command Line](https://x.ai/bot/PKtdrwJNC54pLQIAT3H60) for tasking bots by SMS and voicemail, and the T3 Code companion [T3 Tots](https://github.com/Deepusleepy/t3-tots); X articles grew to 232
 
@@ -70,7 +70,7 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 ## 📚 Contents
 
 - [Official & SDK](#-official--sdk) (6) - official docs, marketplace, SDKs and CLIs
-- [Templates & directories](#-templates--directories) (16) - template libraries, bot-share indexes and use-case sites; check here first
+- [Templates & directories](#-templates--directories) (15) - template libraries, bot-share indexes and use-case sites; check here first
 - [Skills & Playbooks](#-skills--playbooks) (49) - skills, MCP, single templates, copy-paste profiles
 - [Multi-bot teams](#-multi-bot-teams) (31) - war rooms, coordinators, multi-agent work
 - [Routines & Digests](#-routines--digests) (10) - scheduled radars, weekly reviews, usage control
@@ -108,7 +108,6 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 - [Grok Bot Hub](https://github.com/ddhjy/grok-bot-hub) - An unofficial Chinese-language Grok Bot directory, live at ddhjy.github.io/grok-bot-hub: tutorials, templates and tools by section, each with a one-line Chinese note. Entries live in the repo's `catalog.json`, new ones come in by PR, and a validation script runs before each commit. Close in scope to this repo, so the two are worth browsing side by side. Code MIT, catalog data CC0. Tags: `directory` `chinese` `catalog`
 - [grok-bot-templates](https://github.com/ChamathRosh/grok-bot-templates) - Six free templates for small businesses: quote follow-ups, missed-call replies, review replies, invoice reminders and a morning brief, plus a planner that asks five questions and picks your first bot. Drafts only: nothing is sent or paid for you, and missing details stay as `[FILL IN]` instead of being made up. Only the planner has a one-click install link so far; for the others, paste the instructions into an empty bot as its first message. The README links heavily to the author's site whatshouldmybotdo.com. MIT. Tags: `template` `small-business` `drafts-only`
 - [Lingverse](https://github.com/lingverse-ai/lingverse) - A Chinese series of Grok Bots: each one is a one-click-import bot with a single job. The first, Moling, writes long-form posts from work you actually did, then adapts them for each platform. Content CC BY 4.0, code MIT. Tags: `template` `writing` `chinese`
-- [grok-starter-kit](https://github.com/qubicsdata/grok-starter-kit) - Grok Bot + Claude Code starter kit: your bot follows AGENTS.md in phases, starting with a read-only look at your current setup, and overwrites, renames or deletes nothing without your OK. Includes a second brain, three skills and a morning-brief routine, plus an optional dev-lead agent and Claude Code queue runner. Apache-2.0. Tags: `starter` `claude-code` `routine`
 - [Chief of Staff](https://github.com/twhit223/grok-bot-cos) - A reproducible chief-of-staff bot: goals and open items, a morning focus brief, a midday inbox check, an end-of-day brief, next-day meeting prep at night and a Friday wind-down as five routines, plus skills for 1:1 prep and meeting notes; connects Notion, Slack, Calendar, Gmail, Drive and Linear. The share link is still team-scoped for some teams, so you can build it by hand from the repo. MIT. Tags: `template` `chief-of-staff` `routine`
 
 <sub>[⬆ Back to contents](#-contents)</sub>

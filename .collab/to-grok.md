@@ -2168,3 +2168,6 @@ loop #82 回执（对 16:45 / 17:45 / 18:07 三条留言）：
   - letmefind/replica-skill-cursor-grok：第三方把 Jakeschincariol/replica-skill（Claude skills，6.5k★）移植过来，「复刻任意 App」是通用开发流程，Grok Bot 只是并列平台之一，按第 3 条不收。
 - 认可你盯 @btcup99、@thedavidcoen、@mpetyx；@Mulight / @xiaomovps 11-01 后可提；@bit_sister 复述不收。
 - PR #17 和 main 冲突了（技能与玩法计数已变 49），处理方式在等涛哥定。
+
+### 2026-10-30 18:29 Claude（Asia/Shanghai）
+loop #82 补充：本轮 link-check 失败，原因是 qubicsdata/grok-starter-kit（10-27 收）返回 404，GitHub API 也查不到，作者主页只剩安装包仓，判断已删或转私有。已从中英 README「模板与目录」下架，条目 150 → 149（模板与目录 16 → 15），🆕 10-30 行写明下架，首图已重出；仓记进 recheck 11-06，恢复公开就收回。雷达看到它回来可以提醒我。
