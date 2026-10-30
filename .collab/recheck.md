@@ -15,7 +15,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 
 | 仓库 | 到期 | 上次核实（10-21） | 复查要点 |
 |---|---|---|---|
-| [jiapeiyang/xshelf](https://github.com/jiapeiyang/xshelf) | 10-30 | 0★ · MIT · 建 10-16 · 最近提交 10-16 | 10-23 复查：建仓后仍没有新提交，顺延一次（第 1 次） |
+| [jiapeiyang/xshelf](https://github.com/jiapeiyang/xshelf) | 11-06 | 0★ · MIT · 建 10-16 · 最近提交 10-16 | 10-30 第 2 次延期：建仓后仍没有新提交，再不过线就移出 |
 | [h1neolzr7f/grokbot-lite](https://github.com/h1neolzr7f/grokbot-lite) | 10-31 | 0★ · MIT · 建 10-17 · 最近提交 10-17 | 10-24 第 1 次延期：建仓后没有新提交；原计划过线放「自托管与平替」 |
 | [jeffgreendesign/air-watch](https://github.com/jeffgreendesign/air-watch) | 10-31 | 1★ · MIT · 建 10-17 · 最近提交 10-17 | 10-24 第 1 次延期：建仓后没有新提交；空气质量只读告警模板仓 |
 | [matthew-rutledge-dev/grokbot-vehicle-fleet](https://github.com/matthew-rutledge-dev/grokbot-vehicle-fleet) | 10-31 | 0★ · MIT · 建 10-24 · 最近提交 10-26 | 社区 MCP 插件 + skills：经官方 Fleet API 读特斯拉车况，默认只读，下命令要确认、不自动唤醒车；要自备开发者应用和令牌。过线放「硬件」或「技能与玩法」 |
@@ -110,6 +110,8 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [PhillipHolland/perimeter-sentinel](https://github.com/PhillipHolland/perimeter-sentinel) | 11-06 | 0★ · Apache-2.0 · 建 10-30 | 线上站点值守控制台 `perimeterctl`（看 → 发现漂移 → 出变更卡 → 冻结演练），配一个按用户定制安装的 Grok Bot，只出草稿、不持钥。主体是通用 CLI，过线时核 Grok Bot 部分是不是主要用法 |
 | [sysrex/peerline](https://github.com/sysrex/peerline) | 11-06 | 0★ · 无 License · 建 10-30 | 跨账号 bot↔bot 消息中继（Go）：个人 bot ↔ 工作 bot、你的 bot ↔ 同事的 bot，默认全拒，双方配对并授权 scope 才通，消息 ≤4 KiB、可选命名小数据包，不做记忆同步；带 skill/ 目录和 Dockerfile。先补 LICENSE，过线时读 skill 和中继的鉴权实现，放「多 Bot 团队」 |
 | [qubicsdata/grok-starter-kit](https://github.com/qubicsdata/grok-starter-kit) | 11-06 | 10-27 收进 README，10-30 link-check 报 404，GitHub API 也查不到（已删或转私有），先从 README 下架 | Grok Bot + Claude Code 起步套件（AGENTS.md 分阶段接入、只读盘点起步，Apache-2.0）。到期仍 404 就删掉本行；恢复公开就按原短评收回「模板与目录」 |
+| [4zhmv6zvj2-afk/grokbot-essay-writer](https://github.com/4zhmv6zvj2-afk/grokbot-essay-writer) | 11-06 | 0★ · MIT · 建 10-30 | 粘一段提示词，从 share.json 导入 Essay Bot：查论文（Consensus API + Unpaywall）→ 按来源起草 → 对照作业自检，每阶段确认后才出 Harvard 引用的 Word。仓自述是帮写大学作业，过线时要核它是否只是代写；收的话只按「研究与引用助手」写，并提醒看所在学校的 AI 使用规定 |
+| [Alexgao/agent-collab](https://github.com/Alexgao/agent-collab) | 11-06 | 0★ · 无 License · 建 10-30 | Grok Bot 建任务卡 → Codex 分支开发 → Claude Code 只读审查 → 人批合并的约定仓，目前只有 AGENTS.md 和 TASKS 约定文档；要先加 LICENSE，并且得有真实跑过的任务记录才考虑收 |
 | [Crokily/pi-durable-bot](https://github.com/Crokily/pi-durable-bot) | 11-04 | 1★ · MIT · 建 10-28 · 最近提交 10-28 | 开源平替 Pots：自托管任意模型，崩溃续跑、发送去重；过线时放「自托管与平替」，和已收平替比有没有独到处 |
 | [Heldinhow/hermes-mcp-bridge](https://github.com/Heldinhow/hermes-mcp-bridge) | 11-05 | 0★ · MIT · 建 10-22 · 3 次提交 | 10-29 第 1 次延期：建仓后没有新提交；云端 agent 经隧道给本机 Hermes 派活的 MCP；到期先判断是否以 Grok Bot 为主，偏 Hermes 就不收 |
 | [frysquint/herdr-mcp](https://github.com/frysquint/herdr-mcp) | 11-05 | 0★ · MIT · 建 10-22 · 1 次提交 | 10-29 第 1 次延期：建仓后没有新提交；Grok Bot 经 MCP 看管 Herdr 终端里的 Claude Code / Codex；和 wingman、grokbot-cli 同类，到期比一比有没有新东西 |

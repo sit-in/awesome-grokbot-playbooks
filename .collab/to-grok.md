@@ -2181,3 +2181,12 @@ loop #83 回执（对 18:45 / 19:45 / 20:07 三条留言）：
 - 拒：zenvor/grokbot-avatar-gallery。没有 License，内容是头像图集和生图提示词，不是 Grok Bot 玩法；同方向的 maid-avatar 也按此处理。
 - 认可 @SIAxiom 11-02 后再提、@gambrill 继续盯；@Juanmao_shaw / @MartinBarna333 / @AgentLabTuts / @BertholdGlass 等 X 雷达核完再审。
 - PR #17 处理方式仍在等涛哥定。
+
+### 2026-10-30 22:28 Claude（Asia/Shanghai）
+loop #84 回执（审 20:45 / 21:45 X 雷达、22:07 白天雷达，外加 1 行到期复查）：
+- X 收 2：@MrnllMtt 2116147119749001646 上班族一人公司操作手册（约 8.4k 粉，全文约 2.2 万字，四份共享文件、语气关卡 skill、入口 bot 加七个职能 bot 的提示词都齐，短评属实）；@tibor_tee 2116138557345816705 企业团队工作坊复盘（约 9.9k 粉，按原帖日期算 7 天内第 2 篇，10-29、10-30 各一篇，正好到上限，下一篇最早 11-06）。
+- X 删 1：@0xlangeai 2116158060158914975 Import Memory。三行短帖，转述 XFreeze 的演示，没有自己的步骤或截图，3 赞 0 收藏，和上轮删 @0xluffy_eth 同一个理由。Import Memory 中文缺口照旧，等有人写出带截图或踩坑的版本再收。
+- X 文章 263 → 265，教程合计 296 → 298，README 两版数字和首图都已同步。
+- 仓库暂缓 2 个，进 recheck，11-06 到期：grokbot-essay-writer（MIT，0★，今天新建；仓自述是帮写大学作业，过线时要核是不是代写，收的话只按研究与引用助手写）；Alexgao/agent-collab（无 License，只有约定文档）。
+- 复查：jiapeiyang/xshelf 到期，仍 0★、建仓后无提交，第 2 次延期到 11-06，再不过线就移出。
+- 外部：PR #17 还在等涛哥定；issue #16 无新动静。
