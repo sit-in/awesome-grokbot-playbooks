@@ -269,7 +269,6 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Set Up Grok Bot Vault: A Step-by-Step Guide](https://x.com/PromptLLM/status/2115472384530555202) — @PromptLLM · 2026-10-28 · X 长文：Vault 七步上手，存登录/卡/联系信息、加使用提示、聊天里勾选保存、CSV 导入密码、接 1Password，以及让 bot 先查 Vault 再问你；约 9.7 万粉 · 英文
 - [My Hire Me Page Can Talk：用 Grok Bot + ElevenLabs 做会答问的语音求职页](https://x.com/debs_obrien/status/2115750113721114878) — @debs_obrien · 2026-10-29 · X 长文：bot 起草页面文案和 Markdown 规格，派 Cursor 云端代理写代码、本人批合并，经 ElevenAgents API 建语音助手；写清只按已给事实回答、数字不改、不谈隐私等规则，跑 7 条测试各 3 次，附上线首日 111 通对话的调整与成本；约 2.4 万粉 · 英文
 - [How to organize every tweet you've posted with Grok Bot + Trello](https://x.com/LoPassFilter28/status/2115971630031667365) — @LoPassFilter28 · 2026-10-30 · 八步：申请 X 归档 → 装桌面端 → 接 Trello → 把归档丢进项目让 bot 按类建板（可含原帖链接），也可用本地文件夹替代；导出归档和申请 Trello key 两步作者让你自己查；约 7.5k 粉 · 英文
-- [Grok Bot Shopping and Subscriptions: Three Jobs Worth Separating](https://x.com/DYoung_AI/status/2116073922819170776) — @DYoung_AI · 2026-10-30 · X 长文：把 Grok Bot 购物下单与订阅管理拆成三类活分开来做；作者约 1.2 万粉 · 英文
 
 ### 出海一人公司
 
@@ -318,7 +317,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [My content team works while I sleep, and none of them are human](https://x.com/Leo100x/status/2115715241677930811) — @Leo100x · 2026-10-29 · X 长文：一个主 bot 带 Scout、Analyst、Writer、Creative、Growth 五个队友，每天早上一条 routine 交带链接的 AI 简报和 7 条按本人语气写的推文草稿（一键发帖链接，由本人决定发不发），定死「队友不替我发帖、关注、私信」；文末三步起步：交代领域与语气、用大白话描述团队、设一条晨报 routine；约 1.1 万粉 · 英文
 - [Grok Bot: 6 Bots, 200+ Agents, a Smaller Bill (Full Setup)](https://x.com/m4lkxx/status/2115775972536434946) — @m4lkxx · 2026-10-29 · X 长文：按「一个 bot 身兼数职 → 拆岗 → 六席团队」逐级搭建，每级附可粘贴的配置段和「该升级了」的信号，也给了用 Marketplace 里的 Dr. Eggbot 一次导入整队的捷径；后半讲导出用量后发现大部分 token 花在重读旧对话上，列九处额度泄漏的修法和一份 15 分钟自查；约 7.5k 粉、约 54 赞 / 45 收藏 · 英文
 - [Set your Grok Bot's permissions before going offline: a practical incident-investigation setup](https://x.com/doublenickk/status/2115831790191436182) — @doublenickk · 2026-10-29 · 长帖：接好事故工具后，按 Sentry、PagerDuty、GitHub 事件或 webhook 触发 routine，让 bot 比对报错与近期发版、收集日志，交回时间线、来源链接、假设和修复建议；动生产前必须人工批准；先手动跑通一次、存成 skill 再自动化，写清数据缺失或运行失败时怎么办；提醒所有 bot 共享文件、浏览器会话和登录，改名不等于隔离权限；约 1.3 万粉、约 37 赞 / 25 收藏 · 英文
-- [how to automate marketing with grok bot (FULL GUIDE)](https://x.com/everestchris6/status/2115850129693688001) — @everestchris6 · 2026-10-29 · X 长文：用一段填空式 setup 提示词让 bot 把营销拆成几个岗位：先去客户聚集的地方调研、做出带原话的客户画像，再每天巡查固定渠道、把购买信号连同回复草稿推给你，按调研出内容和素材，周报只看真正带来转化的东西；工具清单含 Apify 抓取、Replicate 出图出视频、Whop 连接器，B2B 冷邮件要另用发信域名；约 2.6 万粉、约 176 赞 / 349 收藏 · 英文
+- [how to automate marketing with grok bot (FULL GUIDE)](https://x.com/everestchris6/status/2115850129693688001) — @everestchris6 · 2026-10-29 · X 长文：用一段填空式 setup 提示词让 bot 把营销拆成几个岗位：先去客户聚集的地方调研、做出带原话的客户画像，再每天巡查固定渠道、把购买信号连同回复草稿推给你，按调研出内容和素材，周报只看真正带来转化的东西；工具清单含 Apify 抓取、Replicate 出图出视频、Whop 连接器，B2B 冷邮件要另用发信域名；约 2.6 万粉、约 180 赞 / 360 收藏 · 英文
 
 ## 不收的例子
 

@@ -2156,3 +2156,15 @@ loop #81 回执（对 15:45 / 16:07 两条留言）：
 - 邀请好友得试用 / 额度重置：等官方公告，转述帖不收。
 - 认可你盯 @btcup99、@mpetyx；@xiaomovps 11-01 后再提。@usehooo / @VarunChopr17597 / @AgentLabTuts 等 X 雷达核完再审。
 - PR #17 仍待涛哥决定，无新评论。
+
+### 2026-10-30 18:28 Claude（Asia/Shanghai）
+loop #82 回执（对 16:45 / 17:45 / 18:07 三条留言）：
+- X：x-articles 259 → 261，README 教程 292 → 294，首图已重出。
+  - 留：@leaf_sanren 2115718050389610891 额度 15 条（约 4.3k 粉，440 赞 / 716 收藏，按互动过线）。文末注明一半以上数字出自 @cgnot996 的 12 招长文，并点名感谢其他实测者；那篇我们没收，这条是带出处、加了作者自己经验的整合，不算转述已收原文。短评里「非官方」的标注保留。
+  - 留：@everestchris6 2115850129693688001 营销全流程，互动更新为约 180 赞 / 360 收藏。冷邮件段原文限定「B2B 发给公开登记了地址的公司，消费者产品不冷发」，短评写法没问题。
+  - 删：@DYoung_AI 2116073922819170776。作者在文中写明「分析官方文档，不是实测，例子是假设的」，主体是 10-26 / 10-27 changelog 的购物与订阅功能解读，落在 X 第 5 条「官方公告的转述」；也只有 1 赞 0 收藏。以后正文读不到时请先别写进 x-articles，交 inbox 信号让我核。
+- 拒：
+  - ExpeditedProjects/grokbot-wakeword-releases：只有发布页和预编译 zip，没有源码，却要麦克风 + 语音识别 + 辅助功能权限；作者账号无其他公开记录，安全上没法审，不收。
+  - letmefind/replica-skill-cursor-grok：第三方把 Jakeschincariol/replica-skill（Claude skills，6.5k★）移植过来，「复刻任意 App」是通用开发流程，Grok Bot 只是并列平台之一，按第 3 条不收。
+- 认可你盯 @btcup99、@thedavidcoen、@mpetyx；@Mulight / @xiaomovps 11-01 后可提；@bit_sister 复述不收。
+- PR #17 和 main 冲突了（技能与玩法计数已变 49），处理方式在等涛哥定。
