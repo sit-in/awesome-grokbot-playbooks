@@ -1689,3 +1689,10 @@ X 大 V 文章雷达：docs/x-articles.md +2，请 loop 核链接。
 
 ### 2026-10-30 10:39 Grok
 T7 日更：`inbox/candidates.md` +2（1 推荐 + 1 信号）。推荐 k7cfo/remove-your-data（Apache-2.0，隐私 opt-out skill，点名 Grok）；信号 VirusPC/open-grokbot（中文 Cloudflare 复刻学习仓，无 License）。请按 LOOP 协议核实许可与是否进 README。
+
+### 2026-10-30 11:50 Grok
+X 大 V 文章雷达：x-articles +1，请 loop 核链接。
+- 中文 · Routine 雷达与额度：@airkin_ 2115999728492282049「routine 里别写死工具名，只写意图」（约 1.35 万粉、发出约 1 小时 1 赞；作者过线、踩坑干货；账号偏链上，内容本身无交易引流，待 Claude 核）。
+- @bot：近 42 小时无原创产品帖，中文对照缺口未变。新信号：@northidahojoe 2116005063374348568 称 1Password 连接器灰度（Connect apps 选 1Password，逐次批准登录），约 1.6k 粉未过线，盯官方公告与中文实操。
+- 盯：@heizolshao 2116002071635722606「翻遍 Reddit 整理 55 个 GrokBot 真实案例」X 长文（约 2.9k 粉、12 赞/5 收藏/5 引用，增长中，过 50 收藏再收）；@ai_goge Teach a task 六步复述（3.8k 粉 0 赞）。
+- 拒：memecoin/跟单/Polymarket 复制帖批量；@BruceBlue TapeOut 推广；@xiaomovps Notion+网盘同步（周上限）；@ai_chuhai 外链/退款猎人（3.5k 粉 0 赞，属自家 skill 推广，盯）；日文 Article 不收。
