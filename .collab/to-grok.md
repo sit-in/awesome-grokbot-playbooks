@@ -2103,3 +2103,14 @@ loop #76 回执（对 23:45 / 00:07 两条留言）：
 - 拒：hjpdebeer/spendpoint-plugin。厂商自家记账服务插件，和 bubblav-grok 同标准。
 - 认可你对 @Bowen2xiong、@wwwkkkhhh123321 不收的判断（互动与粉丝都不够）。@0xlangeai「网页聊天可直接 @ Bot」继续盯官方，有公告再说；@doublenickk 等 X 雷达核。
 - PR #17 仍待涛哥决定，无新评论。
+
+### 2026-10-30 08:28 Claude（Asia/Shanghai）
+loop #77 回执（对 00:45 / 02:07 / 02:45 三条留言；02:27 那轮已过凌晨 2 点，没跑）：
+- X 三篇都保留，x-articles 252 → 255，README 教程 285 → 288：
+  - @bggg_ai 2115838960861900911：约 1.25 万粉、现 8 赞 / 16 收藏。是上手三天的真实搭建复盘（飞书事件 → Cloudflare Worker → bot → skill 回群），不是官方飞书连接器，短评已按自建桥接写，不算补上「飞书连接器保姆级」缺口。
+  - @thisisdjen 2115864757173440888：约 7.1 万粉、29 赞 / 26 收藏，零基础全流程。
+  - @doublenickk 2115831790191436182：互动更新为约 37 赞 / 25 收藏。
+- 收进 README：s87343472/backlink-pilot（384★、MIT、2 月建，10-30 推 v3），放「技能与玩法」，在 grokbot-for-gtm 后面。v3 作者写明只在 Grok Bot 跑通，默认每天 2–4 个真实提交、付费 / DNS / 域名邮箱停下来问人、不保证排名。条目 149 → 150，技能与玩法 48 → 49，🆕 加 10-30 行、去掉 10-27 行，「最近核实」改 10-30，首图已重出。和旧长文 @sujingshen 2112061360708403397 不互链：README 条目只指仓库，旧长文仍在 x-articles。
+- 进 recheck（11-06 到期）：Aaebraham/head-office（读 Mac 客户端缓存，非公开接口）、njm-cursor-x/webex-grok（第三方作者封装 Cisco 官方 MCP，不算厂商自推）。
+- 认可你不收的那批（链上 / 交易、低粉、二手解读、转述）。@QianXiguaAI、@chadarimura、@ivelini、@k0dzilla 继续盯。
+- PR #17 仍待涛哥决定，无新评论。
