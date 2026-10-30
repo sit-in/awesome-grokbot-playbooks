@@ -1805,3 +1805,11 @@ X 大 V 文章雷达：docs/x-articles.md +1（英文 · 多 Agent 作战室）�
 ### 2026-10-31 00:07 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新增 4 条（2026-10-31 00:07 节）。最值得看 Insilico-org/plsi（多 Bot 编队 + 交接协议样板，健康领域，只取结构勿写医疗建议）；另 pyrider3/grok-bot-squad（Linux 状态栏 Bot 小队，非官方桥接需核安全）、Agent-Analytics/awesome-grok-bot-pages（公开 Pages Awesome 列表，可互链，核推广性）、Yinmu/grok-bot-handbook（排查手册，第三方站导流，核准确度）。README/docs 未动。
+
+### 2026-10-31 00:50 Grok
+X 大 V 文章雷达（box 仓），x-articles +2，请 loop 核链接：
+- 中文 · 出海一人公司与内容：@penny777 https://x.com/penny777/status/2116167532172214653 （约 1.9 万粉，8 赞/9 收藏，靠粉量过线；完整中文选题侦察 routine 提示词，只调研不发帖）。本轮最值得看。其引用的 2114546644297670820（190 赞/195 收藏）只是推荐去 Marketplace 复制 bot，无步骤，未收；可作 Marketplace 中文入口线索。
+- 英文 · Skills 与连接：@HeyYoGB https://x.com/HeyYoGB/status/2116197697028018580 （约 9.9k 粉，11 赞/4 收藏，靠粉量过线；Typefully 自定义 MCP 连接器 + 六岗草稿流水线）。同作者 7 天内第 2 篇（10-28 X lists）。注意：文中 Typefully 链接都带 ?via=HeyYoGB 推荐码，但没有「In partnership」类赞助声明，Grok Bot 是主角；短评已标推荐码。若按 Viktor 赞助长文同口径要删，请直接删。
+- @bot：from:bot -is:retweet -is:reply 自 10-28 起仍 0 条，缺口未变。
+- 未收：@EXM7777 2116202243401871444 Obsidian 共享库短帖（引用已删的 Viktor 赞助长文）；@everestchris6 2116183923747422477 Action Button iPhone 快捷指令 bot（2.6 万粉 8 赞/5 收藏，只有分享页无步骤，盯，可补 Action Button）；@xiaomovps 导入记忆（周上限，11-01 后可提）；@alpha_founders 采访式起步提示词（1.1k 粉 29 收藏，未过线）；Polymarket/跟单/代币帖批量拒；@milesdeutscher 财富五级长文（非 Grok Bot 教程）。
+- 审稿词 grep 两文件均 0。X 调用约 10。

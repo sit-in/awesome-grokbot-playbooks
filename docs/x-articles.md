@@ -127,6 +127,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [把 Grok Bot 当 24 小时研究助理：财报、宏观、盘前盘后、盯票池和公告速读五类玩法](https://x.com/eastweb3eth/status/2115292530971668749) — @eastweb3eth · 2026-10-28 · 长帖：财报拆收入利润与指引变化、宏观理定价逻辑、盘前扫异动盘后盯公告、重点票池定期汇总多空与风险、并购增发等事件先事实梳理；标黑句可直接当指令；约 3.5 万粉，文末有币安 Agent 风险提示 · 中文
 - [从 Reddit「额度烧光」抱怨里挖出海小产品：四步法 + 每日 Routine 提示词](https://x.com/Timojoy713/status/2115352795935367605) — @Timojoy713 · 2026-10-28 · 长帖：在 Reddit 搜 burned through / used up my quota 等抱怨句，只收一周内重复 3 次以上的痛点，看评论有没有付费意愿，先做用量告警这类最小功能；附一段可直接设成每天 9 点跑的中文提示词，输出痛点表和一个 $9–$99 小 skill 选题；售价为网友自述仅作参考；约 6.2k 粉 · 中文
 - [外链自动提交 Skill：让 Grok Bot 用自己的浏览器逐站提交目录站，先筛质量、每站留证据](https://x.com/ai_chuhai/status/2116013045080092686) — @ai_chuhai · 2026-10-30 · 基于 Flaq AI 开源的 backlink_skills（MIT，743 个渠道）改编，整段提示词贴在帖里：先探活，再按相关性、真实用户、编辑审核、强制互链等 7 项筛站，一批最多 10 个，提交前给你勾选清单，验证码 / 2FA / 付款交还给你，每站记一条状态账本；写明不付费、不加互链、不群发；约 3.5k 粉、约 46 赞 / 91 收藏 · 中文
+- [让 Grok Bot 每天 9 点当选题侦察员：抓「小号爆款」并给 5 个视频点子](https://x.com/penny777/status/2116167532172214653) — @penny777 · 2026-10-30 · 一段可直接粘贴的中文提示词：指定领域关键词和账号，跳过广告抽奖，找 24 小时内互动明显高于作者平时水平的前 5 条帖子（链接、为什么火、最热回复），再出 5 个带前 3 秒钩子的原创视频点子、14 天内不重复、不够不凑数，最后存成 skill 和 routine，只调研不发帖不回复不私信；约 1.9 万粉 · 中文
 
 ## 英文精选
 
@@ -272,6 +273,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [My Hire Me Page Can Talk：用 Grok Bot + ElevenLabs 做会答问的语音求职页](https://x.com/debs_obrien/status/2115750113721114878) — @debs_obrien · 2026-10-29 · X 长文：bot 起草页面文案和 Markdown 规格，派 Cursor 云端代理写代码、本人批合并，经 ElevenAgents API 建语音助手；写清只按已给事实回答、数字不改、不谈隐私等规则，跑 7 条测试各 3 次，附上线首日 111 通对话的调整与成本；约 2.4 万粉 · 英文
 - [How to organize every tweet you've posted with Grok Bot + Trello](https://x.com/LoPassFilter28/status/2115971630031667365) — @LoPassFilter28 · 2026-10-30 · 八步：申请 X 归档 → 装桌面端 → 接 Trello → 把归档丢进项目让 bot 按类建板（可含原帖链接），也可用本地文件夹替代；导出归档和申请 Trello key 两步作者让你自己查；约 7.5k 粉 · 英文
 - [Grok Bot for Enterprise Teams: putting AI teammates to work across every department](https://x.com/tibor_tee/status/2116138557345816705) — @tibor_tee · 2026-10-30 · X 长文复盘官方企业团队工作坊：先问「第一个想雇谁」，客服/库存/拓客三条多 bot 流程都在关键步停下等人批，竞品情报 bot 升成主管再建三个下属 bot、只在周一早上汇报一次；约 9.9k 粉 · 英文
+- [How to Build Your Own AI Content Team With Grok Bot + Typefully](https://x.com/HeyYoGB/status/2116197697028018580) — @HeyYoGB · 2026-10-30 · X 长文：把 Typefully 作为自定义 MCP 连接器接进 Grok Bot，X、LinkedIn、Substack Notes 放在同一个账号组里；先写一段所有岗位都要读的规矩（只建草稿、不排期不发布、拿不到的数据写 n/a），再按数据扫描、短帖写手、LinkedIn 改写、需求信号侦察、长文写手、周复盘逐个建岗，每岗附可粘贴提示词；文中 Typefully 链接带作者推荐码，约 9.9k 粉 · 英文
 
 ### 出海一人公司
 
