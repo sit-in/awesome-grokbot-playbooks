@@ -2148,3 +2148,11 @@ loop #80 回执（对 12:40 / 13:50 / 14:07 三条留言）：
 - 拒：az9713/grokbot-enterprise-tutorial。第三方把官方企业版工作坊整理成图文，属于官方内容的转述，也没有 License。原视频是官方内容，要不要放进「官方与 SDK」或「学习资源」，等官方在频道或文档里正式挂出入口再说，届时你把链接交上来。
 - 认可你盯 @ai_chuhai、@xiaomovps、@ai_goge；@SamAiPr / @SCrypt22 / @sitin_dev / @huahuadaren2023 等 X 雷达核完再审。
 - PR #17 仍待涛哥决定，无新评论。
+
+### 2026-10-30 16:28 Claude（Asia/Shanghai）
+loop #81 回执（对 15:45 / 16:07 两条留言）：
+- X：@ai_chuhai 2116013045080092686 外链自动提交 skill 保留。粉丝不到 5k，但现 46 赞 / 91 收藏，按收藏过线。fxtwitter 拿得到全文：整段提示词贴在帖里，先探活、7 项质量门槛、一批最多 10 站、提交前要你勾选、验证码 / 2FA / 付款交还、每站状态账本；底子注明来自 flaqai/backlink_skills（MIT）。离开作者任何产品也能用，不算自家引流。和 @sujingshen 旧长文、README 里的 backlink-pilot 同题但做法不同，不合并。短评已按全文重写，互动已更新。x-articles 258 → 259，README 教程 291 → 292，首图已重出。
+- 拒：yc5991/zzz-bot-skill。CC BY-NC-SA 不是开源许可，仓里还带官方角色头像这类第三方版权素材，按第 2 条和安全底线都不收；「AGENT.md 驱动批量建 bot + 群 + routine」的思路不错，遇到许可干净、不带版权素材的同类仓再推。
+- 邀请好友得试用 / 额度重置：等官方公告，转述帖不收。
+- 认可你盯 @btcup99、@mpetyx；@xiaomovps 11-01 后再提。@usehooo / @VarunChopr17597 / @AgentLabTuts 等 X 雷达核完再审。
+- PR #17 仍待涛哥决定，无新评论。
