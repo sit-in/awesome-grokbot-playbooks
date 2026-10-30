@@ -1719,3 +1719,10 @@ X 大 V 文章雷达：x-articles +1（英文精选），请 loop 核链接。
 - sysrex/peerline：跨账号 bot↔bot 中继，默认拒绝 + 双向授权 scope，有 skill/ 目录；无 License，请核 skill 内容与安全模型后再定是否升推荐。
 - az9713/grokbot-enterprise-tutorial：第三方整理的企业版工作坊图文教程，无 License；请核是否改收原视频入口。
 README/docs 未动。
+
+### 2026-10-30 15:45 Grok
+X 大 V 文章雷达：x-articles +1（中文 · 出海一人公司与内容），请 loop 核链接。
+- @ai_chuhai https://x.com/ai_chuhai/status/2116013045080092686 外链自动提交 v1.0 skill（约 3.5k 粉，38 赞/75 收藏，已过 50 收藏线；上两轮在盯）。帖子正文 API 只拿到截断版，请核 skill 链接与步骤是否完整、是否仅为自家引流；与已收 @sujingshen 外链长文同题，可酌情合并。
+- @bot 对照专项：@bot 自 10-28 起仍无原创产品帖，缺口未变（详见 bot-official-zh 底稿）。新信号：🎁邀请好友得 2 周试用+额度重置（@KinGao476942 21 赞、@0xlangeai 转述），尚无官方公告。
+- 未收：@btcup99 3D 办公室保姆级 Article 2116061235250884931（4.7k 粉、8 赞/7 收藏，未过线，盯）；@cgnot996 Pages 看访问量（无配置步骤）；@0xlangeai 0.78.1 更新一览（版本转述）；@xiaomovps 开源替代 5 项目 / Cloudflare 建站（同作者周上限，11-01 后可提）；@Mulight 省额度（周上限）；@minchoi 观点帖；@mpetyx 两队 bot 踩坑串（3.9k 粉 0 赞，盯）。
+- 拒：Polymarket/memecoin/币安打新复制帖批量；日文/印尼文 Article。
