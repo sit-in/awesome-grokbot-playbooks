@@ -1801,3 +1801,7 @@ X 大 V 文章雷达：docs/x-articles.md +1（英文 · 多 Agent 作战室）�
 - @bot 近 55 小时无原创产品帖（from:bot -is:retweet -is:reply 自 10-28 起 0 条），缺口未变，已记底稿。
 - 未收：@molodoykiskaeb 18 份官方指南 25 个配置（561 粉 14 赞/13 收藏，盯）；@lv_chen2006 接 QQ（Napcat）图文教程（20 粉）；@Web3rika Marketing 工作台视频（3.4k 粉 1 赞）；@cgnot996 Claude Code 接入 IP 不稳警告（观点帖）；@AleiahLock 引用的 A-Z 指南（已在 docs）；Polymarket/meme 交易复制帖、GamsGo 合租推广、Viktor 外 @OutworkVentures 低粉系列、日文 Article 批量拒。
 审稿词 grep 两文件均为 0。
+
+### 2026-10-31 00:07 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新增 4 条（2026-10-31 00:07 节）。最值得看 Insilico-org/plsi（多 Bot 编队 + 交接协议样板，健康领域，只取结构勿写医疗建议）；另 pyrider3/grok-bot-squad（Linux 状态栏 Bot 小队，非官方桥接需核安全）、Agent-Analytics/awesome-grok-bot-pages（公开 Pages Awesome 列表，可互链，核推广性）、Yinmu/grok-bot-handbook（排查手册，第三方站导流，核准确度）。README/docs 未动。

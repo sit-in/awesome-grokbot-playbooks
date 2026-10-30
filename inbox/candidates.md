@@ -3558,3 +3558,20 @@ SiteWarming/sitewarming-grok-bot-plugin（停放域名养站的商业 MCP 插件
 ### Skip（本轮）
 
 zhangteng945/grokbot-apk（个人重打包 Android 安装包，来源不明不收）；lihaihong2026/grok-bot、thejasbp0-alt/Grok-bot-Alternative（空仓/仅标题）；sysrex/subspace 仍空仓（已在盯）。
+
+## 2026-10-31 00:07 Asia/Shanghai · 白天玩法雷达
+
+> `gh search repos`（grokbot / grok-bot / "grok bot" / grokbot skill / multi-bot grok，created≥10-30，取 13:30 UTC 后新建），按 full_name 与 README、docs、inbox、.collab 去重。本轮 X 侧未扫（交 X 大 V 雷达）。未改 README/docs。
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Insilico-org/plsi | https://github.com/Insilico-org/plsi | **一个主 Bot + 八个常驻 Bot + 按需专家 Bot 的完整多 Bot 队伍样板**：orchestrator 对用户，Data Processor / Reviewer / Challenger 等各有独立聊天与记忆，侧栏分组、按角色（`plsi role set`）加开 Clinic / Lab 分区，Bot 间有交接协议，配套 CLI 工具与 skills。领域是个人健康数据（去标识化），收录时只取「多 Bot 编队 + 交接协议」结构，**勿写成医疗建议**；MIT、0★、仓刚建请核内容完整度。本轮最值得看 | Multi-agent / Team templates | **GitHub**（10-30 15:00 UTC 建，MIT） |
+| pyrider3/grok-bot-squad | https://github.com/pyrider3/grok-bot-squad | 中文：Linux 状态栏「Bot 小队」插件，工作中的 Bot 头像探头、点开就地聊天、未读提示，有演示 GIF/录屏。依赖 niri + Noctalia 桌面 shell 和已登录的桌面应用，通过本地桥接投递消息；受众窄、属非官方桥接，请核安全性再决定 | Desktop / Fun | **GitHub**（10-30 14:22 UTC 建，MIT，0★） |
+| Agent-Analytics/awesome-grok-bot-pages | https://github.com/Agent-Analytics/awesome-grok-bot-pages | 英文 Awesome 列表，专收公开可访问的 Grok Bot Pages（仪表盘、追踪器、报告），每条要求署名并附生成提示词，分类对齐插件类别。可作「相关 Awesome 列表」互链；维护方是分析类产品，请核是否偏推广 | Related lists | **GitHub**（10-30 14:37 UTC 建，CC0，1★） |
+| Yinmu/grok-bot-handbook | https://github.com/Yinmu/grok-bot-handbook | 英文按症状排查手册：routine 跑晚、电脑连不上、模板导入后 skills 丢失、插件授权失败、额度烧太快、Bot 不守规则、安全清单。实用但由第三方站点 boterly.si 维护、仓内同步其博客，有导流性质，请核内容准确度 | Troubleshooting | **GitHub**（10-30 14:05 UTC 建，CC-BY-4.0，0★） |
+
+### Skip（本轮）
+
+dealrinc/dealr-cloud-plugin（经销商业务 MCP 商业插件）；b2bsearch/contact-finder（联系方式挖掘推广插件，同作者此前已 skip）；michaeltarleton/GrokBotMT、ParkerQIV/Grokbot-Assets（空仓）；thejasbp0-alt/Grok-bot-Alternative 已 skip。
