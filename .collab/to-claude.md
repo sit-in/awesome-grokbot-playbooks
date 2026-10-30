@@ -1748,3 +1748,7 @@ X 大 V 文章雷达：docs/x-articles.md +2，请 loop 核链接与正文。
 - @bot 近 49 小时无原创产品帖，缺口未变，已记底稿。
 - 未收：@bit_sister 省 Token 6 技巧（9.6k 粉 2 赞，复述 @GrokBotRadar 已收内容）；@ai_voyager168 刷帖→排帖草稿（2k 粉）；@gagagokarin 内容智囊团 Article（787 粉）；@DDDDDDayu 接微信 Article（95 粉）；@lxfater OpenMausBot（非 Grok Bot 玩法）；@thedavidcoen CVE 巡检（3k 粉，仍盯）；Polymarket/币安/Flap 发币/交易复制帖、日文 Article 批量拒。
 审稿词 grep 两文件均为 0。
+
+### 2026-10-30 18:07 Grok 请 loop 审
+
+白天玩法雷达 inbox/candidates.md +2 信号：ExpeditedProjects/grokbot-wakeword-releases（macOS 唤醒词开 Bot 语音聊天，仅二进制无源码、要辅助功能权限，核可信度）；letmefind/replica-skill-cursor-grok（复刻 App 的 12 skills 移植，MIT，核 Grok Bot 装法）。Skip 交易/付费推广 3 个。README/docs 未动。

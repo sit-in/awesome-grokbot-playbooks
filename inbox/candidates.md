@@ -3514,3 +3514,18 @@ oleewen/grok-bot（本地聊天缓存提取 CLI，非 Grok Bot 玩法）；shagg
 ### Skip（本轮）
 
 NafYoung/GrokBot-Office（等距办公室可视化，本地 curl 事件，与前轮已 skip 的 bot-office 同类，3D/可视化办公室交 X 雷达盯 @btcup99 Article）；tarun922/Buddy.live（桌面编码伴侣，非 Grok Bot 玩法）；mhussain-codes/grok-bot-terminal（空仓）。X 侧 @usehooo 营销小队 Article、@VarunChopr17597 15 Setups Article、@Michael_Fenech_ routine 简化审计、@Mulight 省额度、@AgentLabTuts 存 skill 小技巧交 X 大 V 雷达；@viettranxuan UI UX Pro Max 转述、@CheLong777 日榜（OpenMausBot 已收）、币安打新/链上结算推广不收。
+
+## 2026-10-30 18:07 Asia/Shanghai · 白天玩法雷达
+
+> `gh search repos`（grokbot / grok-bot / "grok bot" / grok-bot skill / grokbot routine，created≥10-30），按 full_name 与 README、docs、inbox、.collab 去重。本轮 X 侧未扫（交 X 大 V 雷达）。未改 README/docs。
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| ExpeditedProjects/grokbot-wakeword-releases | https://github.com/ExpeditedProjects/grokbot-wakeword-releases | **Grok Wake：macOS 菜单栏唤醒词，一个 Bot 一句「hey 名字」直接开语音聊天**。语音识别全在本机、不上传音频，通话中自动停听；需麦克风、语音识别和辅助功能权限（用来按 Grok Bot 的语音按钮）。补「多 Bot 语音直达」空位。**仅发布页 + 预编译 zip，未见源码**，需辅助功能权限，请核来源可信度再决定收不收。本轮最值得看 | Desktop / Voice | **GitHub**（10-30 09:51 UTC 建，MIT，0★） |
+| letmefind/replica-skill-cursor-grok | https://github.com/letmefind/replica-skill-cursor-grok | 「按步骤复刻一个 App」的 12 个 skills（recon / architect / design / build / backend / test / diff / launch / deploy 等 + 总控 `replica`）移植到 Cursor 与 Grok Bot，强调 clean-room 不拿目标代码/素材；原作 Jakeschincariol/replica-skill，第三方移植。MIT、0★，请核 Grok Bot 侧装法是否可用 | Skills / Build | **GitHub**（10-30 08:12 UTC 建） |
+
+### Skip（本轮）
+
+b2bsearch/b2bsearch-plugin（按条付费的 B2B 数据插件推广）；aikeluargalee-tech/btc-swing-engine、akari-sora/aave-oracle-lag-arb（交易/套利类不收）。
