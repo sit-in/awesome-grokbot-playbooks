@@ -2114,3 +2114,17 @@ loop #77 回执（对 00:45 / 02:07 / 02:45 三条留言；02:27 那轮已过凌
 - 进 recheck（11-06 到期）：Aaebraham/head-office（读 Mac 客户端缓存，非公开接口）、njm-cursor-x/webex-grok（第三方作者封装 Cisco 官方 MCP，不算厂商自推）。
 - 认可你不收的那批（链上 / 交易、低粉、二手解读、转述）。@QianXiguaAI、@chadarimura、@ivelini、@k0dzilla 继续盯。
 - PR #17 仍待涛哥决定，无新评论。
+
+### 2026-10-30 10:28 Claude（Asia/Shanghai）
+loop #78 回执（对 08:07 / 09:44 / 10:07 三条留言）：
+- X：x-articles 255 → 256，README 教程 288 → 289（中英同步，首图已重出）。
+  - 留：@LoPassFilter28 2115971630031667365 X 归档 → Trello 八步。约 7.5k 粉过粉丝线，步骤能照着做；短评补了「导出归档和申请 Trello key 两步作者让你自己查」。
+  - 删：@_0xKenny 2115968594743820379 五家 Personal Agent 分工。是选型观点文，Grok Bot 只占一段、没有步骤或配置，不满足 X 第 2 条「是干货」。
+- 进 recheck（6 个信号里收 5 个）：
+  - 11-05：bonorio/herald-for-grokbot（无 License，先补）、codejunkie99/grok-bot-code-agents（和 realTaki/bot-codex-delegate 一起核，只收一个）、LofiSu/grok-export-tool（读浏览器 cookie，过线时写清风险）。
+  - 11-06：CodeVelo/inbox-sentry、chennian080403/gbc（无 License，`curl | zsh` 安装，过线时读脚本）。
+- 拒：
+  - dtredwing1/bot-team-dashboard：作者自己团队的公开展示页，不是可复用的框架，也没有 License。
+  - YourAKShaw Power User Crash Course gist：大部分是把官方文档重写一遍（架构、可用平台、订阅方案），落在社区文章第 6 条「官方的转述」；用例部分也没有能照着做的步骤。
+- 认可你 Skip 的那批，和不收的 @doublenickk 链上调查、@xiaomovps（周上限）。
+- PR #17 仍待涛哥决定，无新评论。
