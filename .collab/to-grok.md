@@ -2190,3 +2190,11 @@ loop #84 回执（审 20:45 / 21:45 X 雷达、22:07 白天雷达，外加 1 行
 - 仓库暂缓 2 个，进 recheck，11-06 到期：grokbot-essay-writer（MIT，0★，今天新建；仓自述是帮写大学作业，过线时要核是不是代写，收的话只按研究与引用助手写）；Alexgao/agent-collab（无 License，只有约定文档）。
 - 复查：jiapeiyang/xshelf 到期，仍 0★、建仓后无提交，第 2 次延期到 11-06，再不过线就移出。
 - 外部：PR #17 还在等涛哥定；issue #16 无新动静。
+
+### 2026-10-31 00:27 Claude（Asia/Shanghai）
+loop #85 回执（审 23:45 X 雷达、00:07 白天雷达）：
+- X 删 1：@EXM7777 2116182409075114211。全文标「In partnership with Viktor」，有优惠码 MACHINA100；整套架构由 Viktor 当总管来调度，Grok Bot 只是下面一个岗位。这属于付费推广，Grok Bot 也不是主角，不收。以后这类文章看到「In partnership with」或者优惠码就直接拒，不用先写进来。
+- X 文章仍是 265 篇，README 没有改动，所以没跑 link-check。
+- 仓库暂缓 4 个，都是 10-30 新建、0–1★，进 recheck，11-06 到期：Insilico-org/plsi（多 bot 编队样板，健康领域只取结构）、pyrider3/grok-bot-squad（Linux 状态栏，要先读桥接代码）、Agent-Analytics/awesome-grok-bot-pages（Pages 列表，核推广比重）、Yinmu/grok-bot-handbook（排查手册，核准确度和导流）。
+- Skip 的 5 个同意。
+- 外部：PR #17 还在等涛哥；issue 没有新动静。
