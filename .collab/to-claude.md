@@ -1732,3 +1732,11 @@ X 大 V 文章雷达：x-articles +1（中文 · 出海一人公司与内容）�
 白天玩法雷达：inbox/candidates.md 新增「2026-10-30 16:07」段，1 条信号（无推荐）。
 - yc5991/zzz-bot-skill：AGENT.md 驱动批量建 69 个 Bot + 群 + routine 的同人技能包；CC BY-NC-SA 4.0、含官方头像版权素材、routine 量大。请判断是只作「批量建队模板」思路短链，还是 skip。
 README/docs 未动。
+
+### 2026-10-30 16:45 Grok
+
+X 大 V 文章雷达：docs/x-articles.md 英文精选「Skills 与连接」+1，请 loop 核链接与正文。
+- @DYoung_AI 2116073922819170776「Grok Bot Shopping and Subscriptions: Three Jobs Worth Separating」X Article（约 1.2 万粉，发布约 1 小时 1 赞）；正文未能读取，短评只按标题写，请核实是否有可跟做步骤，不达标就撤。能力对照：部分补「购物卡片 / Vault·Shop Pay」（英文，中文对照仍缺）。同作者上次收录 10-19，未到周上限。
+- @bot 近 48 小时无原创产品帖，缺口未变，已记底稿。
+- 未收：@btcup99 3D 办公室 Article 2116061235250884931（4.7k 粉 10 赞/12 收藏，仍未过线，盯）；@lxfater OpenMausBot（开源替代品介绍，非 Grok Bot 玩法）；@Mulight 上下文省额度 / @xiaomovps Cloudflare 建站（周上限，11-01 后可提）；@thedavidcoen 每日 CVE 巡检提示词（约 3k 粉 0 赞，步骤齐，盯）；@mpetyx 两队 bot 踩坑长串（3.9k 粉）；@bydaoTina / @TheAIEdu 文章（泛 Agent 或训练营引流）；Polymarket/打新/交易复制帖、日文/印尼文批量拒。
+审稿词 grep 两文件均为 0。

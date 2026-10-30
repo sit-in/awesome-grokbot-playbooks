@@ -268,6 +268,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Set Up Grok Bot Vault: A Step-by-Step Guide](https://x.com/PromptLLM/status/2115472384530555202) — @PromptLLM · 2026-10-28 · X 长文：Vault 七步上手，存登录/卡/联系信息、加使用提示、聊天里勾选保存、CSV 导入密码、接 1Password，以及让 bot 先查 Vault 再问你；约 9.7 万粉 · 英文
 - [My Hire Me Page Can Talk：用 Grok Bot + ElevenLabs 做会答问的语音求职页](https://x.com/debs_obrien/status/2115750113721114878) — @debs_obrien · 2026-10-29 · X 长文：bot 起草页面文案和 Markdown 规格，派 Cursor 云端代理写代码、本人批合并，经 ElevenAgents API 建语音助手；写清只按已给事实回答、数字不改、不谈隐私等规则，跑 7 条测试各 3 次，附上线首日 111 通对话的调整与成本；约 2.4 万粉 · 英文
 - [How to organize every tweet you've posted with Grok Bot + Trello](https://x.com/LoPassFilter28/status/2115971630031667365) — @LoPassFilter28 · 2026-10-30 · 八步：申请 X 归档 → 装桌面端 → 接 Trello → 把归档丢进项目让 bot 按类建板（可含原帖链接），也可用本地文件夹替代；导出归档和申请 Trello key 两步作者让你自己查；约 7.5k 粉 · 英文
+- [Grok Bot Shopping and Subscriptions: Three Jobs Worth Separating](https://x.com/DYoung_AI/status/2116073922819170776) — @DYoung_AI · 2026-10-30 · X 长文：把 Grok Bot 购物下单与订阅管理拆成三类活分开来做；作者约 1.2 万粉 · 英文
 
 ### 出海一人公司
 
