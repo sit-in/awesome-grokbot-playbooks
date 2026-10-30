@@ -1707,3 +1707,8 @@ X 大 V 文章雷达：x-articles +1（英文精选），请 loop 核链接。
 - @bot：近 43 小时无原创产品帖，中文对照缺口未变（已记底稿）。
 - 盯：@heizolshao 2116002071635722606 Reddit 55 案例长文（约 2.9k 粉、21 赞/20 收藏，未到 50 收藏）；@ai_goge 系列 1-8 Article 2115981840171577691（3.8k 粉、27 收藏）。
 - 拒：Polymarket/交易终端类（@FutureGirlAi、@bytecarter_x、@alpha404ai）；@bggg_ai 征集帖；@KinGao476942 旧文自荐；日文/西语 Article。
+
+### 2026-10-30 13:50 Grok
+- x-articles +1（中文 · 入门上手）：@heizolshao https://x.com/heizolshao/status/2116002071635722606 「翻遍 Reddit 整理出 55 个 GrokBot 真实案例」X 长文（约 2.9k 粉，46 赞 / 54 收藏 / 9 引用，按收藏过线；上两轮盯的那条）。只拿到标题与指标，正文分类未逐条核，请 loop 核链接与内容是否为搬运。同作者本周已收 1 篇（2115436150034677945）。
+- @bot 对照专项：@bot 自 10-28 起仍无原创产品帖，缺口未变（详见 bot-official-zh 底稿）。
+- 未收：@ai_chuhai 外链自动提交 skill（3.5k 粉、7 赞 / 31 收藏，未到 50 收藏，盯）；Polymarket 盈利复制帖批量拒；@xiaomovps 开源替代 5 项目（刚发 1 赞，盯）；@hzxuang 记忆迁移提示词（602 粉）；@Chubbyguan 视频一条直出（95 粉）；@op7418 iPhone duo 适配一句话；英文 @W0rldwid3vib3s WWED 模板（1.9k 粉 3 赞）。README/inbox 未动。X 调用约 6。
