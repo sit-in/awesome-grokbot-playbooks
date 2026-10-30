@@ -271,6 +271,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Set Up Grok Bot Vault: A Step-by-Step Guide](https://x.com/PromptLLM/status/2115472384530555202) — @PromptLLM · 2026-10-28 · X 长文：Vault 七步上手，存登录/卡/联系信息、加使用提示、聊天里勾选保存、CSV 导入密码、接 1Password，以及让 bot 先查 Vault 再问你；约 9.7 万粉 · 英文
 - [My Hire Me Page Can Talk：用 Grok Bot + ElevenLabs 做会答问的语音求职页](https://x.com/debs_obrien/status/2115750113721114878) — @debs_obrien · 2026-10-29 · X 长文：bot 起草页面文案和 Markdown 规格，派 Cursor 云端代理写代码、本人批合并，经 ElevenAgents API 建语音助手；写清只按已给事实回答、数字不改、不谈隐私等规则，跑 7 条测试各 3 次，附上线首日 111 通对话的调整与成本；约 2.4 万粉 · 英文
 - [How to organize every tweet you've posted with Grok Bot + Trello](https://x.com/LoPassFilter28/status/2115971630031667365) — @LoPassFilter28 · 2026-10-30 · 八步：申请 X 归档 → 装桌面端 → 接 Trello → 把归档丢进项目让 bot 按类建板（可含原帖链接），也可用本地文件夹替代；导出归档和申请 Trello key 两步作者让你自己查；约 7.5k 粉 · 英文
+- [Grok Bot for Enterprise Teams: putting AI teammates to work across every department](https://x.com/tibor_tee/status/2116138557345816705) — @tibor_tee · 2026-10-30 · X 长文复盘官方企业团队工作坊：先问「第一个想雇谁」，客服/库存/拓客三条多 bot 流程都在关键步停下等人批，竞品情报 bot 升成主管再建三个下属 bot、只在周一早上汇报一次；约 9.9k 粉 · 英文
 
 ### 出海一人公司
 
@@ -321,6 +322,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Set your Grok Bot's permissions before going offline: a practical incident-investigation setup](https://x.com/doublenickk/status/2115831790191436182) — @doublenickk · 2026-10-29 · 长帖：接好事故工具后，按 Sentry、PagerDuty、GitHub 事件或 webhook 触发 routine，让 bot 比对报错与近期发版、收集日志，交回时间线、来源链接、假设和修复建议；动生产前必须人工批准；先手动跑通一次、存成 skill 再自动化，写清数据缺失或运行失败时怎么办；提醒所有 bot 共享文件、浏览器会话和登录，改名不等于隔离权限；约 1.3 万粉、约 37 赞 / 25 收藏 · 英文
 - [how to automate marketing with grok bot (FULL GUIDE)](https://x.com/everestchris6/status/2115850129693688001) — @everestchris6 · 2026-10-29 · X 长文：用一段填空式 setup 提示词让 bot 把营销拆成几个岗位：先去客户聚集的地方调研、做出带原话的客户画像，再每天巡查固定渠道、把购买信号连同回复草稿推给你，按调研出内容和素材，周报只看真正带来转化的东西；工具清单含 Apify 抓取、Replicate 出图出视频、Whop 连接器，B2B 冷邮件要另用发信域名；约 2.6 万粉、约 180 赞 / 360 收藏 · 英文
 - [I ranked every Grok Bot launched since August: top 10 community bots + a setup prompt](https://x.com/0x_kaize/status/2116114441947521127) — @0x_kaize · 2026-10-30 · 长帖：列出十个 Marketplace 热门 bot（删骚扰电话号码、查信用报告纠错、替你打电话订餐厅、把 ChatGPT/Claude 记忆迁进来、读合同等），每个附链接；再给一段让 bot 按你的已连应用和近 30 天需求挑不超过 5 个装的提示词，并提醒装前看清它要哪些数据、发送/付款/签署一律留人工确认、先拿真实任务试跑、一周后复盘留哪些；约 2.4 万粉 · 英文
+- [How to Run a One-Person Company with Grok Bot while employed (Full Operating Manual)](https://x.com/MrnllMtt/status/2116147119749001646) — @MrnllMtt · 2026-10-30 · X 长文：上班族的一人公司操作手册，四份共享文件（语气文档、禁做清单、看板、每周改稿记录）加语气关卡 skill，一个入口 bot 带七个职能 bot 并各附可粘贴提示词，还有每周排程、省额度做法和社媒/SEO/营销/销售四种业务配法；作者提醒先看劳动合同的兼职条款；约 8.4k 粉 · 英文
 
 ## 不收的例子
 
