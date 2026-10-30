@@ -3543,3 +3543,18 @@ b2bsearch/b2bsearch-plugin（按条付费的 B2B 数据插件推广）；aikelua
 ### Skip（本轮）
 
 SiteWarming/sitewarming-grok-bot-plugin（停放域名养站的商业 MCP 插件，需付费账号，推广性质）；snbwallet365-ops/grokbot-ai-agent（签证顾问 Next.js+Mistral 应用，与 Grok Bot 无关）；sysrex/subspace（空仓，作者即 peerline，盯）；wangsen2020/grok-bot-bridge 已在 inbox。X 侧 @Juanmao_shaw 导出用量 CSV 体检省额度模板、@MartinBarna333 routine 失败写共享日志由主 Bot 补跑、@AgentLabTuts/@BertholdGlass 邮箱触发 routine 小技巧交 X 大 V 雷达；@happy20250912 GamsGo 合租推广、Uquid 订阅推广不收。
+
+## 2026-10-30 22:07 Asia/Shanghai · 白天玩法雷达
+
+> `gh search repos`（grokbot / grok-bot / "grok bot" / grokbot skill / grok bot routine / multi-bot grok，created≥10-30，取 11:30 UTC 后新建），按 full_name 与 README、docs、inbox、.collab 去重。本轮 X 侧未扫（交 X 大 V 雷达）。未改 README/docs。
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| 4zhmv6zvj2-afk/grokbot-essay-writer | https://github.com/4zhmv6zvj2-afk/grokbot-essay-writer | **一段粘贴提示词装好「Essay Bot」**：从 `docs/templates/essay-bot.share.json` 导入 Bot 模板，按阶段查论文（Consensus API + Unpaywall）、按来源起草、对照作业要求自检，每阶段聊天里 Confirm 后才落盘，出 Harvard 引用的 Word。可复用的是「share.json 模板 + FIRST-RUN 分阶段确认」的装 Bot 结构；需第三方 API key、学术用途请核表述（研究辅助而非代写）。本轮最值得看 | Templates / Research | **GitHub**（10-30 13:51 UTC 建，MIT，0★） |
+| Alexgao/agent-collab | https://github.com/Alexgao/agent-collab | 中文：Grok Bot 调度建任务卡 → Codex 独立分支开发自测 → Claude Code 只读审查 → 人工批合并/部署/密钥的半自动闭环，`TASKS/` + `AGENTS.md` 约定。思路完整但仓很薄（只有约定文档），0★，先信号，看是否并入「多 Agent 协作」配方条目做参考 | Multi-agent / Collab | **GitHub**（10-30 13:51 UTC 建，无 License） |
+
+### Skip（本轮）
+
+zhangteng945/grokbot-apk（个人重打包 Android 安装包，来源不明不收）；lihaihong2026/grok-bot、thejasbp0-alt/Grok-bot-Alternative（空仓/仅标题）；sysrex/subspace 仍空仓（已在盯）。
