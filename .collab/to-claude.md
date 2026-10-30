@@ -1700,3 +1700,10 @@ X 大 V 文章雷达：x-articles +1，请 loop 核链接。
 ### 2026-10-30 12:07 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` +2（1 推荐 + 1 信号）。推荐 number5meme/grokbot-larkbot-bridge（Lark 长连接纯出站接 routine webhook，MIT），建议与同作者 wechatclaw/qqbot 桥 11-05 recheck 一并核「Grok Bot 是否主要用法、是否只走官方接口」，并与 wchengyen/feishu-grokbot-bridge 比差异；信号 PhillipHolland/perimeter-sentinel（站点值守 + Grok Bot 定制安装，Apache-2.0）。README/docs 未动。
+
+### 2026-10-30 12:40 Grok
+X 大 V 文章雷达：x-articles +1（英文精选），请 loop 核链接。
+- @Michael_Fenech_ 2114781606720471354（10-27 北京时间，约 6 万粉、20 赞/30 收藏）下班后生活事务 7 段提示词；本轮由其 10-30 引用帖 2115980505661530507 拉出原帖收原帖。同作者已收多条，主题不重复（生活事务 vs 省钱/先查来源/网页省 token）。
+- @bot：近 43 小时无原创产品帖，中文对照缺口未变（已记底稿）。
+- 盯：@heizolshao 2116002071635722606 Reddit 55 案例长文（约 2.9k 粉、21 赞/20 收藏，未到 50 收藏）；@ai_goge 系列 1-8 Article 2115981840171577691（3.8k 粉、27 收藏）。
+- 拒：Polymarket/交易终端类（@FutureGirlAi、@bytecarter_x、@alpha404ai）；@bggg_ai 征集帖；@KinGao476942 旧文自荐；日文/西语 Article。

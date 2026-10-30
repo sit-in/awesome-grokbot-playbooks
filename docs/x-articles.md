@@ -314,6 +314,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [My content team works while I sleep, and none of them are human](https://x.com/Leo100x/status/2115715241677930811) — @Leo100x · 2026-10-29 · X 长文：一个主 bot 带 Scout、Analyst、Writer、Creative、Growth 五个队友，每天早上一条 routine 交带链接的 AI 简报和 7 条按本人语气写的推文草稿（一键发帖链接，由本人决定发不发），定死「队友不替我发帖、关注、私信」；文末三步起步：交代领域与语气、用大白话描述团队、设一条晨报 routine；约 1.1 万粉 · 英文
 - [Grok Bot: 6 Bots, 200+ Agents, a Smaller Bill (Full Setup)](https://x.com/m4lkxx/status/2115775972536434946) — @m4lkxx · 2026-10-29 · X 长文：按「一个 bot 身兼数职 → 拆岗 → 六席团队」逐级搭建，每级附可粘贴的配置段和「该升级了」的信号，也给了用 Marketplace 里的 Dr. Eggbot 一次导入整队的捷径；后半讲导出用量后发现大部分 token 花在重读旧对话上，列九处额度泄漏的修法和一份 15 分钟自查；约 7.5k 粉、约 54 赞 / 45 收藏 · 英文
 - [Set your Grok Bot's permissions before going offline: a practical incident-investigation setup](https://x.com/doublenickk/status/2115831790191436182) — @doublenickk · 2026-10-29 · 长帖：接好事故工具后，按 Sentry、PagerDuty、GitHub 事件或 webhook 触发 routine，让 bot 比对报错与近期发版、收集日志，交回时间线、来源链接、假设和修复建议；动生产前必须人工批准；先手动跑通一次、存成 skill 再自动化，写清数据缺失或运行失败时怎么办；提醒所有 bot 共享文件、浏览器会话和登录，改名不等于隔离权限；约 1.3 万粉、约 37 赞 / 25 收藏 · 英文
+- [Hand Grok Bot seven after-work life-admin jobs, with a copyable prompt for each](https://x.com/Michael_Fenech_/status/2114781606720471354) — @Michael_Fenech_ · 2026-10-27 · 长帖：七段可直接粘贴的提示词，覆盖催回复、约预约、五天晚餐与购物清单、退货退款追踪、比价选购、找三家修理报价、把零散事务排成一周计划；每段都要求先给你批准再发送或下单，并约好跟进节奏；没接连接器时可以先转发邮件、上传单据起步；约 6 万粉、约 20 赞 / 30 收藏 · 英文
 
 ## 不收的例子
 
