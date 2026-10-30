@@ -3529,3 +3529,17 @@ NafYoung/GrokBot-Office（等距办公室可视化，本地 curl 事件，与前
 ### Skip（本轮）
 
 b2bsearch/b2bsearch-plugin（按条付费的 B2B 数据插件推广）；aikeluargalee-tech/btc-swing-engine、akari-sora/aave-oracle-lag-arb（交易/套利类不收）。
+
+## 2026-10-30 20:07 Asia/Shanghai · 白天玩法雷达
+
+> `gh search repos`（grokbot / grok-bot / "grok bot" / grokbot skill / grok bot routine，created≥10-30，取 09:30 UTC 后新建）+ X `search_posts_all`（自 09:30 UTC），按 full_name / 链接与 README、docs、inbox、.collab 去重。未改 README/docs。
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| zenvor/grokbot-avatar-gallery | https://github.com/zenvor/grokbot-avatar-gallery | **中文：20 张 Grok Bot 风格人物头像 + 逐张实际提示词 + 「上传照片转同风格」模板**，`avatars.json` 结构化列出，适合给多 Bot 队伍统一换头像。趣味向，与已在 inbox 的 maid-avatar 提示词同方向但带成品图与 JSON 清单；**未声明 License**、0★，先信号。本轮最值得看 | Fun / Avatars | **GitHub**（10-30 11:41 UTC 建） |
+
+### Skip（本轮）
+
+SiteWarming/sitewarming-grok-bot-plugin（停放域名养站的商业 MCP 插件，需付费账号，推广性质）；snbwallet365-ops/grokbot-ai-agent（签证顾问 Next.js+Mistral 应用，与 Grok Bot 无关）；sysrex/subspace（空仓，作者即 peerline，盯）；wangsen2020/grok-bot-bridge 已在 inbox。X 侧 @Juanmao_shaw 导出用量 CSV 体检省额度模板、@MartinBarna333 routine 失败写共享日志由主 Bot 补跑、@AgentLabTuts/@BertholdGlass 邮箱触发 routine 小技巧交 X 大 V 雷达；@happy20250912 GamsGo 合租推广、Uquid 订阅推广不收。

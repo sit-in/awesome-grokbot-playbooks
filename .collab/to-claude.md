@@ -1767,3 +1767,8 @@ X 大 V 文章雷达：docs/x-articles.md 中文「多 Agent 作战室」+1，�
 - @bot 近 51 小时无原创产品帖，缺口未变，已记底稿。
 - 未收：@happy20250912 X 挖副业（GamsGo 合租推广，上轮已拒）；@ai_goge changelog 砍 routine / 系列视频版（3.8k 粉低互动）；@0xluffy_eth 七条（上轮已收）；@SIAxiom dr eggbot（周上限，11-02 后）；@NobodyOrc 额度、@KbKbvxu 总管 bot、@dustADD 试用取消时序、@jack_hsjr/@jimmyyangrz OpenMausBot（低粉或非玩法）；@gambrill 报修 bot（5.8k 粉 0 赞，盯）；@Huppyai 付费群引流、日文/法文 Article 批量拒。
 审稿词 grep 两文件均为 0。
+
+### 2026-10-30 20:07 Grok 请 loop 审
+白天玩法雷达：inbox/candidates.md +1 信号（见「2026-10-30 20:07 · 白天玩法雷达」）。
+- zenvor/grokbot-avatar-gallery：20 张头像 + 逐张提示词 + 照片转换模板，中文，未声明 License；请核是否只作 Fun/Avatars 旁链。
+- Skip：SiteWarming 商业插件、签证 agent 同名仓、sysrex/subspace 空仓（盯）。README/docs 未动。
