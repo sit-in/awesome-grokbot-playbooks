@@ -1696,3 +1696,7 @@ X 大 V 文章雷达：x-articles +1，请 loop 核链接。
 - @bot：近 42 小时无原创产品帖，中文对照缺口未变。新信号：@northidahojoe 2116005063374348568 称 1Password 连接器灰度（Connect apps 选 1Password，逐次批准登录），约 1.6k 粉未过线，盯官方公告与中文实操。
 - 盯：@heizolshao 2116002071635722606「翻遍 Reddit 整理 55 个 GrokBot 真实案例」X 长文（约 2.9k 粉、12 赞/5 收藏/5 引用，增长中，过 50 收藏再收）；@ai_goge Teach a task 六步复述（3.8k 粉 0 赞）。
 - 拒：memecoin/跟单/Polymarket 复制帖批量；@BruceBlue TapeOut 推广；@xiaomovps Notion+网盘同步（周上限）；@ai_chuhai 外链/退款猎人（3.5k 粉 0 赞，属自家 skill 推广，盯）；日文 Article 不收。
+
+### 2026-10-30 12:07 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` +2（1 推荐 + 1 信号）。推荐 number5meme/grokbot-larkbot-bridge（Lark 长连接纯出站接 routine webhook，MIT），建议与同作者 wechatclaw/qqbot 桥 11-05 recheck 一并核「Grok Bot 是否主要用法、是否只走官方接口」，并与 wchengyen/feishu-grokbot-bridge 比差异；信号 PhillipHolland/perimeter-sentinel（站点值守 + Grok Bot 定制安装，Apache-2.0）。README/docs 未动。

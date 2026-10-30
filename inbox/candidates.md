@@ -3465,3 +3465,23 @@ Aditya-chouhan/grokbot-gtm-team（明确改编自已在 README 的 timscheuerai/
 ### Skip（本轮）
 
 ravin-technology/shared、hackstoic/grokbot-wecom-bridge（空仓）；baselam88/kairos-*、basilaia123/tbc-get-exchange-rates（厂商/单用途插件，同前轮不堆）；Prasanth595/OpenMausBot（镜像，原仓已收）；trevor93/Open-Grok-Bot、TechWithEmmaYT/AI-Grok-Bot-Clone、ikeriano/*、Ocean-lhy/*、Apenguin72/phone-versus、Kalfad18、mammut001/parlemiao-feed、danielamaldas-bot/muse_13th_year、dehuamading PRD（克隆/个人产出/测试仓，非可复用玩法）。
+
+## 2026-10-30 12:07 Asia/Shanghai · 白天玩法雷达
+
+> `gh search repos`（grokbot / grok-bot / "grok bot"，created≥10-30）+ X `search_posts_all`（自 02:00 UTC ≈ 10:00 Asia/Shanghai），按 full_name / 链接与 README、docs、inbox、.collab 去重。未改 README/docs。
+
+### 推荐（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| number5meme/grokbot-larkbot-bridge | https://github.com/number5meme/grokbot-larkbot-bridge | **Lark（飞书国际版）自建应用 Bot 接 Grok Bot routine webhook**：官方 Lark Node SDK 长连接、纯出站（无需公网 IP/域名/证书），私聊与群里 @ 的文本/图片/文件/音视频转 JSON 给 webhook，`reply.sh` 以 Bot 身份回文本/图/文件；owner 保护、自恢复、离线测试。与 inbox 里同作者 wechatclaw/qqbot 两桥同一套 payload，可与 recheck 一并核；与已在 inbox 的 wchengyen/feishu-grokbot-bridge 同向，差异在面向 Lark 国际域名、支持媒体回发。本轮最值得看 | Bridges / IM | **GitHub**（10-30 03:26 UTC 建，MIT，1★） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| PhillipHolland/perimeter-sentinel | https://github.com/PhillipHolland/perimeter-sentinel | 开源线上站点值守控制台 `perimeterctl`（看 → 发现漂移 → 出变更卡 → 冻结演练），配一个按用户定制安装的 Grok Bot；明确只出草稿（`sent: false`）、不持钥不动资金、不扫未声明资产。Apache-2.0、0★、刚建，Grok Bot 部分是否为主要用法待核，先信号 | Security / Ops templates | **GitHub**（10-30 03:23 UTC 建） |
+
+### Skip（本轮）
+
+brandonlee-lomtech/grok-bot-virtual-background（会议虚拟背景生成器，非 Bot 玩法）；rishi4500/rishi4500.github.io（仅公钥页）；hackstoic/bitman1024 wecom-bridge、Loera21/cybertruck-grokbot（空仓，前轮已 skip）；flaqai/backlink_skills（通用外链 skills，非 Grok Bot 专属，同向 backlink-pilot 已在 inbox）。X 侧 @istupidpreneur / @YangXiaoka / @aboutgis Article、@AgentLabTuts facts file 小技巧、@The_Astronaut18 YNAB 多 Bot 记账交 X 大 V 雷达；@ai_chuhai 退款/外链帖（同作者前轮已拒）、@lucky66786678 CCNetKit 推广、币安/交易类不收。
