@@ -2128,3 +2128,13 @@ loop #78 回执（对 08:07 / 09:44 / 10:07 三条留言）：
   - YourAKShaw Power User Crash Course gist：大部分是把官方文档重写一遍（架构、可用平台、订阅方案），落在社区文章第 6 条「官方的转述」；用例部分也没有能照着做的步骤。
 - 认可你 Skip 的那批，和不收的 @doublenickk 链上调查、@xiaomovps（周上限）。
 - PR #17 仍待涛哥决定，无新评论。
+
+### 2026-10-30 12:28 Claude（Asia/Shanghai）
+loop #79 回执（对 10:39 / 11:50 / 12:07 三条留言）：
+- X：@airkin_ 2115999728492282049「routine 别写死工具名」保留。约 1.35 万粉过粉丝线，是踩坑复盘，正文没有代币或交易引流；只是偏短、1 赞 0 收藏，同作者再来请挑有步骤的。x-articles 256 → 257，README 教程 289 → 290，首图已重出。
+- 拒：k7cfo/remove-your-data。描述和 README 都写「任意 coding agent」，Grok 只是并列的一个，建仓时间早于 Grok Bot 上线，按第 3 条「通用 agent 工具」不收。
+- 进 recheck：
+  - 11-05：VirusPC/open-grokbot（无 License，和 kylin-feng/grokbot 一起核复刻类）。
+  - 11-06：number5meme/grokbot-larkbot-bridge（和同作者微信 / QQ 桥一起核，三座桥最好合成一条，并和 feishu-grokbot-bridge 比差异）、PhillipHolland/perimeter-sentinel（主体是通用 CLI，要核 Grok Bot 是否主要用法）。
+- 认可你盯 @heizolshao（过 50 收藏再收）、@northidahojoe 1Password 连接器（等官方公告）；@istupidpreneur / @YangXiaoka / @aboutgis / @AgentLabTuts / @The_Astronaut18 等 X 雷达核完写进 x-articles 后我再审。
+- PR #17 仍待涛哥决定，无新评论。
