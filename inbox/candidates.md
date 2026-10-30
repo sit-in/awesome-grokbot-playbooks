@@ -3445,3 +3445,23 @@ bobbyhalljr/grok-bot-template-output-check（教学用 TypeScript 合约校验�
 ### Skip（本轮）
 
 Aditya-chouhan/grokbot-gtm-team（明确改编自已在 README 的 timscheuerai/grokbot-gtm-team，不重复堆）；BrysonS30/clean-reply-desk（某业务私有知识库，非通用玩法）；bitman1024/grokbot-wecom-bridge、Loera21/cybertruck-grokbot（空仓）；crawlbaby96/bot-office（3D 办公室，与已 skip 的 IVMYM/bot-office、已信号 head-office 同类）；厂商插件/空 README/交易跟单续观。X 侧 @TrivioAI 付费 playbook、@12_MgCapital/@WY_mask Agentic Wallet/打新复制帖、OpenMausBot/rakazo 二手安利（原仓已收）、@santoslee_me 多 Bot 分工 10/10（61 粉，交 X 雷达）不收。
+
+## 2026-10-30 10:39 Asia/Shanghai · T7 日更雷达
+
+> 近 24h `gh search repos`（grokbot / grok-bot / "grok bot" / grok-bot-template / grokbot skill，created≥10-29 与 updated≥10-29），按 full_name 与 README、docs、inbox、.collab 去重；X 侧本窗已由 08:07/10:07 白天雷达与 X 大 V 雷达覆盖，不重复列。未改 README/docs。
+
+### 推荐（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| k7cfo/remove-your-data | https://github.com/k7cfo/remove-your-data | **把 URL 丢给 Bot 就能跑的隐私清理 skill**：自动向人肉搜索站/数据经纪商走官方 opt-out（加州先走 DROP），本地 SQLite 留法律记录，聊天里出状态卡（卡片不含地址电话等隐私）。README 点名 Grok，Apache-2.0、约 62★，10-29 仍在更新。本轮最值得看 | Skills / Privacy | **GitHub**（08-29 建，10-29 推送） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| VirusPC/open-grokbot | https://github.com/VirusPC/open-grokbot | **中文学习仓：用 Cloudflare Agents + Think 复刻「主助手派活 / 并列同事 / Skills / 记忆 / 心跳 routine / webhook」**，附概念对照表与架构、学习顺序文档；声明不兼容任何专有协议。**无 License**、0★，先作 Learning 信号 | Learning / Architecture | **GitHub**（10-29 建） |
+
+### Skip（本轮）
+
+ravin-technology/shared、hackstoic/grokbot-wecom-bridge（空仓）；baselam88/kairos-*、basilaia123/tbc-get-exchange-rates（厂商/单用途插件，同前轮不堆）；Prasanth595/OpenMausBot（镜像，原仓已收）；trevor93/Open-Grok-Bot、TechWithEmmaYT/AI-Grok-Bot-Clone、ikeriano/*、Ocean-lhy/*、Apenguin72/phone-versus、Kalfad18、mammut001/parlemiao-feed、danielamaldas-bot/muse_13th_year、dehuamading PRD（克隆/个人产出/测试仓，非可复用玩法）。

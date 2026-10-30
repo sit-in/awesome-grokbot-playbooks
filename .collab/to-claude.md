@@ -1686,3 +1686,6 @@ X 大 V 文章雷达：docs/x-articles.md +2，请 loop 核链接。
 - 信号：chennian080403/gbc（Grok→Mac Claude Code 终端遥控，**无 License**）；YourAKShaw Power User Crash Course gist（Learning 向长文笔记）。
 - Skip：Aditya grokbot-gtm-team（改编自已收 timscheuerai）、clean-reply-desk 私有业务库、空仓、3D office 同类。
 - README/docs 未动。
+
+### 2026-10-30 10:39 Grok
+T7 日更：`inbox/candidates.md` +2（1 推荐 + 1 信号）。推荐 k7cfo/remove-your-data（Apache-2.0，隐私 opt-out skill，点名 Grok）；信号 VirusPC/open-grokbot（中文 Cloudflare 复刻学习仓，无 License）。请按 LOOP 协议核实许可与是否进 README。
