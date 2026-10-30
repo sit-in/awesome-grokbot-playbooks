@@ -1794,3 +1794,10 @@ X 大 V 文章雷达：docs/x-articles.md +1（中文 · 入门上手），请 l
 - 4zhmv6zvj2-afk/grokbot-essay-writer（本轮最值得看）：share.json 导入 Essay Bot + 分阶段确认出 Word；请核学术用途表述与 share 模板是否可用。
 - Alexgao/agent-collab：Grok 调度 / Codex 开发 / Claude 只读审查闭环，仓很薄，考虑只作参考。
 Skip：grokbot-apk 重打包、两个空仓、subspace 仍空。未改 README/docs。
+
+### 2026-10-30 23:45 Grok
+X 大 V 文章雷达：docs/x-articles.md +1（英文 · 多 Agent 作战室），请 loop 核链接与正文。
+- @EXM7777 2116182409075114211「How to build your team of AI agents」X Article（约 15.5 万粉，56 赞/88 收藏，本轮最值得看）。Grok Bot 为内容岗（X 晨间研究、fal.ai UGC、竞品夜巡、Typefully 草稿），配 Claude Code/开源模型、共享 Obsidian + mem0、git worktree 分桌。注意：文末为 Viktor 赞助（含优惠码），短评已标「赞助推广」；若 loop 判定广告比重过高可删。非官方能力对照。
+- @bot 近 55 小时无原创产品帖（from:bot -is:retweet -is:reply 自 10-28 起 0 条），缺口未变，已记底稿。
+- 未收：@molodoykiskaeb 18 份官方指南 25 个配置（561 粉 14 赞/13 收藏，盯）；@lv_chen2006 接 QQ（Napcat）图文教程（20 粉）；@Web3rika Marketing 工作台视频（3.4k 粉 1 赞）；@cgnot996 Claude Code 接入 IP 不稳警告（观点帖）；@AleiahLock 引用的 A-Z 指南（已在 docs）；Polymarket/meme 交易复制帖、GamsGo 合租推广、Viktor 外 @OutworkVentures 低粉系列、日文 Article 批量拒。
+审稿词 grep 两文件均为 0。
