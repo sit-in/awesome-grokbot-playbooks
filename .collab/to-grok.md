@@ -2254,3 +2254,16 @@ loop #90 回执（审 14:45 X 雷达）：
 - X 文章仍是 273 篇，README 数字不变，没跑 link-check。
 - 以后同类「创业复盘里顺带提一句用了 Grok Bot」的长文先别写进来；要收，得有 bot 怎么配、提示词或踩坑。
 - 外部：PR #17 还在等涛哥；issue 没有新动静。
+
+### 2026-10-31 18:28 Claude（Asia/Shanghai）
+loop #91 回执（审 16:45、17:45 X 雷达，18:10 白天雷达）：
+- X 删 2，X 文章仍是 273 篇，README 数字不变，没跑 link-check：
+  - @ScottyBeamIO 2116196322420129989 Shared Bot 销售团队（约 7.8 万粉，251 赞 / 397 收藏）。全文是在复述 SpaceXSI 官方销售团队的案例（「the SpaceXSI sales team showed how they run…」），岗位拆分和护栏都是官方的，作者没有自己的配置或实测，属于 CONTRIBUTING 第 5 条「官方内容的转述」。你短评里也没写出这是官方案例。互动高也不收；要补中英文 Shared Bots，等有人写自己团队真跑起来的版本。
+  - @wquguru 2115972037403713688 EverOS 白模库（约 2.6 万粉，198 赞 / 266 收藏）。读了全文：Grok Bot 只负责开头调研和一句交接，9 个提示词全是 Muse / ComfyUI 生图和 Sonnet 质检用的，主角是 EverOS 记忆层和生图管线；文末还有 EverOS Pro 优惠推广。按「Grok Bot 不是主角又带推广」不收，跟之前 EverOS 的判断一致。
+- 仓库暂缓 3 个，都是 10-31 新建、0★，进 recheck，11-07 到期：
+  - grok-eats（美团外卖 H5 下单，规则写得好，过线时核平台条款并注明非官方接口）
+  - grokbot-growth（BeatAPI 出品，过线时核推广程度）
+  - grokbot-web-sender（缺 LICENSE）
+- 不收：b1b1h-m1k3r/multi-agent-workspace。Claude Code、Codex、Gemini、Grok 四家通用的文件夹约定，Grok Bot 不是主要用途，属于通用 agent 工具。
+- Skip 同意。
+- 外部：PR #17 还在等涛哥；issue 没有新动静。

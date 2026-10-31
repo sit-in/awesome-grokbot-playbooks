@@ -65,7 +65,6 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [走在马路上交代一句：把 Grok Bot 当秘书，按「路由」规矩分活给云电脑上的 Claude Code / Codex](https://x.com/wshuyi/status/2114712927358128211) — @wshuyi · 2026-10-26 · X 长文：语音派活、改 Skill 后由秘书判断哪些片子续做哪些重拍，简单活自己干、难活按大白话路由交给云电脑上的编码 Agent，末尾附起步建议 · 中文
 
 - [保姆级教程：给 Grok Bot 团队搭一间 3D 虚拟办公室](https://x.com/btcup99/status/2116061235250884931) — @btcup99 · 2026-10-30 · X 长文：Three.js 等距办公室显示每个 bot 实时状态，后端一个只读状态接口加一个带 token 的上报接口，给 bot 一条 office-report 上报命令，附可直接复制的搭建提示词和 Cloudflare Workers 免服务器方案；隐私规则（只报笼统任务类型）、限流和踩坑写得清楚；约 4.7k 粉，长文约 24 赞 / 35 收藏、展示帖约 52 赞 / 44 收藏 · 中文
-- [21 小时、3 个 Agent 接力：用共享记忆层做出 1000+ 张 CC0 白模姿势库](https://x.com/wquguru/status/2115972037403713688) — @wquguru · 2026-10-30 · X 长文：Grok Bot 先做版权、压缩和生图路线调研，结论存进托管版 EverOS MCP，Muse 和本机 Claude Code 新窗口直接读到接着干；附一段让 Agent 自己装记忆 MCP（OAuth 登录、调一次确认连通、约定存/查口令）的提示词和 9 个生图、质检提示词，成品与代码开源；记忆层是第三方服务，文中有推广链接；约 2.6 万粉、约 197 赞 / 264 收藏 · 中文
 
 ## 中文 · Routine 雷达与额度
 
@@ -208,7 +207,6 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How to Build Your Own AI Team: Start With One Bot, Not Ten](https://x.com/joelcomm/status/2115507903171887128) — @joelcomm · 2026-10-29 · X 长文：作者把 62 个 bot 精简成 10 个各管一件事的团队，先建首席 bot 负责派活和追踪，再加一个专门挑错的核对 bot；给出 15 分钟搭建顺序、「一天只加一个 bot」的五日计划、禁止 bot 擅自做的事项清单和一段可粘贴的首席 bot 提示词；作者约 59 万粉，团队刚搭好暂无效果数据 · 英文
 - [Anatomy of a Personal Factory of Grok Bots](https://x.com/RoyOsherove/status/2115591603133764082) — @RoyOsherove · 2026-10-29 · X 长文：搭了 8 天的个人 bot 工厂，一个 bot 一份活、共享记忆、一块决策仪表盘再接编程 CLI，并写了还缺什么；约 1.2 万粉 · 英文
 - [How I Turned Grok Bot Into an Operating System for 26 AI Agents (Full Course)](https://x.com/JulianGoldieSEO/status/2116363222781702403) — @JulianGoldieSEO · 2026-10-31 · X 长文：一块屏管 26 个 bot，用 6 段可粘贴提示词搭出总控：一键唤起整个团队、给每个 bot 打分、跟踪每项任务走到哪一步，所有屏都只读、不替 bot 发东西；6 段提示词免费给，bot 清单模板和完整版放在作者的付费社群里；约 17 万粉 · 英文
-- [Start selling with Grok Bot: one Shared Bot per sales role](https://x.com/ScottyBeamIO/status/2116196322420129989) — @ScottyBeamIO · 2026-10-30 · 长帖：照着一支销售团队的做法，先让每个销售自己建调研、会前准备、管线 bot，再把好用的升级成团队共用的 Shared Bot，一个岗位一个：客户情报 bot（会后读通话记录、更新 CRM、起草跟进邮件待审）、报价 bot（并排出多套报价，改动前先预览再问）、交易审核 bot（按公司政策查非标价格条款，需人判断的转给专人并留痕）；护栏写清了每个 bot 用销售本人的权限、不能自批折扣、对客户的内容先人审；约 7.8 万粉、232 赞 / 368 收藏 · 英文
 
 ### Routine 雷达与额度
 
