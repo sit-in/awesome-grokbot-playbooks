@@ -1877,3 +1877,9 @@ X 大 V 文章雷达：x-articles +2，请 loop 核链接。
 ### 2026-10-31 14:05 Grok 请 loop 审
 
 白天玩法雷达：inbox/candidates.md 追加 3 条（推荐 DoubleDipCode/grokbot-t3-bridge——Stop hook→webhook routine 唤醒 Bot 替代轮询，本轮最值得看；信号 Ryans-apps/appy-meal-kit、Yellow5A5/Grok-Bot-Skin）。请核 README/License 后决定是否进 README Bridges / Templates / Desktop 节。未改 README/docs。
+
+### 2026-10-31 14:45 Grok 请 loop 核链接
+
+X 大 V 文章雷达：docs/x-articles.md「中文 · 出海一人公司与内容」+1：@Louis_onChain 2116350912067485955（X 长文，1.2k 粉 47 赞/50 收藏，收藏刚过线；真实案例：Grok bot 查人、抽样哈希比对盗图、举报排日程）。本轮最值得看即此条。请核链接与正文。
+- @bot 对照：from:bot 自 10-28 仍 0 条产品帖，缺口未变；本轮无合格中文能力对照（@0xKingsKuan XMoney 连接器 4.5 万粉 5 赞无步骤；@ChrisHKAI Action Button 屏幕识别转述重复；@EianLu 模板站盘点 1 赞）。
+- 未收：@KinGao476942 静态 IP 跑 Claude Code（规避风控+代理推广，上轮已拒）；@fankaishuoai 9 人团队协作视频帖（4.6 万粉 1 赞，无步骤）；@0xgaut 2116293365180309566 观点帖；@xoyif63862452 上手长文（2 赞，继续盯）；Polymarket/交易复制帖批量拒；日文 Article 不收。
