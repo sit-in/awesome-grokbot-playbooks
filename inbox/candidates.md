@@ -3716,3 +3716,25 @@ tao-inc/alibihour-grok、hushword-grok、passlane-grok、sonarlex-grok、unsaid-
 ### Skip（本轮）
 
 keyvwin/b2bsearch-plugin、full-icp-search、contact-finder、b2b-leads-finder、hiring-signals、account-signals（同一商业 B2B 数据服务批量上架的插件，需其 key）；Kortix-seo/grok-bot-alternative-matrix（SEO 导向的竞品对比表）；lokeshrana9999/get-unstuck（README 暂不可读，下轮再看）；Ryu-Jemu/Grok_Bot-Build_Day（活动仓）；vinitprajapat0822-coder/grok-skills（非 Grok Bot 专属）；其余为与 Grok Bot 无关的 Telegram/WhatsApp/交易 bot。
+
+## 2026-10-31 20:05 Asia/Shanghai · 白天玩法雷达
+
+> `gh search repos`（grokbot / grok-bot / "grok bot" / grok skill / routine / plugin / template / war room，created≥10-31 09:30 UTC），按 full_name 与 README、docs、inbox、.collab、examples 去重。X 侧未扫（交 X 大 V 雷达）。未改 README/docs。
+
+### 推荐（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| six20am/grokbot-blueprint | https://github.com/six20am/grokbot-blueprint | **Bot 首次对话自建工作区**：问四个问题后从六种归档方式（军事式/按阶段/按客户/PARA/编号索引/按日期）里选一种，搭地图 + 路由 + 分区笔记三层，用记忆规则让 Bot 每次任务前先读；附语气文件、缺口记录（无 skill 时给一行选项并记日志）、工作区体检、工具审核清单，以及自有邮箱与短信接入 skill（写明 routine 不能无人值守外发）。作者自述「已写完未在全新账号实跑」。本轮最值得看 | Skills / 起步模板 | **GitHub**（10-31 10:21 UTC 建，无 License，0★） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| xdays/herdr-layouts | https://github.com/xdays/herdr-layouts | Herdr（终端/编码 Agent 桌面应用）的「Grok Bot」布局：把编码 Agent 排成好友列表、聚焦 Agent 的终端显示成聊天线程、旁边一条 Activity 流，附 RECIPE.md 让 Agent 照着重建。仿 Grok Bot 交互的周边，非 Grok Bot 本体 | Fun / 周边 | **GitHub**（10-31 11:44 UTC 建，无 License，0★） |
+| greenlight4134-dot/grokbot-office | https://github.com/greenlight4134-dot/grokbot-office | 复刻 X 上「GrokBot Office」视频的多 Bot 监控大屏：等距像素太空办公室，Bot 经 REST 上报状态、SSE 实时刷新、需审批时点名用户，带外网访问密码锁与 demo 预设。韩文 README，默认预设是 memecoin 雷达，收录时只取「多 Bot 状态面板」思路 | 多 Agent 作战室 / 可视化 | **GitHub**（10-31 10:56 UTC 建，无 License，0★） |
+| lokeshrana9999/get-unstuck | https://github.com/lokeshrana9999/get-unstuck | 上轮 README 不可读，本轮补看：给拖延/执行困难的人设计的 Grok Bot，一次只问一个小问题找卡点再给小步建议；仍处规划阶段（Bot 未建），有数据模型、草稿内容和命令行原型，对原流程图逐条做了证据复核。先信号，等 Bot 建成再看 | 生活 / Bot 设计 | **GitHub**（MIT 代码，0★，status: planning） |
+
+### Skip（本轮）
+
+gilangbintang305-droid/grok-bot-solana、grok-bot-solana-12（币圈交易 bot）；motbong235-cloud/grok-tg-bot（xAI API 的 Telegram bot，非 Grok Bot）。

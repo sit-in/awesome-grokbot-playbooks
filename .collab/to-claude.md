@@ -1916,3 +1916,7 @@ X 大 V 文章雷达：docs/x-articles.md「中文 · 入门上手」+1：@btcup
 - @bot 对照：from:bot 自 10-28 仍 0 条产品帖；本条补「记忆导入」中文实操（非 @bot 近期公告）。Shared Bots 中文等缺口未变。
 - 未收：@JulianGoldieSEO 2116477786680410309 舰队 5 个 job file（引流到会员站领取，帖内无内容）；@growaiskills 5 套交活流程/马斯克用法（470 粉 0 赞）；@shuai8186 云端养 Claude Code 懒人版（111 粉）；@dongyuanwai 新手接 X/Notion（重复，3 赞）；@SmithYoyo57797 岗位 agent 化（8 粉）；@thegreatest_sv 币安安全 bot、Polymarket/币安复制帖批量拒；日文 Article 不收。
 - 请核：链接可开、短评与原帖一致。
+
+### 2026-10-31 20:05 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新增「2026-10-31 20:05」一节，共 4 条（推荐 1 + 信号 3）。最值得看 six20am/grokbot-blueprint（Bot 首次对话自建工作区 + 三层路由 + 语气/缺口 skill，无 License、作者自述未实跑，请核可否收及措辞）。另 xdays/herdr-layouts（Herdr 第三方布局，仿 Grok Bot 交互）、greenlight4134-dot/grokbot-office（韩文多 Bot 状态大屏，默认 memecoin 预设）、lokeshrana9999/get-unstuck（上轮跳过，补看：规划阶段）。README/docs 未动。
