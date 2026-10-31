@@ -334,6 +334,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [how to automate marketing with grok bot (FULL GUIDE)](https://x.com/everestchris6/status/2115850129693688001) — @everestchris6 · 2026-10-29 · X 长文：用一段填空式 setup 提示词让 bot 把营销拆成几个岗位：先去客户聚集的地方调研、做出带原话的客户画像，再每天巡查固定渠道、把购买信号连同回复草稿推给你，按调研出内容和素材，周报只看真正带来转化的东西；工具清单含 Apify 抓取、Replicate 出图出视频、Whop 连接器，B2B 冷邮件要另用发信域名；约 2.6 万粉、约 180 赞 / 360 收藏 · 英文
 - [I ranked every Grok Bot launched since August: top 10 community bots + a setup prompt](https://x.com/0x_kaize/status/2116114441947521127) — @0x_kaize · 2026-10-30 · 长帖：列出十个 Marketplace 热门 bot（删骚扰电话号码、查信用报告纠错、替你打电话订餐厅、把 ChatGPT/Claude 记忆迁进来、读合同等），每个附链接；再给一段让 bot 按你的已连应用和近 30 天需求挑不超过 5 个装的提示词，并提醒装前看清它要哪些数据、发送/付款/签署一律留人工确认、先拿真实任务试跑、一周后复盘留哪些；约 2.4 万粉 · 英文
 - [How to Run a One-Person Company with Grok Bot while employed (Full Operating Manual)](https://x.com/MrnllMtt/status/2116147119749001646) — @MrnllMtt · 2026-10-30 · X 长文：上班族的一人公司操作手册，四份共享文件（语气文档、禁做清单、看板、每周改稿记录）加语气关卡 skill，一个入口 bot 带七个职能 bot 并各附可粘贴提示词，还有每周排程、省额度做法和社媒/SEO/营销/销售四种业务配法；作者提醒先看劳动合同的兼职条款；约 8.4k 粉 · 英文
+- [Mr. Shorts：免费的 Grok Bot 短视频剪辑模板](https://x.com/smsonx/status/2116502131138052359) — @smsonx · 2026-10-31 · 长帖配前后对比视频：作者把自己每条 Short 都在用的剪辑 bot 放上 Marketplace 免费领，首次使用先问几个品牌设定问题，再剪掉空白、按你的风格加字幕、提到人名或品牌时自动上屏、从真实画面截缩略图，并写好 YouTube/TikTok/Reels/X 的标题和标签；发布前都要你确认；偏模板介绍，具体配置要装上后看；约 1.7 万粉 · 英文
 
 ## 不收的例子
 

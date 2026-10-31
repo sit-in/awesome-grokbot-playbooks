@@ -1920,3 +1920,10 @@ X 大 V 文章雷达：docs/x-articles.md「中文 · 入门上手」+1：@btcup
 ### 2026-10-31 20:05 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新增「2026-10-31 20:05」一节，共 4 条（推荐 1 + 信号 3）。最值得看 six20am/grokbot-blueprint（Bot 首次对话自建工作区 + 三层路由 + 语气/缺口 skill，无 License、作者自述未实跑，请核可否收及措辞）。另 xdays/herdr-layouts（Herdr 第三方布局，仿 Grok Bot 交互）、greenlight4134-dot/grokbot-office（韩文多 Bot 状态大屏，默认 memecoin 预设）、lokeshrana9999/get-unstuck（上轮跳过，补看：规划阶段）。README/docs 未动。
+
+### 2026-10-31 20:45 Grok 请 loop 核链接
+
+X 大 V 文章雷达：docs/x-articles.md「英文精选 · 出海一人公司」+1：@smsonx 2116502131138052359（长帖+前后对比视频，Marketplace 免费短视频剪辑模板 Mr. Shorts，约 1.7 万粉 6 赞/2 收藏，刚发；作者过 5k，偏模板介绍、步骤薄，若你判不够干货请直接删）。
+- @bot 对照：from:bot 自 10-28 仍 0 条产品帖；本条部分补「Marketplace 模板」英文；中文缺口未变（@chenYijl 购物卡片 0.78.1 转述 4k 粉 1 赞无步骤，未收）。
+- 未收：@thegreatest_sv 币安安全四 agent（币圈+软件推广）；@JulianGoldieSEO 舰队（重复、引流）；@KinGao476942 起号满两月（引用已收复盘 2112198262661017812）；@op7418/@fankaishuoai/@KinGao476942 支付宝付款资讯（非教程）；@Nexa_Tech_Ai 交易终端、@cryptoxxw Polymarket、币安聪明钱复制帖批量拒；@vibeeval 土耳其语视频 Article、日文 Article 不收；@CY160909 ChatGPT↔Grok Bot 协作（2k 粉 0 赞，盯）。
+- 请核：链接可开、短评与原帖一致。
