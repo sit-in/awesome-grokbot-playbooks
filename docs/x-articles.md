@@ -339,6 +339,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How to Use Grok Bot for LinkedIn So Well It Feels Illegal](https://x.com/paolo_scales/status/2116511723167289793) — @paolo_scales · 2026-10-31 · X 长文：先粘一段业务背景（客户、定位、观点、可用案例）存成参考文档，再用 12 段可粘贴提示词搭出 LinkedIn 内容系统：语气指南、买家问题挖掘、四周内容日历、起草与独立审稿、按卡住的商机写内容、按商业结果复盘；约 1.7 万粉、26 赞 / 44 收藏 · 英文
 - [How to Save Tokens in Grok Bot Without Upgrading Your Plan](https://x.com/0x_kaize/status/2110055685048209702) — @0x_kaize · 2026-10-14 · X 长文：讲清额度按动作而不是按消息算（工具、浏览器、子 agent、每步重读整段对话），给出一任务一个新对话/一个 bot、能走连接器就别开浏览器、放慢例行频率等省额度习惯，附浏览器与 API 两种跑法的步数和 token 对比；约 2.4 万粉，535 赞/1200+ 收藏 · 英文
 - [Create a Viral Content Engine with AI (Full System Breakdown)](https://x.com/ElevenCreative/status/2116530352869224754) — @ElevenCreative · 2026-10-31 · X 长文：先建一个连上 X 的「Niche Researcher」bot，每天追踪细分赛道前十的帖子、总结受众情绪和爆款原因并给出下一条选题，提示词附全文；后半段用作者自家 ElevenCreative 平台做品牌套件和视频流水线，可只抄前半段；约 1.1 万粉 · 英文
+- [Two Days, One AI Teammate: what I built with Grok Bot so far](https://x.com/Nortier/status/2116545268317405424) — @Nortier · 2026-10-31 · 长帖真实搭建记录：两天里让 bot 每早 8 点汇总宝可梦卡牌新闻、读自家平台数据挑冷门卡并起草两条帖，晚上再起草回复；另搭一条本地商家获客流水线，找没网站的小店、核公开邮箱、做手机版原型站、写带截图的个人邮件存进 Gmail 草稿，发帖和发信都由本人按键；约 7.3k 粉 · 英文
+- [10 ways to make $1000/week with Grok Bot (realistic)](https://x.com/milesdeutscher/status/2116545227993522646) — @milesdeutscher · 2026-10-31 · 长帖思路清单：代理商线索、X 账号诊断、小商家 AI 咨询、创业公司招人撮合、发布周支持、加密项目社区管理、品牌趋势报告、长视频切片、打包卖 bot 模板、天使投资项目流十个接单方向，每条一句说明用哪类 bot；偏思路、无具体步骤；约 68 万粉、55 收藏 · 英文
 
 ## 不收的例子
 

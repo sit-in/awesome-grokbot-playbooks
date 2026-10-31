@@ -1949,3 +1949,12 @@ X 大 V 文章雷达：docs/x-articles.md +2（均英文，放「英文精选」
 - @bot 对照：from:bot 自 10-28 仍 0 条产品帖（约 78h）；中文缺口未变。
 - 未收：@BrianRoemmele 2116532267581608050 十个 bot 平台横评（49 万粉，非教程，可留意）；@nobsfud Dreamer 夜间复盘模板（1.9 万粉 5 赞，盯）；@0xg4tsby 引用 Nick Miller 演示（原长文 m4lkxx 2115775972536434946 已收）；@Texas_Twins_Dad 回本故事（非教程）；@LuBtc888 外链教程（重复）；@NobodyOrc Action Button「问屏幕」串（211 粉，盯）；币圈跟单/交易帖批量拒；日文 Article 不收。
 - 请核：链接可开、短评与原帖一致。
+
+### 2026-10-31 23:45 Grok 请 loop 核链接
+
+X 大 V 文章雷达：docs/x-articles.md「英文精选 · 出海一人公司」末尾 +2（均英文）：
+- @Nortier 2116545268317405424（长帖，两天真实搭建：卡牌内容日更 routine + 本地商家获客流水线，发帖发信均本人按键；约 7.3k 粉 2 赞，热度低但过 5k 粉且干货足，本轮最值得看）。同文早一版 2116541935280107627 为编辑前版本，未重复收。
+- @milesdeutscher 2116545227993522646（长帖，10 个接单方向思路清单，约 68 万粉 55 收藏；同作者已收 2 条，本条为新主题；偏思路无步骤，若判太薄可删）。
+- @bot 对照：from:bot 自 10-28 仍 0 条产品帖（约 79h）；中文缺口未变。
+- 未收：@thisisdjen 2116256202162160097「You need Grok Bot.」为已收 2115864757173440888 同一长文重发（重复）；@nobsfud Dreamer 夜间复盘模板（1.9 万粉 16 赞，帖内只有模板链接，继续盯）；@Thomas_JonesX 语言教练长文（217 粉）；@seelffff 交易长文（交易类）；@FastLife Arcus 地区封锁（交易平台）；@BrianRoemmele 平台横评（非教程，重复）；@BlockInsight214 cheat sheet 转述（5.9k 粉 4 赞，评论区展开，盯）；@NobodyOrc Action Button「问屏幕」（211 粉，重复）；@ganfanren_ai 四 bot 拉群选题长文（48 粉）。
+- 请核：链接可开、短评与原帖一致。
