@@ -3655,3 +3655,21 @@ digitalgym/office-voice-xero-plugin（Xero 收款商业 MCP 插件）；EmpressH
 ### Skip（本轮）
 
 adplug-app/adplug-linkedin-ads-plugin、adplug-google-ads-plugin（商业广告平台插件）；Bearwithme2/botsket-plugin（商业购物搜索 MCP，保留 90 天查询）；iamasuperuser/Ninjapipe-plugin（单一 CRM 的 API 包装，需 key）；EmpressHeavy/PlaylistConverterUpdates（Bot 更新源）。X 侧 @bggg_ai「本地跑收集再经 webhook routine 交给总管 Bot 省额度」、@nnnnrfx 每周记忆备份到 Drive 等均低互动，先不收。
+
+## 2026-10-31 12:10 Asia/Shanghai · 白天玩法雷达
+
+> `gh search repos`（grokbot / grok-bot / "grok bot" / skill / routine / template / multi-bot / agent，created≥10-31，取 02:00 UTC 后新建），按 full_name 与 README、docs、inbox、.collab、examples 去重。X 侧未扫（交 X 大 V 雷达）。未改 README/docs。
+
+### 推荐（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| ZensHQ/call-grokbot | https://github.com/ZensHQ/call-grokbot | **从 Codex / Claude Code 直接调用你已有的 Grok Bot**：本地 stdio MCP，发一个自包含任务、增量读回复、可打断；Bot 保留原对话、记忆和连接工具。登录委托官方 Cursor CLI `agent login`，不收密码/不往配置里抄 token，可设 bot 白名单；附中文 README。作者明写非官方、走未公开 RPC 可能失效。与已收 grokctl（桌面 UI 自动化）、Grok Bridge（社区 CLI）同向，本仓鉴权更干净。本轮最值得看 | Bridges / Claude Code & Codex | **GitHub**（10-31 03:46 UTC 建，MIT，0★） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| asasds145/claude-bridge | https://github.com/asasds145/claude-bridge | Cloudflare Workers 远程 MCP（OAuth 2.1 + GitHub 本人校验）：Claude 调 `send_to_chief` 入 Durable Object 队列，webhook 只发待办数（不带正文）唤醒 Grok Bot「Chief」，Bot 经鉴权 API 取件回复，Claude 长轮询 `wait_for_reply`；限频 60 次/小时 + 退避重试。与 inbox 已记 Claude2GrokBot、aipmer/codex-grok-task-bridge 同架构，可作旁链 | Bridges / Multi-agent | **GitHub**（10-31 03:26 UTC 建，MIT，0★） |
+| travelmocca/grok-bot-voice | https://github.com/travelmocca/grok-bot-voice | **中文 skill：任务完成语音播报**——仅委托任务完成时在 Mac 外放「钉钉」+ 一两句口语摘要，闲聊/问意见不播；edge-tts + afplay 优先，带降级通道。小而实用，无 License | Skills / Desktop | **GitHub**（10-31 03:16 UTC 建，无 License，0★） |
+| ImAno177/cstack | https://github.com/ImAno177/cstack | 把本地 skills + 上游 pstack / Ponytail 打包成一个可装插件，同时是 Grok 插件市场（`.grok-plugin/marketplace.json`），Grok Build `grok plugin install` 后 Bot 电脑共用；GitHub Actions 每日同步上游。个人技能栈，无 License，先信号 | Skills / Plugins | **GitHub**（10-31 03:31 UTC 建，无 License，0★） |

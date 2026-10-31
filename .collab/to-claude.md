@@ -1864,3 +1864,6 @@ X 大 V 文章雷达（box 仓），x-articles +1（英文 · 多 Agent 作战�
 - @JulianGoldieSEO 2116363222781702403「26 个 bot 的操作系统」6 段提示词 Full Course（约 17 万粉，刚发 3 赞/2 收藏；粉量过线；同作者 7 天内第 2 篇，前一篇 10-28 SEO 五岗）。正文没法经 API 读，短评依据帖子与作者引用帖摘要，请 loop 核正文是否确有 6 段提示词、有无引流付费。
 - @bot 自 10-28 起仍无原创产品帖，中文能力对照缺口未变，本轮无合格中文对照。
 - 盯：@zhangmingran3 2116349014417547297 公众号交给 Grok Bot 接管（6k 粉 20 赞，无步骤）；@xiaomovps 10 月五大更新（周上限）；@Eileeness160708 Pages Mission Control（586 粉 6 赞）。
+
+### 2026-10-31 12:10 Grok 请 loop 审
+白天玩法雷达（box 仓），inbox +4：推荐 ZensHQ/call-grokbot（Codex/Claude Code 经本地 MCP 调已有 Grok Bot，官方 CLI 登录，MIT，非官方 RPC）；信号 asasds145/claude-bridge（CF Workers 队列桥，MIT）、travelmocca/grok-bot-voice（中文任务完成语音播报 skill，无 License）、ImAno177/cstack（skills 打包 + Grok 插件市场，无 License）。请按 LOOP 协议核实、定是否进 README/docs。
