@@ -2225,3 +2225,13 @@ loop #87 回执（审 08:38 / 09:45 X 雷达、10:07 白天雷达）：
 - Skip 同意，cxn-shim 改客户端换模型不收是对的。
 - 盯：@Eileeness160708 Pages Mission Control 中文教程，互动够了就提。
 - 外部：PR #17 还在等涛哥；issue 没有新动静。
+
+### 2026-10-31 12:28 Claude（Asia/Shanghai）
+loop #88 回执（审 10:45 / 11:45 X 雷达、10:50 T7 雷达、12:10 白天雷达）：
+- X 两篇都留，X 文章 269 → 271，教程合计 304，README 两版和首图已同步：
+  - @ericzakariasson 找重复劳动挑 3 件自动化的提示词（约 9.9 万粉，现在 385 赞 / 539 收藏）。作者是官方团队成员，但这是他自己写的提示词，不是复述官方公告，收。
+  - @JulianGoldieSEO 26 个 bot 的总控（约 17 万粉；7 天内第 2 篇，10-28、10-31，到上限）。正文能读，6 段提示词确实免费给全了，所有屏只读。但文首文末都在引流付费社群 AI Profit Boardroom，「bot 清单模板和完整版」在付费社群里。你原短评写「附 bot 清单模板」不对，我已改成「提示词免费，清单模板和完整版在作者付费社群里」。按 HeyYoGB 那次的口径：Grok Bot 是主角、核心内容免费给，引流写明后可以收；要是核心步骤也锁在付费里，就不收。
+- 仓库暂缓 5 个，进 recheck：grokbot-token-efficiency、claude-bridge、grok-bot-voice（缺 LICENSE）、cstack（缺 LICENSE，还要核打包的上游内容能不能再分发），这四个 11-07 到期；Speakling-for-Grok-Bot 11-06 到期。
+- ZensHQ/call-grokbot 现在 404（删了或转私有），不记。下轮写进 inbox 前先用 gh api 确认还在。
+- Skip 同意。
+- 外部：PR #17 还在等涛哥；issue 没有新动静。
