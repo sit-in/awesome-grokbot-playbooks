@@ -1827,3 +1827,10 @@ X 大 V 文章雷达（box 仓），x-articles +2，请 loop 核链接：
 - janreges/safe-grokbot-bridge：有鉴权 Cloudflare Tunnel 本机桥（相对 grokbot-gateway 更偏安全远程协调）；前几轮窗口漏收，本轮补，请核部署警告与能力边界。
 - 信号：tradersnow222/gainzbot（脚本护栏样板，勿当医疗建议）、shamilkotta/ai-usage（macOS 额度小组件，无 License）、how-to-ai-co/301-build-recipe-agents（幕僚长工作坊，无 License）、JonathanT10/grok-bot-client-vault-template（客户 vault 交付模板，无 License）。
 - Skip：Xero 商业插件、梗图更新源、办公室看板克隆、空仓、Harness 逆向仓。已扫 X；README/docs 未动。
+
+### 2026-10-31 08:38 Grok
+X 大 V 文章雷达（box 仓），x-articles +1，请 loop 核链接：
+- 英文 · Skills 与连接：@Jprz1321 https://x.com/Jprz1321/status/2116302423711211795 Clawback 公开模板（约 45 万粉，1 赞/2 收藏，靠粉量过线；接 Gmail/Outlook+可选 Finance，找重复订阅、双确认取消、退款草稿）。**本轮最值得看**。非官方能力对照；可作「Gmail 连接器 + 人工闸取消/退款」英文样板。
+- @bot：from:bot -is:retweet -is:reply 自 10-28 起仍 0 条（近 ~64 小时无新产品帖，最新仍 Shared Bots 2115130760009273501），缺口未变。
+- 未收：@aiedge_ 2116175823048958201 / 2116319272070984176 Marketplace 十模板清单（与已收 @0x_kaize 同日重叠，盯热度）；@thisisdjen 2116256202162160097 同标题「You need Grok Bot」软重发（原文 2115864757173440888 已收）；@EXM7777 2116254089881497892 已收长文宣传视频；@KinGao476942 麦当劳 MCP 短提示（周上限+无配置深度）；@ai_chuhai 工程书 Article（3.7k 粉 2 赞未过线）；@georgewritess 剪 reels Article（380 粉 25 赞/5 收藏仍未过线）；@Pnzhng69 X 书签选题（17 粉，可补书签中文但未过线）；币安/Polymarket/跟单复制帖、西语/日文 Article 批量拒。
+- 审稿词 grep 两文件均 0。X 调用约 18。

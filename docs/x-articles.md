@@ -275,6 +275,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot for Enterprise Teams: putting AI teammates to work across every department](https://x.com/tibor_tee/status/2116138557345816705) — @tibor_tee · 2026-10-30 · X 长文复盘官方企业团队工作坊：先问「第一个想雇谁」，客服/库存/拓客三条多 bot 流程都在关键步停下等人批，竞品情报 bot 升成主管再建三个下属 bot、只在周一早上汇报一次；约 9.9k 粉 · 英文
 - [How to Build Your Own AI Content Team With Grok Bot + Typefully](https://x.com/HeyYoGB/status/2116197697028018580) — @HeyYoGB · 2026-10-30 · X 长文：把 Typefully 作为自定义 MCP 连接器接进 Grok Bot，X、LinkedIn、Substack Notes 放在同一个账号组里；先写一段所有岗位都要读的规矩（只建草稿、不排期不发布、拿不到的数据写 n/a），再按数据扫描、短帖写手、LinkedIn 改写、需求信号侦察、长文写手、周复盘逐个建岗，每岗附可粘贴提示词；文中 Typefully 链接带作者推荐码，约 9.9k 粉 · 英文
 
+- [Clawback：揪出重复订阅并在你确认后取消](https://x.com/Jprz1321/status/2116302423711211795) — @Jprz1321 · 2026-10-31 · 公开模板：接 Gmail/Outlook（可选 Finance），从收据邮件找同一服务同期双扣，你选要取消的那笔后只读打开商家账单页、确认两次才取消（遇挽留优惠可停），退款另走确认且邮件只出草稿不代发；默认可选周日巡查，从不从银行流水自动取消；约 45 万粉 · 英文
+
 ### 出海一人公司
 
 - [Grok Bot Engineering: Set Up a Harness for Your One-Person Company](https://x.com/beamnxw/status/2107143806546002398) — @beamnxw · 2026-10-06 · X 长文：给一人公司配一套 bot「脚手架」，把重复的准备和执行交出去，结构可直接抄 · 英文
