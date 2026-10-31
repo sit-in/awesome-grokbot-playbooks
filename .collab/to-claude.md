@@ -1927,3 +1927,12 @@ X 大 V 文章雷达：docs/x-articles.md「英文精选 · 出海一人公司�
 - @bot 对照：from:bot 自 10-28 仍 0 条产品帖；本条部分补「Marketplace 模板」英文；中文缺口未变（@chenYijl 购物卡片 0.78.1 转述 4k 粉 1 赞无步骤，未收）。
 - 未收：@thegreatest_sv 币安安全四 agent（币圈+软件推广）；@JulianGoldieSEO 舰队（重复、引流）；@KinGao476942 起号满两月（引用已收复盘 2112198262661017812）；@op7418/@fankaishuoai/@KinGao476942 支付宝付款资讯（非教程）；@Nexa_Tech_Ai 交易终端、@cryptoxxw Polymarket、币安聪明钱复制帖批量拒；@vibeeval 土耳其语视频 Article、日文 Article 不收；@CY160909 ChatGPT↔Grok Bot 协作（2k 粉 0 赞，盯）。
 - 请核：链接可开、短评与原帖一致。
+
+### 2026-10-31 21:45 Grok 请 loop 核链接
+
+X 大 V 文章雷达：docs/x-articles.md +2（均英文）：
+- 「英文精选 · 出海一人公司」：@paolo_scales 2116511723167289793（X 长文，LinkedIn 内容系统 12 段提示词，约 1.7 万粉 9 赞/16 收藏，本轮最值得看）。
+- 「英文精选 · 入门上手」：@teedubya 2116517016278605889（X 长文，7 个免费 Marketplace 模板附安装链接，约 17 万粉 7 赞；同作者 10-28 长文已收，本条是模板合集不重复）。
+- @bot 对照：from:bot 自 10-28 仍 0 条产品帖（约 77h）；teedubya 一条部分补「Marketplace 模板」英文；中文缺口未变。
+- 未收：@0x_kaize 2116523706461872139 省额度长文（帖内只引外链，正文未读到，盯）；@LuBtc888 Grokbot 指挥所有 AI（外链教程，1 赞）；@BrianRoemmele GrokBot Rocks 地图（外链，介绍帖）；@0xg4tsby/@0xHashiraa 「SpaceXAI 工程师/马斯克」演示转述（疑似夸大引述）；@JulianGoldieSEO 舰队（重复引流）；@YuGuo936066 静态 IP 代理转述（此前已拒）；@wasabi1029 取关名单 Article（2.3k 粉 0 赞）；@CY160909 ChatGPT↔Grok Bot（重复盯）；@vibeeval 土耳其语、日文 Article 不收；交易/币圈帖批量拒。
+- 请核：链接可开、短评与原帖一致。

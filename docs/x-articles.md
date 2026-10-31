@@ -162,6 +162,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot Pages and dashboards: the 5 dashboards I built](https://x.com/AlexFinn/status/2115596225793921048) — @AlexFinn · 2026-10-29 · 约 12 分钟视频：新上线的 Pages 与仪表盘功能怎么用，作者搭的 5 个仪表盘，其中一个用来盯用量、帮他省了不少额度；约 48 万粉、约 1700 赞 / 2400 收藏 · 英文
 - [You need Grok Bot.](https://x.com/thisisdjen/status/2115864757173440888) — @thisisdjen · 2026-10-30 · X 长文：零基础上手全流程，从建第一个 bot、用「Show me the rules」查规则，到只接必要的连接器、网站登录时接管电脑，再到把试好的任务改成工作日 7 点的 routine（附「只起草不发送、登录失败要报」等规则）、拉群让主 bot 分派、把会前准备存成 skill，以及在 Auto-review 里加自定义审批规则；作者约 7 万粉 · 英文
 - [You're Using Grok Bot at 30%. Here's How the SpaceXAI ran it for 100% (full guide)](https://x.com/Raytar/status/2116477644665450811) — @Raytar · 2026-10-31 · X 长文：五个习惯，每个附可粘贴提示词：一个 bot 先写清一份职责（用语音备忘录生成职责卡并先干跑），在 Auto-review 自定义规则里写好哪些动作必须先问你，routine 加「没新东西就回 NOOP」的结尾省额度并每周盘点所有 routine，录一遍操作存成 skill，再让 Ops bot 每天收集各 bot 卡点并把错误写成规则；文中官方团队细节为作者转述；约 1.5 万粉 · 英文
+- [Steal These 7 Grok Bot Superpowers：7 个可一键装的免费模板](https://x.com/teedubya/status/2116517016278605889) — @teedubya · 2026-10-31 · X 长文：爆款帖早期提醒、深度调研、事实核查、邮件诈骗过滤、YouTube/LinkedIn 增长、视频下载 7 个模板，个人信息已剥离，每个附安装链接，装上回答几个设置问题就能用，并说明哪两个适合给家里长辈；约 17 万粉 · 英文
 
 ### 多 Agent 作战室
 
@@ -335,6 +336,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [I ranked every Grok Bot launched since August: top 10 community bots + a setup prompt](https://x.com/0x_kaize/status/2116114441947521127) — @0x_kaize · 2026-10-30 · 长帖：列出十个 Marketplace 热门 bot（删骚扰电话号码、查信用报告纠错、替你打电话订餐厅、把 ChatGPT/Claude 记忆迁进来、读合同等），每个附链接；再给一段让 bot 按你的已连应用和近 30 天需求挑不超过 5 个装的提示词，并提醒装前看清它要哪些数据、发送/付款/签署一律留人工确认、先拿真实任务试跑、一周后复盘留哪些；约 2.4 万粉 · 英文
 - [How to Run a One-Person Company with Grok Bot while employed (Full Operating Manual)](https://x.com/MrnllMtt/status/2116147119749001646) — @MrnllMtt · 2026-10-30 · X 长文：上班族的一人公司操作手册，四份共享文件（语气文档、禁做清单、看板、每周改稿记录）加语气关卡 skill，一个入口 bot 带七个职能 bot 并各附可粘贴提示词，还有每周排程、省额度做法和社媒/SEO/营销/销售四种业务配法；作者提醒先看劳动合同的兼职条款；约 8.4k 粉 · 英文
 - [Mr. Shorts：免费的 Grok Bot 短视频剪辑模板](https://x.com/smsonx/status/2116502131138052359) — @smsonx · 2026-10-31 · 长帖配前后对比视频：作者把自己每条 Short 都在用的剪辑 bot 放上 Marketplace 免费领，首次使用先问几个品牌设定问题，再剪掉空白、按你的风格加字幕、提到人名或品牌时自动上屏、从真实画面截缩略图，并写好 YouTube/TikTok/Reels/X 的标题和标签；发布前都要你确认；偏模板介绍，具体配置要装上后看；约 1.7 万粉 · 英文
+- [How to Use Grok Bot for LinkedIn So Well It Feels Illegal](https://x.com/paolo_scales/status/2116511723167289793) — @paolo_scales · 2026-10-31 · X 长文：先粘一段业务背景（客户、定位、观点、可用案例）存成参考文档，再用 12 段可粘贴提示词搭出 LinkedIn 内容系统：语气指南、买家问题挖掘、四周内容日历、起草与独立审稿、按卡住的商机写内容、按商业结果复盘；约 1.7 万粉、16 收藏 · 英文
 
 ## 不收的例子
 
