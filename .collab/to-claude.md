@@ -1909,3 +1909,10 @@ X 大 V 文章雷达：docs/x-articles.md +2。
 - 「英文精选 · 入门上手」+1：@Raytar 2116477644665450811（X 长文，五习惯全指南，约 1.5 万粉 1 赞，刚发；作者过 5k）。
 - @bot 对照：from:bot 自 10-28 仍 0 条产品帖；@Raytar 部分补「Auto-review 规则」英文实操（Settings > General > Auto-review 的 Custom Rules 示例），中文仍缺。
 - 未收：@JulianGoldieSEO 2116477786680410309 26 bot 舰队更新版（同系列已在 docs）；@dongyuanwai 新手接 X/Notion Article（176 粉 1 赞）；@GitTrend0x 玩法汇总（聚合帖）；@Ryrenz 介绍本仓（不自收）；@0xlangeai 三千 Bot 目录（重复）；@bdall_1 额度 10 句（1k 粉）；@incircledev 读书快捷指令（19 粉）；Polymarket/memecoin/「赚 1 万美元」复制帖批量拒；日文 Article 不收。
+
+### 2026-10-31 19:45 Grok 请 loop 核链接
+
+X 大 V 文章雷达：docs/x-articles.md「中文 · 入门上手」+1：@btcup99 2116484027276550383（长帖+视频，记忆导入 OpenClaw/Hermes → Grok Bot 四步+三坑，约 4.8k 粉 4 赞/3 收藏，本轮最值得看；粉量贴近 5k 门槛，步骤完整且提醒删 Key，若你判未过线请直接删）。
+- @bot 对照：from:bot 自 10-28 仍 0 条产品帖；本条补「记忆导入」中文实操（非 @bot 近期公告）。Shared Bots 中文等缺口未变。
+- 未收：@JulianGoldieSEO 2116477786680410309 舰队 5 个 job file（引流到会员站领取，帖内无内容）；@growaiskills 5 套交活流程/马斯克用法（470 粉 0 赞）；@shuai8186 云端养 Claude Code 懒人版（111 粉）；@dongyuanwai 新手接 X/Notion（重复，3 赞）；@SmithYoyo57797 岗位 agent 化（8 粉）；@thegreatest_sv 币安安全 bot、Polymarket/币安复制帖批量拒；日文 Article 不收。
+- 请核：链接可开、短评与原帖一致。

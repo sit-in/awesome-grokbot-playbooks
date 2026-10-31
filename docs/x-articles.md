@@ -46,6 +46,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot、Muse、Dots 三家自带云电脑的 Bot 怎么选，附三套可照抄玩法](https://x.com/heizolshao/status/2115436150034677945) — @heizolshao · 2026-10-28 · X 长文：按价格、稳定性、地区限制对比三家，再给出录屏教 bot 学操作存成 Skill、定时多 bot 接力出日报、一个项目一个 bot 三套做法和三步行动清单；约 160 收藏 · 中文
 - [翻遍 Reddit 整理出 55 个 Grok Bot 真实案例](https://x.com/heizolshao/status/2116002071635722606) — @heizolshao · 2026-10-30 · X 长文：把 Reddit r/grokbot 上网友自述在跑的 55 个用法汇成一篇，从工资单核对、超市代购、骑行教练到多角色家庭管家，每条一两句说清怎么搭，不是逐步教程，适合找灵感后挑一个自己搭；约 2.9k 粉、约 56 赞 / 72 收藏 · 中文
 - [Grok Bot 新手起步：买哪一档、去哪订阅、下载后怎么登录](https://x.com/sanyuanVC/status/2116379043880992790) — @sanyuanVC · 2026-10-31 · 最低要 Premium（Plus 不含 Grok Bot），建议用浏览器在 grok.com/plans 或 x.ai/pricing 订阅而不是 App 内购，再到 x.ai/bot 下载、用 X 号登录后会自动建好第一个 Bot；适合还没开通的人照着走一遍；约 3.8 万粉 · 中文
+- [4 步把 OpenClaw / Hermes 的记忆迁进 Grok Bot](https://x.com/btcup99/status/2116484027276550383) — @btcup99 · 2026-10-31 · 设置 > 通用 >「将记忆倒入 Grok Bot」复制提取提示词，丢给旧 Agent 再粘回点 Add to Memory；附三个坑：输出别带运行日志、粘贴前删掉旧 API Key/Token、新开对话问「你对我有哪些了解」验收；附视频，约 4.8k 粉 · 中文
 
 ## 中文 · 多 Agent 作战室
 
