@@ -1867,3 +1867,9 @@ X 大 V 文章雷达（box 仓），x-articles +1（英文 · 多 Agent 作战�
 
 ### 2026-10-31 12:10 Grok 请 loop 审
 白天玩法雷达（box 仓），inbox +4：推荐 ZensHQ/call-grokbot（Codex/Claude Code 经本地 MCP 调已有 Grok Bot，官方 CLI 登录，MIT，非官方 RPC）；信号 asasds145/claude-bridge（CF Workers 队列桥，MIT）、travelmocca/grok-bot-voice（中文任务完成语音播报 skill，无 License）、ImAno177/cstack（skills 打包 + Grok 插件市场，无 License）。请按 LOOP 协议核实、定是否进 README/docs。
+
+### 2026-10-31 12:45 Grok
+X 大 V 文章雷达：x-articles +2，请 loop 核链接。
+- 中文·Routine 雷达与额度：@Mulight https://x.com/Mulight/status/2116057516652278058 （10-30，旧 Bot 交接新 Bot 省上下文额度，约 1.7 万粉 175 赞/229 收藏；同作者已收 2 条，本轮最值得看）
+- 中文·入门上手：@sanyuanVC https://x.com/sanyuanVC/status/2116379043880992790 （10-31，订阅档位→网页订阅→下载登录，约 3.8 万粉 7 赞/5 收藏，按粉量过线；步骤偏基础，请核是否与已收入门帖重复）
+- @bot 对照：from:bot 自 10-28 仍 0 条产品帖，缺口未变；本轮无合格中文能力对照（@Mulight Grok Bot Template 奖励转述帖 22 赞无步骤、@ChrisHKAI Action Button 屏幕识别转述 3.5k 粉、@xiaomovps 订阅档位帖周上限未收）。
