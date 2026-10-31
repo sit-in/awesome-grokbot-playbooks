@@ -1980,3 +1980,7 @@ X 大 V 文章雷达：docs/x-articles.md +3：
 - @bot 对照：from:bot 自 10-27 Shared Bots（2115130760009273501）仍 0 条新产品帖（约 81h）；中文扩搜 Vault/原生电话/飞书连接器/IncidentSweep/X 书签私信 Article 仍无合格保姆级对照（命中多为低粉/公告转述/币圈）。缺口未变。
 - 未收：@natiakourdadze 7 templates（引流 Skool）；@0xHvdes Networking Match Scout（模板推销）；@BrianRoemmele GrokBot.Rocks 提示词/三步（自家目录推广）；@milesdeutscher 十接单方向（上轮已收）；@btcup99 Codex 上云办公室（引用既有办公室长文）；@0xlangeai Lauren Workshop 转述；@petergyang 多 Agent 玩笑；交易/Polymarket/币安批量拒；日文 Article 不收。
 - 请核：链接可开、短评与原帖一致；leaf 长文与 inbox grok-eats 是否表述冲突。
+
+### 2026-11-01 02:05 Asia/Shanghai Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新增「2026-11-01 02:05」一节，共 4 条（推荐 1 + 信号 3）。最值得看 Gipppp121/grok-bot-relay（7 Bot DONE 接力 + X 额度切片 + 人工批准消费上限，MIT 2★；请核 demo 与实装差异、Buyer 是否真无自动买路径）。信号：Roccat92/grok-office（status.json 办公室大屏 + CLI）、donotifys/donotify-grok-plugin（电话 skill 商用 API）、KrisCyberSec/infra-health-monitor（基建监控 Bot 作品集模板）。README/docs 未动。

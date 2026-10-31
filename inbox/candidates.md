@@ -3781,3 +3781,25 @@ samybelgarbifr-design/grokbot-cursor-demo（空测试仓）；gilangbintang305-d
 ### Skip（本轮）
 
 Penguinai-lee/grokbot_skill、NewRra/Ads-grokbot（空仓）；NamaanXD/VERITHINK（仅 LICENSE）；kagamineko-grokbot/tg-dsh-hotmem-mvp（Telegram↔DSH 热记忆，非 Grok Bot 玩法）；Leotheka/leotheka.github.io（Bot 做的个人站）；Logos52/grokbot-office（上轮已 skip，仅编译产物）。X 侧 @ultrakindguy Action Button→Webhook 的 iCloud Shortcuts（197 粉 0 赞）不收仓级条目。
+
+## 2026-11-01 02:05 Asia/Shanghai · 白天玩法雷达
+
+> `gh search repos`（"grok bot" / grokbot / grok-bot / skill / routine / plugin / template，created≥10-31，取 16:00 UTC 后新建），按 full_name 与 README、docs、inbox、.collab、examples 去重。X 侧扫了 github.com / skill / routine 近帖：GlennHasABeard/foreman v1.1.1 已收仓仅版本更新不重收；其余无独立新仓。未改 README/docs。
+
+### 推荐（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Gipppp121/grok-bot-relay | https://github.com/Gipppp121/grok-bot-relay | **7 Bot 接力，不靠每小时空转**：周一 Scout 开跑，后续 Pain Miner→Judge→Builder→Pitch→Buyer→Chief 只在上家写 DONE 后唤醒；X 读额度按 Bot 切片、触顶写 STOP；只有 Buyer 能花钱且必须人工 yes、上限 $40；Builder 干跑不合并、Pitch 只写草稿不发帖。附 `relay init/run --demo/wall`、ledger.jsonl、终端墙演示。MIT，2★。本轮最值得看 | 多 Agent 作战室 / Routine 编排 | **GitHub**（10-31 16:14 UTC 建，MIT，2★） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Roccat92/grok-office | https://github.com/Roccat92/grok-office | 越南文 README 的静态 3D 办公室大屏：Bot 自写 `status.json`（working/idle/meeting/blocked/done），页面每 10 秒刷新；附 `update-status.mjs` 一键改状态并可 `--push` 触发 GitHub Pages。与已收 grokbot-office 同向，CLI 更清晰；无 License | 多 Agent 作战室 / 可视化 | **GitHub**（10-31 17:52 UTC 建，无 License，0★） |
+| donotifys/donotify-grok-plugin | https://github.com/donotifys/donotify-grok-plugin | 给 Bot 装电话线的 skill：只含 `skills/donotify`，经 donotifys.com API 打到本人账号绑定号码（紧急邮件分拣等）；密钥 `DONOTIFY_API_TOKEN`。MIT，商用 SaaS 试用额度，先信号 | Skills / 通知 | **GitHub**（10-31 16:07 UTC 建，MIT，0★） |
+| KrisCyberSec/infra-health-monitor | https://github.com/KrisCyberSec/infra-health-monitor | 运维向作品集：模拟指标脚本 + `bot-prompt.md`（Bot 描述与 routine）+ 样例告警/日报；可当「基建监控 Bot」起步模板，先信号（无 License、数据为模拟） | Skills / Routine 模板 | **GitHub**（10-31 17:54 UTC 建，无 License，0★） |
+
+### Skip（本轮）
+
+calfo-app/calfo-plugin（厨房/食材商用 MCP 插件，需 Calfo 账号）；Play-Omega-Games/daily-puzzle-break、poisenloaf/ultimate-rv-trip-planner（小众游戏/房车模板）；Hakeem-Hannoon/skill-atlas-mvp（$3.25 日报 skill 市集落地页）；TryGrokBot/TryGrokBot（个人 Bot 品牌页）；czstuff2/newhireiv（几乎空 README）；freeddan-lgtm/mission-control-office（个人办公室页 + Vercel SSO 笔记）；six20am/workspace-blueprint（已收 six20am/grokbot-blueprint 的迁仓续作，建于 10-02，本轮不重收）；GlennHasABeard/foreman v1.1.1（仓已收，仅版本更新）。
