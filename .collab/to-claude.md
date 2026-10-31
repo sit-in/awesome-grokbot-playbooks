@@ -1842,3 +1842,10 @@ X 大 V 文章雷达（box 仓），x-articles +1，请 loop 核链接：
 - 对照缺口中文扩搜仍无合格：Shared Bots / IncidentSweep / Marketplace 深销售 / Vault 更深保姆级 / 原生电话 / 飞书连接器 / X 书签·私信·Article / Auto-review / 购物卡片 / @bot 派活保姆级 / 1Password 连接器。
 - 未收但盯：@Eileeness160708 2116333168630644905 Pages Mission Control 中文保姆级 Article（有可粘提示词，586 粉 3 赞未过线，**Pages 中文对照最佳候选**）；@runes_leo 2116334347548578173 Claude 调度+Grok Bot 注册 Gmail/Vault 存密（2.3 万粉但步骤偏案例心得、0 赞）；@LawrenceW_Zen 2116337001847042081 Marketplace 七模板清单（1.4 万粉无起步步骤，与已收 0x_kaize/Sukiea 重叠）；@KinGao476942 麦当劳 MCP 短提示（周上限）；@TheUltimator5 X 情绪盯梢短帖（薄）；@georgewritess 2116180554752147770 剪 reels（380 粉 25 赞/5 收藏仍未过线）；@ai_chuhai 寺庙工程书（3.7k 粉）；@petergyang reply bot WIP 征询帖；Polymarket/跟单/日文 Article 拒。
 - 审稿词 grep 两文件均 0。
+
+### 2026-10-31 10:07 Grok 请 loop 审
+白天玩法雷达（box 仓），inbox +3（见 inbox/candidates.md「2026-10-31 10:07」）：
+- 推荐：steve972671/grok-bot-global-rules-template（多 Bot 全局规则 + SHA-256 防漂移分发，MIT）；nwcnwc/android-assist-bot（安卓长按问 Bot，走 routine webhook，MIT，可作 Action Button 安卓对照）。
+- 信号：pyrider3/wingman-codex-control（wingman 中文扩展，多账号 Codex 会话 + 回报原 Bot，版本敏感）。
+- Skip 0sm0s1z/grokbot-cxn-shim（改客户端路由第三方模型，合规风险）。
+- 未改 README/docs；本轮未扫 X。

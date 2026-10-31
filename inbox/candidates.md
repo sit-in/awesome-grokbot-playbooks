@@ -3614,3 +3614,24 @@ b2bsearch/b2b-leads-finder（联系方式挖掘推广插件，同作者此前已
 ### Skip（本轮）
 
 digitalgym/office-voice-xero-plugin（Xero 收款商业 MCP 插件）；EmpressHeavy/DogeUpdates、BotTerminatorUpdates（梗图 Bot 更新源）；Corvax50/grokbot-office（个人像素办公室看板，与已信号 head-office / whatsmyagentdoing 同向）；ThatOneKid842/grokbot-dashboard、SimonWorku1/bot-dashboard（空/仅壳）；cesarfavero/LoopVero（Harness 静态逆向研究，合规风险不收）；embwl0x/native-agent、gabe-mobius/next-mission（旧仓/非本窗新建）；X 侧 @dannyshmueli 推已收 awesome-grok-bot-pages、@odwyer_richard 链 DeepSeek Harness（已有生态）、交易/Binance 逆向帖、低粉 tip 帖不收。
+
+## 2026-10-31 10:07 Asia/Shanghai · 白天玩法雷达
+
+> `gh search repos`（grokbot / grok-bot / "grok bot" / grokbot skill / grok bot routine / grok bot template / multi-bot grok，created≥10-30，取约 23:30 UTC 后新建），按 full_name 与 README、docs、inbox、.collab 去重。本轮 X 侧未扫（交 X 大 V 雷达）。未改 README/docs。
+
+### 推荐（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| steve972671/grok-bot-global-rules-template | https://github.com/steve972671/grok-bot-global-rules-template | **多 Bot 共用「全局规则」模板**：主 Bot 维护一份规范 `global-bot-rules.md` + Canvas Page，长规则拆成短 memory 防截断，SHA-256 校验防漂移，再把逐字节相同的副本分发给每个队友并回报 `MATCH`。PROMPT.md 一段粘贴即用，examples 全是占位规则。多 Bot 团队治理的干净样板。本轮最值得看 | Team templates / Governance | **GitHub**（10-31 01:05 UTC 建，MIT，0★） |
+| nwcnwc/android-assist-bot | https://github.com/nwcnwc/android-assist-bot | **安卓版「一键问 Bot」**：长按助手手势，语音提问 + 当前链接/屏幕文字/临时截图 POST 到 Grok Bot routine webhook，Bot 在自己的对话里回答并推送通知。125 KB APK、公开签名指纹、README 写清 webhook 配置。是 iPhone Action Button 玩法（docs 已收多条）的安卓对照 | Mobile / Webhook routines | **GitHub**（10-31 00:33 UTC 建，MIT，0★） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| pyrider3/wingman-codex-control | https://github.com/pyrider3/wingman-codex-control | 基于已收 juangurdian/wingman 的中文扩展：Grok Bot 经本机 MCP 管理同机多账号 Codex 桌面会话（追加指令/停止/续跑），任务完成后持久队列回报给发起 Bot，防重发。依赖内部 IPC/SQLite 字段，版本敏感；同作者 grok-bot-squad 已在 inbox。可作 README wingman 条目的旁链 | Bridges / Multi-agent | **GitHub**（10-31 01:54 UTC 建，MIT，0★） |
+
+### Skip（本轮）
+
+0sm0s1z/grokbot-cxn-shim（改本地拷贝的 Grok Bot 客户端把对话路由到第三方模型，客户端改造+明文日志，合规风险不收）；Logos52/grokbot-office（仅编译产物无源码，与已信号 bot office 同向）；EmpressHeavy/BotTerminatorUpdates、PlaylistConverterUpdates（Bot 更新源）；SimonWorku1/bot-dashboard、kristinapavlicek/grokbot（空/仅壳）。
