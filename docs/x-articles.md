@@ -207,6 +207,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How to Build Your Own AI Team: Start With One Bot, Not Ten](https://x.com/joelcomm/status/2115507903171887128) — @joelcomm · 2026-10-29 · X 长文：作者把 62 个 bot 精简成 10 个各管一件事的团队，先建首席 bot 负责派活和追踪，再加一个专门挑错的核对 bot；给出 15 分钟搭建顺序、「一天只加一个 bot」的五日计划、禁止 bot 擅自做的事项清单和一段可粘贴的首席 bot 提示词；作者约 59 万粉，团队刚搭好暂无效果数据 · 英文
 - [Anatomy of a Personal Factory of Grok Bots](https://x.com/RoyOsherove/status/2115591603133764082) — @RoyOsherove · 2026-10-29 · X 长文：搭了 8 天的个人 bot 工厂，一个 bot 一份活、共享记忆、一块决策仪表盘再接编程 CLI，并写了还缺什么；约 1.2 万粉 · 英文
 - [How I Turned Grok Bot Into an Operating System for 26 AI Agents (Full Course)](https://x.com/JulianGoldieSEO/status/2116363222781702403) — @JulianGoldieSEO · 2026-10-31 · X 长文：一块屏管 26 个 bot，用 6 段可粘贴提示词搭出总控：一键唤起整个团队、给每个 bot 打分、跟踪每项任务走到哪一步，所有屏都只读、不替 bot 发东西；6 段提示词免费给，bot 清单模板和完整版放在作者的付费社群里；约 17 万粉 · 英文
+- [Start selling with Grok Bot: one Shared Bot per sales role](https://x.com/ScottyBeamIO/status/2116196322420129989) — @ScottyBeamIO · 2026-10-30 · 长帖：照着一支销售团队的做法，先让每个销售自己建调研、会前准备、管线 bot，再把好用的升级成团队共用的 Shared Bot，一个岗位一个：客户情报 bot（会后读通话记录、更新 CRM、起草跟进邮件待审）、报价 bot（并排出多套报价，改动前先预览再问）、交易审核 bot（按公司政策查非标价格条款，需人判断的转给专人并留痕）；护栏写清了每个 bot 用销售本人的权限、不能自批折扣、对客户的内容先人审；约 7.8 万粉、232 赞 / 368 收藏 · 英文
 
 ### Routine 雷达与额度
 
