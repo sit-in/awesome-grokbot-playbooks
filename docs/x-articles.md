@@ -68,6 +68,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [保姆级教程：给 Grok Bot 团队搭一间 3D 虚拟办公室](https://x.com/btcup99/status/2116061235250884931) — @btcup99 · 2026-10-30 · X 长文：Three.js 等距办公室显示每个 bot 实时状态，后端一个只读状态接口加一个带 token 的上报接口，给 bot 一条 office-report 上报命令，附可直接复制的搭建提示词和 Cloudflare Workers 免服务器方案；隐私规则（只报笼统任务类型）、限流和踩坑写得清楚；约 4.7k 粉，长文约 24 赞 / 35 收藏、展示帖约 52 赞 / 44 收藏 · 中文
 
 - [按岗位拆 Bot 搭自媒体团队：管什么、怎么干、先问我](https://x.com/johnAGI168/status/2116574459318460725) — @johnAGI168 · 2026-10-31 · 长帖：推特/小红书/抖音/YouTube/公众号各一岗，再建视频导演、盯私信、生活助手；建 Bot 只写三件事（管什么、怎么干、哪些事先问我），发帖/私信/下单写死先确认、付钱本人点；推特 Bot 早晚搜玩法选题，建议先跑顺一个岗位再加；约 2.3 万粉 · 中文
+- [把负责人 Lauren 的建队短指南喂给 Bot，一起改管理流程](https://x.com/SUOHA_AI/status/2116587234266599706) — @SUOHA_AI · 2026-10-31 · 中文导读官方负责人 @poteto 帖：加 Dr Eggbot、少而精、边做边沉淀 Skill、接连接器/Vault、用新人入职心态和语音脑暴；建议整帖喂给自己的 Bot 讨论改流程；约 4 万粉 · 中文
 
 ## 中文 · Routine 雷达与额度
 
@@ -167,6 +168,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [You need Grok Bot.](https://x.com/thisisdjen/status/2115864757173440888) — @thisisdjen · 2026-10-30 · X 长文：零基础上手全流程，从建第一个 bot、用「Show me the rules」查规则，到只接必要的连接器、网站登录时接管电脑，再到把试好的任务改成工作日 7 点的 routine（附「只起草不发送、登录失败要报」等规则）、拉群让主 bot 分派、把会前准备存成 skill，以及在 Auto-review 里加自定义审批规则；作者约 7 万粉 · 英文
 - [You're Using Grok Bot at 30%. Here's How the SpaceXAI ran it for 100% (full guide)](https://x.com/Raytar/status/2116477644665450811) — @Raytar · 2026-10-31 · X 长文：五个习惯，每个附可粘贴提示词：一个 bot 先写清一份职责（用语音备忘录生成职责卡并先干跑），在 Auto-review 自定义规则里写好哪些动作必须先问你，routine 加「没新东西就回 NOOP」的结尾省额度并每周盘点所有 routine，录一遍操作存成 skill，再让 Ops bot 每天收集各 bot 卡点并把错误写成规则；文中官方团队细节为作者转述；约 1.5 万粉 · 英文
 - [Steal These 7 Grok Bot Superpowers](https://x.com/teedubya/status/2116517016278605889) — @teedubya · 2026-10-31 · X 长文：爆款帖早期提醒、深度调研、事实核查、邮件诈骗过滤、YouTube/LinkedIn 增长、视频下载 7 个模板，个人信息已剥离，每个附安装链接，装上回答几个设置问题就能用，并说明哪两个适合给家里长辈；约 17 万粉 · 英文
+- [一键打包当前 Agent 配置，换到别的 Personal Agent 也能复原](https://x.com/EXM7777/status/2116591057186213910) — @EXM7777 · 2026-10-31 · 长帖给一段可粘贴提示词：让当前 Agent 把人设、记忆、Skill/Routine、自定义指令、工具集成（不含密码/API Key）和依赖文件打成带 README 的 zip，交给新 Agent 按步骤重建；适合在 Hermes / Grok Bot / Instinct / Duet / Dots / OpenBot 之间搬家；约 15 万粉、约 50 赞 / 80 收藏 · 英文
 
 ### 多 Agent 作战室
 
@@ -214,6 +216,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How to Build Your Own AI Team: Start With One Bot, Not Ten](https://x.com/joelcomm/status/2115507903171887128) — @joelcomm · 2026-10-29 · X 长文：作者把 62 个 bot 精简成 10 个各管一件事的团队，先建首席 bot 负责派活和追踪，再加一个专门挑错的核对 bot；给出 15 分钟搭建顺序、「一天只加一个 bot」的五日计划、禁止 bot 擅自做的事项清单和一段可粘贴的首席 bot 提示词；作者约 59 万粉，团队刚搭好暂无效果数据 · 英文
 - [Anatomy of a Personal Factory of Grok Bots](https://x.com/RoyOsherove/status/2115591603133764082) — @RoyOsherove · 2026-10-29 · X 长文：搭了 8 天的个人 bot 工厂，一个 bot 一份活、共享记忆、一块决策仪表盘再接编程 CLI，并写了还缺什么；约 1.2 万粉 · 英文
 - [How I Turned Grok Bot Into an Operating System for 26 AI Agents (Full Course)](https://x.com/JulianGoldieSEO/status/2116363222781702403) — @JulianGoldieSEO · 2026-10-31 · X 长文：一块屏管 26 个 bot，用 6 段可粘贴提示词搭出总控：一键唤起整个团队、给每个 bot 打分、跟踪每项任务走到哪一步，所有屏都只读、不替 bot 发东西；6 段提示词免费给，bot 清单模板和完整版放在作者的付费社群里；约 17 万粉 · 英文
+- [Grok Bot 负责人讲怎么建高质量 Bot、管团队](https://x.com/poteto/status/2116576229319233596) — @poteto · 2026-10-31 · SpaceXAI / Grok Bot 负责人长帖：加 Dr Eggbot 设计 Bot、少而精、让 Bot 自建 Skill 并可推私有 GitHub、接连接器与 Vault、减少手工复制、用新人入职方式介绍自己、语音脑暴后让 Bot「用自己的话复述」验收；约 24 万粉、约 2500 赞 / 3800 收藏 · 英文
 
 ### Routine 雷达与额度
 

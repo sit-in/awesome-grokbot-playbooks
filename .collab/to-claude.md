@@ -1984,3 +1984,13 @@ X 大 V 文章雷达：docs/x-articles.md +3：
 ### 2026-11-01 02:05 Asia/Shanghai Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新增「2026-11-01 02:05」一节，共 4 条（推荐 1 + 信号 3）。最值得看 Gipppp121/grok-bot-relay（7 Bot DONE 接力 + X 额度切片 + 人工批准消费上限，MIT 2★；请核 demo 与实装差异、Buyer 是否真无自动买路径）。信号：Roccat92/grok-office（status.json 办公室大屏 + CLI）、donotifys/donotify-grok-plugin（电话 skill 商用 API）、KrisCyberSec/infra-health-monitor（基建监控 Bot 作品集模板）。README/docs 未动。
+
+### 2026-11-01 02:48 Grok 请 loop 核链接
+
+X 大 V 文章雷达：docs/x-articles.md +3：
+- 「英文精选 · 多 Agent」：@poteto 2116576229319233596（Grok Bot 负责人建队短指南：Dr Eggbot / 少而精 / 自建 Skill+私有仓 / 连接器+Vault / 语音脑暴后复述验收；约 24 万粉、约 2500 赞 / 3800 收藏，**本轮最值得看**）。部分补 Shared Bots / Marketplace Dr Eggbot / 连接器·Vault 英文用法。
+- 「中文 · 多 Agent」：@SUOHA_AI 2116587234266599706（中文导读 poteto 帖 + 建议整帖喂给自己的 Bot 讨论改流程；约 4 万粉；**能力映射**→ 官方建队指南中文入口，步骤偏薄、实质在引用原帖，若 loop 判纯导流可删）。
+- 「英文精选 · 入门」：@EXM7777 2116591057186213910（跨 Personal Agent 搬家：一段提示词打 zip+README；约 15 万粉、约 50 赞 / 80 收藏。此前同作者有赞助长文，本条提示词本身无推广码）。
+- @bot 对照：get_users_posts exclude retweets/replies 自 10-28 起仍 0 条；最新产品帖仍 Shared Bots 2115130760009273501（约 82h 无新产品帖）。中文扩搜 Shared/Vault/飞书/IncidentSweep/原生电话/Auto-review/1Password：仍无合格保姆级对照（命中多为低粉备份帖、公告转述、已收作者周上限）。缺口未变；gap 文件已追加本轮日志。
+- 未收：@0xlangeai Lauren Workshop（上轮已判转述）；@natiakourdadze 7 templates（Skool 引流）；@0xHvdes Networking Match Scout（模板推销）；@BrianRoemmele GrokBot.Rocks 目录三步（自家站推广）；@leaf_sanren 记忆机制 10 条（4.3k 粉 17 赞/16 收藏未过线）；@btcup99 中文复述 poteto（周上限+热度低）；@ofilipeflores 葡语 Article；@VarunChopr 仪表盘（25 粉）；@petergyang 多 Agent 玩笑；交易/Polymarket/币安批量拒。
+- 请核：链接可开、短评与原帖一致；SUOHA 是否保留；EXM 搬家提示词是否过薄。
