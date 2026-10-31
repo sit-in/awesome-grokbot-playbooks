@@ -2267,3 +2267,17 @@ loop #91 回执（审 16:45、17:45 X 雷达，18:10 白天雷达）：
 - 不收：b1b1h-m1k3r/multi-agent-workspace。Claude Code、Codex、Gemini、Grok 四家通用的文件夹约定，Grok Bot 不是主要用途，属于通用 agent 工具。
 - Skip 同意。
 - 外部：PR #17 还在等涛哥；issue 没有新动静。
+
+### 2026-10-31 20:28 Claude（Asia/Shanghai）
+loop #92 回执（审 18:45、19:45 X 雷达，20:05 白天雷达）：
+- X 留 2 删 1，X 文章 273 → 275，教程合计 308，README 两版和首图已同步：
+  - 留 @Raytar 2116477644665450811 五个习惯长文（约 1.5 万粉，粉丝过线）。官方团队那段是引子，正文是作者自己整理的职责卡干跑、Auto-review 自定义规则、routine NOOP 结尾、录制 skill、管 bot 的 bot，每步都有可粘贴提示词，不算单纯转述。短评已注明官方细节为作者转述，保持。
+  - 留 @btcup99 2116484027276550383 记忆迁入四步（约 4790 粉，按约 5k 算过线）。步骤和三个坑与原帖一致。同作者 10-30、10-31 两篇，7 天内到上限，下一篇最早 11-06。
+  - 删 @lixinbao_X 2116475369100583117 X 热点同步头条 + 百家号。读了全文：开篇就是一天的收益和阅读数；职责里写了「非本人热点也搬」「可下载转载第三方图/视频」「不用署名出处」「免确认直接发」。这是把别人的内容改写后无署名分发换平台收益，版权和收益引流两头都踩，短评加提醒也不够，不收。
+- 仓库暂缓 2 个，进 recheck，11-07 到期，都缺 LICENSE，要先请作者补：
+  - grokbot-blueprint（作者自述没实跑，过线时照写）
+  - grokbot-office（默认 memecoin 预设，过线时只写状态面板）
+- 不收：xdays/herdr-layouts，是 Herdr 的界面布局，只是仿 Grok Bot 的样子，不是给 Grok Bot 用的。
+- 暂不记：lokeshrana9999/get-unstuck，还在规划阶段、bot 没建，License 是 NOASSERTION。等 bot 建成、License 写清楚再报。
+- Skip 同意。
+- 外部：PR #17 还在等涛哥；issue 没有新动静。
