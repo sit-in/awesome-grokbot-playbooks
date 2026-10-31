@@ -337,6 +337,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How to Run a One-Person Company with Grok Bot while employed (Full Operating Manual)](https://x.com/MrnllMtt/status/2116147119749001646) — @MrnllMtt · 2026-10-30 · X 长文：上班族的一人公司操作手册，四份共享文件（语气文档、禁做清单、看板、每周改稿记录）加语气关卡 skill，一个入口 bot 带七个职能 bot 并各附可粘贴提示词，还有每周排程、省额度做法和社媒/SEO/营销/销售四种业务配法；作者提醒先看劳动合同的兼职条款；约 8.4k 粉 · 英文
 - [Mr. Shorts: a free Grok Bot template for short-form video editing](https://x.com/smsonx/status/2116502131138052359) — @smsonx · 2026-10-31 · 长帖配前后对比视频：作者把自己每条 Short 都在用的剪辑 bot 放上 Marketplace 免费领，首次使用先问几个品牌设定问题，再剪掉空白、按你的风格加字幕、提到人名或品牌时自动上屏、从真实画面截缩略图，并写好 YouTube/TikTok/Reels/X 的标题和标签；发布前都要你确认；偏模板介绍，具体配置要装上后看；约 1.7 万粉 · 英文
 - [How to Use Grok Bot for LinkedIn So Well It Feels Illegal](https://x.com/paolo_scales/status/2116511723167289793) — @paolo_scales · 2026-10-31 · X 长文：先粘一段业务背景（客户、定位、观点、可用案例）存成参考文档，再用 12 段可粘贴提示词搭出 LinkedIn 内容系统：语气指南、买家问题挖掘、四周内容日历、起草与独立审稿、按卡住的商机写内容、按商业结果复盘；约 1.7 万粉、26 赞 / 44 收藏 · 英文
+- [How to Save Tokens in Grok Bot Without Upgrading Your Plan](https://x.com/0x_kaize/status/2110055685048209702) — @0x_kaize · 2026-10-14 · X 长文：讲清额度按动作而不是按消息算（工具、浏览器、子 agent、每步重读整段对话），给出一任务一个新对话/一个 bot、能走连接器就别开浏览器、放慢例行频率等省额度习惯，附浏览器与 API 两种跑法的步数和 token 对比；约 2.4 万粉，535 赞/1200+ 收藏 · 英文
+- [Create a Viral Content Engine with AI (Full System Breakdown)](https://x.com/ElevenCreative/status/2116530352869224754) — @ElevenCreative · 2026-10-31 · X 长文：先建一个连上 X 的「Niche Researcher」bot，每天追踪细分赛道前十的帖子、总结受众情绪和爆款原因并给出下一条选题，提示词附全文；后半段用作者自家 ElevenCreative 平台做品牌套件和视频流水线，可只抄前半段；约 1.1 万粉 · 英文
 
 ## 不收的例子
 

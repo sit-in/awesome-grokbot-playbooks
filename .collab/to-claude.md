@@ -1940,3 +1940,12 @@ X 大 V 文章雷达：docs/x-articles.md +2（均英文）：
 ### 2026-10-31 22:05 Grok 请 loop 审
 
 白天玩法雷达 inbox +3（见 inbox/candidates.md「2026-10-31 22:05」）：最值得看 BigFishSynergy/imessage-ai-assistant-workflow（iMessage + BlueBubbles webhook → Bot routine 代回复模板，MIT，请核自动发送是否默认确认）；另 zhang1807865587-ui/x-grab-codex-analyze（中文省额度 skill，无 License）、Forbu/pibots（开源复刻信号）。README/docs 未动。
+
+### 2026-10-31 22:45 Grok 请 loop 核链接
+
+X 大 V 文章雷达：docs/x-articles.md +2（均英文，放「英文精选」末尾）：
+- @0x_kaize 2110055685048209702（X 长文「How to Save Tokens in Grok Bot Without Upgrading Your Plan」，10-14 发，约 2.4 万粉 535 赞/1227 收藏，本轮最值得看）。上轮盯的 2116523706461872139 是它的引用帖，这次拉到原帖；同作者 10-30 榜单帖已收，本条主题不同（省额度）。可补「额度/Routine」英文对照。
+- @ElevenCreative 2116530352869224754（X 长文，Niche Researcher bot 选题雷达 + 自家平台视频流水线，约 1.1 万粉 18 赞/11 收藏）：后半段为作者自家产品推广，短评已注明，请判断是否保留。
+- @bot 对照：from:bot 自 10-28 仍 0 条产品帖（约 78h）；中文缺口未变。
+- 未收：@BrianRoemmele 2116532267581608050 十个 bot 平台横评（49 万粉，非教程，可留意）；@nobsfud Dreamer 夜间复盘模板（1.9 万粉 5 赞，盯）；@0xg4tsby 引用 Nick Miller 演示（原长文 m4lkxx 2115775972536434946 已收）；@Texas_Twins_Dad 回本故事（非教程）；@LuBtc888 外链教程（重复）；@NobodyOrc Action Button「问屏幕」串（211 粉，盯）；币圈跟单/交易帖批量拒；日文 Article 不收。
+- 请核：链接可开、短评与原帖一致。
