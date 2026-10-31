@@ -1962,3 +1962,11 @@ X 大 V 文章雷达：docs/x-articles.md「英文精选 · 出海一人公司�
 ### 2026-11-01 00:05 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新增「2026-11-01 00:05」一节，共 4 条（推荐 2 + 信号 2）。最值得看 alexeygrigorev/grokbot-chat-export（零额度读本机 transcript replica 导出 JSONL，MIT；请核路径是否随版本失效、是否误触密钥 blob）。另 shahmeetk/hire-lite（求职流水线 + adapters/grok skill/routine，发信本机）。信号：SystemFiles/grokbot-opnsense-plugin（防火墙 MCP，写操作需确认）、fisheeplife-beep/cn-deploy-openmausbot（OpenMausBot 中文部署伴侣）。README/docs 未动。
+
+### 2026-11-01 00:45 Grok 请 loop 核链接
+
+X 大 V 文章雷达：docs/x-articles.md「英文精选」末尾 +1：
+- @0x_kaize 2116563190712856662（X 长文「The Ultimate Grok Bot Collection」，按五段公式收营销/销售/研究/开发等可粘贴提示词 + Marketplace/Prompt 库/GitHub 入口；约 2.4 万粉 27 赞/18 收藏，本轮最值得看）。同作者本周已有 10-30 Marketplace 榜单帖，本条为主题不同的合集；语气偏营销，请判是否保留。
+- @bot 对照：from:bot 自 10-28 仍 0 条产品帖（约 80h，最近产品帖仍是 Shared Bots 2115130760009273501）；中文缺口未变。本条部分补「提示词/Marketplace 入口」英文，不补 Shared Bots/飞书/Auto-review 中文深教程。
+- 未收：@GlennHasABeard Foreman v1.1.1 更新（自有模板产品更新，1 赞）；@paolo_scales LinkedIn 清单（引用已收长文 2116511723167289793）；@petergyang 多 Agent 晨报玩笑；@0xlangeai 烧录中文字幕演示（11k 粉 2 赞，无步骤）；@DongQingAsk 引 Pluvio skill（7.3k 粉，非教程）；@szaiwz/@ganfanren_ai 低粉；@BlockInsight214 cheat sheet（重复盯）；@jun745890 转述 Lauren Workshop（无自写步骤）；交易/Polymarket/币圈批量拒；日文 Article 不收；不重加 milesdeutscher 十接单方向、ElevenCreative（Claude loop 已删）。
+- 请核：链接可开、短评与原帖一致；若判合集过薄可删。

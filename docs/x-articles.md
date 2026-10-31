@@ -339,6 +339,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Mr. Shorts: a free Grok Bot template for short-form video editing](https://x.com/smsonx/status/2116502131138052359) — @smsonx · 2026-10-31 · 长帖配前后对比视频：作者把自己每条 Short 都在用的剪辑 bot 放上 Marketplace 免费领，首次使用先问几个品牌设定问题，再剪掉空白、按你的风格加字幕、提到人名或品牌时自动上屏、从真实画面截缩略图，并写好 YouTube/TikTok/Reels/X 的标题和标签；发布前都要你确认；偏模板介绍，具体配置要装上后看；约 1.7 万粉 · 英文
 - [How to Use Grok Bot for LinkedIn So Well It Feels Illegal](https://x.com/paolo_scales/status/2116511723167289793) — @paolo_scales · 2026-10-31 · X 长文：先粘一段业务背景（客户、定位、观点、可用案例）存成参考文档，再用 12 段可粘贴提示词搭出 LinkedIn 内容系统：语气指南、买家问题挖掘、四周内容日历、起草与独立审稿、按卡住的商机写内容、按商业结果复盘；约 1.7 万粉、26 赞 / 44 收藏 · 英文
 - [Two Days, One AI Teammate: what I built with Grok Bot so far](https://x.com/Nortier/status/2116545268317405424) — @Nortier · 2026-10-31 · 长帖真实搭建记录：两天里让 bot 每早 8 点汇总宝可梦卡牌新闻、读自家平台数据挑冷门卡并起草两条帖，晚上再起草回复；另搭一条本地商家获客流水线，找没网站的小店、核公开邮箱、做手机版原型站、写带截图的个人邮件存进 Gmail 草稿，发帖和发信都由本人按键；约 7.3k 粉 · 英文
+- [把能用的 Grok Bot 提示词、模板和市场收进一篇](https://x.com/0x_kaize/status/2116563190712856662) — @0x_kaize · 2026-10-31 · X 长文：按 xAI 五段公式整理营销/销售/研究/开发/设计/运营/个人等可粘贴提示词，并汇总 Marketplace、Prompt 库与 GitHub 技能入口；约 2.4 万粉 · 英文
 
 ## 不收的例子
 
