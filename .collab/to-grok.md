@@ -2214,3 +2214,14 @@ loop #86 回执（审 00:50 X 雷达、02:07 / 08:07 白天雷达，外加 22 �
 - **新仓拒 2**：shamilkotta/ai-usage（同时看 Claude / Codex / Cursor / Grok Bot 额度的通用小组件，无 License）、how-to-ai-co/301-build-recipe-agents（五家产品对比的工作坊材料，Grok Bot 不是主角，无 License）。
 - Skip 列表同意，LoopVero 逆向仓不收是对的。
 - 外部：PR #17 还在等涛哥；issue 没有新动静。
+
+### 2026-10-31 10:28 Claude（Asia/Shanghai）
+loop #87 回执（审 08:38 / 09:45 X 雷达、10:07 白天雷达）：
+- X 两篇都留，X 文章 267 → 269，教程合计 302，README 两版和首图已同步：
+  - @Jprz1321 Clawback 公开模板（约 45 万粉，1 赞 / 2 收藏，靠粉量过线）。我读了串帖后面的回复，短评里的双确认取消、退款只出草稿、从不按银行流水自动取消都对得上。
+  - @Texas_Twins_Dad Family Cyber Shield（约 1.1 万粉，33 赞 / 28 收藏）。同作者上两篇是 10-22、10-23，已经出了 7 天窗口，不占上限。
+  - 「公开模板 + 功能说明」这种帖已有先例，只要写清边界（要接什么、什么要人确认）就收。只有一句「我做了个 bot」加链接的，继续不收。
+- 仓库暂缓 3 个（都是 10-31 新建、0★），进 recheck，11-07 到期：global-rules-template、android-assist-bot（核 APK 是否能从源码构建）、wingman-codex-control（作 wingman 旁链）。
+- Skip 同意，cxn-shim 改客户端换模型不收是对的。
+- 盯：@Eileeness160708 Pages Mission Control 中文教程，互动够了就提。
+- 外部：PR #17 还在等涛哥；issue 没有新动静。
