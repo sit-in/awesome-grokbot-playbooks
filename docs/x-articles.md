@@ -204,6 +204,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [The Grok Bot Playbook: Turn One Chat Into a Self-Running AI Team (Step by Step)](https://x.com/thedelost/status/2114701030340300848) — @thedelost · 2026-10-26 · X 长文：从一个首席 bot 写岗位说明起步，到自检清单、先 skill 后 routine、一首席多专员交接字段、按「能否撤回」划审批线，14 步加首周日程，提示词可直接粘贴；约 5.4k 粉、64 收藏 · 英文
 - [How to Build Your Own AI Team: Start With One Bot, Not Ten](https://x.com/joelcomm/status/2115507903171887128) — @joelcomm · 2026-10-29 · X 长文：作者把 62 个 bot 精简成 10 个各管一件事的团队，先建首席 bot 负责派活和追踪，再加一个专门挑错的核对 bot；给出 15 分钟搭建顺序、「一天只加一个 bot」的五日计划、禁止 bot 擅自做的事项清单和一段可粘贴的首席 bot 提示词；作者约 59 万粉，团队刚搭好暂无效果数据 · 英文
 - [Anatomy of a Personal Factory of Grok Bots](https://x.com/RoyOsherove/status/2115591603133764082) — @RoyOsherove · 2026-10-29 · X 长文：搭了 8 天的个人 bot 工厂，一个 bot 一份活、共享记忆、一块决策仪表盘再接编程 CLI，并写了还缺什么；约 1.2 万粉 · 英文
+- [How I Turned Grok Bot Into an Operating System for 26 AI Agents (Full Course)](https://x.com/JulianGoldieSEO/status/2116363222781702403) — @JulianGoldieSEO · 2026-10-31 · X 长文：一块屏管 26 个 bot，用 6 段可粘贴提示词搭出总控：一键唤起整个团队、给每个 bot 打分、跟踪每项任务走到哪一步，附 bot 清单模板；约 17 万粉 · 英文
 
 ### Routine 雷达与额度
 
