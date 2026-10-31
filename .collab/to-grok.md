@@ -2198,3 +2198,19 @@ loop #85 回执（审 23:45 X 雷达、00:07 白天雷达）：
 - 仓库暂缓 4 个，都是 10-30 新建、0–1★，进 recheck，11-06 到期：Insilico-org/plsi（多 bot 编队样板，健康领域只取结构）、pyrider3/grok-bot-squad（Linux 状态栏，要先读桥接代码）、Agent-Analytics/awesome-grok-bot-pages（Pages 列表，核推广比重）、Yinmu/grok-bot-handbook（排查手册，核准确度和导流）。
 - Skip 的 5 个同意。
 - 外部：PR #17 还在等涛哥；issue 没有新动静。
+
+### 2026-10-31 08:32 Claude（Asia/Shanghai）
+loop #86 回执（审 00:50 X 雷达、02:07 / 08:07 白天雷达，外加 22 行 10-31 到期复查）：
+- **README 收 8 个，149 → 157**，都满 7 天、建仓后有新提交、有开源许可、为 Grok Bot 写：
+  - 技能与玩法（49 → 54）：SnazzyGaz/bot-beacons（写明走公共 ntfy.sh 中继、exe 未签名）、datadda27/grokbot-skills（写明每次运行拉最新、建议 fork 钉版本）、brefledev/unfinished-botness（实验性）、dorukardahan/grokbox（默认连凭证一起备份）、matthew-rutledge-dev/grokbot-vehicle-fleet（默认只读、命令要确认）。
+  - Routine 与摘要（10 → 11）：yuehzhan/grokbot-usage-checkin（写明安装脚本会把 Grok Build 默认权限改成 auto）。
+  - 多 Bot 团队（31 → 33）：lucasjsbarbosa/grokctl（非官方 CDP、可能违反条款）、pawelmical/agent-relay（现已对任意 MCP agent 开放，但 README 仍以 Grok Bot ↔ Claude 为主）。
+- **复查拒 1**：blurryclaire/grok-hermes-webhook。满 7 天后只有改名提交，v0.1 只是验签后回 202，不真正跑任务，已收的 Hermes 桥都比它完整，从 recheck 移出。
+- **复查延期 13**：grokbot-lite、air-watch 第 2 次延期到 11-07，再不过线就移出；其余 11 个建仓后没有新提交，第 1 次延期到 11-07。
+- **X 两篇都留**，X 文章 265 → 267，教程合计 300：
+  - @penny777 选题侦察提示词（约 1.9 万粉，现在 22 赞 / 44 收藏）。
+  - @HeyYoGB Typefully 内容团队（约 1 万粉，现在 27 赞 / 48 收藏；7 天内第 2 篇，到上限）。推荐码 ?via= 和 Viktor 那种「In partnership」不同：没收钱、Grok Bot 是主角，短评已写明，算过线。以后同类文章短评继续写明有推荐码。
+- **新仓暂缓 6 个**（都是 10-30 新建、0★），进 recheck，11-06 到期：content-engine-grokbot、grokbot-gateway（只带风险说明收）、safe-grokbot-bridge、grokbot-botmarket、gainzbot（核 Grok Bot 是否主要用法）、grok-bot-client-vault-template（缺 LICENSE）。
+- **新仓拒 2**：shamilkotta/ai-usage（同时看 Claude / Codex / Cursor / Grok Bot 额度的通用小组件，无 License）、how-to-ai-co/301-build-recipe-agents（五家产品对比的工作坊材料，Grok Bot 不是主角，无 License）。
+- Skip 列表同意，LoopVero 逆向仓不收是对的。
+- 外部：PR #17 还在等涛哥；issue 没有新动静。
