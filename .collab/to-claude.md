@@ -1958,3 +1958,7 @@ X 大 V 文章雷达：docs/x-articles.md「英文精选 · 出海一人公司�
 - @bot 对照：from:bot 自 10-28 仍 0 条产品帖（约 79h）；中文缺口未变。
 - 未收：@thisisdjen 2116256202162160097「You need Grok Bot.」为已收 2115864757173440888 同一长文重发（重复）；@nobsfud Dreamer 夜间复盘模板（1.9 万粉 16 赞，帖内只有模板链接，继续盯）；@Thomas_JonesX 语言教练长文（217 粉）；@seelffff 交易长文（交易类）；@FastLife Arcus 地区封锁（交易平台）；@BrianRoemmele 平台横评（非教程，重复）；@BlockInsight214 cheat sheet 转述（5.9k 粉 4 赞，评论区展开，盯）；@NobodyOrc Action Button「问屏幕」（211 粉，重复）；@ganfanren_ai 四 bot 拉群选题长文（48 粉）。
 - 请核：链接可开、短评与原帖一致。
+
+### 2026-11-01 00:05 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新增「2026-11-01 00:05」一节，共 4 条（推荐 2 + 信号 2）。最值得看 alexeygrigorev/grokbot-chat-export（零额度读本机 transcript replica 导出 JSONL，MIT；请核路径是否随版本失效、是否误触密钥 blob）。另 shahmeetk/hire-lite（求职流水线 + adapters/grok skill/routine，发信本机）。信号：SystemFiles/grokbot-opnsense-plugin（防火墙 MCP，写操作需确认）、fisheeplife-beep/cn-deploy-openmausbot（OpenMausBot 中文部署伴侣）。README/docs 未动。

@@ -3759,3 +3759,25 @@ gilangbintang305-droid/grok-bot-solana、grok-bot-solana-12（币圈交易 bot�
 ### Skip（本轮）
 
 samybelgarbifr-design/grokbot-cursor-demo（空测试仓）；gilangbintang305-droid/grok-bot-solana-12（币圈交易 bot）。
+
+## 2026-11-01 00:05 Asia/Shanghai · 白天玩法雷达
+
+> `gh search repos`（grokbot / grok-bot / "grok bot" / skill / routine / plugin / template，created≥10-31，取 14:00 UTC 后新建），按 full_name 与 README、docs、inbox、.collab、examples 去重。X 侧扫了 github.com/skill/routine 近帖，无独立新仓链接（Action Button 快捷指令为 iCloud Shortcuts，低粉跳过）。未改 README/docs。
+
+### 推荐（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| alexeygrigorev/grokbot-chat-export | https://github.com/alexeygrigorev/grokbot-chat-export | **零额度导出桌面端聊天**：只读本机 `%APPDATA%\\Grok Bot\\sand-client-persistence` 里的 transcript replica（约 200 条滚动窗），不解密钥/不推其他 blob，写成可幂等的 append-only JSONL；支持一次性 export 与每 30 秒 watch，Windows 登录任务脚本。纯 Python 标准库，MIT。本轮最值得看 | 工具 / Desktop 备份 | **GitHub**（10-31 15:43 UTC 建，MIT，0★） |
+| shahmeetk/hire-lite | https://github.com/shahmeetk/hire-lite | **邮件优先求职流水线 + 专用 Grok Bot 适配**：Bot 只做发现判断，校验/去重/队列/报表走零 LLM 的 `hl.py`；附 `adapters/grok` skill 与 routine 提示、发信放本机 SMTP/钥匙串（Bot 不读密码）。AGENTS.md 可直接粘。MIT | Playbook / Skills+Routine | **GitHub**（10-31 14:08 UTC 建，MIT，0★） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| SystemFiles/grokbot-opnsense-plugin | https://github.com/SystemFiles/grokbot-opnsense-plugin | 非官方 OPNsense API 插件：Go stdlib stdio MCP + `opnsense` skill，写操作必须 `confirm:true`；agent-plugins / Cursor 变量清单，密钥只进环境变量。仓名带 grokbot，README 写 Cursor/agents；防火墙写操作风险高，先信号 | Skills / Plugins / 基建 | **GitHub**（10-31 14:45 UTC 建，MIT，0★） |
+| fisheeplife-beep/cn-deploy-openmausbot | https://github.com/fisheeplife-beep/cn-deploy-openmausbot | 已收 OpenMausBot 的中文跟跑部署伴侣：npm 镜像、compose、preflight/verify、国内网络坑；作者自述 CLI 健康检查已核、Engine 登录与 Docker 未核。旁链 Self-hosted | Self-hosted / 部署 | **GitHub**（10-31 14:56 UTC 建，MIT，0★） |
+
+### Skip（本轮）
+
+Penguinai-lee/grokbot_skill、NewRra/Ads-grokbot（空仓）；NamaanXD/VERITHINK（仅 LICENSE）；kagamineko-grokbot/tg-dsh-hotmem-mvp（Telegram↔DSH 热记忆，非 Grok Bot 玩法）；Leotheka/leotheka.github.io（Bot 做的个人站）；Logos52/grokbot-office（上轮已 skip，仅编译产物）。X 侧 @ultrakindguy Action Button→Webhook 的 iCloud Shortcuts（197 粉 0 赞）不收仓级条目。
