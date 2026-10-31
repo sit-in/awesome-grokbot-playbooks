@@ -3738,3 +3738,24 @@ keyvwin/b2bsearch-plugin、full-icp-search、contact-finder、b2b-leads-finder�
 ### Skip（本轮）
 
 gilangbintang305-droid/grok-bot-solana、grok-bot-solana-12（币圈交易 bot）；motbong235-cloud/grok-tg-bot（xAI API 的 Telegram bot，非 Grok Bot）。
+
+## 2026-10-31 22:05 Asia/Shanghai · 白天玩法雷达
+
+> `gh search repos`（grokbot / grok-bot / "grok bot" / skill / routine，created≥10-31 11:30 UTC），按 full_name 与 README、docs、inbox、.collab、examples 去重。本轮未扫 X（X 大 V 雷达每小时覆盖）。
+
+### 推荐（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| BigFishSynergy/imessage-ai-assistant-workflow | https://github.com/BigFishSynergy/imessage-ai-assistant-workflow | **常开 Mac 上的 iMessage 代回复助手模板**：BlueBubbles 把新短信经 webhook 推给 Bot 的 routine，Bot 按每人规则决定回复、提醒本人或不出声，再用 REST/osascript 发出；附 chat.db 读近期消息脚本、每人档案模板和已知坑。MIT。需核：自动代回复是否默认先确认、示例号码均为占位 | 渠道接入 / webhook routine | GitHub 新仓 |
+| zhang1807865587-ui/x-grab-codex-analyze | https://github.com/zhang1807865587-ui/x-grab-codex-analyze | 中文**省额度 skill**：Grok Bot 只抓 X 原始数据存 JSON，清洗总结写报告交给云电脑上登录的 Codex CLI 跑；含安装三步和 `x-analyze.sh`。无 License、0 星，需核脚本 | skills / 省额度 | GitHub 新仓 |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Forbu/pibots | https://github.com/Forbu/pibots | 基于 Pi Agent SDK 的开源「Grok Bot 复刻」：命名 Bot、共享 /workspace、分层记忆、多 Bot 交接、skills、routines、审批卡片。无 License，信号向（看社区如何拆解 Grok Bot 架构），非官方 | 生态 / 开源复刻 | GitHub 新仓 |
+
+### Skip（本轮）
+
+samybelgarbifr-design/grokbot-cursor-demo（空测试仓）；gilangbintang305-droid/grok-bot-solana-12（币圈交易 bot）。

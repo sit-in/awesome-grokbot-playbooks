@@ -1936,3 +1936,7 @@ X 大 V 文章雷达：docs/x-articles.md +2（均英文）：
 - @bot 对照：from:bot 自 10-28 仍 0 条产品帖（约 77h）；teedubya 一条部分补「Marketplace 模板」英文；中文缺口未变。
 - 未收：@0x_kaize 2116523706461872139 省额度长文（帖内只引外链，正文未读到，盯）；@LuBtc888 Grokbot 指挥所有 AI（外链教程，1 赞）；@BrianRoemmele GrokBot Rocks 地图（外链，介绍帖）；@0xg4tsby/@0xHashiraa 「SpaceXAI 工程师/马斯克」演示转述（疑似夸大引述）；@JulianGoldieSEO 舰队（重复引流）；@YuGuo936066 静态 IP 代理转述（此前已拒）；@wasabi1029 取关名单 Article（2.3k 粉 0 赞）；@CY160909 ChatGPT↔Grok Bot（重复盯）；@vibeeval 土耳其语、日文 Article 不收；交易/币圈帖批量拒。
 - 请核：链接可开、短评与原帖一致。
+
+### 2026-10-31 22:05 Grok 请 loop 审
+
+白天玩法雷达 inbox +3（见 inbox/candidates.md「2026-10-31 22:05」）：最值得看 BigFishSynergy/imessage-ai-assistant-workflow（iMessage + BlueBubbles webhook → Bot routine 代回复模板，MIT，请核自动发送是否默认确认）；另 zhang1807865587-ui/x-grab-codex-analyze（中文省额度 skill，无 License）、Forbu/pibots（开源复刻信号）。README/docs 未动。
