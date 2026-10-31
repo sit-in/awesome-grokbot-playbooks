@@ -3673,3 +3673,24 @@ adplug-app/adplug-linkedin-ads-plugin、adplug-google-ads-plugin（商业广告�
 | asasds145/claude-bridge | https://github.com/asasds145/claude-bridge | Cloudflare Workers 远程 MCP（OAuth 2.1 + GitHub 本人校验）：Claude 调 `send_to_chief` 入 Durable Object 队列，webhook 只发待办数（不带正文）唤醒 Grok Bot「Chief」，Bot 经鉴权 API 取件回复，Claude 长轮询 `wait_for_reply`；限频 60 次/小时 + 退避重试。与 inbox 已记 Claude2GrokBot、aipmer/codex-grok-task-bridge 同架构，可作旁链 | Bridges / Multi-agent | **GitHub**（10-31 03:26 UTC 建，MIT，0★） |
 | travelmocca/grok-bot-voice | https://github.com/travelmocca/grok-bot-voice | **中文 skill：任务完成语音播报**——仅委托任务完成时在 Mac 外放「钉钉」+ 一两句口语摘要，闲聊/问意见不播；edge-tts + afplay 优先，带降级通道。小而实用，无 License | Skills / Desktop | **GitHub**（10-31 03:16 UTC 建，无 License，0★） |
 | ImAno177/cstack | https://github.com/ImAno177/cstack | 把本地 skills + 上游 pstack / Ponytail 打包成一个可装插件，同时是 Grok 插件市场（`.grok-plugin/marketplace.json`），Grok Build `grok plugin install` 后 Bot 电脑共用；GitHub Actions 每日同步上游。个人技能栈，无 License，先信号 | Skills / Plugins | **GitHub**（10-31 03:31 UTC 建，无 License，0★） |
+
+## 2026-10-31 14:05 Asia/Shanghai · 白天玩法雷达
+
+> `gh search repos`（grokbot / grok-bot / "grok bot" / skill / routine / multi-bot / agent template / war room，created≥10-31，取 03:40 UTC 后新建），按 full_name 与 README、docs、inbox、.collab、examples 去重。X 侧未扫（交 X 大 V 雷达）。未改 README/docs。
+
+### 推荐（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| DoubleDipCode/grokbot-t3-bridge | https://github.com/DoubleDipCode/grokbot-t3-bridge | **编码任务结束回调唤醒 Bot，不再轮询**：Grok Bot 经 T3 Code 远程 MCP 开线程派活给 Codex / Claude Code，worktree 里放 `.grokbot` 标记，harness 的 Stop hook 跑 `notify.sh` 把状态 POST 到对应 Bot 的 webhook routine，Bot 醒来只读最新消息再报 PR / 答问 / 升级。附 ONE-SHOT-PROMPT.md 让自己的 Bot 按规格重写脚本、密钥本人填。省掉 10 分钟一轮重读线程的额度。本轮最值得看 | Bridges / Routine（webhook） | **GitHub**（10-31 05:01 UTC 建，MIT，0★） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Ryans-apps/appy-meal-kit | https://github.com/Ryans-apps/appy-meal-kit | 「Appy Meal」Bot 模板的配套文件仓：模板带不了文件，就把离线 PWA 脚手架、示例（替代订阅的象棋/习惯/白噪音、合并食谱+购物清单）和打 APK 工具放公开仓，Bot 首次构建时拉取。「模板 + 外挂素材仓」的做法可作模板区旁链 | Templates | **GitHub**（10-31 04:32 UTC 建，MIT，0★） |
+| Yellow5A5/Grok-Bot-Skin | https://github.com/Yellow5A5/Grok-Bot-Skin | macOS Grok Bot 换肤：菜单栏切皮肤、Skin Studio 预览导出、侧栏显示本账期额度用量；经本机回环调试端口注入 CSS，不改签名 app、不上传数据。非官方，中英 README；调试端口注入有随版本失效风险，先信号 | Desktop / Fun | **GitHub**（10-31 04:07 UTC 建，MIT，0★） |
+
+### Skip（本轮）
+
+tao-inc/alibihour-grok、hushword-grok、passlane-grok、sonarlex-grok、unsaid-grok（同一公司批量上架的游戏/题库插件）；pallasite-ai/pallasite-plugins（商业产品插件包）；izzbe/chat2z（与 Grok Bot 无关的 Cloud Run 多 bot 聊天）。

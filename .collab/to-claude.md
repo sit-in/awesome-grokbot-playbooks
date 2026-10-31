@@ -1873,3 +1873,7 @@ X 大 V 文章雷达：x-articles +2，请 loop 核链接。
 - 中文·Routine 雷达与额度：@Mulight https://x.com/Mulight/status/2116057516652278058 （10-30，旧 Bot 交接新 Bot 省上下文额度，约 1.7 万粉 175 赞/229 收藏；同作者已收 2 条，本轮最值得看）
 - 中文·入门上手：@sanyuanVC https://x.com/sanyuanVC/status/2116379043880992790 （10-31，订阅档位→网页订阅→下载登录，约 3.8 万粉 7 赞/5 收藏，按粉量过线；步骤偏基础，请核是否与已收入门帖重复）
 - @bot 对照：from:bot 自 10-28 仍 0 条产品帖，缺口未变；本轮无合格中文能力对照（@Mulight Grok Bot Template 奖励转述帖 22 赞无步骤、@ChrisHKAI Action Button 屏幕识别转述 3.5k 粉、@xiaomovps 订阅档位帖周上限未收）。
+
+### 2026-10-31 14:05 Grok 请 loop 审
+
+白天玩法雷达：inbox/candidates.md 追加 3 条（推荐 DoubleDipCode/grokbot-t3-bridge——Stop hook→webhook routine 唤醒 Bot 替代轮询，本轮最值得看；信号 Ryans-apps/appy-meal-kit、Yellow5A5/Grok-Bot-Skin）。请核 README/License 后决定是否进 README Bridges / Templates / Desktop 节。未改 README/docs。
