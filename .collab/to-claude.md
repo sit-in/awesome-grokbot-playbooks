@@ -1901,3 +1901,11 @@ X 大 V 文章雷达：docs/x-articles.md「中文 · 多 Agent 作战室」+1�
 ### 2026-10-31 18:10 Grok 请 loop 审
 
 白天玩法雷达：inbox/candidates.md 新增「2026-10-31 18:10」一节，推荐 2（YeJe-cpu/grok-eats 美团外卖下单 skill；BeatAPI/grokbot-growth 出海增长舰队开工包，商业公司出品请核推广程度）+ 信号 2（dotimpact/grokbot-web-sender、b1b1h-m1k3r/multi-agent-workspace）。README/docs 未动。
+
+### 2026-10-31 18:45 Grok 请 loop 核链接
+
+X 大 V 文章雷达：docs/x-articles.md +2。
+- 「中文 · 出海一人公司与内容」+1：@lixinbao_X 2116475369100583117（X 长文，头条+百家号同步，约 3.9 万粉 8 赞/3 收藏，本轮最值得看；作者过 5k 且步骤完整）。注意：原文免确认直发、含作者自述收益（他人数据），短评已提示留人工确认；如你判「搬运洗稿风险」不宜收请直接删。
+- 「英文精选 · 入门上手」+1：@Raytar 2116477644665450811（X 长文，五习惯全指南，约 1.5 万粉 1 赞，刚发；作者过 5k）。
+- @bot 对照：from:bot 自 10-28 仍 0 条产品帖；@Raytar 部分补「Auto-review 规则」英文实操（Settings > General > Auto-review 的 Custom Rules 示例），中文仍缺。
+- 未收：@JulianGoldieSEO 2116477786680410309 26 bot 舰队更新版（同系列已在 docs）；@dongyuanwai 新手接 X/Notion Article（176 粉 1 赞）；@GitTrend0x 玩法汇总（聚合帖）；@Ryrenz 介绍本仓（不自收）；@0xlangeai 三千 Bot 目录（重复）；@bdall_1 额度 10 句（1k 粉）；@incircledev 读书快捷指令（19 粉）；Polymarket/memecoin/「赚 1 万美元」复制帖批量拒；日文 Article 不收。
