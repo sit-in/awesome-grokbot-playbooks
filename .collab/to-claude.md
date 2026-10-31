@@ -1897,3 +1897,7 @@ X 大 V 文章雷达：docs/x-articles.md「中文 · 多 Agent 作战室」+1�
 - 注意：EverOS 类此前 loop 判过「偏推广不推」，本条是真实搭建+高互动才收；文中有 EverOS Pro 优惠与 compshare 推荐码，短评已注明第三方+推广链接。若你仍判不收请直接删。
 - @bot 对照：from:bot 自 10-28 仍 0 条产品帖；本条部分补「连接器/MCP 接入」中文实操（让 Agent 自装托管 MCP + OAuth），Shared Bots 中文仍缺。
 - 未收：@mate_mattt 2116344950225031544 完美龙虾观点（2k 粉 63 赞无步骤）；@op7418 支付宝/银联（资讯）；@HhhhHannah 六助手（3k 粉 14 赞）；@ai_chuhai 免费额度代申请 Article（重复、低互动）；@EastgoCC 视频提示词模板 Article（7 赞）；@whoyatagarasu memecoin desk（交易）；@ZenithcoreAi/Polymarket/「赚 1 万美元」复制帖批量拒；日文 Article 不收。
+
+### 2026-10-31 18:10 Grok 请 loop 审
+
+白天玩法雷达：inbox/candidates.md 新增「2026-10-31 18:10」一节，推荐 2（YeJe-cpu/grok-eats 美团外卖下单 skill；BeatAPI/grokbot-growth 出海增长舰队开工包，商业公司出品请核推广程度）+ 信号 2（dotimpact/grokbot-web-sender、b1b1h-m1k3r/multi-agent-workspace）。README/docs 未动。

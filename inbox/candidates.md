@@ -3694,3 +3694,25 @@ adplug-app/adplug-linkedin-ads-plugin、adplug-google-ads-plugin（商业广告�
 ### Skip（本轮）
 
 tao-inc/alibihour-grok、hushword-grok、passlane-grok、sonarlex-grok、unsaid-grok（同一公司批量上架的游戏/题库插件）；pallasite-ai/pallasite-plugins（商业产品插件包）；izzbe/chat2z（与 Grok Bot 无关的 Cloud Run 多 bot 聊天）。
+
+## 2026-10-31 18:10 Asia/Shanghai · 白天玩法雷达
+
+> `gh search repos`（grokbot / grok-bot / "grok bot" / grok skill / routine / plugin / multi-bot / war room，created≥10-31 06:30 UTC），按 full_name 与 README、docs、inbox、.collab、examples 去重。X 侧未扫（交 X 大 V 雷达）。未改 README/docs。
+
+### 推荐（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| YeJe-cpu/grok-eats | https://github.com/YeJe-cpu/grok-eats | **让 Grok Bot 在云电脑浏览器里点美团外卖**：读近期订单给三个候选、手动勾最大红包、从地址簿切地址确认后推到收银台，人只在手机付款；附实测截图（咖啡与晚饭两单）、热量区间简报，中英 README。美团外卖无个人下单接口，走 H5 网页。本轮最值得看 | 生活 / 浏览器 Skill | **GitHub**（10-31 09:19 UTC 建，MIT，0★） |
+| BeatAPI/grokbot-growth | https://github.com/BeatAPI/grokbot-growth | 中文出海增长 Bot 舰队开工包：一个 skill 先问产品/市场/渠道，再生成总管 + 社媒、SEO/AEO、外链、竞品、热点、视频本地化等岗位说明、共用规则、审核表与第一周开工清单；建 Bot、连账号、批首批内容留给本人。与本仓多 Agent 作战室、出海一人公司方向贴合；出自商业 API 公司，链接带其官网 | 多 Agent 作战室 / 出海 | **GitHub**（10-31 09:37 UTC 建，MIT，0★） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| dotimpact/grokbot-web-sender | https://github.com/dotimpact/grokbot-web-sender | MV3 Chrome 扩展：右键把当前页/选中文字/链接/图片 + 一段备注 POST 到 Bot 的 webhook routine，URL 与 key 只存本地 storage 并按源申请权限。webhook routine 投料的轻量入口；日文 README，无 License | Routine（webhook） / 工具 | **GitHub**（10-31 09:48 UTC 建，无 License，0★） |
+| b1b1h-m1k3r/multi-agent-workspace | https://github.com/b1b1h-m1k3r/multi-agent-workspace | 多个 Agent（Claude Code、Codex、Gemini、Grok）共用项目不互相覆盖：每个 Agent 各写 `<Agent>/vN/`，只有 publish 脚本能更新 `main/` 并记 LAST-EDITED-BY；带 setup skill 一句话安装。无 git 的文件夹约定，适合非程序员多 Agent 协作 | Multi-agent / 协作约定 | **GitHub**（10-31 09:00 UTC 建，MIT，0★） |
+
+### Skip（本轮）
+
+keyvwin/b2bsearch-plugin、full-icp-search、contact-finder、b2b-leads-finder、hiring-signals、account-signals（同一商业 B2B 数据服务批量上架的插件，需其 key）；Kortix-seo/grok-bot-alternative-matrix（SEO 导向的竞品对比表）；lokeshrana9999/get-unstuck（README 暂不可读，下轮再看）；Ryu-Jemu/Grok_Bot-Build_Day（活动仓）；vinitprajapat0822-coder/grok-skills（非 Grok Bot 专属）；其余为与 Grok Bot 无关的 Telegram/WhatsApp/交易 bot。
