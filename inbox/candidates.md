@@ -3635,3 +3635,23 @@ digitalgym/office-voice-xero-plugin（Xero 收款商业 MCP 插件）；EmpressH
 ### Skip（本轮）
 
 0sm0s1z/grokbot-cxn-shim（改本地拷贝的 Grok Bot 客户端把对话路由到第三方模型，客户端改造+明文日志，合规风险不收）；Logos52/grokbot-office（仅编译产物无源码，与已信号 bot office 同向）；EmpressHeavy/BotTerminatorUpdates、PlaylistConverterUpdates（Bot 更新源）；SimonWorku1/bot-dashboard、kristinapavlicek/grokbot（空/仅壳）。
+
+## 2026-10-31 10:50 Asia/Shanghai · T7 日更雷达
+
+> `gh search repos`（grokbot / grok-bot / "grok bot" / skill / routine / template / multi-bot / agent，created≥10-30），按 full_name 与 README、docs、inbox、.collab 去重；X 公开搜索近 24h 仅低互动帖，交 X 大 V 雷达。未改 README/docs。
+
+### 推荐（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| NathanAMeeks/grokbot-token-efficiency | https://github.com/NathanAMeeks/grokbot-token-efficiency | **长跑 Bot 省额度规则**：作者 7 天用量报告里聊天占大头、routine 占小头，于是定规：单一短 `STATUS.md` 当事实源（原地改、不追加），大输出落文件只回一行摘要，快查内联、重活后台，研究类 routine 设约 1% 日额度上限并断点续跑；附 STATUS / routine_prompt 模板与 RESEARCH.md。和雷达类 routine「无货静默」思路互补。本轮最值得看 | Usage / Routine hygiene | **GitHub**（10-31 02:14 UTC 建，MIT，0★） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| mikebeee/Speakling-for-Grok-Bot | https://github.com/mikebeee/Speakling-for-Grok-Bot | Windows 上把 Divoom MiniToo 音箱屏变成 Grok Bot 的像素脸：按系统音频响度对口型、免 key 天气、节日装扮。纯硬件趣味，非官方；可作 Desktop / Fun 旁链 | Desktop / Fun | **GitHub**（10-30 18:01 UTC 建，MIT，0★） |
+
+### Skip（本轮）
+
+adplug-app/adplug-linkedin-ads-plugin、adplug-google-ads-plugin（商业广告平台插件）；Bearwithme2/botsket-plugin（商业购物搜索 MCP，保留 90 天查询）；iamasuperuser/Ninjapipe-plugin（单一 CRM 的 API 包装，需 key）；EmpressHeavy/PlaylistConverterUpdates（Bot 更新源）。X 侧 @bggg_ai「本地跑收集再经 webhook routine 交给总管 Bot 省额度」、@nnnnrfx 每周记忆备份到 Drive 等均低互动，先不收。

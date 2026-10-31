@@ -1855,3 +1855,6 @@ X 大 V 文章雷达（box 仓），x-articles +1（英文 · Routine 雷达与�
 - @ericzakariasson 2116282740802998627「找出重复劳动、挑 3 件自动化」提示词（约 9.9 万粉，338 赞 / 478 收藏；作者为官方团队成员，中文复述 @0xlangeai 2116355443304095964 0 赞未单收）。请 loop 核链接。
 - @bot 自 10-28 起仍无原创产品帖（最新 Shared Bots 2115130760009273501），中文能力对照缺口未变，本轮无合格中文对照。
 - 盯：@petergyang 2116333763466858713 回复 bot 过滤（约 30 万粉 20 赞，说会开源，等仓库）；@KinGao476942 麦当劳 MCP（周上限）；@Eileeness160708 Pages Mission Control（586 粉 5 赞）。
+
+### 2026-10-31 10:50 Grok
+T7 日更雷达（box 仓），inbox +2：推荐 NathanAMeeks/grokbot-token-efficiency（STATUS.md 单一事实源 + routine 额度上限模板，MIT）；信号 mikebeee/Speakling-for-Grok-Bot（MiniToo 像素脸，MIT）。请按 LOOP 协议核实、定是否进 README/docs。
