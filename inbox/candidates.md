@@ -3590,3 +3590,27 @@ dealrinc/dealr-cloud-plugin（经销商业务 MCP 商业插件）；b2bsearch/co
 ### Skip（本轮）
 
 b2bsearch/b2b-leads-finder（联系方式挖掘推广插件，同作者此前已 skip）；arsenikqq/grokbot-100（仅一个 index.html）；thepodemail-lgtm/grokbot-gtv-simulator（电视客服模拟器，与 Grok Bot 玩法无关）；ikeriano/uno-para-ganar-3d-grok-bot（粉丝小游戏，无关）。
+
+## 2026-10-31 08:07 Asia/Shanghai · 白天玩法雷达
+
+> `gh search repos`（grokbot / grok-bot / "Grok Bot" / grokbot skill / multi-bot grok / grok bot routine，created≥10-30，取约 16:41 UTC 后新建；另补漏此前窗口漏掉的 janreges/safe-grokbot-bridge）+ X `search_posts_all`×2（自 18:00 UTC ≈ 02:00 Asia/Shanghai，中英 + `url:github.com`）。按 full_name / 链接与 README、docs、inbox、.collab 去重。未改 README/docs。
+
+### 推荐（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| rannes/grokbot-botmarket | https://github.com/rannes/grokbot-botmarket | **自托管 Grok Bot 模板/配方市场**：SQLite 单文件、无外部服务；支持官方 template 深链一键 Add，以及开源 `grokbot-recipe/v1` JSON（记忆/skills/routines 暂停创建/plugins 需再确认）；`/submit` 发布、可选审批、Docker/Compose、Vitest。社区/团队自建目录的完整样板。本轮最值得看 | Templates / Self-hosted catalogs | **GitHub**（10-30 19:50 UTC 建，MIT，0★） |
+| janreges/safe-grokbot-bridge | https://github.com/janreges/safe-grokbot-bridge | **有鉴权的本机桥**：Cloudflare Tunnel + bearer token + 限速/锁定，给云端 Grok Bot 窄权限 HTTP API，可读限定文件夹/git、列/启/驱动本机 Claude Code·Codex·Hermes（tmux/headless）；OpenAPI + skill 目录 + CI。相对已在 inbox 的 grokbot-gateway（读桌面会话密钥）更偏「安全远程协调」；README 明确警告勿跑主工作机。前几轮 created 窗口漏收，本轮补。MIT | Bridges / Multi-agent | **GitHub**（10-30 08:39 UTC 建，MIT，0★） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| tradersnow222/gainzbot | https://github.com/tradersnow222/gainzbot | 开源健身/营养教练 Bot：**脚本强制护栏**（不可能工具、plan_check/readiness_screen 校验、人类确认后才改计划，含大量 pytest）。可复用的是「护栏脚本 + 人闸」结构，**勿当医疗/训练建议收录**；MIT、0★ | Skills / Safety patterns | **GitHub**（10-30 18:38 UTC 建，MIT） |
+| shamilkotta/ai-usage | https://github.com/shamilkotta/ai-usage | macOS 通知中心小组件：一眼看 Claude / Codex / Cursor / **Grok Bot** 额度百分比与重置时间；读本机已有登录（Keychain/`state.vscdb`），不另要 key。**无 License**、0★，先信号 | Desktop / Usage | **GitHub**（10-30 18:22 UTC 建） |
+| how-to-ai-co/301-build-recipe-agents | https://github.com/how-to-ai-co/301-build-recipe-agents | 工作坊材料：粘贴一条 recipe 进 Claude Code，对比 Muse/Instinct/Grok Bot/dots/Claude Duet，写出幕僚长 brief + 审批规则 + 六份 standing jobs。含 research/playbook/templates。**无 License**，可作 Learning 旁链 | Learning / CoS | **GitHub**（10-30 22:41 UTC 建） |
+| JonathanT10/grok-bot-client-vault-template | https://github.com/JonathanT10/grok-bot-client-vault-template | 给小客户交付用的 **Obsidian 客户 vault 模板**：GROK.md 操作规则、Onboarding 清单、Reference/Skills/Team 角色、无密钥进仓。描述写「selling」但结构可复用为一人公司交付底板。**无 License**、0★，先信号 | Chinese solo-founder / Delivery | **GitHub**（10-30 21:03 UTC 建） |
+
+### Skip（本轮）
+
+digitalgym/office-voice-xero-plugin（Xero 收款商业 MCP 插件）；EmpressHeavy/DogeUpdates、BotTerminatorUpdates（梗图 Bot 更新源）；Corvax50/grokbot-office（个人像素办公室看板，与已信号 head-office / whatsmyagentdoing 同向）；ThatOneKid842/grokbot-dashboard、SimonWorku1/bot-dashboard（空/仅壳）；cesarfavero/LoopVero（Harness 静态逆向研究，合规风险不收）；embwl0x/native-agent、gabe-mobius/next-mission（旧仓/非本窗新建）；X 侧 @dannyshmueli 推已收 awesome-grok-bot-pages、@odwyer_richard 链 DeepSeek Harness（已有生态）、交易/Binance 逆向帖、低粉 tip 帖不收。

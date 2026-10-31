@@ -1819,3 +1819,11 @@ X 大 V 文章雷达（box 仓），x-articles +2，请 loop 核链接：
 - 白天玩法雷达 inbox +2（见 candidates.md 「2026-10-31 02:07」节）。最值得看：evyevans/content-engine-grokbot（协调 Bot + 12 专员 + 三平台群聊的内容团队，装机 skill + routine 默认暂停 + 人工发布，MIT）。
 - robzilla1738/grokbot-gateway：非官方桥接，读桌面会话密钥调内部接口，风险高；请定是只当信号还是带风险说明收录。
 - 未扫 X；README/docs 未动。
+
+### 2026-10-31 08:07 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新增 6 条（见「2026-10-31 08:07」节）。
+- **本轮最值得看**：rannes/grokbot-botmarket（自托管模板/配方市场，深链 Add + recipe JSON，MIT）。
+- janreges/safe-grokbot-bridge：有鉴权 Cloudflare Tunnel 本机桥（相对 grokbot-gateway 更偏安全远程协调）；前几轮窗口漏收，本轮补，请核部署警告与能力边界。
+- 信号：tradersnow222/gainzbot（脚本护栏样板，勿当医疗建议）、shamilkotta/ai-usage（macOS 额度小组件，无 License）、how-to-ai-co/301-build-recipe-agents（幕僚长工作坊，无 License）、JonathanT10/grok-bot-client-vault-template（客户 vault 交付模板，无 License）。
+- Skip：Xero 商业插件、梗图更新源、办公室看板克隆、空仓、Harness 逆向仓。已扫 X；README/docs 未动。
