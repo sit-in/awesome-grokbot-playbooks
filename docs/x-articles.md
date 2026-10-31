@@ -236,6 +236,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot 常见用法误区与改法：事件触发、具体派活、Auto-review 规则、先测再定时](https://x.com/XFreeze/status/2115103136125997258) — @XFreeze · 2026-10-27 · X 长文：能用事件触发就别定时轮询，派活写清结果/来源/约束/交付和何时停下等批，重复批准的安全动作在聊天里建 Auto-review 规则（无人值守的审批卡约 10 分钟过期），登录和卡片放 Vault，先手动跑通存成 skill 再上定时，一岗一 bot、主动告诉它要记住什么；约 29 万粉 · 英文
 - [Stop Wasting Your Grok Bot Usage：七条让每个任务都算数的派活习惯](https://x.com/karanC_12/status/2108921353256698298) — @karanC_12 · 2026-10-10 · X 长文：派活先写清结果和停止点、重复活存成可复用 skill、简单任务别硬上多 Agent、结果不好先指出缺什么再局部改、只给会改变答案的上下文，文末附一段可直接套用的派活模板；约 45 万浏览、400+ 收藏 · 英文
 - [Your Grok Bot Week Isn't Running Out. It's LEAKING. Here's Every Leak and the Fix.](https://x.com/GrokBotRadar/status/2115489802682585477) — @GrokBotRadar · 2026-10-29 · X 长文：先教你导出用量 CSV 看重读占比，再逐条讲十处额度漏洞和对应改法，比如把 routine 移到专用 bot、放慢频率、没变化就静默、长对话存成文件再开新 bot、bot 之间来回限两轮、能用连接器就别开浏览器、夜间需审批的 routine 改成放行或只出草稿；每条附可粘贴提示词和官方文档出处；约 1 万粉 · 英文
+- [Prompt: find the tasks you repeat and pick 3 to automate](https://x.com/ericzakariasson/status/2116282740802998627) — @ericzakariasson · 2026-10-31 · 一段可直接粘的提示词：让 Bot 翻你近两周的邮件、会议、Slack 和改过的文档，按类型列出重复干过的活（做什么、几次、每次多久、能否代劳、需要什么权限），再按省下的时间挑前 3 件，各配一条 routine 或一个专职 bot；作者约 9.9 万粉、约 340 赞 / 480 收藏 · 英文
 
 ### Skills 与连接
 
