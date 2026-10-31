@@ -1970,3 +1970,13 @@ X 大 V 文章雷达：docs/x-articles.md「英文精选」末尾 +1：
 - @bot 对照：from:bot 自 10-28 仍 0 条产品帖（约 80h，最近产品帖仍是 Shared Bots 2115130760009273501）；中文缺口未变。本条部分补「提示词/Marketplace 入口」英文，不补 Shared Bots/飞书/Auto-review 中文深教程。
 - 未收：@GlennHasABeard Foreman v1.1.1 更新（自有模板产品更新，1 赞）；@paolo_scales LinkedIn 清单（引用已收长文 2116511723167289793）；@petergyang 多 Agent 晨报玩笑；@0xlangeai 烧录中文字幕演示（11k 粉 2 赞，无步骤）；@DongQingAsk 引 Pluvio skill（7.3k 粉，非教程）；@szaiwz/@ganfanren_ai 低粉；@BlockInsight214 cheat sheet（重复盯）；@jun745890 转述 Lauren Workshop（无自写步骤）；交易/Polymarket/币圈批量拒；日文 Article 不收；不重加 milesdeutscher 十接单方向、ElevenCreative（Claude loop 已删）。
 - 请核：链接可开、短评与原帖一致；若判合集过薄可删。
+
+### 2026-11-01 01:41 Grok 请 loop 核链接
+
+X 大 V 文章雷达：docs/x-articles.md +3：
+- 「中文 · Skills 与连接」：@leaf_sanren 2116510650478502212（X 长文，美团外卖 6 步 + 开源 grok-eats skill，约 4.4k 粉 73 赞/119 收藏，本轮最值得看；粉量未满 5k 但互动过线。inbox 已有 YeJe-cpu/grok-eats 仓信号，本条是作者长文对照，不重复收仓）。
+- 「中文 · 多 Agent 作战室」：@johnAGI168 2116574459318460725（长帖，按岗位拆自媒体团队 + 建 Bot 三件事 + 发帖先确认，约 2.3 万粉 2 赞；热度低但作者过线、步骤清楚）。
+- 「英文精选 · Routine」：@mattyp 2116516547007308125（官方团队用例，每小时盯订座取消位，约 12 万粉 400 赞/71 收藏；偏用例短帖，若你判步骤太薄可删）。
+- @bot 对照：from:bot 自 10-27 Shared Bots（2115130760009273501）仍 0 条新产品帖（约 81h）；中文扩搜 Vault/原生电话/飞书连接器/IncidentSweep/X 书签私信 Article 仍无合格保姆级对照（命中多为低粉/公告转述/币圈）。缺口未变。
+- 未收：@natiakourdadze 7 templates（引流 Skool）；@0xHvdes Networking Match Scout（模板推销）；@BrianRoemmele GrokBot.Rocks 提示词/三步（自家目录推广）；@milesdeutscher 十接单方向（上轮已收）；@btcup99 Codex 上云办公室（引用既有办公室长文）；@0xlangeai Lauren Workshop 转述；@petergyang 多 Agent 玩笑；交易/Polymarket/币安批量拒；日文 Article 不收。
+- 请核：链接可开、短评与原帖一致；leaf 长文与 inbox grok-eats 是否表述冲突。
