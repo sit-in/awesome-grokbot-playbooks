@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/stargazers"><img src="https://img.shields.io/github/stars/sit-in/awesome-grokbot-playbooks?style=flat-square&color=ff7a1a" alt="Stars"></a>
-  <img src="https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-157-blue?style=flat-square" alt="Entries">
+  <img src="https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-167-blue?style=flat-square" alt="Entries">
   <img src="https://img.shields.io/badge/%E9%85%8D%E6%96%B9-10-blueviolet?style=flat-square" alt="Recipes">
-  <img src="https://img.shields.io/badge/%E6%9C%80%E8%BF%91%E6%A0%B8%E5%AE%9E-2026--10--31-success?style=flat-square" alt="Last verified">
+  <img src="https://img.shields.io/badge/%E6%9C%80%E8%BF%91%E6%A0%B8%E5%AE%9E-2026--11--01-success?style=flat-square" alt="Last verified">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml"><img src="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml/badge.svg" alt="link-check"></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
   <img src="https://img.shields.io/badge/%E9%9D%9E%E5%AE%98%E6%96%B9-lightgrey?style=flat-square" alt="Unofficial">
@@ -25,10 +25,10 @@
 
 | | |
 |---:|---|
-| **157** | 个条目，每条都用 GitHub API 或页面核过：仓库存在、还在更新、确实和 Grok Bot 相关；许可证情况写在短评里 |
+| **167** | 个条目，每条都用 GitHub API 或页面核过：仓库存在、还在更新、确实和 Grok Bot 相关；许可证情况写在短评里 |
 | **10** | 个可抄配方，统一格式：场景 → 输入 → 步骤 → prompt → 产出 → 坑，样例全部脱敏 |
 | **3 级** | 验证标记：✅ 真机跑通 · 🔍 读过文档和配置 · 无标记＝只核实过仓库。✅ 只给真跑过的 |
-| **311** | 篇社区教程和 X 长文精选（[社区教程](docs/community-tutorials.md) 33 + [X 大 V 文章](docs/x-articles.md) 278），加上作者自己的连载索引，每条都核过存活、作者和发布日期 |
+| **313** | 篇社区教程和 X 长文精选（[社区教程](docs/community-tutorials.md) 33 + [X 大 V 文章](docs/x-articles.md) 280），加上作者自己的连载索引，每条都核过存活、作者和发布日期 |
 | **2 个 AI** | 在维护：Grok Bot 每天找料，Claude Code 核实、写短评，人只拍板。协作记录全公开在 [`.collab/`](.collab/README.md) |
 
 和英文生态导航 [awesome-grok-bot](https://github.com/ZeroPointRepo/awesome-grok-bot) 的分工：它覆盖面广；本仓侧重**中文一人公司、多 Bot 作战室、雷达 Routine 和可抄配方**。不拼数量，宁缺毋滥。
@@ -61,22 +61,22 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 
 ## 🆕 最近更新
 
+- **11-01** 新增 10 个：800 多个模板的社区目录站 [Grok Bot Shelf](https://grokbotshelf.com)、给 bot 多的人用的客户端 [GrokDeck](https://github.com/Gamedesigner/grokdeck)、Siri / HomePod 问 bot 的 [Homebot](https://github.com/lumpinif/Homebot)、脚本派活防重发的 [Grok Bot Bridge](https://github.com/runesleo/grok-bot-bridge)、把 Linux 服务器挂成 bot 电脑的 [grokbot-tunnel](https://github.com/exa-pub/grokbot-tunnel)、Omarchy 语音热键、多 bot 运维手册 [grok-bot-ops](https://github.com/yohei1126/grok-bot-ops)，硬件区加了语音球、Stack-chan 语音伴和 Pixel 平板动画脸；X 大 V 文章增至 280 篇
 - **10-31** 新增 8 个：Windows 桌面 bot 信标 [Bot Beacons](https://github.com/SnazzyGaz/bot-beacons)、云电脑加密增量备份 [Grok Box](https://github.com/dorukardahan/grokbox)、终端 agent 给 bot 派活 [grokctl](https://github.com/lucasjsbarbosa/grokctl)、Claude 与 bot 互留任务的信箱 [agent-relay](https://github.com/pawelmical/agent-relay)、特斯拉车况插件 [Vehicle Fleet](https://github.com/matthew-rutledge-dev/grokbot-vehicle-fleet)、本机额度打卡仪表盘 [Usage & Check-in](https://github.com/yuehzhan/grokbot-usage-checkin)、导入模板缺 skill 的救援包 [Unfinished Botness](https://github.com/brefledev/unfinished-botness)、每次运行拉最新 skill 的模板仓 [grokbot-skills（datadda27）](https://github.com/datadda27/grokbot-skills)
 - **10-30** 新增 1 个：控速目录外链 playbook [backlink-pilot](https://github.com/s87343472/backlink-pilot)；下架 1 个已删除的仓 grok-starter-kit；X 大 V 文章增至 265 篇
-- **10-29** 新增 9 个：Bot 搬家打包 [personal-agent-dossier](https://github.com/AidaShika/personal-agent-dossier)、7500 多个公开 bot 的总目录 [grokbot.rocks](https://grokbot.rocks/)、微信私聊桥 [grokbot-weixin](https://github.com/ericyangpan/grokbot-weixin)、经 Tailscale 让本机 Claude Code 带队干活的 [stampede](https://github.com/vib-z/stampede)、家庭和小公司 bot 团队制度包 [Project SAGE](https://github.com/crusader0711/specialized-ai-grok-empire)、只读 X 运营队 [Foreman](https://github.com/GlennHasABeard/foreman)、云电脑数据导出 [Grok Bot Backup](https://github.com/company-notes/grok-bot-backup)、只读 [Tesla MCP](https://github.com/naoiseirwin/Tesla-Grokbot-Connector)、自托管 bot 团队 [kwant](https://github.com/alexsergivan/kwant)；X 大 V 文章增至 252 篇
 
 完整记录见 [README 提交历史](https://github.com/sit-in/awesome-grokbot-playbooks/commits/main/README.md)。
 
 ## 📚 目录
 
 - [官方与 SDK](#-官方与-sdk)（6）- 官方文档、模板市场、SDK 和命令行
-- [模板与目录](#-模板与目录)（15）- 模板库、bot 分享链接索引、案例站，找现成的先翻这里
-- [技能与玩法](#-技能与玩法)（54）- skill、MCP、单个模板、可粘贴人设
-- [多 Bot 团队](#-多-bot-团队)（33）- 作战室、总指挥、多 agent 协作
+- [模板与目录](#-模板与目录)（16）- 模板库、bot 分享链接索引、案例站，找现成的先翻这里
+- [技能与玩法](#-技能与玩法)（59）- skill、MCP、单个模板、可粘贴人设
+- [多 Bot 团队](#-多-bot-团队)（34）- 作战室、总指挥、多 agent 协作
 - [Routine 与摘要](#-routine-与摘要)（11）- 定时雷达、周报、额度管理
 - [中文一人公司](#-中文一人公司)（6）- 出海客服、微信接入、中文配置
 - [自托管与平替](#-自托管与平替)（16）- 不想上云、想用自己的模型
-- [硬件](#-硬件)（4）- 给 bot 一个实体入口
+- [硬件](#-硬件)（7）- 给 bot 一个实体入口
 - [学习资源](#-学习资源)（12）- 教程、手册、教程索引
 
 ---
@@ -103,6 +103,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 - [botdirectory.ai](https://github.com/elie222/botdirectory.ai) - 开源 bot prompt 目录，Grok Bot、Rakazo 都能用，当灵感库翻。标签：`templates` `directory` `prompts`
 - [Useful Bots](https://usefulbots.pages.dev/) - 面向创作者的免费 Grok Bot 模板目录，按视频、增长、发布等分类；个人站，质量没逐个抽检，当灵感翻。标签：`templates` `creators` `directory`
 - [Every Grok Bot（grokbot.rocks）](https://grokbot.rocks/) - @BrianRoemmele 维护的公开 Grok Bot 总目录：7500 多个分享链接分 26 类，每条一句说明，点开就能加到自己的 Grok Bot，作者称每周更新；可以让 bot 读这份目录，按你的目标挑 skill 补齐。目录免费，页面里有作者付费会员的推广，本仓没有逐条抽检。标签：`directory` `templates` `discovery`
+- [Grok Bot Shelf](https://grokbotshelf.com) - Phillip Holland 维护的社区 Grok Bot 模板目录站：800 多个分享链接、近 200 位作者，按生活、效率、创作、商业等分类，每张卡片写一句用途、作者和来源帖，点开就能加到自己的 Grok Bot；投稿改仓库里的 `bots.json` 提 PR，几乎每天更新。网站源码在 [GitHub](https://github.com/PhillipHolland/grokbotshelf)，没有写 License；本仓没有逐条抽检。标签：`directory` `templates` `discovery`
 - [GrokBotDev](https://github.com/ZeroPointRepo/GrokBotDev) - grokbot.dev 的源码仓：由一组 bot 自己运营的玩法目录，Scouts 盯 X 找真实配置，Curator 决定收录，Builder 维护网站，每次改动都走 PR。插件、用例、组合包各有页面，另有 JSON API、RSS 和 MCP，可以让你的 bot 定时订阅。和本仓「AI 找料、人拍板」的思路相近，可以对照着看。代码 MIT、内容 CC BY 4.0。标签：`directory` `agent-run` `mcp`
 - [GrokBot HQ](https://github.com/V-harshith/grokbothq) - grokbothq.xyz 的源码仓：4200 多个 Grok Bot 按分类列出，另有组合包、指南，以及和 Custom GPTs 等的对比。作者称每条上架前都人工打开测过，本仓没有逐条复核。代码 MIT、内容 CC BY 4.0。标签：`directory` `combos` `guides`
 - [Grok Bot 导航](https://github.com/ddhjy/grok-bot-hub) - 中文非官方 Grok Bot 目录站，在线版 ddhjy.github.io/grok-bot-hub：教程、模板、工具按栏目列出，每条一句中文说明；内容放在仓里的 `catalog.json`，加条目走 PR，提交前跑校验脚本。和本仓定位相近，可以互相补着翻。代码 MIT、目录数据 CC0。标签：`directory` `chinese` `catalog`
@@ -133,6 +134,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 - [locum](https://github.com/HarjjotSinghh/locum) - 自定义 MCP 连接器加隧道，让 Grok Bot 把编码活交给你本机已登录的 Claude Code / Codex，只调用官方命令行，不碰凭证。等于把云端 bot 和本机订阅接起来；隧道开着期间注意权限面。标签：`mcp` `delegate` `claude-code`
 - [wingman](https://github.com/juangurdian/wingman) - 本机 MCP 桥：让 Grok Bot（也支持 Cursor 等 MCP 客户端）列出你本机 Codex / Claude Code 的会话、读对话记录、发消息、打断当前这一轮，你在终端里照样看得到。`npx wingman-mcp` 一条命令配对，生成 bearer token，再用 Tailscale 或 Cloudflare 隧道把端口给云端 bot。和 locum 思路相近，locum 是派新活，wingman 是接管已开着的会话；隧道选不对外公开的那种，token 别外泄。MIT。标签：`mcp` `bridge` `claude-code`
 - [claude-grok-bridge](https://github.com/francoCosimo95/claude-grok-bridge) - Claude Code 和 Grok Bot 双向互通：在 Claude Code 里说一句「ask Grok Bot …」，问题交给 bot，约 30 秒后答案回到原会话；bot 也能反过来问 Claude。走两边各自的 routine 端点，没有中间服务器、不用拷 key；给 bot 发一行安装指令，它自己装好两边并跑自检。消息只当数据，回答不算批准。零依赖，MIT。标签：`bridge` `claude-code` `routine`
+- [Grok Bot Bridge](https://github.com/runesleo/grok-bot-bridge) - 让 Claude Code、ChatGPT 或任意脚本经 webhook routine 给 bot 派活：每个任务带 job id、本地账本防重复发送，超时标 UNKNOWN 不盲目重试；bot 第一行回 `BRIDGE_RESULT <job_id>`，一条 `harvest` 命令把答复收进文件（读桌面端本地会话副本）。纯 Python 标准库，中英文档。和上面的 claude-grok-bridge 思路不同，可以对比着挑。MIT。标签：`webhook` `claude-code` `routine`
 - [Grok Bridge](https://github.com/niharnm/grok-bridge) - 一个命令行在 Grok Bot 和 Codex、Claude Code、Cursor、Antigravity、Muse Code 之间双向交接任务：把一件边界清楚的活交出去，拿回结果再接着干。连 Grok Bot 用的是社区版 grok-bot-cli，走桌面端会话的非公开接口；反向调用要你批准 bot 在本机执行命令。作者自标实验性 alpha。MIT。标签：`bridge` `cli` `multi-agent`
 - [gb2gpt](https://github.com/EdmundLimBoEn/gb2gpt) - 在 ChatGPT 对话里给你的 bot 团队派活：自托管一个小 Python 服务，经 ChatGPT 开发者模式 MCP 把任务交给专门的中继 bot，再转给总管；非官方。要付费 ChatGPT（开开发者模式）和一个 HTTPS 公网地址，许可是 CC BY-NC 4.0，不能商用。标签：`chatgpt` `mcp` `relay` `self-hosted`
 - [grokbot-cli](https://github.com/Nuncio-hq/grokbot-cli) - 在终端或 Claude Code / Codex / Cursor 里指挥你的 Grok Bot：派活并等最终回复、回复某条消息、处理审批卡、招 bot、管 skill 和 routine；同一套命令也有 MCP 和 TypeScript SDK。bot 云电脑上装一个 inbox skill，bot 想交给你本机助手的活（修 bug、待核的结果）约 1 分钟内能收到。非官方，复用桌面端的登录调用未公开接口，接口一改可能失效；删除、批准这类命令要加 `--yes`，先拿测试 bot 试。只支持 macOS。MIT。标签：`cli` `mcp` `sdk`
@@ -152,6 +154,9 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 - [TetherBot](https://github.com/GrokkingGrok/TetherBot) - 把 GNOME 桌面接到 Grok Bot：顶栏显示 bot 状态、弹通知、快捷操作，桌面经 webhook routine 发给 bot，bot 的产出经私有 GitHub 数据仓回到桌面。本机常驻一个用户级守护进程，密钥存系统密钥环。pre-alpha，许可证 GPL-2.0-or-later。标签：`gnome` `linux` `desktop` `webhook`
 - [Grok Bot for Omarchy](https://github.com/hmarquez-solutions/omarchy-grok-bot) - Omarchy（Arch Linux 桌面）顶栏插件：一张 Grok Bot 小脸，休眠、空闲、干活、有未读、等你五种表情，等你时旁边显示是哪个 bot；点开面板，卡在你这儿的 bot 和原因排最前，其余列出最后一句话和未读数。只读桌面端写在本机的状态文件，不连服务器、不读凭证、不往 bot 目录写东西；「干活中」靠文件写入推断，慢回复可能误判成空闲。标签：`linux` `desktop` `status`
 - [Bot Beacons](https://github.com/SnazzyGaz/bot-beacons) - Windows 桌面上一个 bot 一个悬浮小头像（也可以收成贴在屏幕边的标签）：bot 做完事、要你批或要你登录时会发光并显示一句摘要，点一下直达那个 bot 的聊天，中键点它就能叫它干活，小事可以直接在气泡里回。把仓库链接发给桌面端的 bot，说「帮我装上」，它按 SETUP 文档装好、配对、建好转发回复的 routine。消息经免费的公共 ntfy.sh 中继，全程加密签名，也可以换成自建 ntfy；exe 没有代码签名。MIT。标签：`windows` `desktop` `notifications`
+- [Grok Bot Voice（Omarchy）](https://github.com/StefMVP/omarchy-grokbot-voice) - Omarchy 热键开始、静音、挂断 Grok Bot 语音通话，不抢键盘焦点，屏幕上一颗小药丸显示通话状态。安装会给桌面端加本地调试端口（9222），bot 的 agent id 要自己从 DevTools 里抄；非官方。可和上面的 Grok Bot for Omarchy 一起用。MIT。标签：`linux` `voice` `hotkey`
+- [GrokDeck](https://github.com/Gamedesigner/grokdeck) - 第三方 Mac / Windows 客户端，给 bot 多的人用：置顶、分组（和 Grok Bot 同步）、按活跃度排序、搜缓存的对话、直接看和操作 bot 的云电脑；iPhone 版经同一局域网配对桌面助手使用，暂不支持出门远程。读本机已登录的 Grok Bot 安装，凭证只留在内存、只发往官方接口，无统计；走非官方接口，只适配特定桌面端版本，目前是预览版。MIT。标签：`desktop` `ios` `client`
+- [Homebot](https://github.com/lumpinif/Homebot) - Mac 应用：用 iPhone 或 HomePod 的 Siri 问自己的 Grok Bot，Siri 把回答念出来，点四步就配好，不用开终端，支持多轮对话。要一台常开的 Mac 和 iPhone 在同一 Wi-Fi，局域网走明文 HTTP，别做端口转发；早期版本、没走 Apple 公证，作者标了几处尚未实测。MIT。标签：`siri` `homepod` `voice`
 - [Agent Harbor](https://github.com/TommyBez/agent-harbor) - macOS 工作区：把 Claude Code 和 Codex 会话放进独立 tmux 常驻，你在桌面 App 里看终端、接管、恢复，Grok Bot 通过桌面端的本机命令执行调用同一个控制器派活和续聊，不开公网服务。要开桌面端本机执行，等于让 bot 动你的电脑；早期实验版，先在授权的测试项目上试。标签：`claude-code` `codex` `tmux` `macos`
 - [grok-bot-mcp](https://github.com/cherwinyu/grok-bot-mcp) - Windows 本机 MCP 桥：把一个限定范围的编码任务交给 Grok Bot routine，只提交一次，再用 git diff 和留存的证据验收，不看聊天里的「已完成」。管理员先锁定 Git 根目录、可改文件和测试命令；附离线演示，不连账号也能先试。作者标实验 Beta、非官方，有中文 README。标签：`mcp` `windows` `coding` `routine`
 - [grokbot-skills](https://github.com/dallintwatts/grokbot-skills) - 解决「导入模板不带 skill」：bot 第一次对话先问「要我完成设置吗」，你同意后它从固定 commit 下载 skill，按 `PINS.txt` 里的 sha256 和文件大小逐个校验，对不上就不装。仓里是 Second Opinion Council、Fleet Doctor 两个模板的 skill，这套校验做法可以照搬到你自己分发的模板。MIT。标签：`skills` `templates` `sha256`
@@ -168,6 +173,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 - [personal-agent-dossier](https://github.com/AidaShika/personal-agent-dossier) - 把一个 bot 的岗位、不许做的事、记忆、routine 和依赖打成一个 `.dossier.md` 搬家：把仓交给 bot 当 skill，说一句「打包你的工作，我要把你搬走」就导出；换平台导入先 dry run，列出会丢什么再等你批。附校验脚本，查字段、重算指纹、扫密钥和隐私。格式源自作者 30 多个 Grok Bot 的真实名册，已试过搬到 Muse、Hermes、OpenClaw。有 CI，中英日韩文档。MIT。标签：`skill` `migration` `memory` `routine`
 - [Tesla Grokbot Connector](https://github.com/naoiseirwin/Tesla-Grokbot-Connector) - 只读的 Tesla Fleet API MCP：问 bot 车还剩多少电、这周开了多远、续航有没有掉，不能控车；在你自己的 bot 云电脑上以 stdio 命令运行，不对公网开放，VIN 打码。要自己申请 Tesla 开发者应用，非官方。MIT。标签：`mcp` `tesla` `read-only`
 - [Grok Bot Vehicle Fleet](https://github.com/matthew-rutledge-dev/grokbot-vehicle-fleet) - 社区 MCP 插件加一组 skill，经官方 Fleet API 读特斯拉车况（电量、空调、门锁、胎压、粗略位置等）：默认只读、先读缓存、不主动唤醒车；打开命令开关后才能下指令，每条都要你确认，不做定时或自动控车，作者写明不能用于紧急或安全场景。要用你自己的开发者应用和令牌，近一周连发了多个版本。MIT。标签：`mcp` `tesla` `vehicle`
+- [grokbot-tunnel](https://github.com/exa-pub/grokbot-tunnel) - 把没有桌面的 Linux 服务器（VPS、家用服务器、容器、树莓派）挂成 Grok Bot 的一台本地电脑，bot 能在上面跑命令、改文件；一个 Go 静态二进制，systemd 常驻、开机自连、自动更新，命令权限分 ask / always / never。非官方；连上期间 bot 能在服务器上执行命令，别挂在放敏感数据的机器上，权限先设 ask。有 CI 和 Release。MIT。标签：`linux` `server` `computer`
 
 <sub>[⬆ 回到目录](#-目录)</sub>
 
@@ -206,6 +212,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 - [X Bot Crew（Foreman）](https://github.com/GlennHasABeard/foreman) - 一组只读的 X 运营 bot：Foreman 一次装好整队并给你一个前台 Dispatch，也可以单装 Follow Audit、Follow Finder、Reply Queue 等七个模板；只给你列清单，从不发帖、回复、点赞、关注或拉黑。走官方 X API 按量付费，带每日花费上限和账本。MIT。标签：`multi-bot` `x` `read-only`
 - [grokctl](https://github.com/lucasjsbarbosa/grokctl) - 非官方命令行：让 Claude Code、Codex、OpenCode 等终端 agent 给你的 Grok Bot 派活，等它做完再读回复，还能附文件。原理是带调试端口（只绑 127.0.0.1）重启 Windows 桌面端，再往输入框打字、点发送、读页面；作者写明 App 一更新就可能失效，自动操作 App 也可能违反使用条款。只支持 Windows，WSL 里也能调。MIT。标签：`cli` `bridge` `windows`
 - [agent-relay](https://github.com/pawelmical/agent-relay) - 部署在 Cloudflare Workers 上的远程 MCP 任务信箱：Grok Bot（Bearer token）和 Claude（OAuth）互相留活、认领、回写结果，派活时可以用 webhook 叫醒对方的 routine，叫醒消息只说「有活了」、不带任务内容；一键部署，现在也对其他 MCP agent 开放。大家共用一个密钥，做完的任务 30 天后自动删除。MIT。标签：`mcp` `cloudflare` `handoff`
+- [grok-bot-ops](https://github.com/yohei1126/grok-bot-ops) - 多 bot 运维卫生手册，纯文档：共享规则放哪、什么时候建新 bot 或退役旧 bot、长期 bot 和一次性对话怎么分工、月度审计清单，目标是省额度、交接清楚。Apache-2.0。标签：`multi-agent` `ops` `usage`
 
 <sub>[⬆ 回到目录](#-目录)</sub>
 
@@ -263,6 +270,9 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 - [grok-gadgets](https://github.com/adidshaft/grok-gadgets) - 把硬件接到 Grok Bot 的 SDK 和工具，可先用模拟器，再上 ESP32-S3 OLED 套件；作者标注 alpha，玩票为主。标签：`hardware` `esp32` `sdk`
 - [宗主 zongzhu-bot](https://github.com/Liu-zhongxian/zongzhu-bot) - ESP32-S3 圆屏语音终端：说唤醒词就把需求交给 Grok Bot，回复显示在屏幕上并朗读，离线语音识别，带网页刷机。要一台常开的 Mac 跑后端，bot 要开 Webhook 并能往这台电脑写文件。标签：`hardware` `esp32` `voice` `webhook`
 - [小糖 ESP32 陪伴宠物](https://github.com/vliuyt/grok-bot-esp32-bridge) - 把微雪 ESP32-S3 1.43 寸圆屏做成桌面小宠物：会眨眼、回应抚摸，按住实体键说话，经常开的 Mac 桥接到你已有的 Grok Bot，用 bot 原生语音和任务通道，不另接语音识别和合成。连接用的是桌面 App 的内部接口，作者写明不是公开稳定 API，App 升级可能失效；刷机前先整片备份。中文 README。标签：`hardware` `esp32` `voice` `chinese`
+- [grokbot-physical](https://github.com/tcballard/grokbot-physical) - 台面语音球：本机唤醒词，用 xAI Realtime 对话，把任务交给 bot 的 webhook routine，bot 做完回调播报，LED 光环显示是哪个 bot 在干活；含 Rust 守护进程、3D 打印外壳和 Pi Zero 2 W 物料清单，没有硬件也能在 Linux 笔记本上模拟跑。作者标预览版，麦克风、喇叭和灯环还没在真机上验证。MIT。标签：`hardware` `voice` `raspberry-pi`
+- [GrokChan](https://github.com/notedit/GrokChan) - Stack-chan 风格的 Grok Bot 语音伴侣：经 Cloudflare Worker 把浏览器（以后是 M5Stack）接到 bot 的 webhook。目前只做好了网页聊天桥，M5Stack 固件、语音合成、唤醒词还在路线图上，想动手的可以跟。中英文档。MIT。标签：`hardware` `m5stack` `webhook`
+- [Grok Bot Face](https://github.com/dwinter3/grokbot-face) - 把 Google Pixel Tablet 变成 Grok Bot 的全屏动画脸和桌面时钟：会眨眼、跟着人脸看、听到拍手和音乐会动，离线唤醒词「Hey Grok Bot」打开 Grok Bot App，还有 AI 新闻和额度用量条。摄像头和麦克风只在本机处理、不存不传。MIT。标签：`hardware` `android` `screensaver`
 
 <sub>[⬆ 回到目录](#-目录)</sub>
 
@@ -278,7 +288,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 - [两个 bot 把 CEO 银行余额发进 Slack：复现与护栏](https://github.com/themsquared/grok-bot-cross-agent-leak) - 复现 10-19 Techdirt 报道的事故：同一台机器上一个只读银行的 bot、一个能发 Slack 的 bot，敏感数据跨工具流了出去；用两个玩具 MCP 先重现泄露，再加一条 agentgateway 护栏拦住带敏感标记的内容进入发消息工具。附作者长文。Apache-2.0。标签：`security` `mcp` `incident`
 - [sitin 的 Grok Bot 教程索引](docs/sitin-tutorials.md) - 本仓作者的「Grok Bot 实战」连载与 X 教程，按入门 / 作战室 / Routine / Skills / 一人公司分类，只收公开链接（作者相关）。标签：`chinese` `tutorials` `author`
 - [社区 Grok Bot 教程精选](docs/community-tutorials.md) - 33 篇其他博主的教程和长文，以 X 为主，也收博客、掘金、V2EX、B 站等平台上能照着做的；按入门、作战室、Routine 与额度、Skills、一人公司、合集分类；每条都核过存活和日期。标签：`chinese` `tutorials` `community`
-- [X 大 V 的 Grok Bot 文章精选](docs/x-articles.md) - 278 篇 X 长文和串帖，中英文都有，按入门、作战室、Routine 与额度、Skills、一人公司分类；只收有真实互动的教程和配置分享，帖内数字为作者自述。标签：`tutorials` `x` `community`
+- [X 大 V 的 Grok Bot 文章精选](docs/x-articles.md) - 280 篇 X 长文和串帖，中英文都有，按入门、作战室、Routine 与额度、Skills、一人公司分类；只收有真实互动的教程和配置分享，帖内数字为作者自述。标签：`tutorials` `x` `community`
 - [配方模板](examples/_template.md) - 投稿配方前先照这个格式写：场景 / 输入 / 步骤 / prompt / 产出 / 坑。标签：`template` `learning`
 
 <sub>[⬆ 回到目录](#-目录)</sub>

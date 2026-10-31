@@ -18,11 +18,11 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [jiapeiyang/xshelf](https://github.com/jiapeiyang/xshelf) | 11-06 | 0★ · MIT · 建 10-16 · 最近提交 10-16 | 10-30 第 2 次延期：建仓后仍没有新提交，再不过线就移出 |
 | [h1neolzr7f/grokbot-lite](https://github.com/h1neolzr7f/grokbot-lite) | 11-07 | 0★ · MIT · 建 10-17 · 最近提交 10-17 | 10-31 第 2 次延期：建仓后仍没有新提交，再不过线就移出 |
 | [jeffgreendesign/air-watch](https://github.com/jeffgreendesign/air-watch) | 11-07 | 1★ · MIT · 建 10-17 · 最近提交 10-17 | 10-31 第 2 次延期：建仓后仍没有新提交，再不过线就移出 |
-| [NanNnnn0/codex-relay](https://github.com/NanNnnn0/codex-relay) | 11-01 | 0★ · MIT · 建 10-18 · 最近提交 10-18 | 10-25 第 1 次延期：建仓后没有新提交 |
-| [dim-pan/overtime](https://github.com/dim-pan/overtime) | 11-01 | 0★ · Apache-2.0 · 建 10-18 · 最近提交 10-18 | 10-25 第 1 次延期：建仓后没有新提交 |
-| [fredericalix/my-botstack](https://github.com/fredericalix/my-botstack) | 11-01 | 1★ · MIT · 建 10-18 · 最近提交 10-18 | 10-25 第 1 次延期：建仓后没有新提交 |
-| [shagghiesuperstar/veilbreaker](https://github.com/shagghiesuperstar/veilbreaker) | 11-01 | 0★ · MIT · 建 10-18 · 最近提交 10-21 | 10-25 第 1 次延期：建仓后没有新提交 |
-| [stland6338/ai-tool-inventory](https://github.com/stland6338/ai-tool-inventory) | 11-01 | 0★ · MIT · 建 10-18 · 最近提交 10-18 | 10-25 第 1 次延期：建仓后没有新提交 |
+| [NanNnnn0/codex-relay](https://github.com/NanNnnn0/codex-relay) | 11-08 | 0★ · MIT · 建 10-18 · 最近提交 10-18 | 11-01 第 2 次延期：仍无新提交，再不过线就移出。 |
+| [dim-pan/overtime](https://github.com/dim-pan/overtime) | 11-08 | 1★ · Apache-2.0 · 建 10-18 · 最近提交 10-18 | 11-01 第 2 次延期：仍无新提交，再不过线就移出。 |
+| [fredericalix/my-botstack](https://github.com/fredericalix/my-botstack) | 11-08 | 2★ · MIT · 建 10-18 · 最近提交 10-18 | 11-01 第 2 次延期：仍无新提交，再不过线就移出。 |
+| [shagghiesuperstar/veilbreaker](https://github.com/shagghiesuperstar/veilbreaker) | 11-08 | 0★ · MIT · 建 10-18 · 最近提交 10-21 | 11-01 第 2 次延期：仍无新提交，再不过线就移出。 |
+| [stland6338/ai-tool-inventory](https://github.com/stland6338/ai-tool-inventory) | 11-08 | 0★ · MIT · 建 10-18 · 最近提交 10-18 | 11-01 第 2 次延期：仍无新提交，再不过线就移出。 |
 | [ChamathRosh/whatshouldmybotdo-connector](https://github.com/ChamathRosh/whatshouldmybotdo-connector) | 11-02 | 0★ · MIT · 建 10-19 · 最近提交 10-19 | 10-26 第 1 次延期：建仓后没有新提交；主仓 grok-bot-templates 已收，这个只读 MCP 是作者网站的伴侣 |
 | [Gitmaxd/grok-bot-rocket-template](https://github.com/Gitmaxd/grok-bot-rocket-template) | 11-02 | 1★ · MIT · 建 10-19 · 最近提交 10-19 | 10-26 第 1 次延期：建仓后没有新提交 |
 | [StefMVP/grokbot-exporter](https://github.com/StefMVP/grokbot-exporter) | 11-02 | 0★ · MIT · 建 10-19 · 最近提交 10-19 | 10-26 第 1 次延期：建仓后没有新提交 |
@@ -39,9 +39,6 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [davidgeorgehope/grokbot-mixer](https://github.com/davidgeorgehope/grokbot-mixer) | 11-02 | 0★ · MIT · 建 10-26 · 最近提交 10-26 | 让 Grok Bot 当 DJ：给曲目清单做 60 分钟以上的对拍 DnB 混音，带确定性护栏和 eval 打分器；创作型 bot 范例，过线放「技能与玩法」 |
 | [RealDragonJT/grok-discord-bridge](https://github.com/RealDragonJT/grok-discord-bridge) | 11-02 | 0★ · MIT · 建 10-26 · 最近提交 10-26 | 自带 Discord bot，有人私信或 @ 时把事件发到 Grok Bot routine 的 webhook 唤醒 bot，带主人白名单；过线放「Routine 与摘要」或「技能与玩法」 |
 | [siddhit/grokbot-deck-builder](https://github.com/siddhit/grokbot-deck-builder) | 11-02 | 0★ · MIT · 建 10-26 · 最近提交 10-26 | 离线 HTML 幻灯片生成器，由 bot 访谈演讲者后改 deck.json；只有 1 次提交 |
-| [Gamedesigner/grokdeck](https://github.com/Gamedesigner/grokdeck) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-26 | 第三方 Mac / Windows / iPhone 客户端，读本机 Grok Bot 缓存在手机上看 agent 和对话，局域网配对；过线时要核它读哪些本地缓存、数据是否出局域网 |
-| [tcballard/grokbot-physical](https://github.com/tcballard/grokbot-physical) | 11-01 | 2★ · MIT · 建 10-25 · 最近提交 10-27 | 台面语音球：本机唤醒词 →xAI Realtime 语音 → routine webhook，bot 做完回调播报；含固件、3D 打印外壳、Pi Zero 2 W 物料清单，无硬件也能模拟跑通；过线放「硬件」 |
-| [gapermossel/agent-orchestration](https://github.com/gapermossel/agent-orchestration) | 11-01 | 0★ · 无 License · 建 10-25 · 最近提交 10-27 | 多 bot 层级作战室案例（首席 + 专岗 + skills / routines / 审批门）；到期仍无 License 就移出 |
 | [mpotter2002/hermes-grok-bridge](https://github.com/mpotter2002/hermes-grok-bridge) | 11-03 | 0★ · 无 License · 建 10-27 · 最近提交 10-27 | stdio MCP 把 Grok Bot 对话转进 Hermes Agent 再原样回传，Hermes 反向经 routine webhook 找 bot；到期仍无 License 就移出。同类 Hermes 桥已有好几个在表里，过线时只挑最好的一两个收 |
 | [dkapo88/grokbot-t3-orchestration](https://github.com/dkapo88/grokbot-t3-orchestration) | 11-03 | 0★ · MIT · 建 10-27 · 最近提交 10-27 | 让 Grok Bot 当 PM 在 T3 Code 里排开发活：skills + 启动/调度/归档脚本 + routine 监控，config 管模型路由、合并策略和成本上限；过线放「多 Bot 团队」 |
 | [initcatcher/grokbot-mcp](https://github.com/initcatcher/grokbot-mcp) | 11-03 | 0★ · MIT · 建 10-27 · 最近提交 10-27 | 本机 MCP，经 Cursor BDK 让 Claude Code 等按名字给 Grok Bot 发消息收回复；过线时和 claude-grok-bridge、Grok Bridge 比是否重复 |
@@ -181,21 +178,14 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [BigFishSynergy/imessage-ai-assistant-workflow](https://github.com/BigFishSynergy/imessage-ai-assistant-workflow) | 11-07 | 0★ · MIT · 建 10-31 · 最近提交 10-31 | 常开 Mac 上的 iMessage 代回复模板：BlueBubbles 把新消息经 webhook 推给 bot 的 routine，按每人规则决定回复、提醒本人或不出声，再用 REST 或 osascript 发出；附读 chat.db 脚本和每人档案模板。README 没写默认是否先确认再发，过线时核清楚，短评写明代发消息的风险；README 只提一次 Grok，也要核是不是主要为 Grok Bot 写的 |
 | [zhang1807865587-ui/x-grab-codex-analyze](https://github.com/zhang1807865587-ui/x-grab-codex-analyze) | 11-07 | 0★ · 无 License · 建 10-31 · 最近提交 10-31 | 中文省额度 skill：Grok Bot 只抓 X 原始数据存 JSON，清洗总结交给云电脑上登录的 Codex CLI。缺 LICENSE，先请作者补；过线时读 `x-analyze.sh` |
 | [Forbu/pibots](https://github.com/Forbu/pibots) | 11-07 | 0★ · 无 License · 建 10-31 · 最近提交 10-31 | 基于 Pi Agent SDK 的开源 Grok Bot 复刻：命名 bot、共享 /workspace、分层记忆、多 bot 交接、skills、routines、审批卡片。缺 LICENSE，先请作者补；过线放「自托管与平替」并写明是复刻 |
-| [GrokBot-Cursor/box-butler](https://github.com/GrokBot-Cursor/box-butler) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | Freebox（法国运营商家庭服务器）管家 bot：一段 PROMPT 加 12 个 skill（WireGuard、Docker、Plex、Home Assistant 等），逐步征询；垂直，也附 Cursor rules |
-| [jimc1682000/story-compass](https://github.com/jimc1682000/story-compass) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 中文（繁体）：按个人知识地图的「边际增益」评估书、漫画、影集值不值得看，提示词 + skill + Grok Bot 三角色入口 |
-| [yohei1126/grok-bot-ops](https://github.com/yohei1126/grok-bot-ops) | 11-01 | 1★ · Apache-2.0 · 建 10-25 · 最近提交 10-25 | 多 bot 运维卫生纯文档：共享规则、何时建或退役 bot、月度审计清单；过线放「多 Bot 团队」 |
-| [warpfusion001/boss-man-godmode](https://github.com/warpfusion001/boss-man-godmode) | 11-01 | 0★ · NOASSERTION · 建 10-25 · 最近提交 10-25 | 编码加创意媒体的 Grok Bot 胶水包；README 说 MIT 但 GitHub 识别不出，到期看 LICENSE 文件 |
-| [PhillipHolland/grokbotshelf](https://github.com/PhillipHolland/grokbotshelf) | 11-01 | 0★ · 无 License · 建 10-25 · 最近提交 10-25 | grokbotshelf 目录站源码（bots.json 投稿）；网站可免 License，到期看站点内容和是否持续更新，过线放「模板与目录」 |
-| [coletebou/grok-bot-backup](https://github.com/coletebou/grok-bot-backup) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 把每个 bot、群聊、routine 和自建 skill 导成纯文件进 git，输出确定（没改动就没 diff），不备份记忆、对话、密钥；走桌面端私有接口，收的话写明升级可能失效 |
-| [mcsuen/x-cli-via-grok](https://github.com/mcsuen/x-cli-via-grok) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 让一个专用的 X Research bot 做公开 X 研究，附 Codex / Claude Code 用的 skill；经非官方 grok-bot-cli 调桌面端，收的话写明依赖它 |
-| [lumpinif/Homebot](https://github.com/lumpinif/Homebot) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 用 Siri / HomePod 经家里常开的 Mac 问自己的 Grok Bot；标 release candidate，原生 App 还没真机确认，局域网明文 HTTP 不要做端口转发 |
-| [runesleo/grok-bot-bridge](https://github.com/runesleo/grok-bot-bridge) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | Claude Code / 脚本经 webhook 给 bot 派活，带 job id 和本地账本，harvest 读桌面端会话副本收回答复；和已收的 claude-grok-bridge 对比着看 |
-| [notedit/GrokChan](https://github.com/notedit/GrokChan) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | Stack-chan 风语音伴，浏览器经 Cloudflare Worker 接 bot 的 webhook；固件、TTS、唤醒词还在路线图，过线放「硬件」 |
-| [dwinter3/grokbot-face](https://github.com/dwinter3/grokbot-face) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 把 Pixel 平板变成 Grok Bot 的全屏动画脸和屏保，摄像头和麦克风在本机处理；过线放「硬件」 |
-| [VaynerAkaWalo/grok-dc-notifier](https://github.com/VaynerAkaWalo/grok-dc-notifier) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 监听 Discord Gateway，把 @提及、私信和参与过的帖子转给 bot 的 routine webhook；带 Docker |
-| [StefMVP/omarchy-grokbot-voice](https://github.com/StefMVP/omarchy-grokbot-voice) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | Omarchy 热键控制 Grok Bot 语音通话，不抢键盘焦点；可和已收的 Grok Bot for Omarchy 放一起 |
-| [kyrollosfarah/grokbot-desktop-intel-mac](https://github.com/kyrollosfarah/grokbot-desktop-intel-mac) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | Intel Mac 装官方桌面端的脚本和指南：从官方地址下载 DMG、校验签名和架构，不重新分发安装包 |
-| [exa-pub/grokbot-tunnel](https://github.com/exa-pub/grokbot-tunnel) | 11-01 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 把没有桌面的 Linux 服务器挂成 Grok Bot 的一台「电脑」，命令权限分 ask / always / never；非官方，Go 写的，有 CI 和 Release；收的话提醒 connect 期间 bot 能在 root 目录下跑命令 |
+| [alexeygrigorev/grokbot-chat-export](https://github.com/alexeygrigorev/grokbot-chat-export) | 11-07 | 0★ · MIT · 建 10-31 · 最近提交 10-31 | Windows 桌面端聊天零额度导出：只读本机 transcript replica（约 200 条滚动窗），不碰密钥和其他 blob，写成可幂等的 JSONL，可一次性导出或每 30 秒 watch；纯标准库。依赖桌面端内部文件格式，过线时短评写明非官方、版本更新可能失效 |
+| [shahmeetk/hire-lite](https://github.com/shahmeetk/hire-lite) | 11-07 | 0★ · MIT · 建 10-31 · 最近提交 10-31 | 邮件优先的求职流水线：bot 只做发现和判断，校验、去重、队列、报表走零 LLM 的 `hl.py`，发信在本机 SMTP 和钥匙串里，bot 不读密码。adapters 下有 chatgpt 和 grok 两套，过线时核 Grok Bot 是不是主要用法 |
+| [GrokBot-Cursor/box-butler](https://github.com/GrokBot-Cursor/box-butler) | 11-08 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 11-01 第 1 次延期：建仓后没有新提交。Freebox（法国运营商家庭服务器）管家 bot：一段 PROMPT 加 12 个 skill（WireGuard、Docker、Plex、Home Assistant 等），逐步征询；垂直，也附 Cursor rules |
+| [jimc1682000/story-compass](https://github.com/jimc1682000/story-compass) | 11-08 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 11-01 第 1 次延期：建仓后没有新提交。中文（繁体）：按个人知识地图的「边际增益」评估书、漫画、影集值不值得看，提示词 + skill + Grok Bot 三角色入口 |
+| [coletebou/grok-bot-backup](https://github.com/coletebou/grok-bot-backup) | 11-08 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 11-01 第 1 次延期：建仓后没有新提交。把每个 bot、群聊、routine 和自建 skill 导成纯文件进 git，输出确定（没改动就没 diff），不备份记忆、对话、密钥；走桌面端私有接口，收的话写明升级可能失效 |
+| [mcsuen/x-cli-via-grok](https://github.com/mcsuen/x-cli-via-grok) | 11-08 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 11-01 第 1 次延期：建仓后没有新提交。让一个专用的 X Research bot 做公开 X 研究，附 Codex / Claude Code 用的 skill；经非官方 grok-bot-cli 调桌面端，收的话写明依赖它 |
+| [VaynerAkaWalo/grok-dc-notifier](https://github.com/VaynerAkaWalo/grok-dc-notifier) | 11-08 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 11-01 第 1 次延期：建仓后没有新提交。监听 Discord Gateway，把 @提及、私信和参与过的帖子转给 bot 的 routine webhook；带 Docker |
+| [kyrollosfarah/grokbot-desktop-intel-mac](https://github.com/kyrollosfarah/grokbot-desktop-intel-mac) | 11-08 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 11-01 第 1 次延期：建仓后没有新提交。Intel Mac 装官方桌面端的脚本和指南：从官方地址下载 DMG、校验签名和架构，不重新分发安装包 |
 
 ## 已移出
 
