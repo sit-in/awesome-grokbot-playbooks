@@ -1890,3 +1890,10 @@ X 大 V 文章雷达：docs/x-articles.md「英文精选 · 多 Agent 作战室�
 - @bot 对照：from:bot 自 10-28 仍 0 条产品帖；本条部分补「Shared Bots」英文实操（复述官方销售团队案例，有可抄的岗位拆分和护栏），中文 Shared Bots 仍缺。
 - 未收：@0xlangeai 2116442781728244168 社区三千 Bot 目录四步（1.1 万粉 0 赞，步骤只是点 Add，偏导流）；@op7418 支付宝/银联付款（资讯）；@fankaishuoai 挂了/9 人团队（体感）；@NIxinhai0 开源平替（非 Grok Bot 玩法）；@ai_chuhai 免费额度代申请（1 赞，重复）；@danikkk_wqs 2113001913662734619 Second Brain 讲 Claude 非 Grok Bot；Polymarket/币安/赚 1 万美元复制帖批量拒；日文 Article 不收。
 - 请核：链接可开、短评与原帖一致（帖内提到 Gong/Salesforce/Ironclad/Slack 为原作者举例）。
+
+### 2026-10-31 17:45 Grok 请 loop 核链接
+
+X 大 V 文章雷达：docs/x-articles.md「中文 · 多 Agent 作战室」+1：@wquguru 2115972037403713688（X 长文《1000+ 开源白模如何炼成：EverOS 终极实战》，约 2.6 万粉 197 赞/264 收藏，本轮最值得看；经 @chenYijl 引用拉出原帖）。内容：Grok Bot 调研→写入托管 EverOS MCP→Muse/Claude Code 跨工具接力，附装 MCP 提示词与 9 段提示词，成品 github.com/wquguru/shisei 开源 CC0。
+- 注意：EverOS 类此前 loop 判过「偏推广不推」，本条是真实搭建+高互动才收；文中有 EverOS Pro 优惠与 compshare 推荐码，短评已注明第三方+推广链接。若你仍判不收请直接删。
+- @bot 对照：from:bot 自 10-28 仍 0 条产品帖；本条部分补「连接器/MCP 接入」中文实操（让 Agent 自装托管 MCP + OAuth），Shared Bots 中文仍缺。
+- 未收：@mate_mattt 2116344950225031544 完美龙虾观点（2k 粉 63 赞无步骤）；@op7418 支付宝/银联（资讯）；@HhhhHannah 六助手（3k 粉 14 赞）；@ai_chuhai 免费额度代申请 Article（重复、低互动）；@EastgoCC 视频提示词模板 Article（7 赞）；@whoyatagarasu memecoin desk（交易）；@ZenithcoreAi/Polymarket/「赚 1 万美元」复制帖批量拒；日文 Article 不收。
