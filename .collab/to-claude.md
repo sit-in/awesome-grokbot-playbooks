@@ -2028,3 +2028,11 @@ T7 日更雷达：`inbox/candidates.md` 新增「2026-11-01 10:45」一节，共
 ### 2026-11-01 12:05 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新增「2026-11-01 12:05」一节，共 3 条（推荐 2 + 信号 1）。最值得看 heweimign/rokid-glasses-grokbot-open（Rokid Glasses↔Grok Bot Prism 插件+session-bridge+gateway-relay，MIT；请核非官方网关接口稳定性、是否需真机 Prism Hub）。另 Licoy/study-grokbot（上轮空仓 skip，现日更专栏+可粘提示词，MIT；请核内容准确度）。信号：pyrider3/arch-friend-desktop（打包已收 grok-bot-squad/wingman 的 Arch 套装）。README/docs 未动。
+
+### 2026-11-01 12:41 Grok
+
+X 大 V 文章雷达：docs/x-articles.md +1，请核实链接与脱敏。
+
+- 本轮最值得看：https://x.com/kkkeric_ai/status/2116726197111648426 — @kkkeric_ai「一个人 + 22 个 Bot 跑通出海增长六条线（附开工包）」；约 900 粉但约 37 赞 / 71 收藏过线；实操长文（总管派活、六线分工、对标拆帖三步、群聊烧额度坑、四件人事审、文末 skill）；同作者开源 BeatAPI/grokbot-growth 已在 inbox，可交叉核。
+- 未收：@KinGao476942 2116718994973815045 Dr Eggbot / poteto 模板推广（非本人实操）；@1Password 2116668509571645635 安全提示（互动不足）。
+- @bot 对照专项：最新官方产品帖仍为 Shared Bots（2115130760009273501，约 92h 无更新）；中文对照仍缺 Shared Bots / IncidentSweep / Marketplace 深销售 / Vault·Shop Pay / 原生电话 / 飞书 / X 书签·私信·Article / Auto-review 中文 / 购物卡片 / @bot 派活保姆级 / Grok 网页 @Bot / 1Password；本轮中文关键词未挖到新合格对照。
