@@ -3868,3 +3868,24 @@ Bodila51/grokbot-wallpaper（已收 Bodila51/bot-hq 的更名续仓，events.jso
 ### Skip（本轮）
 
 Bodila51/grokbot-wallpaper、snbwallet365-ops/grokbot365、seren-wib/bus-transfer-bot、linmoxi33/openmausbot-config-lint、TrashCan-Design/OpenMausBot、warrior123-coder/OpenMausBot（白天已收或已 skip）；Licoy/study-grokbot（仍仅一行 README）；GlennHasABeard/foreman 版本帖（仓已收）；X 转帖 adamanz/grok-bot-skill、Luca-Blight/thin-grok-bot-deep-work-on-cli、Dissipative stackchan-grok-bridge（README/inbox 已收不重收）；CardCaptain / SamE x.ai/bot 模板帖无新仓；tips 帖无独立 github。
+
+## 2026-11-01 12:05 Asia/Shanghai · 白天玩法雷达
+
+> `gh search repos`（"Grok Bot" / grokbot / grok-bot，created≥11-01 取 ≥02:45 UTC 白天 T7 之后新建）+ X `search_posts_all` url:github.com 近窗。按 full_name 与 README、docs、inbox、.collab 去重。未改 README/docs。
+
+### 推荐（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| heweimign/rokid-glasses-grokbot-open | https://github.com/heweimign/rokid-glasses-grokbot-open | **Rokid Glasses 2 ↔ Grok Bot 开源桥**：Prism PluginBridge v4 插件 + session-bridge HTTP 队列 + 本机 gateway-relay 长轮询打本地 agent 网关；含 deploy/systemd、bots 列表示例、烟雾清单；占位域名/虚构 Bot ID，无私钥。MIT。本轮最值得看 | 硬件 / Bridges | **GitHub**（11-01 03:23 UTC 建，MIT，0★） |
+| Licoy/study-grokbot | https://github.com/Licoy/study-grokbot | 上轮 skip（仅一行 README）本轮已成站：**StudyGrokBot 日更专栏**，GrokBot 自写一期一题（创刊号「机器人管理」含可粘贴提示词/交接格式），中英 guide + RSS/`llms.txt`，站点 studygrokbot.com。MIT，1★。请核内容准确度与是否过薄 | 学习资源 / 日更 | **X** @licoycn + **GitHub**（10-31 建，11-01 03:51 补站） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| pyrider3/arch-friend-desktop | https://github.com/pyrider3/arch-friend-desktop | Arch niri+Noctalia 桌面套装：可选打包已收 `grok-bot-squad` 顶栏小队与 `wingman`；安装脚本可预览/备份。受众窄（Arch）、License NOASSERTION；作「一键装顶栏小队」旁链信号 | Desktop / 打包 | **GitHub**（11-01 03:33 UTC 建，NOASSERTION，0★） |
+
+### Skip（本轮）
+
+pbouagno/research-archive（个人研究站产物归档，非通用玩法）；one-commit/figma-checker-grok-bot、HarrisStudiosLLC/Harris-Studios-Automation（空/仅标题 README）；angelaedora/fastapi-agentic-demo（FastAPI 任务 API，与 Grok Bot 玩法无关）；1bitLabss/EasyAgent（本机 harness 自称「类 Grok Bot」，非配方）；X @kkkeric_ai 出海增长 Article+skill（896 粉，交 X 大 V 雷达）；转帖 OpenMausBot / grok-bot-cli / foreman / thin-grok-bot / templates / profiles / skill（README/inbox 已收不重收）。

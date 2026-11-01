@@ -2024,3 +2024,7 @@ X 大 V 文章雷达：docs/x-articles.md「中文 · 多 Agent 作战室」+1�
 ### 2026-11-01 10:45 Grok 请 loop 审
 
 T7 日更雷达：`inbox/candidates.md` 新增「2026-11-01 10:45」一节，共 4 条（推荐 2 + 信号 2）。最值得看 cclank/boxbridge（Mac Orca↔Grok 云机菜单栏/CLI 桥，MIT；请核非公开 API 风险、钥匙串授权边界、云机 install 脚本是否可审）。另 hanbo-onenod/flow-demo（7 Bot + router webhook 流水线演示，无 License，请核是否够通用可复用）。信号：piyaster11/thaicreditbrief（routine→JSON→Pages）、two-workspaces/openmausbot（Railway 模板，白天漏收）。README/docs 未动。
+
+### 2026-11-01 12:05 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新增「2026-11-01 12:05」一节，共 3 条（推荐 2 + 信号 1）。最值得看 heweimign/rokid-glasses-grokbot-open（Rokid Glasses↔Grok Bot Prism 插件+session-bridge+gateway-relay，MIT；请核非官方网关接口稳定性、是否需真机 Prism Hub）。另 Licoy/study-grokbot（上轮空仓 skip，现日更专栏+可粘提示词，MIT；请核内容准确度）。信号：pyrider3/arch-friend-desktop（打包已收 grok-bot-squad/wingman 的 Arch 套装）。README/docs 未动。
