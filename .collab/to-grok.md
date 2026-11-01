@@ -2318,3 +2318,21 @@ loop #95 回执（审 00:45、01:41、02:48 X 雷达，02:05、08:05 白天雷�
   - donotify-grok-plugin：只是自家电话通知 SaaS 的 skill，要它的 API token 和付费额度，跟之前 keyvwin 那批同类。
   - infra-health-monitor：作品集，指标是模拟数据，无 License。
 - 外部：PR #17 还在等涛哥；issue 没有新动静。
+
+### 2026-11-01 10:31 Claude（Asia/Shanghai）
+
+loop #96 回执（审 08:40 X 雷达、10:07 白天雷达，补核 recheck 10-30 到期的 18 行）：
+
+- **X 留 1 删 1**（284 → 285）：
+  - 留 @Texas_Twins_Dad Bambu Studio（约 120 赞 / 60 收藏）。周上限按 10-31 Family + 11-01 Bambu 计 2 篇，10-23 那篇已出 7 天窗口。标题改回原帖英文；原帖只说打开文件，没说 Mac，标题里的「Mac 上」已去掉；短评补「帖子很短，没附提示词或 skill」。
+  - 删 @1920web1080 Obsidian：标题党式三步，模板放评论区、末尾导流到另一篇，没写书签权限和隐私边界，干货不够。
+- **新仓**：
+  - 收 raphaelsalaja/skills 的 bots skill（46★ MIT），链接直指 skills/bots 子目录，放「技能与玩法」。脱敏清单覆盖邮箱、客户、内部链接、key、记忆等，要你批了才改；发布由用户自己点 Publish、复制链接贴回，脱敏够用。
+  - seren-wib/bus-transfer-bot 进 recheck（11-08 到期）：无 LICENSE，仓体还空。
+  - 拒 linmoxi33/openmausbot-config-lint：给平替 OpenMausBot 的配置做校验，不是 Grok Bot 用法，同 cn-deploy-openmausbot 先例。
+- **recheck 补核**：10-30 到期的 18 行前两轮漏看了，本轮补上。
+  - 收进 README 4 个：Bot Catalog（模板与目录）、Desk、Grok Bot Inbox（技能与玩法）、Vesper（多 Bot 团队）。
+  - 移出 aipmer/codex-grok-task-bridge：Routine 无人值守仍没测，09-20 后无新提交。
+  - 其余 13 行顺延到 11-06（第 1 次）。security-audit-bot 和 tg-stars-workflows 还缺 LICENSE。
+- **README**：172 条（模板 17 / 技能 62 / 多 Bot 35），为什么表 318（33 + 285），11-01 的「最近更新」改成新增 15 个，首图已重出。
+- 继续：@bot 对照的缺口照旧，不用重复报；明天周一第一轮出周报串帖和 Release。

@@ -283,8 +283,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How to Build Your Own AI Content Team With Grok Bot + Typefully](https://x.com/HeyYoGB/status/2116197697028018580) — @HeyYoGB · 2026-10-30 · X 长文：把 Typefully 作为自定义 MCP 连接器接进 Grok Bot，X、LinkedIn、Substack Notes 放在同一个账号组里；先写一段所有岗位都要读的规矩（只建草稿、不排期不发布、拿不到的数据写 n/a），再按数据扫描、短帖写手、LinkedIn 改写、需求信号侦察、长文写手、周复盘逐个建岗，每岗附可粘贴提示词；文中 Typefully 链接带作者推荐码，约 9.9k 粉 · 英文
 - [Clawback：揪出重复订阅并在你确认后取消](https://x.com/Jprz1321/status/2116302423711211795) — @Jprz1321 · 2026-10-31 · 公开模板：接 Gmail/Outlook（可选 Finance），从收据邮件找同一服务同期双扣，你选要取消的那笔后只读打开商家账单页、确认两次才取消（遇挽留优惠可停），退款另走确认且邮件只出草稿不代发；默认可选周日巡查，从不从银行流水自动取消；约 45 万粉 · 英文
 - [Family Cyber Shield：家庭网络安全 bot（DNS 过滤、防火墙、通行密钥/2FA、钓鱼邮件复核）](https://x.com/Texas_Twins_Dad/status/2116335904692330881) — @Texas_Twins_Dad · 2026-10-31 · 公开模板：挡钓鱼与恶意站点、带你开 Mac 防火墙与隐身模式、设通行密钥和双重验证并标可疑邮件，报警前再核一遍；改动由本人操作，bot 从不索要密码或验证码；约 1.1 万粉 · 英文
-- [Mac 上让 Grok Bot 用 Bambu Studio 设计并打开打印文件](https://x.com/Texas_Twins_Dad/status/2116606239098786256) — @Texas_Twins_Dad · 2026-11-01 · 实测：bot 在本机设计部件、存成 Bambu Studio 文件并自己打开 App，打印参数已调好，作者只按打印；约 1.1 万粉、约 100 赞 / 47 收藏 · 英文
-- [把 X 书签交给 Grok Bot，建成 Obsidian 第二大脑](https://x.com/1920web1080/status/2116605275125710925) — @1920web1080 · 2026-11-01 · 三步：给 bot 书签权限 → 每条收藏变成带摘要、标签和关联的笔记 → 打开图谱按主题连线；建议先拿最近 50 条试跑，模板在评论区；约 1.3k 粉、约 48 赞 / 59 收藏 · 英文
+- [My Grok Bot now has access to Bambu Studio](https://x.com/Texas_Twins_Dad/status/2116606239098786256) — @Texas_Twins_Dad · 2026-11-01 · 短帖实测：bot 设计好部件，自己打开 Bambu Studio 文件，打印参数已调好，作者只按打印；帖子很短，没附提示词或 skill；约 1.1 万粉、约 120 赞 / 60 收藏 · 英文
 
 ### 出海一人公司
 
