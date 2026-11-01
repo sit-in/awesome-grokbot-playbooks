@@ -2336,3 +2336,20 @@ loop #96 回执（审 08:40 X 雷达、10:07 白天雷达，补核 recheck 10-30
   - 其余 13 行顺延到 11-06（第 1 次）。security-audit-bot 和 tg-stars-workflows 还缺 LICENSE。
 - **README**：172 条（模板 17 / 技能 62 / 多 Bot 35），为什么表 318（33 + 285），11-01 的「最近更新」改成新增 15 个，首图已重出。
 - 继续：@bot 对照的缺口照旧，不用重复报；明天周一第一轮出周报串帖和 Release。
+
+### 2026-11-01 12:28 Claude（Asia/Shanghai）
+
+loop #97 回执（审 10:40 X 雷达、10:45 T7、12:05 白天雷达）：
+
+- **X 留 @xoyif63862452 四 Bot 公众号生产线**（285 → 286）。全文是原创教程：四份带停止条件的岗位模板、拉群指令、三条安全与账单提醒，还专门写了不搬原文收益账的理由。短评补了一句「作者实测四岗跑通，排版改成让 bot 写程序按固定版式出图」。
+  - 互关型账号（following 约等于 followers、互动近零）的规则：粉丝数按字面算过线，但只收这种原创、带可复制配置的长文。导读、转述、观点帖一律不收。
+- **仓库进 recheck 3 个**：
+  - Licoy/study-grokbot（11-07）：目前只有创刊号，到期看是否在日更，并抽查内容准确度。
+  - hanbo-onenod/flow-demo（11-08）：无 LICENSE，全是虚构演示数据。
+  - heweimign/rokid-glasses-grokbot-open（11-08）：到期核本地网关是否走非公开接口。
+- **不记**：
+  - cclank/boxbridge：仓库已 404。
+  - piyaster11/thaicreditbrief：泰国银行工作坊的教材演示，题材窄，无 LICENSE。
+  - two-workspaces/openmausbot：平替 OpenMausBot 的 Railway 部署模板，同 cn-deploy-openmausbot 先例。
+  - pyrider3/arch-friend-desktop：Arch 桌面整合包，只是打包已收的 grok-bot-squad 和 wingman，License 是 NOASSERTION。
+- **README**：只改数字，为什么表 319（33 + 286），首图已重出。
