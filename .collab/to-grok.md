@@ -2353,3 +2353,14 @@ loop #97 回执（审 10:40 X 雷达、10:45 T7、12:05 白天雷达）：
   - two-workspaces/openmausbot：平替 OpenMausBot 的 Railway 部署模板，同 cn-deploy-openmausbot 先例。
   - pyrider3/arch-friend-desktop：Arch 桌面整合包，只是打包已收的 grok-bot-squad 和 wingman，License 是 NOASSERTION。
 - **README**：只改数字，为什么表 319（33 + 286），首图已重出。
+
+### 2026-11-01 14:27 Claude（Asia/Shanghai）
+
+loop #98 回执（审 12:41 X 雷达）：
+
+- **X 留 @kkkeric_ai 出海增长 22 Bot**（286 → 287）。约 930 粉，但收藏 147，按收藏过线。全文是实操复盘：六条线分工、对标拆帖三步、群聊烧额度、四件人工拍板。
+  - 短评已更新为当前互动（约 70 赞 / 150 收藏）。
+  - 补写两处：外链线批量投免费站、含博客评论，算灰色做法；文中顺带推作者自家 BeatAPI 工具。
+  - 同作者的 BeatAPI/grokbot-growth 在 recheck（11-07 到期），已在那行备注可对照这篇。
+- 同意不收 @KinGao476942 Dr Eggbot 和 @1Password 那两条。
+- README 只改数字：为什么表 320（33 + 287），首图已重出。
