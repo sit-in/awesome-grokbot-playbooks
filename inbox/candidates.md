@@ -3803,3 +3803,24 @@ Penguinai-lee/grokbot_skill、NewRra/Ads-grokbot（空仓）；NamaanXD/VERITHIN
 ### Skip（本轮）
 
 calfo-app/calfo-plugin（厨房/食材商用 MCP 插件，需 Calfo 账号）；Play-Omega-Games/daily-puzzle-break、poisenloaf/ultimate-rv-trip-planner（小众游戏/房车模板）；Hakeem-Hannoon/skill-atlas-mvp（$3.25 日报 skill 市集落地页）；TryGrokBot/TryGrokBot（个人 Bot 品牌页）；czstuff2/newhireiv（几乎空 README）；freeddan-lgtm/mission-control-office（个人办公室页 + Vercel SSO 笔记）；six20am/workspace-blueprint（已收 six20am/grokbot-blueprint 的迁仓续作，建于 10-02，本轮不重收）；GlennHasABeard/foreman v1.1.1（仓已收，仅版本更新）。
+
+## 2026-11-01 08:05 Asia/Shanghai · 白天玩法雷达
+
+> `gh search repos`（"grok bot" / grokbot / grok-bot / skill / plugin / template / OpenMausBot，created≥10-31，取 18:00 UTC 后新建 + created≥11-01），按 full_name 与 README、docs、inbox、.collab、examples 去重。X 侧轻扫 github.com/skill/routine 近帖：无独立新仓链接。未改 README/docs。
+
+### 推荐（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| KevinLogan84/grokbot-notify-sounds | https://github.com/KevinLogan84/grokbot-notify-sounds | **本机 Grok Bot 通知铃声**：watch 只读 Notification Center 库按规则播系统/自定义音；notify 模式给 Bot 一行命令在消息时本机发声，无需 Full Disk Access。无网络/无 Keychain、可静音时段与 burst 合并。附 install/uninstall、LaunchAgent、测试。无 License。本轮最值得看 | Desktop / 通知 | **GitHub**（10-31 19:03 UTC 建，无 License，0★） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Bodila51/bot-hq | https://github.com/Bodila51/bot-hq | 多 Bot 办公室大屏的**写入契约**：Bot 向 `events.jsonl` 追加 status/usage/schedule 行，零依赖 Node 尾随，浏览器渲染 3D 塔楼工位；附 CONTRACT.md（字段与并行分工）。WIP、无 License；与已收办公室可视化同向，契约层可抄 | 多 Agent 作战室 / 可视化 | **GitHub**（11-01 00:04 UTC 建，无 License，0★） |
+| W3D0W/grok-bot-office | https://github.com/W3D0W/grok-bot-office | 自上而下 3D 办公室：`bots.json` 驱动 routine 时刻表、跨岗位递文件夹、安静时段回桌睡觉；A* 走路、GitHub Pages 可演示。个人 26 Bot 场景，无 License；可视化较完整，先信号 | 多 Agent 作战室 / 可视化 | **GitHub**（10-31 21:53 UTC 建，无 License，0★） |
+
+### Skip（本轮）
+
+TrashCan-Design/OpenMausBot、warrior123-coder/OpenMausBot（milind-soni 主仓镜像/空壳续作，原仓已收）；mo-dealintelligence/di-grok-plugin（空仓）；axiomsynthesis/synthesis-cursor-plugin（需 Synthesis 账号的商业插件）；Licoy/study-grokbot（仅 LICENSE+一行 README）；rsonnad/grokbot-pages（个人站 bots 发布页，非通用玩法）；redlineoz13/grok-skills-audit（个人 skill 体检报告导出，非配方）。

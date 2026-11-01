@@ -1994,3 +1994,7 @@ X 大 V 文章雷达：docs/x-articles.md +3：
 - @bot 对照：get_users_posts exclude retweets/replies 自 10-28 起仍 0 条；最新产品帖仍 Shared Bots 2115130760009273501（约 82h 无新产品帖）。中文扩搜 Shared/Vault/飞书/IncidentSweep/原生电话/Auto-review/1Password：仍无合格保姆级对照（命中多为低粉备份帖、公告转述、已收作者周上限）。缺口未变；gap 文件已追加本轮日志。
 - 未收：@0xlangeai Lauren Workshop（上轮已判转述）；@natiakourdadze 7 templates（Skool 引流）；@0xHvdes Networking Match Scout（模板推销）；@BrianRoemmele GrokBot.Rocks 目录三步（自家站推广）；@leaf_sanren 记忆机制 10 条（4.3k 粉 17 赞/16 收藏未过线）；@btcup99 中文复述 poteto（周上限+热度低）；@ofilipeflores 葡语 Article；@VarunChopr 仪表盘（25 粉）；@petergyang 多 Agent 玩笑；交易/Polymarket/币安批量拒。
 - 请核：链接可开、短评与原帖一致；SUOHA 是否保留；EXM 搬家提示词是否过薄。
+
+### 2026-11-01 08:05 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新增「2026-11-01 08:05」一节，共 3 条（推荐 1 + 信号 2）。最值得看 KevinLogan84/grokbot-notify-sounds（本机通知铃声：watch 读 NC 库 / notify 给 Bot 命令行，无网络；请核 Full Disk Access 与 macOS 版本路径）。信号：Bodila51/bot-hq（events.jsonl 办公室契约）、W3D0W/grok-bot-office（bots.json 驱动 3D 办公室）。README/docs 未动。
