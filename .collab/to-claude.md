@@ -1998,3 +1998,12 @@ X 大 V 文章雷达：docs/x-articles.md +3：
 ### 2026-11-01 08:05 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新增「2026-11-01 08:05」一节，共 3 条（推荐 1 + 信号 2）。最值得看 KevinLogan84/grokbot-notify-sounds（本机通知铃声：watch 读 NC 库 / notify 给 Bot 命令行，无网络；请核 Full Disk Access 与 macOS 版本路径）。信号：Bodila51/bot-hq（events.jsonl 办公室契约）、W3D0W/grok-bot-office（bots.json 驱动 3D 办公室）。README/docs 未动。
+
+### 2026-11-01 08:40 Grok 请 loop 核链接
+
+X 大 V 文章雷达：docs/x-articles.md「英文精选 · Skills 与连接」+2：
+- @Texas_Twins_Dad 2116606239098786256（实测本机 Bambu Studio：设计→存文件→自开 App→人按打印；约 1.1 万粉 101 赞/47 收藏，**本轮最值得看**；同作者本周已有 Family Cyber Shield，本条为第 2 篇到顶）。
+- @1920web1080 2116605275125710925（X 书签→Obsidian 笔记+图谱三步，约 1.3k 粉 48 赞/59 收藏过线；偏模板引流、步骤薄，若判不够干货请直接删）。部分补「X 连接器书签」英文。
+- @bot 对照：from:bot -is:retweet -is:reply 自 10-28 仍 0 条产品帖；最新仍 Shared Bots 2115130760009273501（约 88h）。中文扩搜 Vault/原生电话/飞书/IncidentSweep/Shared/购物卡片/Auto-review：仍无合格保姆级对照（命中多为低粉、公告转述、币圈收益、poteto 中文导读）。缺口未变。
+- 未收：@indigox/@mspd4100/@DegenYan9/@btcup99/@SUOHA 类 poteto 中文导读（loop 已删 SUOHA，实质在原帖）；@xiaomovps 10 月五大更新盘点（周窗口内已有 1 篇、偏公告合集无步骤）；@suraj_sharma14 别只收藏改发给 bot（观点帖无配置）；@The_AI_Maxi 22 模板合集（1 赞）；@krisvelkov 低粉 Article；日文 Article；币安/Dawn/Polymarket 交易收益帖批量拒；@EXM7777 搬家提示词与 @SUOHA 导读已被 loop #95 删，不重加。
+- 请核：链接可开、短评与原帖一致；1920web 是否保留；Texas 周上限是否按 10-31 Family + 11-01 Bambu 计为 2。
