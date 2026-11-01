@@ -3824,3 +3824,25 @@ calfo-app/calfo-plugin（厨房/食材商用 MCP 插件，需 Calfo 账号）；
 ### Skip（本轮）
 
 TrashCan-Design/OpenMausBot、warrior123-coder/OpenMausBot（milind-soni 主仓镜像/空壳续作，原仓已收）；mo-dealintelligence/di-grok-plugin（空仓）；axiomsynthesis/synthesis-cursor-plugin（需 Synthesis 账号的商业插件）；Licoy/study-grokbot（仅 LICENSE+一行 README）；rsonnad/grokbot-pages（个人站 bots 发布页，非通用玩法）；redlineoz13/grok-skills-audit（个人 skill 体检报告导出，非配方）。
+
+
+## 2026-11-01 10:07 Asia/Shanghai · 白天玩法雷达
+
+> `gh search repos`（"Grok Bot" / grokbot / grok-bot / skill / plugin / OpenMausBot，created≥10-31 取 18:00 UTC 后 + created≥11-01）+ X 近帖 github.com/skill 链接，按 full_name 与 README、docs、inbox、.collab 去重。未改 README/docs。
+
+### 推荐（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| raphaelsalaja/skills（bots） | https://github.com/raphaelsalaja/skills | **把选定的 Grok Bot 做成可分享作品集**：粘贴 `grok.md` 提示词让主 Bot 点名→脱敏→产出卡片 JSON，再生成物理堆叠/卡片/组织架构页并附复制链接；25 种官方外形与 11 色写入 marks.js。`npx skills add raphaelsalaja/skills` 后跑 `/bots`。MIT，~46★。本轮最值得看 | Skills / 作品集展示 | **X** @raphaelsalaja + **GitHub**（bots skill 10-31 22:43 UTC 新增，11-01 00:40 补外形色） |
+| seren-wib/bus-transfer-bot | https://github.com/seren-wib/bus-transfer-bot | **多 Bot 公交换乘黑客松配方**：1 个编排 Bot 拆 Kakao Map A→B 中间站，3 个搜索 Bot 并行查实时到站并写 `results/{stop}.json`，编排合并算最快换乘（含枢纽内换站台）。韩文 `docs/requirements.md` 写清 Bot 契约与上下限。无 License、tasks/results 仍空，先看编排思路 | 多 Agent 作战室 / Playbook | **GitHub**（11-01 01:45 UTC 建，无 License，0★） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| linmoxi33/openmausbot-config-lint | https://github.com/linmoxi33/openmausbot-config-lint | OpenMausBot `config.json` 的**离线严格校验**：把上游故意宽松的 schema 翻成可断言退出码；纯 Python 标准库、`--json` 输出，MIT。旁链已收 Self-hosted / OpenMausBot | Self-hosted / 工具 | **GitHub**（11-01 01:34 UTC 建，MIT，0★） |
+
+### Skip（本轮）
+
+Bodila51/grokbot-wallpaper（已收 Bodila51/bot-hq 的更名续仓，events.jsonl 办公室契约不变）；snbwallet365-ops/grokbot365（自建多模型 PWA/签证顾问，非 Grok Bot 玩法；同作者此前 grokbot-ai-agent 已 skip）；goncaloneves/veil（通用 coding-agent 密钥遮罩，文档对 Grok Build/grok-cli，非 Grok Bot 配方）；adamanz/grok-bot-skill、Luca-Blight/thin-grok-bot-deep-work-on-cli、Dissipative-ATLAS/stackchan-grok-bridge（README/inbox 已收，X 转帖不重收）。

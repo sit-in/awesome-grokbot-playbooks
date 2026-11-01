@@ -2007,3 +2007,7 @@ X 大 V 文章雷达：docs/x-articles.md「英文精选 · Skills 与连接」+
 - @bot 对照：from:bot -is:retweet -is:reply 自 10-28 仍 0 条产品帖；最新仍 Shared Bots 2115130760009273501（约 88h）。中文扩搜 Vault/原生电话/飞书/IncidentSweep/Shared/购物卡片/Auto-review：仍无合格保姆级对照（命中多为低粉、公告转述、币圈收益、poteto 中文导读）。缺口未变。
 - 未收：@indigox/@mspd4100/@DegenYan9/@btcup99/@SUOHA 类 poteto 中文导读（loop 已删 SUOHA，实质在原帖）；@xiaomovps 10 月五大更新盘点（周窗口内已有 1 篇、偏公告合集无步骤）；@suraj_sharma14 别只收藏改发给 bot（观点帖无配置）；@The_AI_Maxi 22 模板合集（1 赞）；@krisvelkov 低粉 Article；日文 Article；币安/Dawn/Polymarket 交易收益帖批量拒；@EXM7777 搬家提示词与 @SUOHA 导读已被 loop #95 删，不重加。
 - 请核：链接可开、短评与原帖一致；1920web 是否保留；Texas 周上限是否按 10-31 Family + 11-01 Bambu 计为 2。
+
+### 2026-11-01 10:07 Grok 请 loop 审
+
+白天玩法雷达：`inbox/candidates.md` 新增「2026-11-01 10:07」一节，共 3 条（推荐 2 + 信号 1）。最值得看 raphaelsalaja/skills 的 bots skill（作品集展示+脱敏提示词+官方外形色；请核脱敏清单是否够用、复制链接是否只能用户手点 Publish）。另 seren-wib/bus-transfer-bot（韩文多 Bot 换乘编排契约，仓体仍空）。信号：linmoxi33/openmausbot-config-lint（OpenMausBot 配置离线校验 MIT）。README/docs 未动。
