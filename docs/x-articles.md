@@ -59,16 +59,13 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [如何发挥 Grok Bot 的最强实力？拉开差距的 7 个底层用法](https://x.com/Jackywxsz/status/2112831856777605166) — @Jackywxsz · 2026-10-21 · X 长文：幕僚长入口 + 专职军团、产物强制落盘、知识库单向同步、Tailscale 移植配置、Skill 当 SOP、四级模型混调、Routine 自动触发；约 69 收藏 · 中文
 - [迭代一周后的 Grok Bot 小团队：十几个 bot 各管一摊、主 bot 只派活](https://x.com/MMMusol/status/2113176438308536500) — @MMMusol · 2026-10-22 · 写代码、做内容、管文档、发邮件分专人，规矩写进配置、主 bot 判断归属再转派；SEO 一个写页面提纲、一个整理 30 个推广渠道逐个投 · 中文
 - [Agent 时代的管理学：从三省六部到现代企业，哪些制度值得迁移](https://x.com/AdrianPunk115/status/2113545672469491847) — @AdrianPunk115 · 2026-10-23 · X 长文：用九种管理制度讲多 bot 怎么放权和验收，落到可用规则：退回两轮就停并交人拍板、权限分「直接做 / 做完告诉我 / 先问我 / 不允许」、限制写进工具而不是只写进提示词、跑通的流程再存 Skill；附任务单模板，并拿 GrokBot 多 bot 写图文和单 Agent 改网站各走一遍；约 4.3 万粉 · 中文
-
 - [一个人 + Grok Bot = 一个内容团队（实操指南）](https://x.com/bdall_1/status/2114191938752815119) — @bdall_1 · 2026-10-25 · X 长文：探店号案例拆「何时拆 Bot vs 加 Skill」、三份底座文件、Skill 六字段模板、选店查重/文案全文、Routine 频率算术与 Test 清单；发布留人手；约 1.1k 粉、约 42 赞 / 72 收藏 · 中文
 
 - [Grokbot 怎么管理：从企业组织架构学会分工与协作](https://x.com/AdrianPunk115/status/2114648961399349608) — @AdrianPunk115 · 2026-10-26 · X 长文：直线制、职能型、事业部、矩阵、项目制、扁平化、网络型七种组织架构各配一个多 bot 分工例子，结论是小任务直接找岗位、复杂任务才组队加层 · 中文
 - [走在马路上交代一句：把 Grok Bot 当秘书，按「路由」规矩分活给云电脑上的 Claude Code / Codex](https://x.com/wshuyi/status/2114712927358128211) — @wshuyi · 2026-10-26 · X 长文：语音派活、改 Skill 后由秘书判断哪些片子续做哪些重拍，简单活自己干、难活按大白话路由交给云电脑上的编码 Agent，末尾附起步建议 · 中文
-
 - [保姆级教程：给 Grok Bot 团队搭一间 3D 虚拟办公室](https://x.com/btcup99/status/2116061235250884931) — @btcup99 · 2026-10-30 · X 长文：Three.js 等距办公室显示每个 bot 实时状态，后端一个只读状态接口加一个带 token 的上报接口，给 bot 一条 office-report 上报命令，附可直接复制的搭建提示词和 Cloudflare Workers 免服务器方案；隐私规则（只报笼统任务类型）、限流和踩坑写得清楚；约 4.7k 粉，长文约 24 赞 / 35 收藏、展示帖约 52 赞 / 44 收藏 · 中文
 
 - [按岗位拆 Bot 搭自媒体团队：管什么、怎么干、先问我](https://x.com/johnAGI168/status/2116574459318460725) — @johnAGI168 · 2026-10-31 · 长帖：推特/小红书/抖音/YouTube/公众号各一岗，再建视频导演、盯私信、生活助手；建 Bot 只写三件事（管什么、怎么干、哪些事先问我），发帖/私信/下单写死先确认、付钱本人点；推特 Bot 早晚搜玩法选题，建议先跑顺一个岗位再加；约 2.3 万粉 · 中文
-- [把负责人 Lauren 的建队短指南喂给 Bot，一起改管理流程](https://x.com/SUOHA_AI/status/2116587234266599706) — @SUOHA_AI · 2026-10-31 · 中文导读官方负责人 @poteto 帖：加 Dr Eggbot、少而精、边做边沉淀 Skill、接连接器/Vault、用新人入职心态和语音脑暴；建议整帖喂给自己的 Bot 讨论改流程；约 4 万粉 · 中文
 
 ## 中文 · Routine 雷达与额度
 
@@ -117,8 +114,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [「Teach a task」：在云电脑上演示一遍，让 Grok Bot 学成可复用 Skill](https://x.com/SIAxiom/status/2115660704409661813) — @SIAxiom · 2026-10-29 · 聊天框点「+」选 Teach a task → 在云电脑上把任务做一遍 → AI 整理成 Skill 并列出步骤供检查测试 → 测通后可设定时任务；提醒网页变化时仍需人工复核，作者约 9.6k 粉 · 中文
 - [Pages 看板 7 条可复制提示词：Bot 指挥中心、账目、客户线索、X 周报、到期提醒、决策备忘、周五客户更新](https://x.com/joganicpe/status/2115716591090385167) — @joganicpe · 2026-10-29 · 每条写清数据来源、页面内容和自动更新时间，并给出「不动钱」「先给我看再发」这类边界，约 1.7 万粉 · 中文
 - [Grok Bot 当联络员：派活给远程 Claude/Codex、Notion 当共享库、Cloudflare Worker 接飞书群翻译](https://x.com/bggg_ai/status/2115838960861900911) — @bggg_ai · 2026-10-29 · 上手三天的真实搭建：bot 把分析和开发派给另两台常开电脑上的 Claude、Codex，每天轮询 TikTok 矩阵账号自然流与广告数据出仪表盘日报；选题 bot 一天两次抓 X、微博、小红书、抖音存进 Notion，与 Claude 共用一个库；VPS 上跑脚本把状态推到免费 Cloudflare Worker 再转给 bot，也能反向问；飞书应用只把事件转发给 Worker，群里 @ 机器人就能调用 bot 里的翻译 skill；约 1.2 万粉 · 中文
-
-- [Grok Bot 点美团外卖：6 步 + 开源 grok-eats skill（勾红包到收银台，人只付款）](https://x.com/leaf_sanren/status/2116510650478502212) — @leaf_sanren · 2026-10-31 · X 长文：云电脑打开美团 H5，装 github.com/YeJe-cpu/grok-eats，登录后从地址簿选址、读近单给候选、勾最大红包并读回确认页，你说提交才推到收银台，手机待支付自付；另附两渠道日领券与热量区间分析；硬规则不碰支付/不擅自提交/不编地址/不明文要证件；约 4.4k 粉、约 73 赞 / 119 收藏 · 中文
+- [Grok Bot 点美团外卖：6 步 + 开源 grok-eats skill（勾红包到收银台，人只付款）](https://x.com/leaf_sanren/status/2116510650478502212) — @leaf_sanren · 2026-10-31 · X 长文：云电脑打开美团 H5，装 github.com/YeJe-cpu/grok-eats，登录后从地址簿选址、读近单给候选、勾最大红包并读回确认页，你说提交才推到收银台，手机待支付自付；另附两渠道日领券与热量区间分析；硬规则不碰支付/不擅自提交/不编地址/不明文要证件；美团没给个人开下单接口，走网页是非官方用法，风险自担；约 4.4k 粉、约 144 赞 / 225 收藏 · 中文
 
 ## 中文 · 出海一人公司与内容
 
@@ -168,7 +164,6 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [You need Grok Bot.](https://x.com/thisisdjen/status/2115864757173440888) — @thisisdjen · 2026-10-30 · X 长文：零基础上手全流程，从建第一个 bot、用「Show me the rules」查规则，到只接必要的连接器、网站登录时接管电脑，再到把试好的任务改成工作日 7 点的 routine（附「只起草不发送、登录失败要报」等规则）、拉群让主 bot 分派、把会前准备存成 skill，以及在 Auto-review 里加自定义审批规则；作者约 7 万粉 · 英文
 - [You're Using Grok Bot at 30%. Here's How the SpaceXAI ran it for 100% (full guide)](https://x.com/Raytar/status/2116477644665450811) — @Raytar · 2026-10-31 · X 长文：五个习惯，每个附可粘贴提示词：一个 bot 先写清一份职责（用语音备忘录生成职责卡并先干跑），在 Auto-review 自定义规则里写好哪些动作必须先问你，routine 加「没新东西就回 NOOP」的结尾省额度并每周盘点所有 routine，录一遍操作存成 skill，再让 Ops bot 每天收集各 bot 卡点并把错误写成规则；文中官方团队细节为作者转述；约 1.5 万粉 · 英文
 - [Steal These 7 Grok Bot Superpowers](https://x.com/teedubya/status/2116517016278605889) — @teedubya · 2026-10-31 · X 长文：爆款帖早期提醒、深度调研、事实核查、邮件诈骗过滤、YouTube/LinkedIn 增长、视频下载 7 个模板，个人信息已剥离，每个附安装链接，装上回答几个设置问题就能用，并说明哪两个适合给家里长辈；约 17 万粉 · 英文
-- [一键打包当前 Agent 配置，换到别的 Personal Agent 也能复原](https://x.com/EXM7777/status/2116591057186213910) — @EXM7777 · 2026-10-31 · 长帖给一段可粘贴提示词：让当前 Agent 把人设、记忆、Skill/Routine、自定义指令、工具集成（不含密码/API Key）和依赖文件打成带 README 的 zip，交给新 Agent 按步骤重建；适合在 Hermes / Grok Bot / Instinct / Duet / Dots / OpenBot 之间搬家；约 15 万粉、约 50 赞 / 80 收藏 · 英文
 
 ### 多 Agent 作战室
 
@@ -201,7 +196,6 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [过夜五 bot 夜班：一岗一职 + Opus 5.5 写代码、Reviewer 清晨验收](https://x.com/0xDepressionn/status/2113984485137990129) — @0xDepressionn · 2026-10-24 · X 长文：Reviewer/Scout/Coder/Metrics/Lead 五岗、不可逆动作一律草稿、最慢可接受节奏排程，代码走终端 Claude Code 夜分支绝不碰 main；约 4.6 万粉 · 英文
 - [用一队 Grok Bot 跑 AI 时尚号：Director/Listening/Trends/Analytics 等分工 + 早中晚 routine](https://x.com/artimindArt/status/2114039831281938679) — @artimindArt · 2026-10-25 · X 长文：每岗独立聊天与记忆，早 8 点生产、日间定时发帖、夜间一页战报；人只写提示词、定镜和对外发言，附铁皮夹克五轮翻车（模型换错导致皮肤不对）与系统写死教训；约 5.2k 粉 · 英文
 - [用 Grok Bot 搭四人工程队：Piper/Bay/Fin/Tess + 磁盘交接](https://x.com/akshay_pachaar/status/2114344099230961880) — @akshay_pachaar · 2026-10-25 · 长帖：项目经理只写看板、后端/前端/测试各一岗，任务与 handoff 全落共享云电脑文件；附可复制岗位描述与 InsForge 后端 CLI 接法（文中带 InsForge 推广）；约 29 万粉、约 80 赞 / 137 收藏；原 X Article 2026-08-26 · 英文
-
 - [Grok Bot Engineering：按 SpaceXAI 同款搭自己的 Bot 团队（含 IncidentSweep）](https://x.com/N01ennn/status/2114390660723675598) — @N01ennn · 2026-10-25 · X 长文七章：一岗一 bot、首席幕僚、八部门、pstack/审批与可复制提示；开篇复盘官方 IncidentSweep 一次批准清掉 204 张工单；约 8.7k 粉 · 英文
 
 - [把 Grok Bot 做成路由：四模式拆活 + 最多 300 个 Kimi Agent](https://x.com/0xRicker/status/2112903221987397874) — @0xRicker · 2026-10-21 · X 长文六步：Grok Bot 只分类 fan-out/chain/debate/supervisor，Kimi Swarm 跑并行与共享记忆/handoff；约 1.1 万粉、86 赞 / 147 收藏 · 英文
@@ -216,7 +210,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How to Build Your Own AI Team: Start With One Bot, Not Ten](https://x.com/joelcomm/status/2115507903171887128) — @joelcomm · 2026-10-29 · X 长文：作者把 62 个 bot 精简成 10 个各管一件事的团队，先建首席 bot 负责派活和追踪，再加一个专门挑错的核对 bot；给出 15 分钟搭建顺序、「一天只加一个 bot」的五日计划、禁止 bot 擅自做的事项清单和一段可粘贴的首席 bot 提示词；作者约 59 万粉，团队刚搭好暂无效果数据 · 英文
 - [Anatomy of a Personal Factory of Grok Bots](https://x.com/RoyOsherove/status/2115591603133764082) — @RoyOsherove · 2026-10-29 · X 长文：搭了 8 天的个人 bot 工厂，一个 bot 一份活、共享记忆、一块决策仪表盘再接编程 CLI，并写了还缺什么；约 1.2 万粉 · 英文
 - [How I Turned Grok Bot Into an Operating System for 26 AI Agents (Full Course)](https://x.com/JulianGoldieSEO/status/2116363222781702403) — @JulianGoldieSEO · 2026-10-31 · X 长文：一块屏管 26 个 bot，用 6 段可粘贴提示词搭出总控：一键唤起整个团队、给每个 bot 打分、跟踪每项任务走到哪一步，所有屏都只读、不替 bot 发东西；6 段提示词免费给，bot 清单模板和完整版放在作者的付费社群里；约 17 万粉 · 英文
-- [Grok Bot 负责人讲怎么建高质量 Bot、管团队](https://x.com/poteto/status/2116576229319233596) — @poteto · 2026-10-31 · SpaceXAI / Grok Bot 负责人长帖：加 Dr Eggbot 设计 Bot、少而精、让 Bot 自建 Skill 并可推私有 GitHub、接连接器与 Vault、减少手工复制、用新人入职方式介绍自己、语音脑暴后让 Bot「用自己的话复述」验收；约 24 万粉、约 2500 赞 / 3800 收藏 · 英文
+- [A short guide on how I create high quality bots and manage my team](https://x.com/poteto/status/2116576229319233596) — @poteto · 2026-10-31 · SpaceXAI / Grok Bot 负责人长帖：加 Dr Eggbot 设计 Bot、少而精、让 Bot 自建 Skill 并可推私有 GitHub、接连接器与 Vault、减少手工复制、用新人入职方式介绍自己、语音脑暴后让 Bot「用自己的话复述」验收；约 24 万粉、约 5900 赞 / 1 万多收藏 · 英文
 
 ### Routine 雷达与额度
 
@@ -238,11 +232,9 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [跑 22 个 bot 不撞额度上限的 10 条规则](https://x.com/byalexai/status/2113623068018917419) — @byalexai · 2026-10-23 · 长帖：知识放 bot 外只按索引取单文件、记忆只存长期事实、会增长的数据进表格、重活交给已付费的编码工具、先连接器后浏览器、一条消息批量派三件事、一 bot 一岗、routine 降频、成熟流程存 skill、每周五看用量砍无效 routine；作者约 7.3k 粉 · 英文
 - [加密作业 bot：早报 / 盯盘 / 研报 / 骗 DM 检查，绝不碰钱包](https://x.com/CryptoVerse_Co/status/2113977677174698485) — @CryptoVerse_Co · 2026-10-24 · 六段可复制提示：安全规则、7:30 早报 routine、BTC 异动才喊、代币研报必须引源、骗 DM 只看红旗不开链、Page 盯盘；登录进 Vault、交易所 API 只读、审批卡常开；约 9.3 万粉 · 英文
 - [Free Games Scout：只认官方商店、标清免费类型、换算本地截止时间的找免费游戏 bot](https://x.com/elvenmaidinn/status/2114317639527080391) — @elvenmaidinn · 2026-10-25 · X 长文+公开模板：RSS 只当线索、每条去官方页核实，标「永久领取/需订阅/限时试玩/Demo」，评分不编、截止时间换算到你的时区，首聊先问频率/商店/时区再建 routine，源清单打包成 skill；默认只给领取链接、绝不付款、遇验证码交还人工；约 8.9k 粉 · 英文
-
 - [Don't Leave Me Hanging：追回邮件里忘了的承诺闭环](https://x.com/BrianRoemmele/status/2114394724849385687) — @BrianRoemmele · 2026-10-25 · 可分享 bot：扫旧线程找未兑现承诺、按紧急度排序、起草跟进稿与看板进度，工作日早报只推新项、发信前必须你点头；附一键导入；约 49 万粉 · 英文
 
 - [Most of Your Grok Bot Usage Is Re-Reading. Here's How to Stop Paying for It.](https://x.com/GrokBotRadar/status/2114409935345971231) — @GrokBotRadar · 2026-10-26 · X 长文：CSV 显示额度大头是缓存重读；十步止血（导出用量→砍/改 routine→变化检查→一任务一对话→DM 总管→Bot 改 Skill→连接器优先→Cursor 别用 Auto→过夜 allow/draft→关 Auto Top-up）；约 1 万粉、约 181 收藏 · 英文
-
 - [How Grok Bot Routines Changed the Way I Work](https://x.com/eng_khairallah1/status/2114647320834810139) — @eng_khairallah1 · 2026-10-26 · X 长文：六条可直接粘贴的 routine 提示词（构建班次、发布雷达、资料包 skill、客户台、收件箱分拣、周五复盘），附「无货静默、只起草不代发、缺源标未核实、先手动跑一次再上定时」等设计规则和额度、安全注意 · 英文
 - [Routine 记账员：一段提示词给每条 routine 算唤醒次数、加变化检查、改触发器](https://x.com/gippp69/status/2114689520964677797) — @gippp69 · 2026-10-26 · 串帖：接着作者 10-11 的 routine 成本长文，回复区给出可粘贴的审计提示词，先问三问再列清单、估唤醒次数、提「先比变化再跑」和改事件触发，发送/付款类保持草稿，最后出前后对比表并存成 Skill；金额为作者示例价估算 · 英文
 - [Weekly prompt: have your Chief of Staff check which new Grok Bot features could simplify your routines](https://x.com/Michael_Fenech_/status/2114661816873734316) — @Michael_Fenech_ · 2026-10-26 · 长帖附整段可粘贴提示词：每周让首席 bot 查官方文档、帮助页和更新日志里上周的新功能，逐条对照现有 routine，看能否替掉绕路做法和手动步骤、省额度或更稳，只出建议、改动等你批准；约 6 万粉、500 赞 / 1k 收藏 · 英文
@@ -251,8 +243,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Your Grok Bot Week Isn't Running Out. It's LEAKING. Here's Every Leak and the Fix.](https://x.com/GrokBotRadar/status/2115489802682585477) — @GrokBotRadar · 2026-10-29 · X 长文：先教你导出用量 CSV 看重读占比，再逐条讲十处额度漏洞和对应改法，比如把 routine 移到专用 bot、放慢频率、没变化就静默、长对话存成文件再开新 bot、bot 之间来回限两轮、能用连接器就别开浏览器、夜间需审批的 routine 改成放行或只出草稿；每条附可粘贴提示词和官方文档出处；约 1 万粉 · 英文
 - [Prompt: find the tasks you repeat and pick 3 to automate](https://x.com/ericzakariasson/status/2116282740802998627) — @ericzakariasson · 2026-10-31 · 一段可直接粘的提示词：让 Bot 翻你近两周的邮件、会议、Slack 和改过的文档，按类型列出重复干过的活（做什么、几次、每次多久、能否代劳、需要什么权限），再按省下的时间挑前 3 件，各配一条 routine 或一个专职 bot；作者约 9.9 万粉、约 340 赞 / 480 收藏 · 英文
 - [How to Save Tokens in Grok Bot Without Upgrading Your Plan](https://x.com/0x_kaize/status/2110055685048209702) — @0x_kaize · 2026-10-14 · X 长文：讲清额度按动作而不是按消息算（工具、浏览器、子 agent、每步重读整段对话），给出一任务一个新对话/一个 bot、能走连接器就别开浏览器、放慢例行频率等省额度习惯，附浏览器与 API 两种跑法的步数和 token 对比；约 2.4 万粉，535 赞 / 1200 多收藏 · 英文
-
-- [让 Grok Bot 每小时盯热门店取消位，一有空位就提醒你订](https://x.com/mattyp/status/2116516547007308125) — @mattyp · 2026-10-31 · 官方团队用例：让 bot 每小时刷旧金山热门浴场和寿司店空位，抓到当周六取消位后立刻提醒，本人再去下单；约 12 万粉、约 400 赞 / 71 收藏 · 英文
+- [Grok Bot is surprisingly good for reservations](https://x.com/mattyp/status/2116516547007308125) — @mattyp · 2026-10-31 · 官方团队成员自己的用例，短帖、没附提示词：让 bot 每小时刷旧金山热门浴场和寿司店空位，抓到当周六取消位后立刻提醒，本人再去下单；约 12 万粉、约 530 赞 / 110 收藏 · 英文
 
 ### Skills 与连接
 
@@ -282,7 +273,6 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [手机系统 App 上手例句：日历/提醒/通讯录/Home](https://x.com/Texas_Twins_Dad/status/2113400048453402867) — @Texas_Twins_Dad · 2026-10-23 · 手机系统 App 授权后可直接说的例句（查今天日程、加牙医、续车险提醒、查水管工电话、关楼下灯等），配截图；约 8.9k 粉 · 英文
 - [把所有账户的净资产做成一张活的 Page](https://x.com/Teslaconomics/status/2113359826399158336) — @Teslaconomics · 2026-10-23 · 接好各类账户后用大白话让 Bot 建一张净资产 Page：实时行情、收支与卡账单汇总，可改假设值即时重算，另加「隐藏敏感信息」开关方便演示，后续改动直接发消息让 Bot 更新；约 53 万粉，约 450 赞 / 250 收藏；接金融账户前先看清授权范围 · 英文
 - [The + sign is the most underrated thing in grok bot right now](https://x.com/thecsguy/status/2113058854124794329) — @thecsguy · 2026-10-22 · X 长文：一个收件箱按 +tag 分门，每个别名挂一条 routine（收据入账、newsletter 摘要等），附可复制提示与踩坑；约 6k 粉 · 英文
-
 - [Tesla Fleet 六步：用 Grok Bot 控车（电量/空调/充电/开锁）](https://x.com/Chansoo/status/2110436904705397053) — @Chansoo · 2026-10-15 · Fleet API 建应用→密钥放云电脑→GitHub Pages 验签→secure fields 不进聊天→一次 OAuth→车端配对；敏感动作先问你；附可分享模板；约 1.6 万粉 · 英文
 - [Bridge Bot：让 ChatGPT / Claude Code 把任务丢给你的 Grok Bot](https://x.com/moritzkremb/status/2114051840102768922) — @moritzkremb · 2026-10-25 · 公开模板：加 bot 后拿到 webhook URL、密钥和一段现成提示，贴进 ChatGPT 或 Claude Code 就装好 /send-to-grok-bot，跨工具派活不用再复制粘贴；密钥只放对方工具的密钥设置里 · 英文
 - [I Wrote an X Article with Grok Bot](https://x.com/FFBuncho/status/2114935585098129851) — @FFBuncho · 2026-10-27 · X 长文：免开发者账号后直接让 bot 起草 Article，草稿写入 X Articles（含引用帖），本人点发布，bot 不代发；约 1.06 万粉 · 英文
@@ -291,7 +281,6 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How to organize every tweet you've posted with Grok Bot + Trello](https://x.com/LoPassFilter28/status/2115971630031667365) — @LoPassFilter28 · 2026-10-30 · 八步：申请 X 归档 → 装桌面端 → 接 Trello → 把归档丢进项目让 bot 按类建板（可含原帖链接），也可用本地文件夹替代；导出归档和申请 Trello key 两步作者让你自己查；约 7.5k 粉 · 英文
 - [Grok Bot for Enterprise Teams: putting AI teammates to work across every department](https://x.com/tibor_tee/status/2116138557345816705) — @tibor_tee · 2026-10-30 · X 长文复盘官方企业团队工作坊：先问「第一个想雇谁」，客服/库存/拓客三条多 bot 流程都在关键步停下等人批，竞品情报 bot 升成主管再建三个下属 bot、只在周一早上汇报一次；约 9.9k 粉 · 英文
 - [How to Build Your Own AI Content Team With Grok Bot + Typefully](https://x.com/HeyYoGB/status/2116197697028018580) — @HeyYoGB · 2026-10-30 · X 长文：把 Typefully 作为自定义 MCP 连接器接进 Grok Bot，X、LinkedIn、Substack Notes 放在同一个账号组里；先写一段所有岗位都要读的规矩（只建草稿、不排期不发布、拿不到的数据写 n/a），再按数据扫描、短帖写手、LinkedIn 改写、需求信号侦察、长文写手、周复盘逐个建岗，每岗附可粘贴提示词；文中 Typefully 链接带作者推荐码，约 9.9k 粉 · 英文
-
 - [Clawback：揪出重复订阅并在你确认后取消](https://x.com/Jprz1321/status/2116302423711211795) — @Jprz1321 · 2026-10-31 · 公开模板：接 Gmail/Outlook（可选 Finance），从收据邮件找同一服务同期双扣，你选要取消的那笔后只读打开商家账单页、确认两次才取消（遇挽留优惠可停），退款另走确认且邮件只出草稿不代发；默认可选周日巡查，从不从银行流水自动取消；约 45 万粉 · 英文
 - [Family Cyber Shield：家庭网络安全 bot（DNS 过滤、防火墙、通行密钥/2FA、钓鱼邮件复核）](https://x.com/Texas_Twins_Dad/status/2116335904692330881) — @Texas_Twins_Dad · 2026-10-31 · 公开模板：挡钓鱼与恶意站点、带你开 Mac 防火墙与隐身模式、设通行密钥和双重验证并标可疑邮件，报警前再核一遍；改动由本人操作，bot 从不索要密码或验证码；约 1.1 万粉 · 英文
 
@@ -348,7 +337,6 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Mr. Shorts: a free Grok Bot template for short-form video editing](https://x.com/smsonx/status/2116502131138052359) — @smsonx · 2026-10-31 · 长帖配前后对比视频：作者把自己每条 Short 都在用的剪辑 bot 放上 Marketplace 免费领，首次使用先问几个品牌设定问题，再剪掉空白、按你的风格加字幕、提到人名或品牌时自动上屏、从真实画面截缩略图，并写好 YouTube/TikTok/Reels/X 的标题和标签；发布前都要你确认；偏模板介绍，具体配置要装上后看；约 1.7 万粉 · 英文
 - [How to Use Grok Bot for LinkedIn So Well It Feels Illegal](https://x.com/paolo_scales/status/2116511723167289793) — @paolo_scales · 2026-10-31 · X 长文：先粘一段业务背景（客户、定位、观点、可用案例）存成参考文档，再用 12 段可粘贴提示词搭出 LinkedIn 内容系统：语气指南、买家问题挖掘、四周内容日历、起草与独立审稿、按卡住的商机写内容、按商业结果复盘；约 1.7 万粉、26 赞 / 44 收藏 · 英文
 - [Two Days, One AI Teammate: what I built with Grok Bot so far](https://x.com/Nortier/status/2116545268317405424) — @Nortier · 2026-10-31 · 长帖真实搭建记录：两天里让 bot 每早 8 点汇总宝可梦卡牌新闻、读自家平台数据挑冷门卡并起草两条帖，晚上再起草回复；另搭一条本地商家获客流水线，找没网站的小店、核公开邮箱、做手机版原型站、写带截图的个人邮件存进 Gmail 草稿，发帖和发信都由本人按键；约 7.3k 粉 · 英文
-- [把能用的 Grok Bot 提示词、模板和市场收进一篇](https://x.com/0x_kaize/status/2116563190712856662) — @0x_kaize · 2026-10-31 · X 长文：按 xAI 五段公式整理营销/销售/研究/开发/设计/运营/个人等可粘贴提示词，并汇总 Marketplace、Prompt 库与 GitHub 技能入口；约 2.4 万粉 · 英文
 
 ## 不收的例子
 
