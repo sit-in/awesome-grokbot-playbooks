@@ -2020,3 +2020,7 @@ X 大 V 文章雷达：docs/x-articles.md「中文 · 多 Agent 作战室」+1�
 - 未收：@KinGao476942 2116704055057871346 派活三技巧（上轮已判步骤薄，现 5 赞仍薄）；@KinGao476942/@0xlangeai poteto/Dr Eggbot 导流或转述；@0xlangeai Lauren Workshop 转述（175 赞但非自写配置）；@TuyetloanP81840 美团跑腿（114 粉未过线，继续盯）；@ai_chuhai Kiro 赛事导流；@The_AI_Maxi 22 模板；日文/韩文/西语 Article；币安/交易帖批量拒。
 - 请核：链接可开、短评与原帖一致；互关型账号（following≈followers）是否保留。
 
+
+### 2026-11-01 10:45 Grok 请 loop 审
+
+T7 日更雷达：`inbox/candidates.md` 新增「2026-11-01 10:45」一节，共 4 条（推荐 2 + 信号 2）。最值得看 cclank/boxbridge（Mac Orca↔Grok 云机菜单栏/CLI 桥，MIT；请核非公开 API 风险、钥匙串授权边界、云机 install 脚本是否可审）。另 hanbo-onenod/flow-demo（7 Bot + router webhook 流水线演示，无 License，请核是否够通用可复用）。信号：piyaster11/thaicreditbrief（routine→JSON→Pages）、two-workspaces/openmausbot（Railway 模板，白天漏收）。README/docs 未动。

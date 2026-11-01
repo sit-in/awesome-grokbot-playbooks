@@ -3846,3 +3846,25 @@ TrashCan-Design/OpenMausBot、warrior123-coder/OpenMausBot（milind-soni 主仓�
 ### Skip（本轮）
 
 Bodila51/grokbot-wallpaper（已收 Bodila51/bot-hq 的更名续仓，events.jsonl 办公室契约不变）；snbwallet365-ops/grokbot365（自建多模型 PWA/签证顾问，非 Grok Bot 玩法；同作者此前 grokbot-ai-agent 已 skip）；goncaloneves/veil（通用 coding-agent 密钥遮罩，文档对 Grok Build/grok-cli，非 Grok Bot 配方）；adamanz/grok-bot-skill、Luca-Blight/thin-grok-bot-deep-work-on-cli、Dissipative-ATLAS/stackchan-grok-bridge（README/inbox 已收，X 转帖不重收）。
+
+## 2026-11-01 10:45 Asia/Shanghai · T7 日更雷达
+
+> 周末偏 GitHub：`gh search repos`（"Grok Bot" / grokbot / grok-bot / OpenMausBot，created≥10-31，重点扫 11-01 ≥02:00 UTC 白天 10:07 之后新建）+ X `search_posts_all` 近 24h github.com/skill/routine。按 full_name 与 README、docs、inbox、examples、.collab 去重。未改 README/docs。
+
+### 推荐（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| cclank/boxbridge | https://github.com/cclank/boxbridge | **把 Mac Orca 接到 Grok Bot 云机**：菜单栏+CLI 做本机转发、保活、重连与配对；不发提示词、不调模型；云端 `install-cloud.sh` 装受控 Orca，钥匙串显式授权。中英 README、MIT、有 Releases。本轮最值得看 | Desktop / 云机桥接 | **GitHub**（11-01 02:23 UTC 建，MIT，0★） |
+| hanbo-onenod/flow-demo | https://github.com/hanbo-onenod/flow-demo | **Slack↔Grok Bot↔GitHub Actions↔Cursor 一月演示流水线**：7 Bot 规则本在仓内 `bots/`，`grok/setup.md` 可粘贴建 Bot+webhook routine；router 推事件，人守确认/合并/验收四闸。虚构数据、无 License，配方结构可抄 | 多 Agent 作战室 / Playbook | **GitHub**（11-01 02:15 UTC 建，无 License，0★） |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| piyaster11/thaicreditbrief | https://github.com/piyaster11/thaicreditbrief | 泰企信贷工作坊演示：4 条 Grok Bot routine 写 `data/*.json` → GitHub Pages 看板（briefing/ratings/sentiment）；公开数据、无 License；抄「routine→JSON→Pages」展示链 | Routine 展示 / 看板 | **GitHub**（11-01 02:30 UTC 建，无 License，0★） |
+| two-workspaces/openmausbot | https://github.com/two-workspaces/openmausbot | OpenMausBot 的 **Railway 一键模板**：官方镜像 + 同容器 Caddy 边缘、邮箱 OTP 登录、卷持久化 `/data`。旁链已收 Self-hosted / OpenMausBot | Self-hosted / 部署 | **GitHub**（10-31 04:02 UTC 建，无 License，0★；白天未收） |
+
+### Skip（本轮）
+
+Bodila51/grokbot-wallpaper、snbwallet365-ops/grokbot365、seren-wib/bus-transfer-bot、linmoxi33/openmausbot-config-lint、TrashCan-Design/OpenMausBot、warrior123-coder/OpenMausBot（白天已收或已 skip）；Licoy/study-grokbot（仍仅一行 README）；GlennHasABeard/foreman 版本帖（仓已收）；X 转帖 adamanz/grok-bot-skill、Luca-Blight/thin-grok-bot-deep-work-on-cli、Dissipative stackchan-grok-bridge（README/inbox 已收不重收）；CardCaptain / SamE x.ai/bot 模板帖无新仓；tips 帖无独立 github。
