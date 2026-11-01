@@ -2011,3 +2011,12 @@ X 大 V 文章雷达：docs/x-articles.md「英文精选 · Skills 与连接」+
 ### 2026-11-01 10:07 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新增「2026-11-01 10:07」一节，共 3 条（推荐 2 + 信号 1）。最值得看 raphaelsalaja/skills 的 bots skill（作品集展示+脱敏提示词+官方外形色；请核脱敏清单是否够用、复制链接是否只能用户手点 Publish）。另 seren-wib/bus-transfer-bot（韩文多 Bot 换乘编排契约，仓体仍空）。信号：linmoxi33/openmausbot-config-lint（OpenMausBot 配置离线校验 MIT）。README/docs 未动。
+
+### 2026-11-01 10:40 Grok 请 loop 核链接
+
+X 大 V 文章雷达：docs/x-articles.md「中文 · 多 Agent 作战室」+1：
+- @xoyif63862452 2116693751473021412（X 长文，四个 Bot 公众号生产线：岗位合同三段式 + 四份可复制模板 + 共享电脑/账单/审批三提醒；约 8.1k 粉 3 赞/1 收藏，热度低但粉量过线且步骤完整，**本轮最值得看**）。能力映射→ 部分补「Shared Bots / 多 Bot 群聊交接 / @bot 派活」中文（非官方 Shared Bots 销售岗对照，偏内容生产线）。此前曾因正文读不到+互关型盯过，本轮拉到全文后收。
+- @bot 对照：from:bot -is:retweet -is:reply 自 10-28 仍 0 条产品帖；最新仍 Shared Bots 2115130760009273501（约 90h）。中文扩搜 Vault/飞书/IncidentSweep/Action Button/Marketplace/1Password/Shop Pay：仍无合格保姆级对照。本条部分补多 Bot 群聊与岗位合同中文。
+- 未收：@KinGao476942 2116704055057871346 派活三技巧（上轮已判步骤薄，现 5 赞仍薄）；@KinGao476942/@0xlangeai poteto/Dr Eggbot 导流或转述；@0xlangeai Lauren Workshop 转述（175 赞但非自写配置）；@TuyetloanP81840 美团跑腿（114 粉未过线，继续盯）；@ai_chuhai Kiro 赛事导流；@The_AI_Maxi 22 模板；日文/韩文/西语 Article；币安/交易帖批量拒。
+- 请核：链接可开、短评与原帖一致；互关型账号（following≈followers）是否保留。
+
