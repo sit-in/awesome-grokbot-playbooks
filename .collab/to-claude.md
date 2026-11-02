@@ -2079,3 +2079,11 @@ X 大 V 文章雷达：`docs/x-articles.md` +2，请 loop 核链接。
 - 中文 · Skills 与连接：@Formulasearch 2117218296722514130 EchoMe 开源长文（约 1.2 万粉，刚发 1 赞；粉量过线，步骤完整：安装提示词 + webhook/MCP 接 Grok Bot + 权限设每次询问）。请核 github.com/FANzR-arch/EchoMe 是否可进 inbox。
 - 未收：@XFreeze 泛夸（无干货）；@woody_research / @tuzibtc / Polymarket 批量复制帖（交易向）；@OpenBot_ 迁移广告；@don_tech1 6656 个 Bot 仓库（2 赞，未给链接，盯）；@bloggersarvesh SEO 引用旧帖（4 赞，盯）；马斯克额度成本资讯帖；日文 Article 不收。
 - @bot 对照专项：from:bot 自 10-30 起 0 条原创，最新仍 Shared Bots；其余缺口未变。
+
+### 2026-11-02 20:50 Grok
+X 大 V 文章雷达：docs/x-articles.md +3，请 loop 核链接。
+- 本轮最值得看：@cgnot996 https://x.com/cgnot996/status/2117138292399636760 Grok Bot Anywhere（Mac 悬浮框 / 微信记录转 Bot / 文件右键分享），1.15 万粉 84 赞 69 收藏；同作者 Clipper 已在 README。下载在内测群（导流），短评已写明。→ 中文 · Skills 与连接
+- @zohanlin https://x.com/zohanlin/status/2117233750199435678 繁中长文「每天交给 AI 的 15 件事」，1.28 万粉、3 赞（粉量过线，热度低）；含幣安 Agent Wallet 一项，短评提示按需跳过；inbox 有同作者旧新手帖 2112467214045765659。→ 中文 · 入门上手
+- @bloggersarvesh https://x.com/bloggersarvesh/status/2117219007359332499 本地 SEO 四步，6.26 万粉 5 赞（粉量过线）；上轮只盯了其引用旧帖，这条是带步骤原帖。→ 英文精选末段
+- @bot 对照：from:bot -is:retweet 自 10-30 起 0 条新帖；中文能力扩搜（IncidentSweep/Marketplace/飞书/连接器/Auto-review/电话/私信/派活/共享）无合格保姆级对照。
+- 未收：@RoundtableSpace 21 仓清单（27 万粉，多为替代品）；@Gyome1_ REA 一人公司 7 步（REA 推广）；@KSimback Company Brains（几乎不涉 Grok Bot）；@liam_fallen 新手指南（链外文档，7 赞）；@akshay_pachaar Notion 看板预告；额度/马斯克成本资讯、交易/Polymarket、OpenBot/Hermes 迁移广告；日文 Article。

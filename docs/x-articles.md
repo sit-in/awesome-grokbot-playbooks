@@ -49,6 +49,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [4 步把 OpenClaw / Hermes 的记忆迁进 Grok Bot](https://x.com/btcup99/status/2116484027276550383) — @btcup99 · 2026-10-31 · 设置 > 通用 >「将记忆倒入 Grok Bot」复制提取提示词，丢给旧 Agent 再粘回点 Add to Memory；附三个坑：输出别带运行日志、粘贴前删掉旧 API Key/Token、新开对话问「你对我有哪些了解」验收；附视频，约 4.8k 粉 · 中文
 - [装到别的电脑前先改三个设置：本机授权、多电脑授权、经此电脑转发流量](https://x.com/xiaomovps/status/2116488603941380510) — @xiaomovps · 2026-10-31 · 踩坑长帖：作者遇过云端失败后自动改用本机跑 CI、用本机浏览器过校验，建议授权都设成每次询问、没特殊网络需求就关转发；约 1.7 万粉、约 26 赞 / 32 收藏 · 中文
 - [别在 Grok Bot 云电脑里跑 Claude Code：出口 IP 会变、电脑可能重置、来回传话烧额度](https://x.com/xiaomovps/status/2117177889414410553) — @xiaomovps · 2026-11-02 · 踩坑提醒：讲清三个原因，真要用就让云电脑走本机代理出口，或反过来从本机调用 Grok Bot；约 1.7 万粉 · 中文
+- [每天交给 Grok Bot 的 15 件事：每项写清怎么交代、它做什么、你拿到什么](https://x.com/zohanlin/status/2117233750199435678) — @zohanlin · 2026-11-02 · X 长文（繁体）：一 Bot 一事，覆盖剪片加字幕、追踪 X 账号、贴文数据复盘、做 Logo 与投影片、写 App、SEO/ASO、开发客户写信草稿、每天整理 Gmail、线上订餐等场景，每项附小技巧，寄信、转账前都要本人点头；文中有一项是接加密钱包，按需跳过；约 1.3 万粉 · 中文
 
 ## 中文 · 多 Agent 作战室
 
@@ -123,6 +124,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [三步接上 1Password：下载保存账号、在桌面端连接、登录时弹窗批准](https://x.com/Mulight/status/2117189034464493920) — @Mulight · 2026-11-02 · 讲清怎么接密码管理器连接器（版本要求、路径 Connect apps → Password Managers → 1Password），Bot 登录网站时你批准、模型看不到明文密码；暂不支持 Google 登录和 Passkey；约 1.9 万粉 · 中文
 - [让 Grok Bot 读 X 书签：按主题分类、挑出想看的，再让它在自己的环境里实测](https://x.com/Pluvio9yte/status/2117194142921245082) — @Pluvio9yte · 2026-11-02 · 短帖用法：接上 X 后让 bot 给吃灰的书签分类，按你要的类型挑出来并附原文链接，需要动手验证的帖子先让 bot 跑通再搬到自己场景；约 5 万粉 · 中文
 - [开源 EchoMe：给个人网站装 AI 接待助手，访客要找本人时经 Grok Bot 推到手机、回一句就显示「本人回复」](https://x.com/Formulasearch/status/2117218296722514130) — @Formulasearch · 2026-11-02 · X 长文：给出一段让 Claude Code/Codex 从头装到尾的提示词（GitHub + Vercel + Supabase），再讲怎么用 webhook 推访客事件、用 MCP 让 bot 代回复和改资料，并写清回复与改资料都设成每次询问；MIT 开源，作者约 1.2 万粉 · 中文
+- [Grok Bot Anywhere：快捷键唤出悬浮框、微信聊天记录转给指定 Bot、文件右键分享给 Bot](https://x.com/cgnot996/status/2117138292399636760) — @cgnot996 · 2026-11-02 · 非官方 Mac 桌面工具（Clipper 浏览器插件同作者）：每个 Bot 可配两个快捷键，Tab 切换对话，Finder 选中文件直接当附件发，也能让其他 Agent 调用 Bot；已签名公证，登录自己的 Grok Bot 账号即用，下载和使用指南要进作者的内测群拿，Windows 版待签名；约 1.2 万粉、84 赞 / 69 收藏 · 中文
 
 ## 中文 · 出海一人公司与内容
 
@@ -349,6 +351,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How to Use Grok Bot for LinkedIn So Well It Feels Illegal](https://x.com/paolo_scales/status/2116511723167289793) — @paolo_scales · 2026-10-31 · X 长文：先粘一段业务背景（客户、定位、观点、可用案例）存成参考文档，再用 12 段可粘贴提示词搭出 LinkedIn 内容系统：语气指南、买家问题挖掘、四周内容日历、起草与独立审稿、按卡住的商机写内容、按商业结果复盘；约 1.7 万粉、26 赞 / 44 收藏 · 英文
 - [Two Days, One AI Teammate: what I built with Grok Bot so far](https://x.com/Nortier/status/2116545268317405424) — @Nortier · 2026-10-31 · 长帖真实搭建记录：两天里让 bot 每早 8 点汇总宝可梦卡牌新闻、读自家平台数据挑冷门卡并起草两条帖，晚上再起草回复；另搭一条本地商家获客流水线，找没网站的小店、核公开邮箱、做手机版原型站、写带截图的个人邮件存进 Gmail 草稿，发帖和发信都由本人按键；约 7.3k 粉 · 英文
 - [How One Person Runs a Newsletter, a Podcast and Six Apps With a Proactive AI Assistant](https://x.com/mattpheus/status/2116861666281373730) — @mattpheus · 2026-11-01 · X 长文真实用例：把 Grok Bot 当主收件箱筛邮件、协调群组会议，盘点 75 项订阅砍掉一批固定开销，建潜在客户名单并发首批推介，播客上架到 Substack / YouTube / Libsyn 大部分交给 bot，从 2 小时压到约 30 分钟；文末推荐作者自己做的 bot 互通工具；约 1.6 万粉 · 英文
+- [Local SEO with Grok Bot: keywords, one page per service area, Google Business Profile, one job into 10 pieces of content](https://x.com/bloggersarvesh/status/2117219007359332499) — @bloggersarvesh · 2026-11-02 · 长帖：一套每月不到 100 美元的本地获客栈（Grok Bot + 免费 Google 商家资料 + WordPress + Canva + Search Console），按步骤让 bot 列「服务 + 地名」等关键词、每个服务区写一页、写商家资料简介和 20 条 FAQ、把一单活拆成案例页和多条内容，照片、评价等真实信息由你补；约 6.3 万粉 · 英文
 
 ## 不收的例子
 
