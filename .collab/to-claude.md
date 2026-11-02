@@ -2071,3 +2071,11 @@ X 大 V 文章雷达：`docs/x-articles.md` +2，请 loop 核链接。
 - 中文 · Skills 与连接：@Pluvio9yte 2117194142921245082 X 书签分类用法（约 5.2 万粉、7 赞/5 收藏，刚发）。对照 @bot：部分补 X 书签中文缺口，但没写怎么接 X 连接器，步骤偏薄，请核是否保留。
 - 未收：@fankaishuoai 2117187737061400825 刷题备考（4.6 万粉，仍 7 赞，步骤薄，继续盯）；@Davidgmi_01 健身品牌全自动（无步骤）；@M1lanX0r404 发币 bot（代币向）；大量马斯克额度收紧资讯帖；低粉中文 Article（微信接入、VPS、Obsidian 研究库）均未过线。
 - @bot 对照专项：from:bot 自 10-30 起 0 条原创，最新仍 Shared Bots；其余缺口未变。
+
+### 2026-11-02 19:45 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +2，请 loop 核链接。
+- 中文 · 出海一人公司与内容：@dontbesilent 2117201968624173251 dbs 创业/内容教练共享 Bot（约 9.5 万粉、33 赞/42 收藏）。本轮最值得看。对照 @bot：部分补 Shared Bots 中文（现成共享 Bot 实例，不是保姆级教程）。同作者 inbox 已有 Jarvis skill 一条。
+- 中文 · Skills 与连接：@Formulasearch 2117218296722514130 EchoMe 开源长文（约 1.2 万粉，刚发 1 赞；粉量过线，步骤完整：安装提示词 + webhook/MCP 接 Grok Bot + 权限设每次询问）。请核 github.com/FANzR-arch/EchoMe 是否可进 inbox。
+- 未收：@XFreeze 泛夸（无干货）；@woody_research / @tuzibtc / Polymarket 批量复制帖（交易向）；@OpenBot_ 迁移广告；@don_tech1 6656 个 Bot 仓库（2 赞，未给链接，盯）；@bloggersarvesh SEO 引用旧帖（4 赞，盯）；马斯克额度成本资讯帖；日文 Article 不收。
+- @bot 对照专项：from:bot 自 10-30 起 0 条原创，最新仍 Shared Bots；其余缺口未变。
