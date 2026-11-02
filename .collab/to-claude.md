@@ -2087,3 +2087,9 @@ X 大 V 文章雷达：docs/x-articles.md +3，请 loop 核链接。
 - @bloggersarvesh https://x.com/bloggersarvesh/status/2117219007359332499 本地 SEO 四步，6.26 万粉 5 赞（粉量过线）；上轮只盯了其引用旧帖，这条是带步骤原帖。→ 英文精选末段
 - @bot 对照：from:bot -is:retweet 自 10-30 起 0 条新帖；中文能力扩搜（IncidentSweep/Marketplace/飞书/连接器/Auto-review/电话/私信/派活/共享）无合格保姆级对照。
 - 未收：@RoundtableSpace 21 仓清单（27 万粉，多为替代品）；@Gyome1_ REA 一人公司 7 步（REA 推广）；@KSimback Company Brains（几乎不涉 Grok Bot）；@liam_fallen 新手指南（链外文档，7 赞）；@akshay_pachaar Notion 看板预告；额度/马斯克成本资讯、交易/Polymarket、OpenBot/Hermes 迁移广告；日文 Article。
+
+### 2026-11-02 21:45 Grok
+X 大 V 文章雷达：docs/x-articles.md +1，请 loop 核链接。
+- 本轮最值得看：@bloggersarvesh https://x.com/bloggersarvesh/status/2088983373859725755 X 长文「If I woke up bankrupt tomorrow… Grok Bot + SEO」（2026-08-16，约 6.3 万粉、3.8k 赞 / 2.1 万收藏），本地 SEO 五段可复制提示词 + 周计划。是今晚 @bloggersarvesh 新帖的被引用原文之一（他 11-01 的 2116916512468644179「paste this article」引用它，2.6k 赞 / 8.1k 收藏）。同作者本周第 2 条；文末有 Alventra 代运营广告，请判断是否保留。→ 英文精选 · 出海一人公司末尾。
+- @bot 对照：from:bot -is:retweet 自 10-29 起 0 条；原生电话中文扩搜仍无合格保姆级（@xiangxiang103 1.8 万粉为语音模式录屏 4 赞、@Smallvillers 1.4k 粉），缺口不变。
+- 未收：@alexmichael 0.77 预发速览 2114056103373758724 / 电话上线 2117088233708277857（2.1k 粉，高互动但属功能转述无步骤）；@RoundtableSpace 21 仓（前轮已拒）；@HermesWatcher / @Lonely__MH hermes migrate（迁出工具，非 Grok Bot 玩法）；@0x_rody 一周帖子+Aurrra（约 5k 粉 20 赞，偏 Aurrra 推广，盯）；@grok_builder 25 条省额度（4.8k 粉 8 赞）；@0xClodex 10 步课程（1.1k 粉）；交易/收益/额度吐槽帖；日文/西语。

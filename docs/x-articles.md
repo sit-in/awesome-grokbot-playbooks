@@ -352,6 +352,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Two Days, One AI Teammate: what I built with Grok Bot so far](https://x.com/Nortier/status/2116545268317405424) — @Nortier · 2026-10-31 · 长帖真实搭建记录：两天里让 bot 每早 8 点汇总宝可梦卡牌新闻、读自家平台数据挑冷门卡并起草两条帖，晚上再起草回复；另搭一条本地商家获客流水线，找没网站的小店、核公开邮箱、做手机版原型站、写带截图的个人邮件存进 Gmail 草稿，发帖和发信都由本人按键；约 7.3k 粉 · 英文
 - [How One Person Runs a Newsletter, a Podcast and Six Apps With a Proactive AI Assistant](https://x.com/mattpheus/status/2116861666281373730) — @mattpheus · 2026-11-01 · X 长文真实用例：把 Grok Bot 当主收件箱筛邮件、协调群组会议，盘点 75 项订阅砍掉一批固定开销，建潜在客户名单并发首批推介，播客上架到 Substack / YouTube / Libsyn 大部分交给 bot，从 2 小时压到约 30 分钟；文末推荐作者自己做的 bot 互通工具；约 1.6 万粉 · 英文
 - [Local SEO with Grok Bot: keywords, one page per service area, Google Business Profile, one job into 10 pieces of content](https://x.com/bloggersarvesh/status/2117219007359332499) — @bloggersarvesh · 2026-11-02 · 长帖：一套每月不到 100 美元的本地获客栈（Grok Bot + 免费 Google 商家资料 + WordPress + Canva + Search Console），按步骤让 bot 列「服务 + 地名」等关键词、每个服务区写一页、写商家资料简介和 20 条 FAQ、把一单活拆成案例页和多条内容，照片、评价等真实信息由你补；约 6.3 万粉 · 英文
+- [If I woke up bankrupt tomorrow: getting to \$100k/month with Grok Bot + local SEO](https://x.com/bloggersarvesh/status/2088983373859725755) — @bloggersarvesh · 2026-08-16 · X 长文：先给 bot 建好商家资料、竞品文件夹和提示词库，再按周跑 GBP 类目审计、竞品评论拆解、评价回复模板、8 周 GBP 发帖日历、服务描述优化，每步附整段可复制提示词；约 6.3 万粉、3.8k 赞 / 2.1 万收藏，文末有代运营广告 · 英文
 
 ## 不收的例子
 
