@@ -3966,3 +3966,23 @@ w1nklerr/night-shift-with-grok（夜间 Solana 自动交易，收益截图未核
 ### Skip（本轮）
 
 bringm1lan/pump-printer（Pump.fun 发币准备 skill，涉资金风险）；samirpatel-ariaBOT/grok-trading-council（模拟交易）；1nh4oX/grokbot-d47-text-research-20261102（临时传输仓）；tranthor-main/cursor-plugin（厂商插件，已在 inbox 同类）；A101llan/GrokBotSkills（空仓）；topmindspace/x-pulse-bot（无 README）。
+
+## 2026-11-02 22:05 Asia/Shanghai · 白天玩法雷达
+
+> 补扫 18:00 后（09:30Z 起）新建 Grok Bot 相关仓；X 近几小时 Article 交给 X 大 V 雷达。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| Charonyuu/grokbot-office | https://github.com/Charonyuu/grokbot-office | 把 Grok Bot 桌面端里的 Bot 画成 3D 办公室宠物：空闲睡沙发、干活敲电脑、等你确认就举「?」，按侧栏分组分楼层，「Needs you」面板一键跳回对话；Node 18+ 本地跑、无依赖，MIT，读 Mac 本地缓存（不联网上传）。比前几轮同类 office 仓完成度高、有 demo 动图和署名出处 | 🧰 工具（多 Bot 可视化） | GitHub 新建（~3★，2026-11-02） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| Syorange/Caster | https://github.com/Syorange/Caster | 私人 AI 播客工具包 + Grok Bot skill：show.json 定义节目，edge-tts 配音、合成配乐、响度母带，发到 GitHub Pages 私有 feed；结构完整但未声明许可证，0★ | 🧩 技能与玩法（内容生产） | GitHub 新建 |
+
+### Skip（本轮）
+
+yuanwenxing/grok-bot-test、ieieeee/grokbot-live、AIZATFIR/grokbot-cue-fleet、martinleesk/grokbot-3d-hq（空仓/无描述）；topmindspace/x-pulse-bot（页面模板、无 README 说明）。
