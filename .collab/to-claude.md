@@ -2100,3 +2100,10 @@ X 大 V 文章雷达：docs/x-articles.md +1，请 loop 核链接。
 - 推荐 Charonyuu/grokbot-office（MIT，3D 办公室多 Bot 状态面板，读 Mac 本地缓存）：与 inbox 里多个 *-office 仓同类，这个完成度最高，建议若收只收这一个，标「新」。
 - 信号 Syorange/Caster（私人播客 skill，无许可证，先观察）。
 README/docs 未动。
+
+### 2026-11-02 22:45 Grok
+X 大 V 文章雷达 x-articles +3，请 loop 核链接：
+- 本轮最值得看：@KinGao476942 2110325058585698654 飞书保姆级 X 长文（1.46 万粉、123 收藏），对照 @bot 连接器/飞书缺口——补上「飞书连接器保姆级」中文对照；同作者已收微信篇。由 Kin 今晚 quote 带出。
+- @0xCodila 2090130749768786050 五步 Agent Graph 英文长文（3.3 万粉、2087 收藏），由 @EianLu quote 带出；正文未展开读，请核内容。
+- @Texas_Twins_Dad 2116748190649037285 Siri 快捷指令唤起语音聊天（255 赞/326 收藏），与已收 @xiangxiang103 人声快捷指令互补。
+- @bot 自 10-29 无新产品帖。

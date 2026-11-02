@@ -125,6 +125,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [让 Grok Bot 读 X 书签：按主题分类、挑出想看的，再让它在自己的环境里实测](https://x.com/Pluvio9yte/status/2117194142921245082) — @Pluvio9yte · 2026-11-02 · 短帖用法：接上 X 后让 bot 给吃灰的书签分类，按你要的类型挑出来并附原文链接，需要动手验证的帖子先让 bot 跑通再搬到自己场景；约 5 万粉 · 中文
 - [开源 EchoMe：给个人网站装 AI 接待助手，访客要找本人时经 Grok Bot 推到手机、回一句就显示「本人回复」](https://x.com/Formulasearch/status/2117218296722514130) — @Formulasearch · 2026-11-02 · X 长文：给出一段让 Claude Code/Codex 从头装到尾的提示词（GitHub + Vercel + Supabase），再讲怎么用 webhook 推访客事件、用 MCP 让 bot 代回复和改资料，并写清回复与改资料都设成每次询问；MIT 开源，作者约 1.2 万粉 · 中文
 - [Grok Bot Anywhere：快捷键唤出悬浮框、微信聊天记录转给指定 Bot、文件右键分享给 Bot](https://x.com/cgnot996/status/2117138292399636760) — @cgnot996 · 2026-11-02 · 非官方 Mac 桌面工具（Clipper 浏览器插件同作者）：每个 Bot 可配两个快捷键，Tab 切换对话，Finder 选中文件直接当附件发，也能让其他 Agent 调用 Bot；已签名公证，登录自己的 Grok Bot 账号即用，下载和使用指南要进作者的内测群拿，Windows 版待签名；约 1.2 万粉、84 赞 / 69 收藏 · 中文
+- [如何把 Grok bot 军团连接到你的飞书？保姆级新手教程](https://x.com/KinGao476942/status/2110325058585698654) — @KinGao476942 · 2026-10-14 · X 长文：一步步把多个 bot 接进飞书群，群里丢发票、合同就能自动汇总处理；123 收藏 · 中文
 
 ## 中文 · 出海一人公司与内容
 
@@ -176,6 +177,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [You need Grok Bot.](https://x.com/thisisdjen/status/2115864757173440888) — @thisisdjen · 2026-10-30 · X 长文：零基础上手全流程，从建第一个 bot、用「Show me the rules」查规则，到只接必要的连接器、网站登录时接管电脑，再到把试好的任务改成工作日 7 点的 routine（附「只起草不发送、登录失败要报」等规则）、拉群让主 bot 分派、把会前准备存成 skill，以及在 Auto-review 里加自定义审批规则；作者约 7 万粉 · 英文
 - [You're Using Grok Bot at 30%. Here's How the SpaceXAI ran it for 100% (full guide)](https://x.com/Raytar/status/2116477644665450811) — @Raytar · 2026-10-31 · X 长文：五个习惯，每个附可粘贴提示词：一个 bot 先写清一份职责（用语音备忘录生成职责卡并先干跑），在 Auto-review 自定义规则里写好哪些动作必须先问你，routine 加「没新东西就回 NOOP」的结尾省额度并每周盘点所有 routine，录一遍操作存成 skill，再让 Ops bot 每天收集各 bot 卡点并把错误写成规则；文中官方团队细节为作者转述；约 1.5 万粉 · 英文
 - [Steal These 7 Grok Bot Superpowers](https://x.com/teedubya/status/2116517016278605889) — @teedubya · 2026-10-31 · X 长文：爆款帖早期提醒、深度调研、事实核查、邮件诈骗过滤、YouTube/LinkedIn 增长、视频下载 7 个模板，个人信息已剥离，每个附安装链接，装上回答几个设置问题就能用，并说明哪两个适合给家里长辈；约 17 万粉 · 英文
+- [Grok Bot Agents: Build 24/7 AI Agent Graph That Automate Your Life (5-Step Guide)](https://x.com/0xCodila/status/2090130749768786050) — @0xCodila · 2026-08-19 · X 长文：五步把多个常驻 bot 连成一张分工图，讲清各自职责和交接；约 3.3 万粉、2000+ 收藏 · 英文
 
 ### 多 Agent 作战室
 
@@ -296,6 +298,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Clawback：揪出重复订阅并在你确认后取消](https://x.com/Jprz1321/status/2116302423711211795) — @Jprz1321 · 2026-10-31 · 公开模板：接 Gmail/Outlook（可选 Finance），从收据邮件找同一服务同期双扣，你选要取消的那笔后只读打开商家账单页、确认两次才取消（遇挽留优惠可停），退款另走确认且邮件只出草稿不代发；默认可选周日巡查，从不从银行流水自动取消；约 45 万粉 · 英文
 - [Family Cyber Shield：家庭网络安全 bot（DNS 过滤、防火墙、通行密钥/2FA、钓鱼邮件复核）](https://x.com/Texas_Twins_Dad/status/2116335904692330881) — @Texas_Twins_Dad · 2026-10-31 · 公开模板：挡钓鱼与恶意站点、带你开 Mac 防火墙与隐身模式、设通行密钥和双重验证并标可疑邮件，报警前再核一遍；改动由本人操作，bot 从不索要密码或验证码；约 1.1 万粉 · 英文
 - [My Grok Bot now has access to Bambu Studio](https://x.com/Texas_Twins_Dad/status/2116606239098786256) — @Texas_Twins_Dad · 2026-11-01 · 短帖实测：bot 设计好部件，自己打开 Bambu Studio 文件，打印参数已调好，作者只按打印；帖子很短，没附提示词或 skill；约 1.1 万粉、约 120 赞 / 60 收藏 · 英文
+- [Hey Siri 唤起 Grok Bot 语音聊天：不用常开麦克风的三步快捷指令](https://x.com/Texas_Twins_Dad/status/2116748190649037285) — @Texas_Twins_Dad · 2026-11-01 · 快捷指令里加「Start a Voice Chat with Bot」、改名、允许锁屏运行，就能用 Siri 唤起，不额外耗电；255 赞、326 收藏 · 英文
 
 ### 出海一人公司
 
