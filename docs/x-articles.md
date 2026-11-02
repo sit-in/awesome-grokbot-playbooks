@@ -82,6 +82,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [routine 里别写死工具名，只写意图](https://x.com/airkin_/status/2115999728492282049) — @airkin_ · 2026-10-30 · 踩坑：把 MCP 工具名和参数写进 routine，接口一改整条就挂；改成只写要达成的结果、约束与语气、同步去哪，具体调哪个工具留给 bot 每轮自己查，作者称跑一周坏掉次数约少一半；约 1.35 万粉 · 中文
 - [Grok Bot 额度机制 15 条：按干的活扣、看图最贵、定时任务算唤醒](https://x.com/leaf_sanren/status/2115718050389610891) — @leaf_sanren · 2026-10-29 · 长帖：额度按模型调用、上下文和工具调用扣而不是按消息条数；截图看视频最烧，能走连接器就别开浏览器；重活交给云电脑上的命令行工具，跑完用 webhook 叫醒 bot 验收；定时任务按唤醒次数算（每 15 分钟一周 672 次），盯数据改成脚本盯、有变化再叫醒；一任务一对话、少开 bot 群聊、复杂活先跑 1～2 个样本；文中 token 和档位数字为作者及他人实测反推，非官方；约 4.3k 粉、约 430 赞 / 700 收藏 · 中文
 - [对话太长也烧额度：让旧 Bot 整理交接、新建一个 Bot 接着干](https://x.com/Mulight/status/2116057516652278058) — @Mulight · 2026-10-30 · 给出一段可复制指令：让旧 Bot 把工作要求、偏好、常用资料和未完成任务存成共享文件，再建新 Bot 读取续做，先确认交接内容、旧 Bot 和 Routine 暂不动；提醒不同 Bot 不自动共享记忆，只想清长对话直接重置会话即可；约 1.7 万粉、约 175 赞 / 229 收藏 · 中文
+- [Grok Bot 30 刀额度不够用？5 个省额度的方法](https://x.com/xiaomovps/status/2116875018911010829) — @xiaomovps · 2026-11-01 · 长帖配图：整理自己日常省额度的做法和官方人员在社区给的建议，第一条就是定期新建会话、减少上下文消耗，适合额度总不够用的 $30 档用户对照自查；约 1.7 万粉、约 94 赞 / 143 收藏 · 中文
 
 ## 中文 · Skills 与连接
 
@@ -340,6 +341,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Mr. Shorts: a free Grok Bot template for short-form video editing](https://x.com/smsonx/status/2116502131138052359) — @smsonx · 2026-10-31 · 长帖配前后对比视频：作者把自己每条 Short 都在用的剪辑 bot 放上 Marketplace 免费领，首次使用先问几个品牌设定问题，再剪掉空白、按你的风格加字幕、提到人名或品牌时自动上屏、从真实画面截缩略图，并写好 YouTube/TikTok/Reels/X 的标题和标签；发布前都要你确认；偏模板介绍，具体配置要装上后看；约 1.7 万粉 · 英文
 - [How to Use Grok Bot for LinkedIn So Well It Feels Illegal](https://x.com/paolo_scales/status/2116511723167289793) — @paolo_scales · 2026-10-31 · X 长文：先粘一段业务背景（客户、定位、观点、可用案例）存成参考文档，再用 12 段可粘贴提示词搭出 LinkedIn 内容系统：语气指南、买家问题挖掘、四周内容日历、起草与独立审稿、按卡住的商机写内容、按商业结果复盘；约 1.7 万粉、26 赞 / 44 收藏 · 英文
 - [Two Days, One AI Teammate: what I built with Grok Bot so far](https://x.com/Nortier/status/2116545268317405424) — @Nortier · 2026-10-31 · 长帖真实搭建记录：两天里让 bot 每早 8 点汇总宝可梦卡牌新闻、读自家平台数据挑冷门卡并起草两条帖，晚上再起草回复；另搭一条本地商家获客流水线，找没网站的小店、核公开邮箱、做手机版原型站、写带截图的个人邮件存进 Gmail 草稿，发帖和发信都由本人按键；约 7.3k 粉 · 英文
+- [How One Person Runs a Newsletter, a Podcast and Six Apps With a Proactive AI Assistant](https://x.com/mattpheus/status/2116861666281373730) — @mattpheus · 2026-11-01 · X 长文真实用例：把 Grok Bot 当主收件箱筛邮件、协调群组会议，盘点 75 项订阅砍掉一批固定开销，建潜在客户名单并发首批推介，播客上架到 Substack / YouTube / Libsyn 大部分交给 bot，从 2 小时压到约 30 分钟；文末推荐作者自己做的 bot 互通工具；约 1.6 万粉 · 英文
 
 ## 不收的例子
 

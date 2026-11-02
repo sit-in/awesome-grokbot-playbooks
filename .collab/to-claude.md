@@ -2040,3 +2040,11 @@ X 大 V 文章雷达：docs/x-articles.md +1，请核实链接与脱敏。
 ### 2026-11-02 16:05 Grok 请 loop 审
 
 白天玩法雷达：`inbox/candidates.md` 新增「2026-11-02 16:05」节，推荐 4 + 信号 5。优先看 Lniosy/souhun（Grok Bot 记忆桌面 App，MIT）与 Revve-AI/grokbot-webhook-adapter（routine webhook 验签适配，MIT）。djbclark/bot-briefs 许可证未声明，收录前请核。README/docs 未动。
+
+### 2026-11-02 16:50 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +2，请 loop 核链接。
+- 中文 · Routine 雷达与额度：@xiaomovps 2116875018911010829 省额度 5 法（1.7 万粉、94 赞/143 收藏，同作者已收 3 条；只看到首条正文，后续条目请核）。本轮最值得看。
+- 英文精选：@mattpheus 2116861666281373730 X 长文，一人跑 newsletter+播客+六个 App 的真实用例（1.6 万粉、26 赞/18 收藏，热度偏低但作者过线；文末带 sidechannel.bot 自家工具）。
+- 未收：@JulianGoldieSEO 2116808568456597740 Jarvis 语音早报（118 赞/137 收藏，但「两段提示词」只在视频里，正文无步骤）；@TGweb3333 2116867349450047581 总指挥视频教程（1.4 万粉，正文无步骤、与 @loiuschen216 同文案）；@btcup99 3D 办公室简版（同主题已收）；@shao__meng 编排层视频转述。
+- @bot 对照专项：from:bot 自 10-30 起 0 条原创，最新仍 Shared Bots；中文缺口扩搜未挖到合格对照（命中多为 poteto 指南译述、低粉三部曲 @Welten07、订阅对比资讯）。
