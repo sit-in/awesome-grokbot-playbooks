@@ -3916,3 +3916,33 @@ pbouagno/research-archive（个人研究站产物归档，非通用玩法）；o
 ### Skip（本轮）
 
 w1nklerr/night-shift-with-grok（夜间 Solana 自动交易，收益截图未核实且涉资金风险）；malinoms/grok-bot-team（个人 Bot 团队导览，内容浅）；coding-ax/poteto-grok-bot-skills（@poteto 指南的二次整理）；10foldjosh/grokbot-uses（搜索日志式清单）；4regab/bot-mates（Kiro Crew 迁移包）；spec-protocol/agent-bridge、NoLimit0714/grok-world、chippybrown/voice-reader-for-grokbot（下轮再看）；Philipp0205/gbot-tui（无 README）；其余空仓/个人测试仓。
+
+## 2026-11-02 16:15 Asia/Shanghai · 周更候选
+
+> 从 10-26 周更后各轮「推荐」77 条里挑 5 条，gh 只读实查星标/许可；全文见 box /workspace/awesome-grokbot/candidates-2026-11-02-weekly.md。待 sitin 确认后才改 README。
+
+### 候选（5 条）
+
+1. [BeatAPI/grokbot-growth](https://github.com/BeatAPI/grokbot-growth) - 中文「出海增长开工包」技能：回答 6 个问题，生成一支按岗位分工的出海增长 Bot 团队（总管调度，社媒/SEO/外链/竞品/新词/多语言视频六条线）的岗位说明、共用规则、审核表和第一周清单。10★ · MIT · 10-31 更新。
+   - 建议分类：💼 中文一人公司 / 👥 多 Bot 团队　标签：`出海` `multi-bot` `skill` `zh`
+   - 注意：出品方 BeatAPI 是 API 服务商，可能与 hiapi 同赛道，收不收由 sitin 定。
+2. [Lniosy/souhun](https://github.com/Lniosy/souhun) - 「搜魂」：Mac/Windows 桌面 App，查看、写入、忘掉 Grok Bot 的记忆，区分账号共用与单 Bot、指令与事实，附原理和安全文档、安装包。0★ · MIT · 今天更新（新仓）。
+   - 建议分类：🧰 工具（记忆）　标签：`memory` `desktop` `zh`
+3. [realTaki/bot-codex-delegate](https://github.com/realTaki/bot-codex-delegate) - Grok Bot skill：把本机 Codex app-server 当云端 agent 用，派活、完成后唤醒、中途可 steer/打断、复用会话；同作者 [bot-keepalive](https://github.com/realTaki/bot-keepalive) 让长任务期间云电脑不睡。9★/5★ · MIT。
+   - 建议分类：🧩 技能与玩法（跨 Agent）　标签：`skill` `codex` `delegate`
+4. [number5meme/grokbot-larkbot-bridge](https://github.com/number5meme/grokbot-larkbot-bridge) - 飞书（Lark）机器人消息转发到 Grok Bot routine webhook，只出站长连接、无需公网端口，命令行回复文本/图片/文件；同作者还有 [QQ](https://github.com/number5meme/grokbot-qqbot-bridge) 和 [微信 ClawBot](https://github.com/number5meme/grokbot-wechatclaw-bridge) 版本，三件套同一套接口。各 1★ · MIT · 10-30 更新。
+   - 建议分类：⏰ Routine 与集成（国内 IM）　标签：`feishu` `qq` `wechat` `webhook` `routine`
+   - 注意：默认连 Lark 国际版，国内飞书需改域名，待核。
+5. [Revve-AI/grokbot-webhook-adapter](https://github.com/Revve-AI/grokbot-webhook-adapter) - 给只能填 URL、靠签名验证的发送方（GitHub、Stripe、Fathom 等）做的 Vercel 小函数：先验签，再补上 Authorization 转给 Grok Bot routine webhook；有 CI。0★ · MIT · 11-01 更新。
+   - 建议分类：⏰ Routine 与集成　标签：`webhook` `vercel` `routine`
+
+注：2、4、5 都是新仓、星少，内容扎实但热度未验证；可先收标「新」，或放一周再看。
+
+### 没收（一句话理由）
+
+- NVIDIA/SkillSpector（2.4 万★）、eugeniughelbur/obsidian-second-brain（5.1k★）、unclebob/ub-mode：通用 Agent/skills 工具，没点名 Grok Bot；SkillSpector 可考虑放「安全」附录，另议。
+- k7cfo/remove-your-data：隐私删数据 skill，偏离出海/作战室主线。
+- tantan1hao/grok-multi-bot-workflow、Licoy/study-grokbot、wchengyen/feishu-grokbot-bridge：中文相关但 0–2★、刚起步，留 inbox 观察。
+- djbclark/bot-briefs、KevinLogan84/grokbot-notify-sounds、RawPowered/Grok-Bot-Templates 等：未声明许可证。
+- six20am/grokbot-blueprint、ditto-assistant/ditto-plugin：已归档；cclank/boxbridge、BigFishSynergy/imessage-ai-assistant-workflow：仓库已 404。
+- 其余（各类 T3/Discord/Slack 桥、语音会议、像素办公室等）：同质或小众，留 inbox。
