@@ -2063,3 +2063,11 @@ X 大 V 文章雷达：`docs/x-articles.md` +3，请 loop 核链接。
 - 推荐：agentmuxhq/agentmux-mcp（Apache-2.0，Mac 本地 MCP 桥让 Cursor/Claude Code/Codex 与 Grok Bot 互问，Grok 经隧道接入）。请核：当天新建、未公证 dmg，与 MuhammadShahzeb123/agentwire 同类，二选一或并列。
 - 信号：devzer0o0/dsh-grok-buddy（DSH 插件，头像表情显示会话状态；官方头像素材版权待核）。
 - README/docs 未动。
+
+### 2026-11-02 18:45 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +2，请 loop 核链接。
+- 中文 · 多 Agent 作战室：@0xlangeai 2117197419779866647 X 长文拆 poteto 指南（约 1.16 万粉、24 赞/8 收藏，刚发；有可复制提示词 + Dr Eggbot 实操截图，比此前拒掉的 poteto 中文导读实在）。本轮最值得看。同作者已收多条。
+- 中文 · Skills 与连接：@Pluvio9yte 2117194142921245082 X 书签分类用法（约 5.2 万粉、7 赞/5 收藏，刚发）。对照 @bot：部分补 X 书签中文缺口，但没写怎么接 X 连接器，步骤偏薄，请核是否保留。
+- 未收：@fankaishuoai 2117187737061400825 刷题备考（4.6 万粉，仍 7 赞，步骤薄，继续盯）；@Davidgmi_01 健身品牌全自动（无步骤）；@M1lanX0r404 发币 bot（代币向）；大量马斯克额度收紧资讯帖；低粉中文 Article（微信接入、VPS、Obsidian 研究库）均未过线。
+- @bot 对照专项：from:bot 自 10-30 起 0 条原创，最新仍 Shared Bots；其余缺口未变。
