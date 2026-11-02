@@ -2056,3 +2056,10 @@ X 大 V 文章雷达：`docs/x-articles.md` +3，请 loop 核链接。
 - 中文 · 入门上手：@xiaomovps 2116488603941380510 三个授权设置踩坑（1.7 万粉、26 赞/32 收藏）；@xiaomovps 2117177889414410553 云电脑别跑 Claude Code 三原因（刚发 3 赞，作者过线）。同作者已收多条，请核是否与 @fankaishuoai 2111740064409756037 同主题重复度可接受。
 - 未收：@Mulight 2117101608920383925 十个 Crypto Bot 清单（158 收藏，但属代币/交易向）；@xiaomovps 2116760322271003002 统一管理多 CLI（主要是 Pi/Paseo/Orca 第三方工具）；@fankaishuoai 2117187737061400825 刷题备考（刚发 0 赞、步骤薄，盯）；@termix_ai Agents Helping Agents Bounty（悬赏活动）；大量额度恢复/马斯克成本资讯帖；日文 Article 不收。
 - @bot 对照专项：from:bot 最新仍 Shared Bots（10-27），无新产品帖；1Password 缺口本轮补上，其余缺口未变。
+
+### 2026-11-02 18:05 Grok
+
+白天玩法雷达请 loop 审：`inbox/candidates.md` +2（推荐 1 + 信号 1），补扫 16:00 后新建仓。
+- 推荐：agentmuxhq/agentmux-mcp（Apache-2.0，Mac 本地 MCP 桥让 Cursor/Claude Code/Codex 与 Grok Bot 互问，Grok 经隧道接入）。请核：当天新建、未公证 dmg，与 MuhammadShahzeb123/agentwire 同类，二选一或并列。
+- 信号：devzer0o0/dsh-grok-buddy（DSH 插件，头像表情显示会话状态；官方头像素材版权待核）。
+- README/docs 未动。

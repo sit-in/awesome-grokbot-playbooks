@@ -3946,3 +3946,23 @@ w1nklerr/night-shift-with-grok（夜间 Solana 自动交易，收益截图未核
 - djbclark/bot-briefs、KevinLogan84/grokbot-notify-sounds、RawPowered/Grok-Bot-Templates 等：未声明许可证。
 - six20am/grokbot-blueprint、ditto-assistant/ditto-plugin：已归档；cclank/boxbridge、BigFishSynergy/imessage-ai-assistant-workflow：仓库已 404。
 - 其余（各类 T3/Discord/Slack 桥、语音会议、像素办公室等）：同质或小众，留 inbox。
+
+## 2026-11-02 18:05 Asia/Shanghai · 白天玩法雷达
+
+> 补扫 16:00 后（08:00Z 起）新建仓 + X 近 3 小时带 GitHub 链帖；X 命中只有两篇 Article（交给 X 大 V 雷达）。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| agentmuxhq/agentmux-mcp | https://github.com/agentmuxhq/agentmux-mcp | macOS 本地桌面 App + MCP 消息桥：Cursor / Claude Code / Codex 与云端 Grok Bot 互相提问取回答（工单、按需唤醒 CLI/webhook/收件箱）；Grok Bot 经 Cloudflare/ngrok 隧道接入、每 Bot 独立 token；Apache-2.0；当天新建、未公证 | 跨 Agent 协作 | GitHub 搜索 |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| devzer0o0/dsh-grok-buddy | https://github.com/devzer0o0/dsh-grok-buddy | DeepSeek Harness 插件：侧栏会话状态用 Grok Bot 头像表情呈现（思考/输出/等确认/失败/完成 8 态）；BSD-3（GitHub 标 other），用到官方头像素材，版权待核；偏趣味 | 工具 / 周边 | GitHub 搜索 |
+
+### Skip（本轮）
+
+bringm1lan/pump-printer（Pump.fun 发币准备 skill，涉资金风险）；samirpatel-ariaBOT/grok-trading-council（模拟交易）；1nh4oX/grokbot-d47-text-research-20261102（临时传输仓）；tranthor-main/cursor-plugin（厂商插件，已在 inbox 同类）；A101llan/GrokBotSkills（空仓）；topmindspace/x-pulse-bot（无 README）。
