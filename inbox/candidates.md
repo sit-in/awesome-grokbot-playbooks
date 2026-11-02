@@ -3889,3 +3889,30 @@ Bodila51/grokbot-wallpaper、snbwallet365-ops/grokbot365、seren-wib/bus-transfe
 ### Skip（本轮）
 
 pbouagno/research-archive（个人研究站产物归档，非通用玩法）；one-commit/figma-checker-grok-bot、HarrisStudiosLLC/Harris-Studios-Automation（空/仅标题 README）；angelaedora/fastapi-agentic-demo（FastAPI 任务 API，与 Grok Bot 玩法无关）；1bitLabss/EasyAgent（本机 harness 自称「类 Grok Bot」，非配方）；X @kkkeric_ai 出海增长 Article+skill（896 粉，交 X 大 V 雷达）；转帖 OpenMausBot / grok-bot-cli / foreman / thin-grok-bot / templates / profiles / skill（README/inbox 已收不重收）。
+
+## 2026-11-02 16:05 Asia/Shanghai · 白天玩法雷达
+
+> `gh search repos`（"Grok Bot" / grokbot / grok-bot / openmausbot，created≥11-01，补扫 11-01 12:05 之后至今；中间几轮未落盘）。按 full_name 对照 README、docs、inbox、.collab 去重，均为首见。
+
+### 推荐（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| Lniosy/souhun | https://github.com/Lniosy/souhun | **搜魂**：Mac/Windows 桌面 App，查看、写入、忘掉 Grok Bot 的记忆（账号共用 vs 单 Bot、指令 vs 事实），带原理/记忆分类/安全文档与安装包；MIT | 工具 / 记忆 | GitHub 搜索 |
+| Revve-AI/grokbot-webhook-adapter | https://github.com/Revve-AI/grokbot-webhook-adapter | **routine webhook 签名适配器**：Fathom/GitHub/Stripe 这类只能填 URL、靠签名的发送方，经一个 Vercel 函数验签后补上 Authorization 再转给 Grok Bot routine webhook；有 CI；MIT | Routine / 集成 | GitHub 搜索 |
+| djbclark/bot-briefs | https://github.com/djbclark/bot-briefs | **Chief of Staff Bot 复刻包**：README 本身就是给 CoS Bot 读的主提示，带用户一步步复刻 bot 舰队 + Bot Briefs 看板；先读 SECURITY（最小权限、每 Bot 独立 token、只读触发）；许可证未声明，待核 | 作战室 / 多 Bot | GitHub 搜索 |
+| MuhammadShahzeb123/agentwire | https://github.com/MuhammadShahzeb123/agentwire | **Agent 之间的私信总线**：Grok Bot（远程 MCP over HTTP）与 Codex/Claude Code（stdio）互发消息，离线排队、线程、wait_for_message 长轮询；SQLite 零依赖；MIT | 跨 Agent 协作 | GitHub 搜索 |
+
+### 玩法 / 信号（待核）
+
+| 名称 | 链接 | 一句理由 | 建议节 | 来源 |
+|------|------|----------|--------|------|
+| zhaobenxiang5-coder/grok-bot-orange-book | https://github.com/zhaobenxiang5-coder/grok-bot-orange-book | 中文「Grok Bot 橙皮书」，每条标【已核实】（对照官方文档）或【作者声称】并附来源；CC BY-NC 4.0；当天新建，待看完整度 | 中文教程 | GitHub 搜索 |
+| Lniosy/dsh-tool-grok-bot | https://github.com/Lniosy/dsh-tool-grok-bot | DeepSeek Harness 工具包：从 DSH 里给指定 Bot/团队房间发话、群发最多 8 个 Bot、读写记忆；MIT；与 souhun 同作者 | 跨 Agent 协作 | GitHub 搜索 |
+| arismarioneves/grokbot-telegram | https://github.com/arismarioneves/grokbot-telegram | Telegram → routine webhook 的 PHP 桥：校验 secret/chat_id/from_id 后立即唤醒 Bot；轻量，许可证未声明 | Routine / 集成 | GitHub 搜索 |
+| SnazzyGaz/bot-creative-toolkit | https://github.com/SnazzyGaz/bot-creative-toolkit | 无头视觉工具箱：一键装 Blender/Inkscape/GIMP/FFmpeg 等，`bct look` 多角度渲染联系表让 Bot 自检产物；MIT | Skills / 工具 | GitHub 搜索 |
+| grokbotsmarket/awesome-grok-bots | https://github.com/grokbotsmarket/awesome-grok-bots | 同类英文 Awesome：X 上真实 Bot 运行分享链接按场景分类（26 条）；仅作信号与互链参考，带站点导流 utm | 外部清单 | GitHub 搜索 |
+
+### Skip（本轮）
+
+w1nklerr/night-shift-with-grok（夜间 Solana 自动交易，收益截图未核实且涉资金风险）；malinoms/grok-bot-team（个人 Bot 团队导览，内容浅）；coding-ax/poteto-grok-bot-skills（@poteto 指南的二次整理）；10foldjosh/grokbot-uses（搜索日志式清单）；4regab/bot-mates（Kiro Crew 迁移包）；spec-protocol/agent-bridge、NoLimit0714/grok-world、chippybrown/voice-reader-for-grokbot（下轮再看）；Philipp0205/gbot-tui（无 README）；其余空仓/个人测试仓。
