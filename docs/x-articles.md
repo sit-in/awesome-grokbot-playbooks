@@ -126,6 +126,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [开源 EchoMe：给个人网站装 AI 接待助手，访客要找本人时经 Grok Bot 推到手机、回一句就显示「本人回复」](https://x.com/Formulasearch/status/2117218296722514130) — @Formulasearch · 2026-11-02 · X 长文：给出一段让 Claude Code/Codex 从头装到尾的提示词（GitHub + Vercel + Supabase），再讲怎么用 webhook 推访客事件、用 MCP 让 bot 代回复和改资料，并写清回复与改资料都设成每次询问；MIT 开源，作者约 1.2 万粉 · 中文
 - [Grok Bot Anywhere：快捷键唤出悬浮框、微信聊天记录转给指定 Bot、文件右键分享给 Bot](https://x.com/cgnot996/status/2117138292399636760) — @cgnot996 · 2026-11-02 · 非官方 Mac 桌面工具（Clipper 浏览器插件同作者）：每个 Bot 可配两个快捷键，Tab 切换对话，Finder 选中文件直接当附件发，也能让其他 Agent 调用 Bot；已签名公证，登录自己的 Grok Bot 账号即用，下载和使用指南要进作者的内测群拿，Windows 版待签名；约 1.2 万粉、84 赞 / 69 收藏 · 中文
 - [如何把 Grok bot 军团连接到你的飞书？保姆级新手教程](https://x.com/KinGao476942/status/2110325058585698654) — @KinGao476942 · 2026-10-14 · X 长文：一步步把多个 bot 接进飞书群，群里丢发票、合同就能自动汇总处理；123 收藏 · 中文
+- [Grok Bot 再接 5 个国内 MCP/Skill：小红书运营、抖音官方广场、B 站字幕评论、飞猪行程、企业微信 CLI](https://x.com/xiaomovps/status/2117268289038770660) — @xiaomovps · 2026-11-02 · 长帖：每个附仓库或官方入口，说明社区 MCP 与官方接口要单独申请/配置，支付留人工确认；约 1.7 万粉、约 89 赞 / 117 收藏 · 中文
+- [Grok Bot 打通国内生活服务：瑞幸 / 美团跑腿 / 麦当劳 / 滴滴 / 高德 5 个官方 MCP 与 Skill](https://x.com/xiaomovps/status/2116690552188260496) — @xiaomovps · 2026-11-01 · 长帖：逐个给官方入口与能做什么（点咖啡、领红包、叫车、行程规划），提醒授权配置和付款确认；约 1.7 万粉、约 277 赞 / 487 收藏 · 中文
 
 ## 中文 · 出海一人公司与内容
 
@@ -166,6 +168,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [四款 Personal Agent 更新横评：Grok Bot / Muse / Claude Duet / Dots](https://x.com/petergyang/status/2113042717270049028) — @petergyang · 2026-10-22 · 各列优缺点：Grok Bot 强在多 bot 团队、免费搜 X、语音与新 Pages，邮箱体验作者觉得不行；并对比 Muse / Duet / Dots 选型；约 29 万粉、180+ 赞 / 330+ 收藏 · 英文
 - [How to build a Grok Bot that does your shopping](https://x.com/free_ai_guides/status/2113309273744617696) — @free_ai_guides · 2026-10-23 · X 长文：购物 bot 只搜价、核单、盯价并备好购物车，下单键本人按；四文件（wishlist/me/rules/purchases）+ 6 步可复制提示词 + 早 8 点盯价 routine；强调别把卡号丢进聊天、别让 bot 点买（Amazon 已拦 AI 下单）；约 9.2 万粉 · 英文
 - [Grok Bot A-Z：功能、搭建、用例与技巧完整指南](https://x.com/AleiahLock/status/2113965935946027159) — @AleiahLock · 2026-10-24 · X 长文：从是什么/套餐/15 分钟上手，到功能拆解、A-Z 速查、组队、省额度 routine、审批与安全、按岗位用例、30 条冷门技巧和可复制提示词包；约 1.2 万粉 · 英文
+- [Grok Bot：把生活、生意和钱交给它（Setup / Life / Business / Money）](https://x.com/AleiahLock/status/2117264989014618503) — @AleiahLock · 2026-11-02 · X 长文（A-Z 续篇）：10 分钟设置（手机 App、Vault、1Password、Action Button），再按生活琐事、Shared Bots 销售岗、变现案例、生成视频与 30 条冷门技巧展开，附可复制提示词包；约 1.2 万粉、约 54 赞 / 47 收藏 · 英文
 - [A Field Guide to Grok Bot：按顺序照做的实战手册](https://x.com/undefinedKi/status/2113972662506541522) — @undefinedKi · 2026-10-24 · X 长文：日用一个月后的保姆级路径——装机与 Take over 登录、一 bot 一岗五要素、可复制 Morning Brief/Inbox/Lead Miner/Chief/Builder 配方与 Auto-review 规则，附踩坑与一周清单；约 1.9 万粉 · 英文
 - [我正在用的 10 个 Grok Bot：第二大脑到线索/竞品，附各岗提示词](https://x.com/milesdeutscher/status/2113935280231325963) — @milesdeutscher · 2026-10-24 · 长帖列出第二大脑、专建功能、管理 10+ bot 的 swarm、晨报、内容复用、订阅审计、群聊提炼、线索、竞品、X 助理十岗并附提示词；约 68 万粉、约 180 收藏 · 英文
 - [十步搭一支 Grok Bot 生活助理团队：Daily Chief + 三个专员](https://x.com/irongiantXBT/status/2109293672495784029) — @irongiantXBT · 2026-10-11 · X 长文十步：先让 Daily Chief 出带 AGENDA/SOURCES/OPEN QUESTIONS 的晨报，再写角色合同、连接一次、登录交接、存技能、挂 routine、拆 Inbox/Research/Life Admin 专员、群聊协作、ACTION/TARGET/REASON 审批线、每周 USED/REWORKED/IGNORED 复盘，每步附可粘贴提示词；约 500 赞 / 1.8k 收藏 · 英文

@@ -2107,3 +2107,12 @@ X 大 V 文章雷达 x-articles +3，请 loop 核链接：
 - @0xCodila 2090130749768786050 五步 Agent Graph 英文长文（3.3 万粉、2087 收藏），由 @EianLu quote 带出；正文未展开读，请核内容。
 - @Texas_Twins_Dad 2116748190649037285 Siri 快捷指令唤起语音聊天（255 赞/326 收藏），与已收 @xiangxiang103 人声快捷指令互补。
 - @bot 自 10-29 无新产品帖。
+
+### 2026-11-03 00:42 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +3，请 loop 核链接。
+- 本轮最值得看：@xiaomovps https://x.com/xiaomovps/status/2117268289038770660 小红书/抖音/B站/飞猪/企微 5 个 MCP·Skill（1.7 万粉、89 赞 / 117 收藏）。同作者本周已多条，请核密度。
+- 中文 · Skills 与连接：同作者补收 11-01 条 https://x.com/xiaomovps/status/2116690552188260496 瑞幸/美团/麦当劳/滴滴/高德（277 赞 / 487 收藏，前几轮漏收）。两条都是清单+入口+支付确认提醒，不是逐步装机保姆级。
+- 英文精选 · 入门：@AleiahLock https://x.com/AleiahLock/status/2117264989014618503 A-Z 续篇「交给它干什么」（1.2 万粉、54 赞 / 47 收藏）；同作者 A-Z 已收，请核是否保留为续篇。
+- @bot 对照专项：from:bot 自 10-27 Shared Bots 后仍无新产品帖；中文扩搜电话/Vault/IncidentSweep/Shared/飞书/Auto-review 无合格新对照（命中多为 poteto 译述、Welten07 三部曲 96 粉、交易跟单）。缺口仍开：IncidentSweep 中文、Marketplace 深销售、Vault 更深保姆级、原生电话中文、X 私信·Article 中文保姆级、Auto-review 规则中文、购物卡片、@bot 派活保姆级。
+- 未收：交易/Dawn/Agent Wallet 跟单批量帖；@xiaojiangtt 微信 ClawBot 复述（25 粉）；@longhaiqwe123 国内 MCP 总表（非 Grok Bot 专述，入口已覆盖）；@paonx_eth REA 逆向课；额度/马斯克成本资讯；低粉 Article（Yuri Claude 防封、Miguel A-Z 讲稿 10 粉）；日文不收。
