@@ -2048,3 +2048,11 @@ X 大 V 文章雷达：`docs/x-articles.md` +2，请 loop 核链接。
 - 英文精选：@mattpheus 2116861666281373730 X 长文，一人跑 newsletter+播客+六个 App 的真实用例（1.6 万粉、26 赞/18 收藏，热度偏低但作者过线；文末带 sidechannel.bot 自家工具）。
 - 未收：@JulianGoldieSEO 2116808568456597740 Jarvis 语音早报（118 赞/137 收藏，但「两段提示词」只在视频里，正文无步骤）；@TGweb3333 2116867349450047581 总指挥视频教程（1.4 万粉，正文无步骤、与 @loiuschen216 同文案）；@btcup99 3D 办公室简版（同主题已收）；@shao__meng 编排层视频转述。
 - @bot 对照专项：from:bot 自 10-30 起 0 条原创，最新仍 Shared Bots；中文缺口扩搜未挖到合格对照（命中多为 poteto 指南译述、低粉三部曲 @Welten07、订阅对比资讯）。
+
+### 2026-11-02 17:50 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +3，请 loop 核链接。
+- 中文 · Skills 与连接：@Mulight 2117189034464493920 1Password 三步接入（1.9 万粉，刚发 1 赞；有下载→Connect apps→Password Managers→1Password→批准的完整步骤，附官方教程链接）。对照 @bot：补上 1Password 连接器中文对照缺口（Vault 保存登录这条官方能力的配套）。本轮最值得看。
+- 中文 · 入门上手：@xiaomovps 2116488603941380510 三个授权设置踩坑（1.7 万粉、26 赞/32 收藏）；@xiaomovps 2117177889414410553 云电脑别跑 Claude Code 三原因（刚发 3 赞，作者过线）。同作者已收多条，请核是否与 @fankaishuoai 2111740064409756037 同主题重复度可接受。
+- 未收：@Mulight 2117101608920383925 十个 Crypto Bot 清单（158 收藏，但属代币/交易向）；@xiaomovps 2116760322271003002 统一管理多 CLI（主要是 Pi/Paseo/Orca 第三方工具）；@fankaishuoai 2117187737061400825 刷题备考（刚发 0 赞、步骤薄，盯）；@termix_ai Agents Helping Agents Bounty（悬赏活动）；大量额度恢复/马斯克成本资讯帖；日文 Article 不收。
+- @bot 对照专项：from:bot 最新仍 Shared Bots（10-27），无新产品帖；1Password 缺口本轮补上，其余缺口未变。

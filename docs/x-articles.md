@@ -47,6 +47,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [翻遍 Reddit 整理出 55 个 Grok Bot 真实案例](https://x.com/heizolshao/status/2116002071635722606) — @heizolshao · 2026-10-30 · X 长文：把 Reddit r/grokbot 上网友自述在跑的 55 个用法汇成一篇，从工资单核对、超市代购、骑行教练到多角色家庭管家，每条一两句说清怎么搭，不是逐步教程，适合找灵感后挑一个自己搭；约 2.9k 粉、约 56 赞 / 72 收藏 · 中文
 - [Grok Bot 新手起步：买哪一档、去哪订阅、下载后怎么登录](https://x.com/sanyuanVC/status/2116379043880992790) — @sanyuanVC · 2026-10-31 · 最低要 Premium（Plus 不含 Grok Bot），建议用浏览器在 grok.com/plans 或 x.ai/pricing 订阅而不是 App 内购，再到 x.ai/bot 下载、用 X 号登录后会自动建好第一个 Bot；适合还没开通的人照着走一遍；约 3.8 万粉 · 中文
 - [4 步把 OpenClaw / Hermes 的记忆迁进 Grok Bot](https://x.com/btcup99/status/2116484027276550383) — @btcup99 · 2026-10-31 · 设置 > 通用 >「将记忆倒入 Grok Bot」复制提取提示词，丢给旧 Agent 再粘回点 Add to Memory；附三个坑：输出别带运行日志、粘贴前删掉旧 API Key/Token、新开对话问「你对我有哪些了解」验收；附视频，约 4.8k 粉 · 中文
+- [装到别的电脑前先改三个设置：本机授权、多电脑授权、经此电脑转发流量](https://x.com/xiaomovps/status/2116488603941380510) — @xiaomovps · 2026-10-31 · 踩坑长帖：作者遇过云端失败后自动改用本机跑 CI、用本机浏览器过校验，建议授权都设成每次询问、没特殊网络需求就关转发；约 1.7 万粉、约 26 赞 / 32 收藏 · 中文
+- [别在 Grok Bot 云电脑里跑 Claude Code：出口 IP 会变、电脑可能重置、来回传话烧额度](https://x.com/xiaomovps/status/2117177889414410553) — @xiaomovps · 2026-11-02 · 踩坑提醒：讲清三个原因，真要用就让云电脑走本机代理出口，或反过来从本机调用 Grok Bot；约 1.7 万粉 · 中文
 
 ## 中文 · 多 Agent 作战室
 
@@ -117,6 +119,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Pages 看板 7 条可复制提示词：Bot 指挥中心、账目、客户线索、X 周报、到期提醒、决策备忘、周五客户更新](https://x.com/joganicpe/status/2115716591090385167) — @joganicpe · 2026-10-29 · 每条写清数据来源、页面内容和自动更新时间，并给出「不动钱」「先给我看再发」这类边界，约 1.7 万粉 · 中文
 - [Grok Bot 当联络员：派活给远程 Claude/Codex、Notion 当共享库、Cloudflare Worker 接飞书群翻译](https://x.com/bggg_ai/status/2115838960861900911) — @bggg_ai · 2026-10-29 · 上手三天的真实搭建：bot 把分析和开发派给另两台常开电脑上的 Claude、Codex，每天轮询 TikTok 矩阵账号自然流与广告数据出仪表盘日报；选题 bot 一天两次抓 X、微博、小红书、抖音存进 Notion，与 Claude 共用一个库；VPS 上跑脚本把状态推到免费 Cloudflare Worker 再转给 bot，也能反向问；飞书应用只把事件转发给 Worker，群里 @ 机器人就能调用 bot 里的翻译 skill；约 1.2 万粉 · 中文
 - [Grok Bot 点美团外卖：6 步 + 开源 grok-eats skill（勾红包到收银台，人只付款）](https://x.com/leaf_sanren/status/2116510650478502212) — @leaf_sanren · 2026-10-31 · X 长文：云电脑打开美团 H5，装 github.com/YeJe-cpu/grok-eats，登录后从地址簿选址、读近单给候选、勾最大红包并读回确认页，你说提交才推到收银台，手机待支付自付；另附两渠道日领券与热量区间分析；硬规则不碰支付/不擅自提交/不编地址/不明文要证件；美团没给个人开下单接口，走网页是非官方用法，风险自担；约 4.4k 粉、约 144 赞 / 225 收藏 · 中文
+- [三步接上 1Password：下载保存账号、在桌面端连接、登录时弹窗批准](https://x.com/Mulight/status/2117189034464493920) — @Mulight · 2026-11-02 · 讲清怎么接密码管理器连接器（版本要求、路径 Connect apps → Password Managers → 1Password），Bot 登录网站时你批准、模型看不到明文密码；暂不支持 Google 登录和 Passkey；约 1.9 万粉 · 中文
 
 ## 中文 · 出海一人公司与内容
 
