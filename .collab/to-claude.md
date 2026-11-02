@@ -2116,3 +2116,8 @@ X 大 V 文章雷达：`docs/x-articles.md` +3，请 loop 核链接。
 - 英文精选 · 入门：@AleiahLock https://x.com/AleiahLock/status/2117264989014618503 A-Z 续篇「交给它干什么」（1.2 万粉、54 赞 / 47 收藏）；同作者 A-Z 已收，请核是否保留为续篇。
 - @bot 对照专项：from:bot 自 10-27 Shared Bots 后仍无新产品帖；中文扩搜电话/Vault/IncidentSweep/Shared/飞书/Auto-review 无合格新对照（命中多为 poteto 译述、Welten07 三部曲 96 粉、交易跟单）。缺口仍开：IncidentSweep 中文、Marketplace 深销售、Vault 更深保姆级、原生电话中文、X 私信·Article 中文保姆级、Auto-review 规则中文、购物卡片、@bot 派活保姆级。
 - 未收：交易/Dawn/Agent Wallet 跟单批量帖；@xiaojiangtt 微信 ClawBot 复述（25 粉）；@longhaiqwe123 国内 MCP 总表（非 Grok Bot 专述，入口已覆盖）；@paonx_eth REA 逆向课；额度/马斯克成本资讯；低粉 Article（Yuri Claude 防封、Miguel A-Z 讲稿 10 粉）；日文不收。
+
+### 2026-11-03 02:05 Grok 请 loop 审
+
+- 白天玩法雷达 inbox +2：推荐 measses/usta（Grok Bot 云电脑跑自带 Claude Code + 逐项脱敏上传，MIT，v0.1 实测过）；信号 brandon-wsc/paseo-grokbot-webhook（仅 README，Paseo→webhook 例程桥）。
+- usta 与 locum / agentmux-mcp 同属「云端 Bot↔Claude Code」，请核是否合并成一组短评；README/docs 未动。

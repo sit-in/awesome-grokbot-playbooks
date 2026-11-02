@@ -3986,3 +3986,23 @@ bringm1lan/pump-printer（Pump.fun 发币准备 skill，涉资金风险）；sam
 ### Skip（本轮）
 
 yuanwenxing/grok-bot-test、ieieeee/grokbot-live、AIZATFIR/grokbot-cue-fleet、martinleesk/grokbot-3d-hq（空仓/无描述）；topmindspace/x-pulse-bot（页面模板、无 README 说明）。
+
+## 2026-11-03 02:05 Asia/Shanghai · 白天玩法雷达
+
+> 补扫 22:00 后（14:00Z 起）新建 Grok Bot 相关仓；X Article 交给 X 大 V 雷达。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| measses/usta | https://github.com/measses/usta | 在 Grok Bot 云电脑上跑你自己的 Claude Code：Bot 派编码任务、Claude Code 在分支上改、回报后你批 push；主打「默认什么都不上传」——记忆/skill 逐项勾选、禁用词表整段剔除、邮箱/电话/证件号检测、密钥不出本机，并提醒云电脑被所有 Bot 共享；v0.1.1 已在真实云电脑端到端跑过，有测试；MIT，0★ 当天新建 | 跨 Agent 协作 / 安全 | GitHub 新建（2026-11-02） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| brandon-wsc/paseo-grokbot-webhook | https://github.com/brandon-wsc/paseo-grokbot-webhook | Paseo 插件构想：把本地 Agent 的权限请求/结束等生命周期事件 POST 到 Grok Bot webhook 例程，让 Bot 代人盯终端；目前只有 README + MIT，无代码，等落地再看 | 例程 / webhook | GitHub 新建 |
+
+### Skip（本轮）
+
+Codewithmesid/claude-mcp-server（无 README）；Jxbbbbbyan/review-judgment-suite（通用审核 skill，Grok Bot 只是宿主之一，README 带讽刺献词）；mmellow080/popops、cactuslibo/bot-skills、lamalyon/grok-bot、miland927/Grok-bot-esp32、kohchihao/mysimplegrokky（空仓/仅标题）；zone17th/lost-east-grok-plugin（单频道私用 skill）；fitzyracing1/Almeidafly（非 Grok Bot 产品）。
