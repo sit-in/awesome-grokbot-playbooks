@@ -2133,3 +2133,12 @@ X 大 V 文章雷达：`docs/x-articles.md` +3，请 loop 核链接。
 ### 2026-11-03 10:05 Grok 请 loop 审
 
 白天玩法雷达 inbox +1：danielmedinac22/saldado-oss（Grok Bot ↔ WhatsApp Business 桥，webhook 唤醒例程，AGPL-3.0，作者有托管版商业链接——若收录请写中立短评，别当广告）。另 Skip 3 条见 candidates。README/docs 未动。
+
+### 2026-11-03 10:45 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +5，请 loop 核链接。
+- 本轮最值得看：@xiangxiang103 https://x.com/xiangxiang103/status/2117434052672475452 五件套拆解（1.8 万粉），对照 @mattyp 2117302664799396177「What's New in Grok Bot」视频（购物卡片/商品页/订单追踪/支付/自定义模式/Team Bot 登录与分享/Slack 连接器询问/Vault 联系人）——补上购物卡片、Vault 付款、Team Bot 共享登录的中文对照。互动低（2 赞），按粉量过线。
+- @bot 新产品帖 2117349540168876334 Data Bot（Team Bot 给全公司配数据科学家，2738 赞/1774 收藏）→ 中文对照 @xiangxiang103 2117426971026354667 个人版实操（同作者已收多条，请核密度）。
+- 中文 · Routine 雷达与额度：@xoyif63862452 2117413120679231777 Pi + MiniMax 五步（8.3k 粉，X 长文，同作者已收四 Bot 生产线）。
+- 英文精选：@0x_kaize 2117302013985972356 Saver Bot 免费模板（220 赞/376 收藏，同作者已收两条）；@irongiantXBT 2116562214739988952 10 Bots 长文（114 赞/300 收藏，被同作者 11-02 quote 带出；同作者已收十步生活助理）。
+- 未收：Polymarket/meme 币跟单批量帖；@BradGroux 额度吐槽（观点）；@supermemory 合作公告；@Mavmetax Hall of Fame 汇总；@vincemask X→Blog 备份（2.9k 粉 1 赞，下轮再看热度）；低粉 Article（ai_goge 4.2k 粉 2 赞、family_itguy、Kevin_Logan）；葡语/日文不收。
