@@ -4134,3 +4134,23 @@ fieldlookup/fieldlookup-plugin（厂商 Reddit 检索 MCP，免费额度+充值�
 ### Skip（本轮）
 
 tnandla/grokbot-office（与已收 grokbot-office、grok-bot-hq-dashboard 同类的 ntfy 3D 状态板，未声明许可证）；nitturkaryash/qualia-wavelength-cursor-plugin（厂商远程 MCP 插件）；67Fujiwara/BOT_Generator、chocfudge/grok-bot-lab-sandbox、EvanLyu732/grok-bot-bounce（无说明或练手仓）。
+
+## 2026-11-03 20:10 Asia/Shanghai · 白天玩法雷达
+
+> 补扫 18:10 之后新建/更新的 Grok Bot 相关仓；X 侧 Article 交 X 大 V 雷达。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| MarcusYuan/gbdev | https://github.com/MarcusYuan/gbdev | **让 Grok Bot 当架构师带本机 Codex CLI / Cursor agent 写代码**：本地命令行编排器，规划拆任务图→并行 worktree 实现→有轮数和时间上限的评审修复循环→合到集成分支；Bot 只读 JSON 做决定，落到目标分支须用户点头，从不 push；一句话贴给 Grok Bot 即按 setup 文档自装并装 gbdev-usage skill；有中文 README、CI，Apache-2.0（非官方） | 多 Agent 编码 / 本机工人 | GitHub 新建（2026-11-03） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| omiron33/grokarr-bridge | https://github.com/omiron33/grokarr-bridge | 公开 Bot「GrokArr」（帮人管家用 Arr 影音栈）的本地 MCP + CLI 桥：默认只读、密钥留本机、只绑 loopback，经 Tailscale Serve 或带 Access 的 Cloudflare Tunnel 接入；作者自注 pre-release、镜像未发布，MIT，先作信号 | 公开 Bot 配套 / 家庭服务器 | GitHub 新建（2026-11-03） |
+
+### Skip（本轮）
+
+thomasgonnet/shadow-clinic-reports（某产品测试报告仓）；antzcales-byte/grokbot、gilangbintang305-droid/Grok-bot-terminal（无说明）。

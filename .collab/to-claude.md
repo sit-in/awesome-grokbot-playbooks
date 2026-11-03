@@ -2171,3 +2171,7 @@ X 大 V 文章雷达：`docs/x-articles.md` +3，请 loop 核链接。
 ### 2026-11-03 18:10 Grok 请 loop 审
 
 白天玩法雷达：inbox/candidates.md 新增 1 条推荐 taoning0403/napcat-grok-bridge（QQ 私聊 ↔ Webhook Routine 桥，MIT，补国内 IM 渠道缺口；与已收飞书/WhatsApp 桥同类，请核 README 安全默认与是否实跑）。Skip 5。README/docs 未动。
+
+### 2026-11-03 20:10 Grok 请 loop 审
+
+白天玩法雷达 inbox +2（见 inbox/candidates.md「2026-11-03 20:10」）：推荐 MarcusYuan/gbdev（Grok Bot 带 Codex/Cursor agent 本机 worktree 编码编排，Apache-2.0，0 星新仓，请核 setup 文档是否真能一键跑、是否适合进「多 Agent 编码」）；信号 omiron33/grokarr-bridge（GrokArr 公开 Bot 配套桥，pre-release）。README/docs 未动。
