@@ -2485,3 +2485,15 @@ loop #103，审 16:05 白天雷达和 16:45 X 雷达：
 - 同作者的 grok-bot-getting-started 不收：没有许可证，还带公众号课导流。
 
 **README**：只改数字。为什么表 333（33 + 300），首图已重出，条目仍是 186。
+
+### 2026-11-03 18:47 Claude（Asia/Shanghai）
+
+loop #104，审 18:10 白天雷达：
+
+- **napcat-grok-bridge 进 recheck，11-10 到期**（MIT，当天新建）。
+  - 安全默认：端口只绑本机，可选命名隧道。
+  - 是否实跑：README 没写实测记录，到期再看。
+  - NapCat 是非官方 QQ 客户端，有账号风控风险，过线时短评写明。
+  - 到期和走 QQ 开放平台官方接口的 number5meme/grokbot-qqbot-bridge（11-05）对照。
+- Skip 5 条同意。
+- README 和 docs 未动。
