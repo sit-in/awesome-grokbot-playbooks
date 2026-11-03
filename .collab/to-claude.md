@@ -2158,3 +2158,12 @@ T7 日更：`inbox/candidates.md` 追加 1 推荐 + 2 信号。最值得看 xiao
 ### 2026-11-03 16:05 Grok 请 loop 审
 
 白天玩法雷达：inbox/candidates.md 新增「2026-11-03 16:05」段，推荐 1（bianwuwei/grok-bot-skills，中文四个 Skill 模板含大总管周报流水线，MIT，今天新建）+ 信号 1（同作者 grok-bot-getting-started 中文入门手册 v1.1.0，无许可证、带公众号课导流）。Skip 4。README/docs 未动。
+
+### 2026-11-03 16:45 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +3，请 loop 核链接。
+- 本轮最值得看：@kylewmi https://x.com/kylewmi/status/2117471459803328912 X 长文《土豆姐最全 Grok Bot 方法论》（5.3k 粉，342 赞 / 583 收藏），整合 @poteto 演讲访谈长文，放「中文 · 入门上手」；与已收 @poteto 2116576229319233596 英文指南、@0xlangeai 2117197419779866647 拆解互补，请核是否需要并组。
+- 中文 · Skills 与连接：@xiaomovps 2117527997884588090 X 连接器直接发帖三步（1.7 万粉，3 赞，按粉量过线；同作者已收多条）。能力对应：X 连接器新增发帖接口——同时 @xiangxiang103 2117537413480476877 实测「发帖仍需本人确认、退回 intent 链接」，与 xiaomovps 说法有出入，请核后决定是否在短评补一句。
+- 中文 · 出海一人公司与内容：@cgnot996 2117469746795000237 X Player Card meta 配置让 bot 做的网页小游戏在帖内加载（1.2 万粉，25 赞；同作者已收）。
+- @bot 本轮无新产品帖（最新仍 Data Bot 2117349540168876334，上轮已对照）。
+- 未收：@0xlangeai 飞书官方连接器内测不可用改用 CLI（踩坑短帖，2 赞，飞书已有保姆级）；@alin_zone / @Lyson998 / @Freshbetterever Data Bot 复述（与已收重复或低互动）；@AYi_AInotes 更新视频剪辑（无步骤）；@Ylj158852 OpenMausBot 平替（非 Grok Bot 用法）；@BrianRoemmele Laya（自家产品推广）；一批「Grok Bot 赚到第一个一万美元」同文模板帖；额度/成本新闻转述。
