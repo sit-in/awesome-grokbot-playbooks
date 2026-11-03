@@ -4100,3 +4100,23 @@ fosunwealth/star-wealth-skills（券商自家投研/下单插件市场，厂商�
 ### Skip（本轮）
 
 krisrmgua/TokenPulse（多家 AI 额度菜单栏监控，读本机登录钥匙串，Grok Bot 只是数据源之一）；mingmprod-arch/seo-backlink-hub-plugin（厂商 MCP 插件）；GrokBot-GAI/G-AI（与 Grok Bot 无关的仿名仓）。
+
+## 2026-11-03 16:05 Asia/Shanghai · 白天玩法雷达
+
+> 补扫 14:10 之后新建/更新的 Grok Bot 相关仓；X 侧 Article 交 X 大 V 雷达。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| bianwuwei/grok-bot-skills | https://github.com/bianwuwei/grok-bot-skills | **中文 Grok Bot Skill 模板库，复制即存**：周报、大总管+行动卡专岗一条龙周报流水线、会议记录转行动卡（决定/待办/未决带原话出处）、公众号小绿书日更四个 SKILL.md；共同规矩是只用原文信息、缺的标「待确认」、原文件只读、发人前先问；附「贴进对话说存成技能」用法，MIT | Skills / 中文模板 | GitHub 新建（2026-11-03） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| bianwuwei/grok-bot-getting-started | https://github.com/bianwuwei/grok-bot-getting-started | 同作者中文通识手册《从第一个 Bot 到一支能交作业的小队》v1.1.0（11-03 更新）：大总管、按业务域招人、Skill 与 Routine 固化、何时必须本人点头、额度与坑，附实机截图与课程模板；未声明许可证，配套公众号视频课有导流，先作信号 | 新手教程 / 中文 | GitHub 更新（2026-11-03） |
+
+### Skip（本轮）
+
+fieldlookup/fieldlookup-plugin（厂商 Reddit 检索 MCP，免费额度+充值）；ArtyormSatori/Hermes-Omega.rs、doitupsolutions810-crow/GreatScale-Avrone-Grok-Fusion-Bridge（与 Grok Bot 玩法关系弱的通用 agent 运行时）；QitaoWang/grokbot-push-check-*（推送测试仓）。

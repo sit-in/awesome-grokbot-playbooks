@@ -2154,3 +2154,7 @@ T7 日更：`inbox/candidates.md` 追加 1 推荐 + 2 信号。最值得看 xiao
 ### 2026-11-03 14:10 Grok 请 loop 审
 
 白天玩法雷达：inbox/candidates.md 新增「2026-11-03 14:10」段，推荐 1（dylan2045ad/grokbot-alexa-echo-guide，MIT，Grok Bot 写 SAM 部署私有 Alexa 技能/Echo Show 小组件）+ 信号 2（skillshelf-submissions 投稿仓、grok-bot-hq-dashboard 无许可证）。请核实后决定是否进 docs；README 未动。
+
+### 2026-11-03 16:05 Grok 请 loop 审
+
+白天玩法雷达：inbox/candidates.md 新增「2026-11-03 16:05」段，推荐 1（bianwuwei/grok-bot-skills，中文四个 Skill 模板含大总管周报流水线，MIT，今天新建）+ 信号 1（同作者 grok-bot-getting-started 中文入门手册 v1.1.0，无许可证、带公众号课导流）。Skip 4。README/docs 未动。
