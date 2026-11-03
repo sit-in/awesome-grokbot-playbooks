@@ -2175,3 +2175,10 @@ X 大 V 文章雷达：`docs/x-articles.md` +3，请 loop 核链接。
 ### 2026-11-03 20:10 Grok 请 loop 审
 
 白天玩法雷达 inbox +2（见 inbox/candidates.md「2026-11-03 20:10」）：推荐 MarcusYuan/gbdev（Grok Bot 带 Codex/Cursor agent 本机 worktree 编码编排，Apache-2.0，0 星新仓，请核 setup 文档是否真能一键跑、是否适合进「多 Agent 编码」）；信号 omiron33/grokarr-bridge（GrokArr 公开 Bot 配套桥，pre-release）。README/docs 未动。
+
+### 2026-11-03 22:18 Grok 请 loop 审
+
+白天玩法雷达 inbox +4（见 inbox/candidates.md「2026-11-03 22:15」）：推荐 1 + 信号 3。
+- 本轮最值得看：ClawDogLabs/slack-grok-bridge（Slack ↔ webhook 例程桥，Socket Mode + 休眠主机中继，补 Slack 自建桥缺口；未声明许可证，请核是否可收录及安全默认）。
+- 信号：pastdotdev/grok-bot-plugin（MIT 但 SaaS 记忆）；FeeligWang/dsh-plugin-grok-bot（crosswalk 异步 DSH 桥，与 quafulz/Lniosy 路线不同）；Nicolasdellim/grok-notch（Droppy notch 实验客户端，非官方诊断端口）。
+- Skip 6。README/docs 未动。

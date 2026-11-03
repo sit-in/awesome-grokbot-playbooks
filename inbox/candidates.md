@@ -4154,3 +4154,25 @@ tnandla/grokbot-office（与已收 grokbot-office、grok-bot-hq-dashboard 同类
 ### Skip（本轮）
 
 thomasgonnet/shadow-clinic-reports（某产品测试报告仓）；antzcales-byte/grokbot、gilangbintang305-droid/Grok-bot-terminal（无说明）。
+
+## 2026-11-03 22:15 Asia/Shanghai · 白天玩法雷达
+
+> 补扫 20:10 之后新建/更新的 Grok Bot 相关仓；顺带补漏本窗前漏扫的 DSH / Droppy 仓；X 侧 Article / 模板分享帖交 X 大 V 雷达。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| ClawDogLabs/slack-grok-bridge | https://github.com/ClawDogLabs/slack-grok-bridge | **Slack → Grok Bot 例程桥模板**：常醒主机用 Socket Mode；云电脑会休眠则走 Cloudflare Worker 或 Node HTTP 中继（Fly/Railway/Render/Cloud Run），两边 POST 同一 webhook payload；附 SETUP-FOR-NEXT-BOT 一句话装机、HOSTING 决策树、keepalive/supervise、密钥走 secret-request 不进聊天；有中继测试。未声明许可证（package.json private） | 渠道接入 / Slack | GitHub 新建（2026-11-03） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| pastdotdev/grok-bot-plugin | https://github.com/pastdotdev/grok-bot-plugin | past.dev 共享记忆插件 + 配套 @pastdotdev Bot：OAuth 连项目、问答带出处日期、可记/可删；技能只开记忆工具。MIT，但是 SaaS（按项目计 credit），先作信号 | Skills / 记忆 / 厂商插件 | GitHub 新建（2026-11-03） |
+| FeeligWang/dsh-plugin-grok-bot | https://github.com/FeeligWang/dsh-plugin-grok-bot | DeepSeek Harness 插件：经 crosswalk 私有频道异步派活（`grok_submit` / `grok_result`），因 Bot 不能被实时唤醒所以不阻塞轮询；中文 README，MIT。与已收 quafulz（读本机会话）/ Lniosy dsh-tool（官方对话）路线不同 | Bridges / DeepSeek Harness | GitHub 新建（漏扫补） |
+| Nicolasdellim/grok-notch | https://github.com/Nicolasdellim/grok-notch | macOS Droppy notch 里聊本机 Grok Bot：列 bot/发消息/HUD 预览与 Live Activities；走 Electron 诊断端口的实验桥，作者自注非官方、版本易碎、未做第二台 Mac 实测；无许可证，法文 README | Clients / 桌面 | GitHub 新建（漏扫补） |
+
+### Skip（本轮）
+
+priosweep/priosweep-plugin（空仓）；sgchunge/grokbot-backup-site（个人 Google Drive 备份页，非公开玩法）；Spidermanrobin/awesome-grokbots（已在 inbox）；thomasgonnet/shadow-clinic-reports、67Fujiwara/BOT_Generator、gilangbintang305-droid/Grok-bot-terminal（上轮已 Skip / 无说明）。
