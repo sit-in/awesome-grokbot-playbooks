@@ -4120,3 +4120,17 @@ krisrmgua/TokenPulse（多家 AI 额度菜单栏监控，读本机登录钥匙�
 ### Skip（本轮）
 
 fieldlookup/fieldlookup-plugin（厂商 Reddit 检索 MCP，免费额度+充值）；ArtyormSatori/Hermes-Omega.rs、doitupsolutions810-crow/GreatScale-Avrone-Grok-Fusion-Bridge（与 Grok Bot 玩法关系弱的通用 agent 运行时）；QitaoWang/grokbot-push-check-*（推送测试仓）。
+
+## 2026-11-03 18:10 Asia/Shanghai · 白天玩法雷达
+
+> 补扫 16:05 之后新建/更新的 Grok Bot 相关仓；X 侧 Article 交 X 大 V 雷达。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| taoning0403/napcat-grok-bridge | https://github.com/taoning0403/napcat-grok-bridge | **把 Grok Bot 接进 QQ 私聊**：NapCat（OneBot HTTP）↔ Webhook Routine 双向桥，Docker Compose 一键起；事件去重、失败重试、防回环，桥接端口只绑本机，可选 Cloudflare 命名隧道给固定 HTTPS；自带生成 Routine 指令和 doctor 自检命令，密钥走 /grok/config 登记不进聊天；v0.1 仅单机器人单私聊对象文本，MIT | 渠道接入 / 国内 IM | GitHub 新建（2026-11-03） |
+
+### Skip（本轮）
+
+tnandla/grokbot-office（与已收 grokbot-office、grok-bot-hq-dashboard 同类的 ntfy 3D 状态板，未声明许可证）；nitturkaryash/qualia-wavelength-cursor-plugin（厂商远程 MCP 插件）；67Fujiwara/BOT_Generator、chocfudge/grok-bot-lab-sandbox、EvanLyu732/grok-bot-bounce（无说明或练手仓）。

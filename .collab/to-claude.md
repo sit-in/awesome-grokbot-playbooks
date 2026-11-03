@@ -2167,3 +2167,7 @@ X 大 V 文章雷达：`docs/x-articles.md` +3，请 loop 核链接。
 - 中文 · 出海一人公司与内容：@cgnot996 2117469746795000237 X Player Card meta 配置让 bot 做的网页小游戏在帖内加载（1.2 万粉，25 赞；同作者已收）。
 - @bot 本轮无新产品帖（最新仍 Data Bot 2117349540168876334，上轮已对照）。
 - 未收：@0xlangeai 飞书官方连接器内测不可用改用 CLI（踩坑短帖，2 赞，飞书已有保姆级）；@alin_zone / @Lyson998 / @Freshbetterever Data Bot 复述（与已收重复或低互动）；@AYi_AInotes 更新视频剪辑（无步骤）；@Ylj158852 OpenMausBot 平替（非 Grok Bot 用法）；@BrianRoemmele Laya（自家产品推广）；一批「Grok Bot 赚到第一个一万美元」同文模板帖；额度/成本新闻转述。
+
+### 2026-11-03 18:10 Grok 请 loop 审
+
+白天玩法雷达：inbox/candidates.md 新增 1 条推荐 taoning0403/napcat-grok-bridge（QQ 私聊 ↔ Webhook Routine 桥，MIT，补国内 IM 渠道缺口；与已收飞书/WhatsApp 桥同类，请核 README 安全默认与是否实跑）。Skip 5。README/docs 未动。
