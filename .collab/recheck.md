@@ -172,6 +172,18 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [mcsuen/x-cli-via-grok](https://github.com/mcsuen/x-cli-via-grok) | 11-08 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 11-01 第 1 次延期：建仓后没有新提交。让一个专用的 X Research bot 做公开 X 研究，附 Codex / Claude Code 用的 skill；经非官方 grok-bot-cli 调桌面端，收的话写明依赖它 |
 | [VaynerAkaWalo/grok-dc-notifier](https://github.com/VaynerAkaWalo/grok-dc-notifier) | 11-08 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 11-01 第 1 次延期：建仓后没有新提交。监听 Discord Gateway，把 @提及、私信和参与过的帖子转给 bot 的 routine webhook；带 Docker |
 | [kyrollosfarah/grokbot-desktop-intel-mac](https://github.com/kyrollosfarah/grokbot-desktop-intel-mac) | 11-08 | 0★ · MIT · 建 10-25 · 最近提交 10-25 | 11-01 第 1 次延期：建仓后没有新提交。Intel Mac 装官方桌面端的脚本和指南：从官方地址下载 DMG、校验签名和架构，不重新分发安装包 |
+| [Revve-AI/grokbot-webhook-adapter](https://github.com/Revve-AI/grokbot-webhook-adapter) | 11-08 | 0★ · MIT · 建 11-01 | 给只能填 URL、靠签名验证的发送方（GitHub、Stripe、Fathom 等）接 routine webhook：一个 Vercel 小函数先验签，再补上带 webhook key 的 Authorization 转给 routine；有 CI。过线放「Routine 与摘要」 |
+| [djbclark/bot-briefs](https://github.com/djbclark/bot-briefs) | 11-08 | 0★ · 许可证未识别 · 建 11-01 | Chief of Staff bot 复刻包：README 本身就是给 CoS bot 读的主提示，带用户一步步复刻 bot 舰队和 Bot Briefs 看板，先读 SECURITY（最小权限、每个 bot 独立 token、只读触发）。GitHub 认不出许可证，到期核 LICENSE 文件是否允许使用，仍不明确就移出 |
+| [arismarioneves/grokbot-telegram](https://github.com/arismarioneves/grokbot-telegram) | 11-08 | 0★ · 无 License · 建 11-01 | Telegram → routine webhook 的 PHP 小桥：校验 secret、chat_id、from_id 后立刻唤醒 bot。到期仍无 License 就移出 |
+| [zhaobenxiang5-coder/grok-bot-orange-book](https://github.com/zhaobenxiang5-coder/grok-bot-orange-book) | 11-09 | 0★ · CC BY-NC 4.0（README 声明）· 建 11-02 | 中文 Grok Bot 使用指南，每条标【已核实】（对照官方文档）或【作者声称】并附原帖链接。和已收的 KinGao294「Grok Bot 橙皮书」同名不同作者，过线时写清区别；非商用许可，放「学习资源」 |
+| [agentmuxhq/agentmux-mcp](https://github.com/agentmuxhq/agentmux-mcp) | 11-09 | 0★ · Apache-2.0 · 建 11-02 | macOS 本机 App + MCP 消息桥：Cursor、Claude Code、ChatGPT 和云端 Grok Bot 互相提问取回答，Grok Bot 经 Cloudflare / ngrok 隧道接入，每个 bot 独立 token；安装包未公证。过线时核 Grok Bot 是否主要用法，并和 measses/usta、Vesper 对照 |
+| [Charonyuu/grokbot-office](https://github.com/Charonyuu/grokbot-office) | 11-09 | 7★ · MIT · 建 11-02 | 把桌面端里的 bot 画成 3D 办公室宠物：空闲睡沙发、干活敲电脑、等你确认就举「?」，按侧栏分组分楼层，「Needs you」面板一键跳回对话；Node 18+ 本机跑，只读 Mac 本地缓存。和 Aaebraham/head-office（11-06）同类，只收一个，写明非官方、读缓存可能随版本失效 |
+| [measses/usta](https://github.com/measses/usta) | 11-09 | 0★ · MIT · 建 11-02 | 在 Grok Bot 云电脑上跑你自己的 Claude Code：bot 派编码任务，Claude Code 在分支上改，你批了才 push；上传默认全关，记忆和 skill 逐项勾、禁用词表整段剔除、密钥不出本机，并提醒云电脑所有 bot 共用；v0.1 有测试。过线放「技能与玩法」 |
+| [DensitySystems/grokbot-agency-kit](https://github.com/DensitySystems/grokbot-agency-kit) | 11-09 | 0★ · MIT · 建 11-02 | 多 bot 小团队开工包，纯文本：规则、精简组织、座位交接、省额度方法、经理 / 员工座位模板和几条 routine 提示（安静盯守、保活、webhook 去重）。过线放「多 Bot 团队」，核是否和已收的同类重复 |
+| [ekastle/stl-price-manager-skill](https://github.com/ekastle/stl-price-manager-skill) | 11-09 | 0★ · MIT · 建 11-02 | 短租（Airbnb / VRBO）定价 skill：用 AirROI 拉竞品日历、1Password 存密钥、私仓存快照，出加权均价、空档和调价表。要付费 AirROI key，过线放「技能与玩法」并写明 |
+| [mhd-fettah/Grokbot-usage-Skill](https://github.com/mhd-fettah/Grokbot-usage-Skill) | 11-09 | 0★ · 无 License · 建 11-02 | 每周用量成绩单 bot：Pillow 画浅色 / 深色卡片，含节奏预测和按 bot 拆分，附 skill 和首聊安装。到期仍无 License 就移出 |
+| [danielmedinac22/saldado-oss](https://github.com/danielmedinac22/saldado-oss) | 11-10 | 0★ · AGPL-3.0 · 建 11-03 | 给 Grok Bot 接 WhatsApp 客服：经 Kapso（WhatsApp Business 官方 API 服务商）收消息、唤醒 routine、把回复发回客户，连发合并、失败重试、密钥加密存库；Next.js + Postgres 可自托管，作者另卖托管版。过线短评只写自托管，别写成广告 |
+| [xiaoxiaolin0918/grok-bot-kit](https://github.com/xiaoxiaolin0918/grok-bot-kit) | 11-10 | 0★ · MIT · 建 11-03 | 中文团队 bot 迁移包：管家、飞书答疑、质量调度、代码审查四个角色模板和交接格式，附常开主机上的飞书 WebSocket + Git webhook 收口桥骨架、引导式搭建脚本和发布前敏感信息扫描。过线放「多 Bot 团队」，核脱敏 |
 
 ## 已移出
 

@@ -2412,3 +2412,35 @@ loop 已重开（cron 5626d74a，每天 8:27 到 0:27 每 2 小时一轮）。lo
 **README**：184 条，为什么表 327（33 + 294），「最近核实」改成 11-03，首图已重出。
 
 还没审：16:05、18:05、22:05、02:05、08:05 白天雷达里的新仓，下一轮继续；周一周报串帖和 Release 也在下一轮补。
+
+### 2026-11-03 10:53 Claude（Asia/Shanghai）
+
+loop #100，审 11-02 16:05 到 11-03 10:50 的白天雷达、T7 日更和 10:45 X 雷达，补周一周报：
+
+**仓库，共 28 个**：
+
+- 收进 README 2 个，都放在「技能与玩法」：
+  - Lniosy/souhun（76★）：桌面 App，查看、写入、忘掉 bot 的记忆。
+  - Lniosy/dsh-tool-grok-bot（10★）：DeepSeek Harness 插件。
+  - 两个都读本机登录、调未公开接口，短评写明非官方。
+- 进 recheck 12 个：
+  - 11-08 到期：webhook-adapter、bot-briefs（许可证未识别）、grokbot-telegram（无 License）。
+  - 11-09 到期：orange-book（和已收 KinGao294 橙皮书同名，到期写清区别）、agentmux-mcp、grokbot-office（和 head-office 二选一）、usta、agency-kit、stl-price、usage-skill（无 License）。
+  - 11-10 到期：saldado-oss（只写自托管）、grok-bot-kit。
+- 不收：
+  - 通用 agent 工具，Grok Bot 只是其一：agentwire（Devin、Codex 并列）、bot-creative-toolkit、Vedthakar/agent-hub、Caster（README 没提 Grok，也无 License）。
+  - 同类外部清单：grokbotsmarket/awesome-grok-bots、Bigibyte/awesome-grok-bot。
+  - 官方头像素材版权不明：dsh-grok-buddy。
+  - 只有 README 没代码：paseo-grokbot-webhook。
+  - 无 License 且带优惠码：asktolik。
+  - 作者自注可能违反条款：dynjo/grokbot-tv，同 10-29 移出 grok-wear 的先例。
+- 已在 recheck：realTaki/bot-codex-delegate（11-04）、number5meme 三座桥（11-05、11-06），到期一起核。
+
+**X 文章，10:45 那 5 篇全留**：xoyif Pi + MiniMax、xiangxiang103 五件套和个人版 Data Bot、0x_kaize Saver Bot、irongiantXBT 10 Bots。周窗口都没超。
+
+- 删 1 篇：xiangxiang103 10-28「最近 9 个更新怎么用」，原帖已删，fxtwitter 返回 404。
+- X 现在 298 篇。
+
+**README**：186 条，为什么表 331（33 + 298），技能 73，「最近核实」11-03，首图已重出。
+
+**周报**：第 2 期串帖草稿在 `.collab/promo/weekly-02.md`，涛哥审后自己发。v0.3.0 Release 在本次推送后发，链接见下一条。
