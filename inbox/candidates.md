@@ -4043,3 +4043,24 @@ Brenw2/dork-bot（Hermes+Ollama 自制 Grok Bot 替代品）；bot2botlabs/warra
 ### Skip（本轮）
 
 chrisatom1998/grok-hq（个人 Bot 状态页单 index.html、无许可证）；chaxiubao/grokbot-office（仅静态 index.html、无 README/许可证，与已收 Charonyuu/grokbot-office 同类）；hw46hz2ddd-gif/AGENTS-Group（空仓）。
+
+## 2026-11-03 10:50 Asia/Shanghai · T7 日更雷达
+
+> 补扫近 24 小时（11-02 起）新建 Grok Bot 相关仓，去掉白天玩法雷达已收/已 Skip 的；X 侧 Article 交 X 大 V 雷达。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| xiaoxiaolin0918/grok-bot-kit | https://github.com/xiaoxiaolin0918/grok-bot-kit | **中文团队 Bot 迁移包**：管家 + 飞书答疑 + 质量调度 + 代码审查四个角色模板（AGENT/HANDOFF），附常开主机上的飞书 WebSocket + Git webhook 收口桥骨架、引导式搭建脚本与发布前敏感信息扫描脚本；已脱敏、MIT，当天新建 | 多 Bot 作战室 / 飞书接入 | GitHub 新建（2026-11-03） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| asktolik/grokbot-skills-Public | https://github.com/asktolik/grokbot-skills-Public | 管 Bot 团队的一组 skill：经理 Bot 开场、任务分派地图、省 token 规则、交接前五项检查、例程周检、QA 复核循环；每周更新但未声明许可证，README 带 APIhub 优惠码 | Skills / 多 Bot 管理 | GitHub 新建（4 星） |
+| dynjo/grokbot-tv | https://github.com/dynjo/grokbot-tv | 已 root 的 LG webOS 电视按遥控器语音键唤起 Grok 助手（Go 守护进程 + 叠层动画）；MIT 爱好项目，可选 Grok Bot 接入走未公开接口，作者自注可能违反服务条款 | 硬件 / 趣味 | GitHub 新建 |
+
+### Skip（本轮）
+
+fosunwealth/star-wealth-skills（券商自家投研/下单插件市场，厂商推广）；blackpill/share-act-skills（特定配置格式校验，过窄）；malejandrobp-ui/haulforza-mcp-plugin、bot2botlabs/loop-desk-plugin（厂商 MCP 插件）；malachiian/fang-league、Signal-Drifts/great-potato-chase（Bot 做的小游戏，非配方）；NPC-NICEPEOPLEC/tech-demos、yjm728/grok-bot-codex-ping-test、qiganggang0-cpu/grok_bot_contral、grokbottrading/grokbot-dashboard、2278032241-ctrl/Try_2、CountDev67/Repository-for-Grok-Bots 及多个空 grokbot 同名仓（空/薄/测试仓）。

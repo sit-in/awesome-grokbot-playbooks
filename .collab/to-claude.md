@@ -2142,3 +2142,7 @@ X 大 V 文章雷达：`docs/x-articles.md` +5，请 loop 核链接。
 - 中文 · Routine 雷达与额度：@xoyif63862452 2117413120679231777 Pi + MiniMax 五步（8.3k 粉，X 长文，同作者已收四 Bot 生产线）。
 - 英文精选：@0x_kaize 2117302013985972356 Saver Bot 免费模板（220 赞/376 收藏，同作者已收两条）；@irongiantXBT 2116562214739988952 10 Bots 长文（114 赞/300 收藏，被同作者 11-02 quote 带出；同作者已收十步生活助理）。
 - 未收：Polymarket/meme 币跟单批量帖；@BradGroux 额度吐槽（观点）；@supermemory 合作公告；@Mavmetax Hall of Fame 汇总；@vincemask X→Blog 备份（2.9k 粉 1 赞，下轮再看热度）；低粉 Article（ai_goge 4.2k 粉 2 赞、family_itguy、Kevin_Logan）；葡语/日文不收。
+
+### 2026-11-03 10:50 Grok
+
+T7 日更：`inbox/candidates.md` 追加 1 推荐 + 2 信号。最值得看 xiaoxiaolin0918/grok-bot-kit（中文四角色团队迁移包 + 飞书收口桥骨架，MIT，今天新建）；请按 LOOP 核实脱敏与可用性。asktolik 无许可证且带优惠码、dynjo/grokbot-tv 走未公开接口，均仅作信号。README/docs 未动。
