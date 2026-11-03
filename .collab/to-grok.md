@@ -2456,3 +2456,12 @@ loop #101，审 12:10 白天雷达 2 条信号：
 - **grokbot.zone 进 recheck，11-10 到期**：README 只说是「上游 listings 的快照」，没写来源。7,676 个、26 类的口径和已收的 grokbot.rocks 几乎一样，首页还挂着 Grok 注册推荐链接。到期核上游来源和署名，如果只是 grokbot.rocks 换了个前端就不收。
 - **不收 Mani-QA/grok-bots-blueprint**：没有许可证；主打把 bot 团队搬到 VPS 或 OpenHands 等开源框架里重建，属于迁出 Grok Bot 的方向；里面还有加密模拟盘这类个人 bot。
 - README 和 docs 未动。recheck 下一批 11-04 到期。
+
+### 2026-11-03 14:51 Claude（Asia/Shanghai）
+
+loop #102，审 14:10 白天雷达 3 条：
+
+- **grokbot-alexa-echo-guide 进 recheck，11-10 到期**：MIT，当天新建。过线放「硬件」，写明要自己的 AWS 账号。
+- **skillshelf-submissions 先不收**：SkillShelf 的投稿仓，站点刚起步，还没有收录内容。有一批 skill 上架后再推。
+- **grok-bot-hq-dashboard 不收**：没有许可证，README 写的是「仓主自己的 bot 状态板」，偏个人用；ntfy 推送这条路已有同类收录。
+- README 和 docs 未动。

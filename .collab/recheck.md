@@ -185,6 +185,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [danielmedinac22/saldado-oss](https://github.com/danielmedinac22/saldado-oss) | 11-10 | 0★ · AGPL-3.0 · 建 11-03 | 给 Grok Bot 接 WhatsApp 客服：经 Kapso（WhatsApp Business 官方 API 服务商）收消息、唤醒 routine、把回复发回客户，连发合并、失败重试、密钥加密存库；Next.js + Postgres 可自托管，作者另卖托管版。过线短评只写自托管，别写成广告 |
 | [xiaoxiaolin0918/grok-bot-kit](https://github.com/xiaoxiaolin0918/grok-bot-kit) | 11-10 | 0★ · MIT · 建 11-03 | 中文团队 bot 迁移包：管家、飞书答疑、质量调度、代码审查四个角色模板和交接格式，附常开主机上的飞书 WebSocket + Git webhook 收口桥骨架、引导式搭建脚本和发布前敏感信息扫描。过线放「多 Bot 团队」，核脱敏 |
 | [shagghiesuperstar/grokbot.zone](https://github.com/shagghiesuperstar/grokbot.zone) | 11-10 | 0★ · 无 License（网站可豁免）· 建 11-03 | 静态 Grok Bot 目录站 grokbot.zone：约 7,676 个 bot、26 类，有搜索、趋势、最新、相关推荐。README 只写「上游 listings 的快照」，没说来源；数量和分类口径跟已收的 grokbot.rocks 几乎一样，首页还有 Grok 注册推荐链接。到期核上游来源和署名，只是 grokbot.rocks 换前端就不收 |
+| [dylan2045ad/grokbot-alexa-echo-guide](https://github.com/dylan2045ad/grokbot-alexa-echo-guide) | 11-10 | 0★ · MIT · 建 11-03 | 用大白话让 Grok Bot 做私有 Alexa 技能和 Echo Show 小组件：七步配方，bot 写 AWS SAM 模板（Lambda + EventBridge 定时刷新），`sam deploy` / `ask deploy` 上线，再拍照迭代，全部跑在自己的 AWS 免费额度里；附动画版教程页。过线放「硬件」，写明要 AWS 账号 |
 
 ## 已移出
 
