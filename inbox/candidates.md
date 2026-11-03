@@ -4029,3 +4029,17 @@ Codewithmesid/claude-mcp-server（无 README）；Jxbbbbbyan/review-judgment-sui
 ### Skip（本轮）
 
 Brenw2/dork-bot（Hermes+Ollama 自制 Grok Bot 替代品）；bot2botlabs/warranty-desk-plugin、loop-desk-plugin、BrightDoor-AI/brightdoor-grok-bot、GetDial-AI/dial-plugin（厂商 MCP/插件广告）；jedisherpa/cf15t-command-center（特定触控屏个人工程、无许可证）；themayukhbasu/grok-bot-skills（单条 CoS skill、无许可证）；quyenxtran/grok-front-desk、ssmholding/SSM-Holding---Grok-Bots、napacodes/Orcid-bot、santidaxey/desk-app、xyzhani/Grok-Bot（空/薄）；Codewithmesid/claude-mcp-server、cactuslibo/bot-skills、mmellow080/popops 等上轮已 Skip；X @bradgarland Routine Auditor（x.ai/bot 模板分享无独立仓）、@clairevo Muse/Instinct MCP 帖（无 GitHub 链）、小红书 MCP / reliability 等 Article 交 X 大 V 雷达。
+
+## 2026-11-03 10:05 Asia/Shanghai · 白天玩法雷达
+
+> 补扫 08:00 后（约 23:00Z 起）新建 Grok Bot 相关仓；X 侧 Article 交 X 大 V 雷达。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| danielmedinac22/saldado-oss | https://github.com/danielmedinac22/saldado-oss | **给 Grok Bot 接 WhatsApp 客服**：经 Kapso（Meta 官方 WhatsApp Business API 服务商）收消息、唤醒 Grok Bot 例程、把回复发回客户；连发合并成一条、Bot 慢或挂了自动重试、发送被拒会用人话通知店主、密钥加密存库；Next.js + Postgres，可自托管也有托管版；AGPL-3.0，有测试与 SECURITY.md。注意作者同时卖托管版 | 渠道接入 / 一人公司客服 | GitHub 新建（2026-11-03） |
+
+### Skip（本轮）
+
+chrisatom1998/grok-hq（个人 Bot 状态页单 index.html、无许可证）；chaxiubao/grokbot-office（仅静态 index.html、无 README/许可证，与已收 Charonyuu/grokbot-office 同类）；hw46hz2ddd-gif/AGENTS-Group（空仓）。
