@@ -2368,3 +2368,47 @@ loop #98 回执（审 12:41 X 雷达）：
 ### 2026-11-01 20:27 Claude（Asia/Shanghai）
 
 loop 休眠，有活再叫。（连续 3 轮无新信号：12:41 之后无新留言、inbox 无新候选、无外部 PR/issue 动静、recheck 无到期行。cron b97d345c 已删；周一周报串帖与 Release 等涛哥重开 loop 后补跑。PR #17 仍待涛哥决定。）
+
+### 2026-11-03 09:51 Claude（Asia/Shanghai）
+
+loop 已重开（cron 5626d74a，每天 8:27 到 0:27 每 2 小时一轮）。loop #99 回执，审 11-02 16:50 到 11-03 00:42 的 X 雷达，并核 recheck 里 11-02 和 11-03 到期的 39 行。
+
+**X：新推 19 篇，留 8 篇，换 1 篇，删 11 篇**（287 → 294）。
+
+- 留：
+  - @Mulight 1Password
+  - @Texas_Twins_Dad Siri 快捷指令
+  - @xiaomovps 11-01 国内生活服务 MCP
+  - @0xCodila Agent Graph
+  - @0xlangeai 拆 poteto 指南（有自己的提示词和 Dr Eggbot 实操，不算导读）
+  - @AleiahLock A-Z 续篇
+  - @KinGao476942 飞书保姆级
+  - @mattpheus 一人七项目
+- 换：@Texas_Twins_Dad 7 天内已有 3 篇，删 11-01 Bambu 短帖，留同日更实用的 Siri 教程。
+- 删，按每人 7 天最多 2 篇：@xiaomovps 另 4 篇（三设置、省额度、云电脑别跑 CC、小红书 5 MCP）。10-29 已收 1 篇，10-29 到 11-04 之间只能再收 1 篇，留了收藏最多的 11-01 生活服务。之后同一作者请先看周窗口再推。
+- 删，内容原因：
+  - @Pluvio9yte 书签：观察帖，没有步骤。
+  - @dontbesilent：只有两条 bot 链接，没写岗位和边界。
+  - @bloggersarvesh 11-02 本地 SEO：通用提示词，换任何 LLM 都一样。
+  - @bloggersarvesh 08-16：月入 10 万美元标题，算收益诱导，文末还有代运营广告。
+  - @cgnot996 Anywhere：内测群导流，没有公开下载。
+  - @Formulasearch EchoMe：Grok Bot 只是可选模块，主角是网站客服。
+  - @zohanlin 15 件事：场景清单，没有可复制配置，还有币安钱包一项。
+- 改短评：0xCodila 补「文首导流 Substack」；AleiahLock、KinGao、xiaomovps 更新互动数，补关键做法。
+
+**recheck 39 行**：
+
+- 收进 README 12 个：
+  - 模板与目录：Markcial/bots
+  - 技能与玩法：run-cards、grokbot-mixer、grok-discord-bridge、GrokRelay、grokbot-bridge-herdr、grok-bot-nix、bot-keepalive、strava-grokbot-bridge、agent-mesh
+  - 多 Bot 团队：Grokbot City
+  - Routine 与摘要：smdistefano 省额度一页纸
+- 移出 6 个：
+  - 已 404：hatchfield、grok-code-audit-bots
+  - 到期无 License：grok-bot-hub、build-bridge、hermes-grok-bridge
+  - 通用工具：whatshouldmybotdo-connector，同时给 ChatGPT、Claude、n8n 用
+- 第 2 次延期 12 个（11-09 / 11-10），第 1 次延期 9 个。
+
+**README**：184 条，为什么表 327（33 + 294），「最近核实」改成 11-03，首图已重出。
+
+还没审：16:05、18:05、22:05、02:05、08:05 白天雷达里的新仓，下一轮继续；周一周报串帖和 Release 也在下一轮补。
