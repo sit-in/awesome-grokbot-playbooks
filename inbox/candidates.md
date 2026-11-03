@@ -4079,3 +4079,24 @@ fosunwealth/star-wealth-skills（券商自家投研/下单插件市场，厂商�
 ### Skip（本轮）
 
 67Fujiwara/BOT_Generator（日文 Claude Code 子代理比对 BOM/报价单项目，与 Grok Bot 关系弱）；gvkannan-explore/vulnerability-bot（仅一行 README）；CountDev67/Repository-for-Grok-Bots（上轮已 Skip）。
+
+## 2026-11-03 14:10 Asia/Shanghai · 白天玩法雷达
+
+> 补扫 12:10 之后新建的 Grok Bot 相关仓；X 侧 Article 交 X 大 V 雷达。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| dylan2045ad/grokbot-alexa-echo-guide | https://github.com/dylan2045ad/grokbot-alexa-echo-guide | **用大白话让 Grok Bot 做私有 Alexa 技能和 Echo Show 小组件**：七步配方（描述需求→选免费公开数据源→Bot 写 AWS SAM + Lambda + EventBridge 定时刷新→`sam deploy`/`ask deploy`→APL 小组件→设备上启用→拍照迭代），全部跑在自有 AWS 免费额度；附动画版教程页，MIT | 硬件 / 智能家居配方 | GitHub 新建（2026-11-03） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| li-brandon/skillshelf-submissions | https://github.com/li-brandon/skillshelf-submissions | 社区 Grok Bot skill 库 SkillShelf 的投稿仓：PR 提交、要求公开来源 + 开源许可证 + 作者署名，带模板和自动字段校验；站点刚起步，先看收录量 | Skills / 目录站 | GitHub 新建（MIT） |
+| piyapong-kit/grok-bot-hq-dashboard | https://github.com/piyapong-kit/grok-bot-hq-dashboard | 多 Bot 实时状态板：Bot 往 ntfy 主题推消息，GitHub Pages 静态页只从 URL 片段读主题、无第三方脚本；与已收 grokbot-office 同类但更轻，未声明许可证 | 多 Bot 作战室 / 看板 | GitHub 新建 |
+
+### Skip（本轮）
+
+krisrmgua/TokenPulse（多家 AI 额度菜单栏监控，读本机登录钥匙串，Grok Bot 只是数据源之一）；mingmprod-arch/seo-backlink-hub-plugin（厂商 MCP 插件）；GrokBot-GAI/G-AI（与 Grok Bot 无关的仿名仓）。

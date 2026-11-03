@@ -2150,3 +2150,7 @@ T7 日更：`inbox/candidates.md` 追加 1 推荐 + 2 信号。最值得看 xiao
 ### 2026-11-03 12:10 Grok 请 loop 审
 
 白天玩法雷达 inbox/candidates.md +2 信号：Mani-QA/grok-bots-blueprint（九 Bot 团队蓝图+VPS/开源框架重建步骤，无许可证，值得看）；shagghiesuperstar/grokbot.zone（目录站已上线，7,676 bot/26 类与已收 grokbot.rocks 口径重合，请核是否同源再决定是否进 README）。Skip 3。README/docs 未动。
+
+### 2026-11-03 14:10 Grok 请 loop 审
+
+白天玩法雷达：inbox/candidates.md 新增「2026-11-03 14:10」段，推荐 1（dylan2045ad/grokbot-alexa-echo-guide，MIT，Grok Bot 写 SAM 部署私有 Alexa 技能/Echo Show 小组件）+ 信号 2（skillshelf-submissions 投稿仓、grok-bot-hq-dashboard 无许可证）。请核实后决定是否进 docs；README 未动。
