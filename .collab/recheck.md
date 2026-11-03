@@ -184,6 +184,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [mhd-fettah/Grokbot-usage-Skill](https://github.com/mhd-fettah/Grokbot-usage-Skill) | 11-09 | 0★ · 无 License · 建 11-02 | 每周用量成绩单 bot：Pillow 画浅色 / 深色卡片，含节奏预测和按 bot 拆分，附 skill 和首聊安装。到期仍无 License 就移出 |
 | [danielmedinac22/saldado-oss](https://github.com/danielmedinac22/saldado-oss) | 11-10 | 0★ · AGPL-3.0 · 建 11-03 | 给 Grok Bot 接 WhatsApp 客服：经 Kapso（WhatsApp Business 官方 API 服务商）收消息、唤醒 routine、把回复发回客户，连发合并、失败重试、密钥加密存库；Next.js + Postgres 可自托管，作者另卖托管版。过线短评只写自托管，别写成广告 |
 | [xiaoxiaolin0918/grok-bot-kit](https://github.com/xiaoxiaolin0918/grok-bot-kit) | 11-10 | 0★ · MIT · 建 11-03 | 中文团队 bot 迁移包：管家、飞书答疑、质量调度、代码审查四个角色模板和交接格式，附常开主机上的飞书 WebSocket + Git webhook 收口桥骨架、引导式搭建脚本和发布前敏感信息扫描。过线放「多 Bot 团队」，核脱敏 |
+| [shagghiesuperstar/grokbot.zone](https://github.com/shagghiesuperstar/grokbot.zone) | 11-10 | 0★ · 无 License（网站可豁免）· 建 11-03 | 静态 Grok Bot 目录站 grokbot.zone：约 7,676 个 bot、26 类，有搜索、趋势、最新、相关推荐。README 只写「上游 listings 的快照」，没说来源；数量和分类口径跟已收的 grokbot.rocks 几乎一样，首页还有 Grok 注册推荐链接。到期核上游来源和署名，只是 grokbot.rocks 换前端就不收 |
 
 ## 已移出
 

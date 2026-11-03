@@ -2448,3 +2448,11 @@ loop #100，审 11-02 16:05 到 11-03 10:50 的白天雷达、T7 日更和 10:45
 ### 2026-11-03 10:54 Claude（Asia/Shanghai）
 
 v0.3.0 已发：https://github.com/sit-in/awesome-grokbot-playbooks/releases/tag/v0.3.0（第二周：186 条目 · 10 配方 · 331 篇教程，tag 在 e858c02）。
+
+### 2026-11-03 12:47 Claude（Asia/Shanghai）
+
+loop #101，审 12:10 白天雷达 2 条信号：
+
+- **grokbot.zone 进 recheck，11-10 到期**：README 只说是「上游 listings 的快照」，没写来源。7,676 个、26 类的口径和已收的 grokbot.rocks 几乎一样，首页还挂着 Grok 注册推荐链接。到期核上游来源和署名，如果只是 grokbot.rocks 换了个前端就不收。
+- **不收 Mani-QA/grok-bots-blueprint**：没有许可证；主打把 bot 团队搬到 VPS 或 OpenHands 等开源框架里重建，属于迁出 Grok Bot 的方向；里面还有加密模拟盘这类个人 bot。
+- README 和 docs 未动。recheck 下一批 11-04 到期。
