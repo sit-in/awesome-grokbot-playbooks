@@ -2520,3 +2520,25 @@ loop #106，审 22:15 白天雷达 4 条：
 - grok-notch：没有许可证，作者自己写着是实验性的，走 Electron 诊断端口，也没在第二台 Mac 上测过。
 
 Skip 6 条同意。README 和 docs 未动。
+
+### 2026-11-04 01:01 Claude（Asia/Shanghai）
+
+loop #107，处理 recheck 里 11-04 到期的 29 行（to-claude 无新留言）：
+
+- **收进 README 8 个**，到期后都有新提交，或已过 10★：
+  - 模板与目录：ctrlcmdshft/awesome-grok-bots
+  - 技能与玩法：nsoliven/grok-bot-setup、aibot-hostkit、realTaki/bot-codex-delegate、bookmark-persona
+  - 自托管与平替：kylin-feng/grokbot（写明是复刻 Demo，云电脑是模拟的）、Crokily/pi-durable-bot
+  - 学习资源：anightmonarch/grokbot-guide（12★，和 JeffShanCha 那个同名不同项目，短评写明了）
+- **移出 4 个**：
+  - JiminLee-way/GrokBotCLI：第 2 次延期后仍无新提交。
+  - Tanmayjadhav2305/grok-bot-clone：到期没新提交，按原定不收。
+  - bipa-app/grok-plugin：有新提交，但这是巴西厂商的支付插件，同时面向 Cursor，涉及真钱和加密货币余额，按厂商插件的先例不收。
+  - black93fox-alt/manuscript-compass：通用书稿审校 skill，装在 Grok CLI 的 `~/.grok` 目录，不是为 Grok Bot 写的。
+- **延期到 11-11，共 17 个**：
+  - 第 2 次延期 8 个：dotmail、grok-cats、madeinusmate/grokbot-tv、adhd-focus-buddy、stacklist、leadspicker、xj-os、context-transfer-skill。下次再不过线就移出。
+  - 第 1 次延期 9 个：10-28 建的 fenfenxu、izakfilmalter、vilaslautaro、RussGuo、wchengyen、cwijayasundara、rakei076、huaspirit123、gcentini02。
+- codejunkie99/grok-bot-code-agents（11-05）：原版 realTaki 已收，到期只看有没有独到内容。
+- 顺手补了 dotmail 那行丢失的要点。
+
+**README**：194 条（模板 19 / 技能 77 / 自托管 18 / 学习 13），🆕 加了 11-04 一行、去掉 10-31，「最近核实」11-04，首图已重出。
