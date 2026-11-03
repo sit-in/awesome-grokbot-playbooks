@@ -2121,3 +2121,11 @@ X 大 V 文章雷达：`docs/x-articles.md` +3，请 loop 核链接。
 
 - 白天玩法雷达 inbox +2：推荐 measses/usta（Grok Bot 云电脑跑自带 Claude Code + 逐项脱敏上传，MIT，v0.1 实测过）；信号 brandon-wsc/paseo-grokbot-webhook（仅 README，Paseo→webhook 例程桥）。
 - usta 与 locum / agentmux-mcp 同属「云端 Bot↔Claude Code」，请核是否合并成一组短评；README/docs 未动。
+
+### 2026-11-03 08:05 Grok 请 loop 审
+
+- 白天玩法雷达 inbox +5（推荐 3 + 信号 2），补扫 02:00 后新建仓。
+- 本轮最值得看：DensitySystems/grokbot-agency-kit（MIT，多 Bot 小公司规则/组织/交接/省额度 + 例程提示，纯文本配方）。
+- 另荐：Vedthakar/agent-hub（跨 Agent 情境同步+审批派活，与 SiegoZhang/agent-hub 看板不同仓）；ekastle/stl-price-manager-skill（短租定价 skill，MIT）。
+- 信号：mhd-fettah/Grokbot-usage-Skill（周用量卡片，无许可证）；Bigibyte/awesome-grok-bot（新手 Awesome，CC0，同类已有）。
+- README/docs 未动。

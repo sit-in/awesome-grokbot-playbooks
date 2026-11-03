@@ -4006,3 +4006,26 @@ yuanwenxing/grok-bot-test、ieieeee/grokbot-live、AIZATFIR/grokbot-cue-fleet、
 ### Skip（本轮）
 
 Codewithmesid/claude-mcp-server（无 README）；Jxbbbbbyan/review-judgment-suite（通用审核 skill，Grok Bot 只是宿主之一，README 带讽刺献词）；mmellow080/popops、cactuslibo/bot-skills、lamalyon/grok-bot、miland927/Grok-bot-esp32、kohchihao/mysimplegrokky（空仓/仅标题）；zone17th/lost-east-grok-plugin（单频道私用 skill）；fitzyracing1/Almeidafly（非 Grok Bot 产品）。
+
+## 2026-11-03 08:05 Asia/Shanghai · 白天玩法雷达
+
+> 补扫 02:00 后（约 18:00Z 起）新建/更新 Grok Bot 相关仓；X 近几小时多为 Article / 模板分享帖，无新独立 GitHub 玩法链（Article 交 X 大 V 雷达）。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| DensitySystems/grokbot-agency-kit | https://github.com/DensitySystems/grokbot-agency-kit | **多 Bot 小公司开工包**：RULES / 精简组织形 / 座位交接 / CREDIT-SAVING 省额度法 + manager/worker 座位模板 + quiet-watcher / keep-alive / webhook-inbound-dedupe 例程提示；纯文本配方、MIT，当天新建 | 多 Bot 作战室 / 省额度 | GitHub 新建 |
+| Vedthakar/agent-hub | https://github.com/Vedthakar/agent-hub | **跨 Agent 情境总线**：Claude/ChatGPT/Gemini/Grok Bot 等共享「当前局面」，跨工具任务需短信四字码批准后才派发；有 TypeScript 实现、测试与威胁模型；MIT。与已收 SiegoZhang/agent-hub（本机会话看板）不是同一项目 | 跨 Agent 协作 | GitHub 新建 |
+| ekastle/stl-price-manager-skill | https://github.com/ekastle/stl-price-manager-skill | **短租定价 skill**：用 AirROI 拉竞品日历 + 1Password 管密钥 + 私仓存快照，输出加权均价/缺口与调价表；含 SKILL.md、bot 系统提示与可分享模板说明；MIT 垂直玩法 | Skills / 一人公司垂直 | GitHub 新建 |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| mhd-fettah/Grokbot-usage-Skill | https://github.com/mhd-fettah/Grokbot-usage-Skill | 周用量成绩单 Bot：Pillow 画浅/深色卡片，含节奏预测与按 Bot 拆分；带 skill + 首聊安装；未声明许可证 | 工具 / 额度可见性 | GitHub 新建 |
+| Bigibyte/awesome-grok-bot | https://github.com/Bigibyte/awesome-grok-bot | 另一份英文 Awesome + 新手学习路径/工作流/对比 FAQ（CC0）；与 README 已链的 ZeroPointRepo / majiayu000 同类，先作外部清单信号 | 外部清单 | GitHub 新建 |
+
+### Skip（本轮）
+
+Brenw2/dork-bot（Hermes+Ollama 自制 Grok Bot 替代品）；bot2botlabs/warranty-desk-plugin、loop-desk-plugin、BrightDoor-AI/brightdoor-grok-bot、GetDial-AI/dial-plugin（厂商 MCP/插件广告）；jedisherpa/cf15t-command-center（特定触控屏个人工程、无许可证）；themayukhbasu/grok-bot-skills（单条 CoS skill、无许可证）；quyenxtran/grok-front-desk、ssmholding/SSM-Holding---Grok-Bots、napacodes/Orcid-bot、santidaxey/desk-app、xyzhani/Grok-Bot（空/薄）；Codewithmesid/claude-mcp-server、cactuslibo/bot-skills、mmellow080/popops 等上轮已 Skip；X @bradgarland Routine Auditor（x.ai/bot 模板分享无独立仓）、@clairevo Muse/Instinct MCP 帖（无 GitHub 链）、小红书 MCP / reliability 等 Article 交 X 大 V 雷达。
