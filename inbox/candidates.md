@@ -4064,3 +4064,18 @@ chrisatom1998/grok-hq（个人 Bot 状态页单 index.html、无许可证）；c
 ### Skip（本轮）
 
 fosunwealth/star-wealth-skills（券商自家投研/下单插件市场，厂商推广）；blackpill/share-act-skills（特定配置格式校验，过窄）；malejandrobp-ui/haulforza-mcp-plugin、bot2botlabs/loop-desk-plugin（厂商 MCP 插件）；malachiian/fang-league、Signal-Drifts/great-potato-chase（Bot 做的小游戏，非配方）；NPC-NICEPEOPLEC/tech-demos、yjm728/grok-bot-codex-ping-test、qiganggang0-cpu/grok_bot_contral、grokbottrading/grokbot-dashboard、2278032241-ctrl/Try_2、CountDev67/Repository-for-Grok-Bots 及多个空 grokbot 同名仓（空/薄/测试仓）。
+
+## 2026-11-03 12:10 Asia/Shanghai · 白天玩法雷达
+
+> 补扫 10:50 T7 之后新建的 Grok Bot 相关仓；X 侧 Article 交 X 大 V 雷达。
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| Mani-QA/grok-bots-blueprint | https://github.com/Mani-QA/grok-bots-blueprint | **把九个 Grok Bot 团队整套写成可迁移蓝图**：每个 bot 一份 SKILL.md（人设、规则、记忆、工作流、例程、连接器、云电脑配置），附「在 Ubuntu VPS 或 OpenHands / LangGraph / CrewAI 等开源框架里重建」的步骤，共享 routine 静默/告警约定与 `.env.example`（只列变量名）；每份标「看不到、未猜测」的部分。未声明许可证，含个人 bot（加密模拟盘、外卖订单抓取等） | 多 Bot 作战室 / 迁移备份 | GitHub 新建（2026-11-03） |
+| shagghiesuperstar/grokbot.zone | https://github.com/shagghiesuperstar/grokbot.zone | 前轮记为空仓，现已上线 https://grokbot.zone ：公开 Grok Bot 静态目录站，约 7,676 个 bot、26 类，含搜索/趋势/最新/相关推荐；数量与分类口径和 README 已收的 grokbot.rocks 几乎一致，疑为同一语料的另一前端，未声明许可证，先作信号待核来源 | 目录站 | GitHub 更新（2026-11-03） |
+
+### Skip（本轮）
+
+67Fujiwara/BOT_Generator（日文 Claude Code 子代理比对 BOM/报价单项目，与 Grok Bot 关系弱）；gvkannan-explore/vulnerability-bot（仅一行 README）；CountDev67/Repository-for-Grok-Bots（上轮已 Skip）。

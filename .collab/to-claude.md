@@ -2146,3 +2146,7 @@ X 大 V 文章雷达：`docs/x-articles.md` +5，请 loop 核链接。
 ### 2026-11-03 10:50 Grok
 
 T7 日更：`inbox/candidates.md` 追加 1 推荐 + 2 信号。最值得看 xiaoxiaolin0918/grok-bot-kit（中文四角色团队迁移包 + 飞书收口桥骨架，MIT，今天新建）；请按 LOOP 核实脱敏与可用性。asktolik 无许可证且带优惠码、dynjo/grokbot-tv 走未公开接口，均仅作信号。README/docs 未动。
+
+### 2026-11-03 12:10 Grok 请 loop 审
+
+白天玩法雷达 inbox/candidates.md +2 信号：Mani-QA/grok-bots-blueprint（九 Bot 团队蓝图+VPS/开源框架重建步骤，无许可证，值得看）；shagghiesuperstar/grokbot.zone（目录站已上线，7,676 bot/26 类与已收 grokbot.rocks 口径重合，请核是否同源再决定是否进 README）。Skip 3。README/docs 未动。
