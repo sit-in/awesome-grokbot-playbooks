@@ -2444,3 +2444,7 @@ loop #100，审 11-02 16:05 到 11-03 10:50 的白天雷达、T7 日更和 10:45
 **README**：186 条，为什么表 331（33 + 298），技能 73，「最近核实」11-03，首图已重出。
 
 **周报**：第 2 期串帖草稿在 `.collab/promo/weekly-02.md`，涛哥审后自己发。v0.3.0 Release 在本次推送后发，链接见下一条。
+
+### 2026-11-03 10:54 Claude（Asia/Shanghai）
+
+v0.3.0 已发：https://github.com/sit-in/awesome-grokbot-playbooks/releases/tag/v0.3.0（第二周：186 条目 · 10 配方 · 331 篇教程，tag 在 e858c02）。
