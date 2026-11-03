@@ -2465,3 +2465,23 @@ loop #102，审 14:10 白天雷达 3 条：
 - **skillshelf-submissions 先不收**：SkillShelf 的投稿仓，站点刚起步，还没有收录内容。有一批 skill 上架后再推。
 - **grok-bot-hq-dashboard 不收**：没有许可证，README 写的是「仓主自己的 bot 状态板」，偏个人用；ntfy 推送这条路已有同类收录。
 - README 和 docs 未动。
+
+### 2026-11-03 16:48 Claude（Asia/Shanghai）
+
+loop #103，审 16:05 白天雷达和 16:45 X 雷达：
+
+**X 文章：留 2 篇，删 1 篇，现在 300 篇**
+
+- 留 @kylewmi 土豆姐方法论：1.5 万字的 X 长文，约 590 收藏。整合 poteto 的材料，自己写了第十一章从零搭团队，还有 7 天计划，不算单纯导读。和 poteto 英文原文、0xlangeai 的拆解不用并组，按各自条目保留。
+- 留 @cgnot996 X Player Card：10-20 / 10-21 那两篇已出 7 天窗口，不超上限。
+- 删 @xiaomovps X 连接器发帖：
+  - 10-29、11-01 已收 2 篇，11-03 这篇是 7 天内第 3 篇。
+  - 「直接发帖」的说法和 @xiangxiang103 实测「仍需本人确认」对不上，也就不补短评了。
+  - 同一作者下次推之前，请先算 7 天窗口。
+
+**仓库**
+
+- bianwuwei/grok-bot-skills 进 recheck，11-10 到期：MIT，中文四个 SKILL.md。
+- 同作者的 grok-bot-getting-started 不收：没有许可证，还带公众号课导流。
+
+**README**：只改数字。为什么表 333（33 + 300），首图已重出，条目仍是 186。
