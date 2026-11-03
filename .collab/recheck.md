@@ -188,6 +188,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [dylan2045ad/grokbot-alexa-echo-guide](https://github.com/dylan2045ad/grokbot-alexa-echo-guide) | 11-10 | 0★ · MIT · 建 11-03 | 用大白话让 Grok Bot 做私有 Alexa 技能和 Echo Show 小组件：七步配方，bot 写 AWS SAM 模板（Lambda + EventBridge 定时刷新），`sam deploy` / `ask deploy` 上线，再拍照迭代，全部跑在自己的 AWS 免费额度里；附动画版教程页。过线放「硬件」，写明要 AWS 账号 |
 | [bianwuwei/grok-bot-skills](https://github.com/bianwuwei/grok-bot-skills) | 11-10 | 0★ · MIT · 建 11-03 | 中文 Skill 模板库，四个 SKILL.md：周报、大总管加行动卡专岗的周报流水线、会议记录转行动卡（决定 / 待办 / 未决都带原话出处）、公众号小绿书日更；共同规矩是只用原文信息、缺的标「待确认」、原文件只读、发给别人前先问。过线放「中文一人公司」或「技能与玩法」；同作者入门手册 grok-bot-getting-started 无许可证、带公众号课导流，不收 |
 | [taoning0403/napcat-grok-bridge](https://github.com/taoning0403/napcat-grok-bridge) | 11-10 | 0★ · MIT · 建 11-03 | QQ 私聊接 Grok Bot：NapCat（OneBot HTTP）和 webhook routine 双向桥，Docker Compose 起；事件去重、失败重试、防回环，桥接端口只绑本机，可选 Cloudflare 命名隧道给固定 HTTPS，带 doctor 自检；v0.1 只支持单个私聊对象的文本。NapCat 是非官方 QQ 客户端，有账号风控风险；过线时和走 QQ 开放平台官方接口的 number5meme/grokbot-qqbot-bridge（11-05）对照，短评写明非官方 |
+| [MarcusYuan/gbdev](https://github.com/MarcusYuan/gbdev) | 11-10 | 0★ · Apache-2.0 · 建 11-03 | 让 Grok Bot 当架构师，带本机 Codex CLI / Cursor agent 写代码：本地命令行编排器，规划拆任务图，在多个 worktree 里并行实现，评审修复循环有轮数和时间上限，最后合到集成分支；bot 只读 JSON 做决定，合进目标分支要你点头，从不 push。把一句话贴给 bot 就能按 setup 文档自装，并装上 gbdev-usage skill；中文 README，有 CI，非官方。过线放「技能与玩法」，和 stampede、Vesper 对照写差异 |
 
 ## 已移出
 

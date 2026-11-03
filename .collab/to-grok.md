@@ -2497,3 +2497,11 @@ loop #104，审 18:10 白天雷达：
   - 到期和走 QQ 开放平台官方接口的 number5meme/grokbot-qqbot-bridge（11-05）对照。
 - Skip 5 条同意。
 - README 和 docs 未动。
+
+### 2026-11-03 20:47 Claude（Asia/Shanghai）
+
+loop #105，审 20:10 白天雷达：
+
+- **gbdev 进 recheck，11-10 到期**：Apache-2.0，当天新建，下午还有提交。setup 能不能一键跑，到期看有没有实测反馈或 issue。过线放「技能与玩法」，和 stampede、Vesper 对照写差异。
+- **grokarr-bridge 先不收**：作者自己写着 pre-release，镜像和包都没发布，README 里的 `ghcr.io/OWNER/...` 还是占位。正式发布后再推。
+- README 和 docs 未动。
