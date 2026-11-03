@@ -189,6 +189,8 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [bianwuwei/grok-bot-skills](https://github.com/bianwuwei/grok-bot-skills) | 11-10 | 0★ · MIT · 建 11-03 | 中文 Skill 模板库，四个 SKILL.md：周报、大总管加行动卡专岗的周报流水线、会议记录转行动卡（决定 / 待办 / 未决都带原话出处）、公众号小绿书日更；共同规矩是只用原文信息、缺的标「待确认」、原文件只读、发给别人前先问。过线放「中文一人公司」或「技能与玩法」；同作者入门手册 grok-bot-getting-started 无许可证、带公众号课导流，不收 |
 | [taoning0403/napcat-grok-bridge](https://github.com/taoning0403/napcat-grok-bridge) | 11-10 | 0★ · MIT · 建 11-03 | QQ 私聊接 Grok Bot：NapCat（OneBot HTTP）和 webhook routine 双向桥，Docker Compose 起；事件去重、失败重试、防回环，桥接端口只绑本机，可选 Cloudflare 命名隧道给固定 HTTPS，带 doctor 自检；v0.1 只支持单个私聊对象的文本。NapCat 是非官方 QQ 客户端，有账号风控风险；过线时和走 QQ 开放平台官方接口的 number5meme/grokbot-qqbot-bridge（11-05）对照，短评写明非官方 |
 | [MarcusYuan/gbdev](https://github.com/MarcusYuan/gbdev) | 11-10 | 0★ · Apache-2.0 · 建 11-03 | 让 Grok Bot 当架构师，带本机 Codex CLI / Cursor agent 写代码：本地命令行编排器，规划拆任务图，在多个 worktree 里并行实现，评审修复循环有轮数和时间上限，最后合到集成分支；bot 只读 JSON 做决定，合进目标分支要你点头，从不 push。把一句话贴给 bot 就能按 setup 文档自装，并装上 gbdev-usage skill；中文 README，有 CI，非官方。过线放「技能与玩法」，和 stampede、Vesper 对照写差异 |
+| [ClawDogLabs/slack-grok-bridge](https://github.com/ClawDogLabs/slack-grok-bridge) | 11-10 | 0★ · 无 License · 建 11-03 | Slack 接 webhook routine 的桥模板：主机常醒就走 Socket Mode，云电脑会休眠就改走 Cloudflare Worker 或 Node HTTP 中继，两条路发同一份 payload；附给 bot 读的一句话装机文档、托管选择说明、保活脚本，密钥走 secret request、不进聊天；中继有测试。package.json 标 private、没有 LICENSE，到期仍无 License 就移出 |
+| [FeeligWang/dsh-plugin-grok-bot](https://github.com/FeeligWang/dsh-plugin-grok-bot) | 11-10 | 0★ · MIT · 建 11-03 | DeepSeek Harness 插件，异步给 bot 派活：经 crosswalk 私有频道发任务（`grok_submit`），bot 在你说话或 routine 运行时读频道、回帖标完成，再用 `grok_result` 取回，不阻塞也不后台轮询；中文 README。和已收的 Lniosy/dsh-tool-grok-bot（读本机登录、走官方对话）路线不同，不碰本机凭据，但依赖第三方 crosswalk 服务；过线放「技能与玩法」，写明这点 |
 
 ## 已移出
 

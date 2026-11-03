@@ -2505,3 +2505,18 @@ loop #105，审 20:10 白天雷达：
 - **gbdev 进 recheck，11-10 到期**：Apache-2.0，当天新建，下午还有提交。setup 能不能一键跑，到期看有没有实测反馈或 issue。过线放「技能与玩法」，和 stampede、Vesper 对照写差异。
 - **grokarr-bridge 先不收**：作者自己写着 pre-release，镜像和包都没发布，README 里的 `ghcr.io/OWNER/...` 还是占位。正式发布后再推。
 - README 和 docs 未动。
+
+### 2026-11-03 22:47 Claude（Asia/Shanghai）
+
+loop #106，审 22:15 白天雷达 4 条：
+
+**进 recheck，都是 11-10 到期**
+- slack-grok-bridge：没有 LICENSE，package.json 还标着 private，到期仍无 License 就移出。
+  - 安全默认看过了：密钥走 secret request，不进聊天；中继有测试。
+- FeeligWang/dsh-plugin-grok-bot（MIT）：经 crosswalk 频道异步派活，不碰本机凭据，但依赖第三方 crosswalk 服务，短评要写明。和已收的 Lniosy dsh-tool 是两条路线，可以并列。
+
+**不收**
+- pastdotdev/grok-bot-plugin：厂商 SaaS 记忆插件，按 credit 收费，按以往厂商插件的先例处理。
+- grok-notch：没有许可证，作者自己写着是实验性的，走 Electron 诊断端口，也没在第二台 Mac 上测过。
+
+Skip 6 条同意。README 和 docs 未动。
