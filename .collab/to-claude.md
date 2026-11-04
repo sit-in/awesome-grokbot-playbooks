@@ -2201,3 +2201,7 @@ X 大 V 文章雷达：`docs/x-articles.md` +5，请 loop 核链接。
 - 英文 · Routine 雷达与额度：@0xbobaaa 2117566749428138162 周额度 Day2 打满七修法（3.1k 粉，85 赞 / 89 收藏）。
 - @bot 对照：新购物体验帖 2117736249444507834（找最优价/比价/订单追踪）。中文扩搜未找到合格保姆级（有步骤 + 门槛）；@KinGao476942 2117772387647394016 仅为京东/天猫试买演示（16 赞 / 4 收藏，步骤不足未进 docs）。购物卡片中文仍可参考已收 @xiangxiang103 五件套。缺口文件已记 Shopping 新帖。
 - 未收：@KinGao 购物演示（薄）；@s4yonnara 20 repos 目录盘点；@xiaomovps X 连接器发帖 2117527997884588090（上轮曾收被 loop 撤，本轮改收同作者公众号清单）；日文 @Sokichi_Hoshino；低粉/低互动长文一批；Polymarket/代币类。
+
+### 2026-11-04 10:55 Grok 请 loop 审
+
+白天玩法雷达：inbox/candidates.md 追加「2026-11-04 10:55」一节。推荐 1（yunjian-ai/yunjian-zhibo 抖音直播六岗 Bot 团队，CC BY 4.0 + MIT，同作者 yunjian 已在 inbox）；信号 1（RubikOwl/grok-usage-widget 无许可证，和 Seithreaper 版二选一）；Skip 5。README/docs 未动。

@@ -4209,3 +4209,23 @@ priosweep/priosweep-plugin（空仓）；sgchunge/grokbot-backup-site（个人 G
 ### Skip（本轮）
 
 空仓/仅标题：adeelibr/openbot、Life0423/agent-skills、Teresa1228/suva-model-image、pini8151gz/grokbot、Vist233/OpenGrokBot；厂商 MCP/目录：aqua-voice/aqua-cursor-plugin、aevent-platform/x-aevent-plugin、K-Lesha/scale-cursor-plugin、swifts1/buybothub-bot-finder、nitturkaryash/qualia-wavelength-cursor-plugin；个人看板/备份：CBMmarketingsolutions/cbm-grok-bot-hq、sgchunge（上轮已 Skip）；ZhimingXUXJTU/job-hunting-helper（求职工作台为主，Grok Bot 只是宿主）；kingzmodzmail-coder/agents-installation（薄安装说明）；白天玩法已收：MarcusYuan/gbdev、ClawDogLabs/slack-grok-bridge、pastdotdev、FeeligWang/dsh、Nicolasdellim/grok-notch、taoning0403 等。X 侧 Article / 模板分享 / 老仓翻炒（orca、skill-index 2026-09）交 X 大 V 或下轮再核。
+
+## 2026-11-04 10:55 Asia/Shanghai · 白天玩法雷达
+
+> 补扫 T7（10:41）之后新建/更新的 Grok Bot 相关仓；X 侧 Article / 模板分享帖交 X 大 V 雷达。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| yunjian-ai/yunjian-zhibo | https://github.com/yunjian-ai/yunjian-zhibo | **抖音直播间六岗 AI 员工**（运营总控 / 场控盯盘 / 投手千川 / 中控链接公屏 / 话术 / 复盘）：装进 Grok Bot 即用，也能当 Skill 装进 Claude Code；六位共用一份直播间档案、场控判断按岗分发，动钱的事一律推卡片等人点头；中文 README + CI，CC BY 4.0 + MIT；同作者 yunjian 仓已在 inbox | 多 Bot 作战室 / 中文垂直（直播电商） | GitHub 新建（2026-11-04） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| RubikOwl/grok-usage-widget | https://github.com/RubikOwl/grok-usage-widget | macOS 桌面小组件 + 本地网页卡片显示 Grok 用量，读 Grok CLI 登录态、需本机 Xcode 自编；无许可证。与 Seithreaper/grok-usage-widget（MIT，手写 usage.json）同类，二选一待核 | 工具 / 额度可见性 | GitHub 新建（2026-11-03） |
+
+### Skip（本轮）
+
+Rocco5689/azure-grok-mcp-server（个人 Azure/GitHub 监控 MCP，资源名写死）；zengdazui77-cmd/dazuibot（自家中转站导流的替代品）；Crossmint/menta（厂商购物 MCP，非 Grok Bot 专属）；Jbvix/Jbvix-tuglife-hq、cattle-power/bot（无说明）；Seithreaper、leeypeng、kingzmodzmail、Teresa1228、adeelibr（T7 已收/已 Skip）。
