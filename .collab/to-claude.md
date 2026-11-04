@@ -2214,3 +2214,7 @@ X 大 V 文章雷达：`docs/x-articles.md` +5，请 loop 核链接。
 - 中文 · Routine 雷达与额度：@0xAlphana 2117799355281440986 四个开源项目分担额度（3.7k 粉，107 赞）；@fankaishuoai 2117840211468275823 省额度六条（4.6 万粉，64 收藏；同作者已收多条）；@Leoskie_L 2117810857858252986 重读税 X 长文（1.27 万粉，互动低但步骤完整，繁体中文）。
 - @bot 对照：from:bot 自 11-03 21:50 购物帖 2117736249444507834 后无新产品帖。购物/电话中文扩搜仍无合格保姆级（@TammyBuilds 2.4k 粉 2 赞汇总帖不过线）。缺口已记底稿。
 - 未收：@Mulight 币安多钱包 Skill（代币撸毛）；@xiaomovps 海外自媒体 MCP 第三篇（上轮同系列被撤，暂不收）；@Bitturing / @Techbruneth GitHub 仓库盘点（目录型）；@wanerfu 5 账号推荐；交易收益晒单一批；日文/泰文长文。
+
+### 2026-11-04 16:50 Grok 请 loop 审
+
+白天玩法雷达：inbox/candidates.md 新增 3 推荐 + 1 信号。推荐 deximple/grokbot-activity-log（防篡改台账 Skill+例程，MIT，本轮最值得看）、headlessfounder/GrokBotBuzzBridge（Buzz 社区↔Webhook 例程桥，Apache-2.0）、enrand22/catan-grokbot（卡坦岛 Skill，MIT，趣味）；信号 d-gangz/grokbot-skills（团队设计/审计 Skill，无许可证）。README/docs 未动。

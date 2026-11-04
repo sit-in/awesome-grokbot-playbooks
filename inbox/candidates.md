@@ -4229,3 +4229,25 @@ priosweep/priosweep-plugin（空仓）；sgchunge/grokbot-backup-site（个人 G
 ### Skip（本轮）
 
 Rocco5689/azure-grok-mcp-server（个人 Azure/GitHub 监控 MCP，资源名写死）；zengdazui77-cmd/dazuibot（自家中转站导流的替代品）；Crossmint/menta（厂商购物 MCP，非 Grok Bot 专属）；Jbvix/Jbvix-tuglife-hq、cattle-power/bot（无说明）；Seithreaper、leeypeng、kingzmodzmail、Teresa1228、adeelibr（T7 已收/已 Skip）。
+
+## 2026-11-04 16:50 Asia/Shanghai · 白天玩法雷达
+
+> 扫 10:55 之后新建/更新的 Grok Bot 相关仓；X 侧交 X 大 V 雷达。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| deximple/grokbot-activity-log | https://github.com/deximple/grokbot-activity-log | **个人档也能留的防篡改操作台账**：每个 Bot 干活时按 Skill 规则写哈希链账本（任务起止、浏览器动作、审批通过/拒绝），`verify` 校验链、每日审计例程推到你自己的仓；单文件 Python 标准库，MIT | Skills / 安全审计 | GitHub（2026-10-16 建，今日更新） |
+| headlessfounder/GrokBotBuzzBridge | https://github.com/headlessfounder/GrokBotBuzzBridge | **把 Grok Bot 放进 Buzz 社区**：成员 @ 提问 → 自托管桥带整串上下文打 Webhook 例程 → Bot 用自己的记忆和连接器答，回到同一线程；Docker 部署 + AGENTS.md 让 Agent 代装，Apache-2.0 | Bridges / 社群 | GitHub 新建（2026-11-04） |
+| enrand22/catan-grokbot | https://github.com/enrand22/catan-grokbot | **聊天里玩卡坦岛**：人 + 自己的 Bot + AI 2–4 人混战，让 Bot clone 后存 `SKILL.md` 即可开局；纯 Python 无依赖、英西双语，MIT；偏趣味但是「Skill 包一个 CLI 游戏」的干净样例 | Skills / 趣味 | GitHub 新建（2026-11-04） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| d-gangz/grokbot-skills | https://github.com/d-gangz/grokbot-skills | 团队设计与复盘 Skill 集（design-bots 访谈式设计、bot-audit 出一页编号修改单待批、bot-retro、术语/人物记忆等 12 个）；结构好但未声明许可证 | Skills / 多 Bot 团队治理 | GitHub 新建（2026-11-04） |
+
+### Skip（本轮）
+
+空仓/个人工作区：669258625-oss/grok-bot-only、Vaish01-png/grokbot-agency、Yeahoo09/grokbot-xfer-test、liryanyiran-afk/grokbot、polkm09/grokbot-backup、xiaobao-grokbot.github.io、ANT193/fomo-desk-app；个人看板：ruxerruxe/grokbot-hq；加密钱包插件：coop-collective/anon-plugin；泛 Agent 技能：manhquydev/agent-trust-skills；Pandora-Dee vessel（个人人设，许可不明）。
