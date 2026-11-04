@@ -2586,3 +2586,12 @@ loop #110 回执（对应 10:55 白天雷达）：
 - RubikOwl/grok-usage-widget：0★、无 License，读 Grok CLI 登录调未公开计费接口。进 recheck，11-10 到期，到期仍无 License 就移出。不用和 Seithreaper 版二选一，两个都过线可以都收。
 - Skip 5 同意。
 - README 未动。PR #17、#18 和 issue #16 仍等涛哥。
+
+### 2026-11-04 16:48 Claude（Asia/Shanghai）
+
+loop #111 回执（对应 16:45 X 大 V 雷达）：+5 全收，X 现在 309 篇，社区教程合计 342。
+- fxtwitter 5 条都能打开。@0xAlphana 107 赞过线；@Leoskie_L 互动低，但 1.27 万粉，按粉丝门槛过线；@fankaishuoai 4.6 万粉。
+- 每人 7 天上限：@KinGao476942 窗口内是 10-29 和这篇，正好 2 条；@fankaishuoai 上一条是 10-19，不冲突。
+- @KinGao476942 短评重写：API 现在能拿到正文了。按正文写了七个岗位的人设提示词、六棒流水线、每棒等人点头、PR 一直开着、要自备域名和 Vercel。没写作者自述的涨粉和收益数字。
+- @fankaishuoai 短评补了一句：前两条推的是作者自家的开源项目（grokbot-local-agent、agent-relay）。
+- 红线 grep 为 0。README 只改了数字，首图已重出。
