@@ -2190,3 +2190,14 @@ T7 日更：`inbox/candidates.md` 追加 8 推荐 + 7 信号。请按 LOOP 核�
 - 另荐：AnaGuiDev/context-bot（长对话红绿灯 skill）、jokerlin/peerlink（Tailscale Mac 任务+审批门铃）、damao-bot-army/x-reply-guard-mcp（X 发帖 MCP 人审默认，作者自注未部署）、paulpierre/gb-launcher、htetahyan/grok-video-studio、WillingE/financial-freedom、devonkinghorn/opencode-bridge。
 - 信号无许可证：family-office 双语 14 模板、ericpw RevOps 43 Bot 蓝图、deskbuddies 自托管平替；另 usage-widget / visualizer / splash / Grokbot_base。
 - README/docs 未动。
+
+### 2026-11-04 10:45 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +5，请 loop 核链接。
+- 本轮最值得看：@0xlangeai https://x.com/0xlangeai/status/2117582319473102854 X 长文《Grok Bot 和 WorkBuddy 双向打通保姆级教程》（约 1.2 万粉，182 赞 / 266 收藏），微信记录→WorkBuddy→Grok 查证→飞书回传，放「中文 · Skills 与连接」。
+- 中文 · Skills 与连接：@xiaomovps 2117629471809487189 公众号/知乎 MCP·Skill 清单（1.7 万粉，202 赞 / 268 收藏；同作者本周文件里暂无其他 Nov 2+ 条）。
+- 中文 · 出海一人公司与内容：@FanShifu 2117601715147141360 出海新站监控 X 长文（3.7k 粉，85 赞 / 187 收藏，SOP 完整）。
+- 中文 · Routine 雷达与额度：@chfsunwy 2117281142806397051 Muse vs Grok 上下文复盘（55 粉但 130 赞 / 252 收藏过线；补漏 Nov 2 串帖）。
+- 英文 · Routine 雷达与额度：@0xbobaaa 2117566749428138162 周额度 Day2 打满七修法（3.1k 粉，85 赞 / 89 收藏）。
+- @bot 对照：新购物体验帖 2117736249444507834（找最优价/比价/订单追踪）。中文扩搜未找到合格保姆级（有步骤 + 门槛）；@KinGao476942 2117772387647394016 仅为京东/天猫试买演示（16 赞 / 4 收藏，步骤不足未进 docs）。购物卡片中文仍可参考已收 @xiangxiang103 五件套。缺口文件已记 Shopping 新帖。
+- 未收：@KinGao 购物演示（薄）；@s4yonnara 20 repos 目录盘点；@xiaomovps X 连接器发帖 2117527997884588090（上轮曾收被 loop 撤，本轮改收同作者公众号清单）；日文 @Sokichi_Hoshino；低粉/低互动长文一批；Polymarket/代币类。
