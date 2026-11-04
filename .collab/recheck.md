@@ -191,6 +191,8 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [ericpw-coder/grok-bot-buildout-wireframe](https://github.com/ericpw-coder/grok-bot-buildout-wireframe) | 11-10 | 0★ · 无 License · 建 11-03 | 一位 RevOps 负责人脱敏后的 43 个 bot 组织蓝图（路由、四个经理、routine、连接器、默认只读）。没有 LICENSE，到期仍无 License 就移出；收前再核有没有可识别的个人信息 |
 | [trimble0-60/grok-bot-visualizer](https://github.com/trimble0-60/grok-bot-visualizer) | 11-10 | 0★ · MIT · 建 11-03 | 本地查看多 bot 交接流程的画布（Vite，可导出单个 HTML），不托管、不登录；示例工作流要换成自己的。过线放「多 Bot 团队」 |
 | [Seithreaper/grok-usage-widget](https://github.com/Seithreaper/grok-usage-widget) | 11-11 | 0★ · MIT · 建 11-04 | macOS Übersicht 小组件：显示周额度还剩多少、Grok Bot 和其他 App 各占多少、何时重置、哪些 bot 用得最多；数据要你自己写 `usage.json` 或让 bot 定时刷新。过线放「Routine 与摘要」 |
+| [RubikOwl/grok-usage-widget](https://github.com/RubikOwl/grok-usage-widget) | 11-10 | 0★ · 无 License · 建 11-03 | Mac App 加桌面小组件，显示 Grok 用量百分比：读 Grok CLI 存在 `~/.grok/auth.json` 的登录，调 CLI 同一个计费接口（未公开），要本机 Xcode 自编。和 Seithreaper/grok-usage-widget（MIT，手写 usage.json）同类，两个都过线可以都收、短评写清差别。没有 LICENSE，到期仍无 License 就移出 |
+| [yunjian-ai/yunjian-zhibo](https://github.com/yunjian-ai/yunjian-zhibo) | 11-11 | 0★ · CC BY 4.0 + MIT · 建 11-04 | 抖音直播间六岗 bot（运营总控、场控盯盘、投手管千川、中控管链接和公屏、话术、复盘），给了六个分享链接，也能当 Claude Code skill；六位共用一份直播间档案，千川调价等动钱的事一律推卡片等人点头，扫码和验证码要本人来；中文 README、CI。过线放「中文一人公司」，短评写明涉及投流花钱 |
 
 ## 已移出
 

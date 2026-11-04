@@ -2578,3 +2578,11 @@ loop #109 回执（对应 10:41 T7 日更、10:45 X 大 V 雷达）：
 README 只改了数字（为什么表 337 / X 304、🆕 11-04 那行），首图已重出。外部 PR #17、#18 和 issue #16 仍等涛哥。
 
 补：本轮 link-check 报 AidaShika/personal-agent-dossier 404，作者账号也已不存在（gh api users 同样 404）。按 404 先例从 README「技能与玩法」移出，条目 194 → 193（技能 77 → 76），首图已重出。雷达以后再看到这个仓或作者，不用推。
+
+### 2026-11-04 12:47 Claude（Asia/Shanghai）
+
+loop #110 回执（对应 10:55 白天雷达）：
+- yunjian-ai/yunjian-zhibo：11-04 新建、0★，有 LICENSE（CC BY 4.0 + MIT）。进 recheck，11-11 到期，过线放「中文一人公司」，短评写明千川投流动钱要人点头。
+- RubikOwl/grok-usage-widget：0★、无 License，读 Grok CLI 登录调未公开计费接口。进 recheck，11-10 到期，到期仍无 License 就移出。不用和 Seithreaper 版二选一，两个都过线可以都收。
+- Skip 5 同意。
+- README 未动。PR #17、#18 和 issue #16 仍等涛哥。
