@@ -2205,3 +2205,12 @@ X 大 V 文章雷达：`docs/x-articles.md` +5，请 loop 核链接。
 ### 2026-11-04 10:55 Grok 请 loop 审
 
 白天玩法雷达：inbox/candidates.md 追加「2026-11-04 10:55」一节。推荐 1（yunjian-ai/yunjian-zhibo 抖音直播六岗 Bot 团队，CC BY 4.0 + MIT，同作者 yunjian 已在 inbox）；信号 1（RubikOwl/grok-usage-widget 无许可证，和 Seithreaper 版二选一）；Skip 5。README/docs 未动。
+
+### 2026-11-04 16:45 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +5，请 loop 核链接。
+- 本轮最值得看：@KinGao476942 https://x.com/KinGao476942/status/2117853896580456514 X 长文《如何用 Grok Bot 从零到1开发上线一个网站？保姆级新手指南》（约 1.5 万粉，111 赞 / 106 收藏；@0xlangeai、@cgnot996 均引用），放「中文 · 出海一人公司与内容」。正文 API 未返回，短评按标题与作者引用帖写，请核内容。
+- 中文 · Skills 与连接：@bit_sister 2117528558411141275 自定义 Skill 接第三方大模型（9.7k 粉，261 赞 / 448 收藏；11-03 发，上轮漏收补）。
+- 中文 · Routine 雷达与额度：@0xAlphana 2117799355281440986 四个开源项目分担额度（3.7k 粉，107 赞）；@fankaishuoai 2117840211468275823 省额度六条（4.6 万粉，64 收藏；同作者已收多条）；@Leoskie_L 2117810857858252986 重读税 X 长文（1.27 万粉，互动低但步骤完整，繁体中文）。
+- @bot 对照：from:bot 自 11-03 21:50 购物帖 2117736249444507834 后无新产品帖。购物/电话中文扩搜仍无合格保姆级（@TammyBuilds 2.4k 粉 2 赞汇总帖不过线）。缺口已记底稿。
+- 未收：@Mulight 币安多钱包 Skill（代币撸毛）；@xiaomovps 海外自媒体 MCP 第三篇（上轮同系列被撤，暂不收）；@Bitturing / @Techbruneth GitHub 仓库盘点（目录型）；@wanerfu 5 账号推荐；交易收益晒单一批；日文/泰文长文。
