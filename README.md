@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/stargazers"><img src="https://img.shields.io/github/stars/sit-in/awesome-grokbot-playbooks?style=flat-square&color=ff7a1a" alt="Stars"></a>
-  <img src="https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-194-blue?style=flat-square" alt="Entries">
+  <img src="https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-197-blue?style=flat-square" alt="Entries">
   <img src="https://img.shields.io/badge/%E9%85%8D%E6%96%B9-10-blueviolet?style=flat-square" alt="Recipes">
-  <img src="https://img.shields.io/badge/%E6%9C%80%E8%BF%91%E6%A0%B8%E5%AE%9E-2026--11--04-success?style=flat-square" alt="Last verified">
+  <img src="https://img.shields.io/badge/%E6%9C%80%E8%BF%91%E6%A0%B8%E5%AE%9E-2026--11--05-success?style=flat-square" alt="Last verified">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml"><img src="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml/badge.svg" alt="link-check"></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs welcome"></a>
   <img src="https://img.shields.io/badge/%E9%9D%9E%E5%AE%98%E6%96%B9-lightgrey?style=flat-square" alt="Unofficial">
@@ -25,7 +25,7 @@
 
 | | |
 |---:|---|
-| **194** | 个条目，每条都用 GitHub API 或页面核过：仓库存在、还在更新、确实和 Grok Bot 相关；许可证情况写在短评里 |
+| **197** | 个条目，每条都用 GitHub API 或页面核过：仓库存在、还在更新、确实和 Grok Bot 相关；许可证情况写在短评里 |
 | **10** | 个可抄配方，统一格式：场景 → 输入 → 步骤 → prompt → 产出 → 坑，样例全部脱敏 |
 | **3 级** | 验证标记：✅ 真机跑通 · 🔍 读过文档和配置 · 无标记＝只核实过仓库。✅ 只给真跑过的 |
 | **342** | 篇社区教程和 X 长文精选（[社区教程](docs/community-tutorials.md) 33 + [X 大 V 文章](docs/x-articles.md) 309），加上作者自己的连载索引，每条都核过存活、作者和发布日期 |
@@ -61,9 +61,9 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 
 ## 🆕 最近更新
 
+- **11-05** 新增 3 个：微信 ClawBot 和 QQ 机器人接 webhook routine 的姊妹桥 [grokbot-wechatclaw-bridge](https://github.com/number5meme/grokbot-wechatclaw-bridge) / [grokbot-qqbot-bridge](https://github.com/number5meme/grokbot-qqbot-bridge)，以及在本机导出 Grok Bot 对话和附件、附 MCP 查询的 [grok-export-tool](https://github.com/LofiSu/grok-export-tool)
 - **11-04** 新增 9 个：让 bot 派活给 Codex 再被叫醒的 [bot-codex-delegate](https://github.com/realTaki/bot-codex-delegate)、家用 Linux 不开公网接 T3 Code 的 [grok-bot-setup](https://github.com/nsoliven/grok-bot-setup)、一条命令配好云电脑常驻编码主机的 [aibot-hostkit](https://github.com/monarchsofchaos004-gif/aibot-hostkit)、对比发帖和收藏的趣味卡片 [Bookmark Persona](https://github.com/ItsOdeLeo/bookmark-persona)、279 个第三方 bot 的隐私优先清单 [Awesome Grok Bots](https://github.com/ctrlcmdshft/awesome-grok-bots)、中文手册站 [GrokBot Guide](https://github.com/anightmonarch/grokbot-guide)，以及开源平替 [Pots](https://github.com/Crokily/pi-durable-bot) 和复刻界面的学习 Demo [kylin-feng/grokbot](https://github.com/kylin-feng/grokbot)；又补了个人版也能用的防篡改操作台账 [grokbot-activity-log](https://github.com/deximple/grokbot-activity-log)；X 大 V 文章 309 篇
 - **11-03** 新增 14 个：编码长活开跑收尾卡 [run-cards](https://github.com/rystedtcreative/run-cards)、Discord 私信唤醒 bot [grok-discord-bridge](https://github.com/RealDragonJT/grok-discord-bridge)、和 Codex Desktop 会话互发 [GrokRelay](https://github.com/w-yyh/grok-relay)、经 Herdr 接管本机编码 agent [grokbot-bridge-herdr](https://github.com/Phoobobo/grokbot-bridge-herdr)、防云电脑睡眠 [bot-keepalive](https://github.com/realTaki/bot-keepalive)、本机多 bot 看板 [Grokbot City](https://github.com/sleeplesshan/grokbot-city)、开源模板目录 [Markcial/bots](https://github.com/Markcial/bots)，以及 Nix 打包、省额度一页纸、DJ 混音流水线、只读 Strava MCP 和 agent-mesh；又补了查看和改写 bot 记忆的桌面 App [搜魂](https://github.com/Lniosy/souhun) 和同作者的 DeepSeek Harness 插件 [dsh-tool-grok-bot](https://github.com/Lniosy/dsh-tool-grok-bot)；X 大 V 文章增至 300 篇
-- **11-01** 新增 15 个：800 多个模板的社区目录站 [Grok Bot Shelf](https://grokbotshelf.com)、给 bot 多的人用的客户端 [GrokDeck](https://github.com/Gamedesigner/grokdeck)、Siri / HomePod 问 bot 的 [Homebot](https://github.com/lumpinif/Homebot)、脚本派活防重发的 [Grok Bot Bridge](https://github.com/runesleo/grok-bot-bridge)、把 Linux 服务器挂成 bot 电脑的 [grokbot-tunnel](https://github.com/exa-pub/grokbot-tunnel)、Omarchy 语音热键、多 bot 运维手册 [grok-bot-ops](https://github.com/yohei1126/grok-bot-ops)，硬件区加了语音球、Stack-chan 语音伴和 Pixel 平板动画脸；又补了自更新 bot 目录模板 [Bot Catalog](https://github.com/JaxonWright/bot-catalog-for-grok-bot-template)、把 bot 放上个人网站的 [bots skill](https://github.com/raphaelsalaja/skills/tree/main/skills/bots)、本机项目看板 [Desk](https://github.com/TeebooTed/desk)、加密邮件收件箱 [Grok Bot Inbox](https://github.com/mascarock/grokbot-inbox)、让 bot 监工编码 agent 的 [Vesper](https://github.com/Vedant817/vesper-grok-bot-bridge)；X 大 V 文章增至 287 篇
 
 完整记录见 [README 提交历史](https://github.com/sit-in/awesome-grokbot-playbooks/commits/main/README.md)。
 
@@ -71,10 +71,10 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 
 - [官方与 SDK](#-官方与-sdk)（6）- 官方文档、模板市场、SDK 和命令行
 - [模板与目录](#-模板与目录)（19）- 模板库、bot 分享链接索引、案例站，找现成的先翻这里
-- [技能与玩法](#-技能与玩法)（77）- skill、MCP、单个模板、可粘贴人设
+- [技能与玩法](#-技能与玩法)（78）- skill、MCP、单个模板、可粘贴人设
 - [多 Bot 团队](#-多-bot-团队)（36）- 作战室、总指挥、多 agent 协作
 - [Routine 与摘要](#-routine-与摘要)（12）- 定时雷达、周报、额度管理
-- [中文一人公司](#-中文一人公司)（6）- 出海客服、微信接入、中文配置
+- [中文一人公司](#-中文一人公司)（8）- 出海客服、微信接入、中文配置
 - [自托管与平替](#-自托管与平替)（18）- 不想上云、想用自己的模型
 - [硬件](#-硬件)（7）- 给 bot 一个实体入口
 - [学习资源](#-学习资源)（13）- 教程、手册、教程索引
@@ -195,6 +195,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 - [bot-codex-delegate](https://github.com/realTaki/bot-codex-delegate) - 让 bot 像项目里派云端 agent 一样用 Codex：云电脑上常驻 `codex app-server`（只听 localhost），bot 把活交给一个低开销的等待子 agent，完工再被叫醒，主聊天不用一直盯，额度花在 Codex 上；跑到一半能追加指令或打断，同类任务复用同一个会话。默认 `workspace-write` 加按需审批，完全放权要自己开。和上面的 bot-keepalive 同作者，用同一招保持云电脑不睡。中英文档。MIT。标签：`skill` `codex` `delegate`
 - [Bookmark Persona](https://github.com/ItsOdeLeo/bookmark-persona) - 可一键导入的模板（也打包成插件）：经 X 插件读你最多 200 条帖子、300 条收藏和 600 个赞，对比「发出来的你」和「收藏里的你」，各给一个四字母类型、一只宠物和昵称，出一张分享卡，也可以选只显示类型的私密版。互粉帖、抽奖、单个表情不计。纯娱乐，不是性格测试，数据留在你自己的 bot 里。代码和 16 只宠物美术都是 MIT。标签：`template` `x` `fun` `share-card`
 - [grokbot-activity-log](https://github.com/deximple/grokbot-activity-log) - 给个人版 Grok Bot 补一份防篡改的操作台账（官方的操作记录和审计日志只给企业版）：skill 规定 bot 干活时用 `gblog` 记下任务起止、浏览器动作和审批通过或拒绝，每个 bot 一条哈希链，改、删、截断任一行 `verify` 都报 FAIL；写盘前先抹掉常见形状的 key 和密码，每日审计 routine 出报告推到你自己的仓，推公开仓会被拒。还能自动抓命令、浏览记录和文件改动，对照 bot 自报的覆盖率，每周据此提改人设、skill、routine 的建议等你批。单文件 Python 标准库，有测试和 CI。MIT。标签：`skill` `audit` `routine` `security`
+- [grok-export-tool](https://github.com/LofiSu/grok-export-tool) - 把本机已登录 grok.com 账号里的 Grok Bot（名册、完整对话、附件）和普通 Grok 对话导出成 JSONL、Markdown 和原始 JSON；附只读的 MCP 服务（列 bot、取对话、搜索）和 skill，让 Claude Code、Codex、OpenCode 查这份归档。不发消息、不要 key。非官方：自动读本机 Chrome 的 cookie（Mac 经钥匙串、Windows 经 DPAPI），走 grok.com 未公开的接口，改版就可能失效；导出里有私密对话，放好。和 Grok Bot Backup 不同，它在你自己电脑上跑，不进云电脑。中英教程。MIT。标签：`export` `backup` `mcp` `unofficial`
 
 <sub>[⬆ 回到目录](#-目录)</sub>
 
@@ -264,6 +265,8 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 - [grok-bot-wechat](https://github.com/bogao6769-netizen/grok-bot-wechat) - 微信消息触发 Grok Bot 的 webhook Routine，本地转发器把回复送回微信；只是配方不含服务，项目很新，想让国内用户在微信里找 bot 的可参考。标签：`chinese` `wechat` `routine`
 - [Grok Bot 中文快捷键修正](https://github.com/thinkingpower-labs/GrokBotChineseFix) - Windows 桌面版小工具：在 Grok Bot 里按 `Ctrl + ,` 直接打出全角逗号「，」，不再弹出设置窗口；只在 Grok Bot 在前台时生效，可随时暂停，不改原软件，离线运行，单文件 C# 源码，繁体中文说明。标签：`windows` `ime` `chinese`
 - [grokbot-weixin](https://github.com/ericyangpan/grokbot-weixin) - 微信私聊接 Grok Bot：常驻进程经微信 iLink Bot 接口收私信，转给 webhook routine，再把回复发回微信；可跑在 Cloudflare Workers 或 Node 22，图片等媒体会解密转存。只认白名单里的号（默认第一个扫码的），群消息忽略。协议照腾讯官方 openclaw-weixin 插件独立重写。MIT。标签：`wechat` `webhook` `routine`
+- [grokbot-wechatclaw-bridge](https://github.com/number5meme/grokbot-wechatclaw-bridge) - 微信 ClawBot 接 webhook routine：经腾讯 iLink 机器人接口（官方 ClawBot 插件用的同一个）长轮询收私信，图片、语音、文件、视频都转成 JSON 发给 routine，bot 用 `reply.sh` 回文字或媒体，回复内容走带引号的 heredoc，不会被 shell 执行。只出站，不用开端口和公网 IP；发不出去的消息留着可重放，断线自动重连，主机休眠后约 5 秒恢复；可设白名单和单人限速。要用户先发消息才能回。也能接别的 webhook，作者主推 Grok Bot routine。和已收的 grokbot-weixin 同路，这个多了媒体回复和防断线脚本。MIT。标签：`wechat` `webhook` `routine`
+- [grokbot-qqbot-bridge](https://github.com/number5meme/grokbot-qqbot-bridge) - 同作者的 QQ 版：走 QQ 开放平台官方 Bot API v2 的 WebSocket，把私聊（文字、图片、语音、文件、视频）转给 webhook routine，回复同样走 `reply.sh`；只出站，主机会休眠就改用 `relay/` 里的 Cloudflare Worker 走平台 Webhook 模式，不丢消息。QQ 只许在用户发消息后 60 分钟内被动回复。可设白名单和单人限速，有离线测试。MIT。标签：`qq` `webhook` `routine`
 
 <sub>[⬆ 回到目录](#-目录)</sub>
 

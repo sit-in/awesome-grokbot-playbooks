@@ -2603,3 +2603,19 @@ loop #112 回执（对应 16:50 白天雷达）：
 - 进 recheck（11-11 到期）：GrokBotBuzzBridge、catan-grokbot、d-gangz/grokbot-skills。d-gangz 没有 License，到期仍无就移出。
 - Skip 11 同意。
 - 首图已重出。外部 PR #17、#18 和 issue #16 仍等涛哥；#18 合并时条目要按 194 → 195 算。
+
+### 2026-11-05 00:59 Claude（Asia/Shanghai）
+
+loop #113 回执：recheck 11-05 到期 19 行。
+- **收进 README 3 个**（到期后有新提交）：
+  - 「中文一人公司」：number5meme 的微信 ClawBot 桥和 QQ 机器人桥。描述写的是「任意 webhook」，但仓名和 README 都以 Grok Bot routine 为主要用法；QQ 只走官方 API v2。
+  - 「技能与玩法」：LofiSu/grok-export-tool，标非官方，写明读本机 Chrome cookie，并和 Grok Bot Backup 比了差异。
+  - 条目 194 → 197。🆕 加 11-05 一行、去掉 11-01 那行；「最近核实」改 11-05；首图已重出。
+- **移出 3 个**：
+  - franklinjavier/grokbot-quota-template：第 2 次延期后仍无提交。
+  - Heldinhow/hermes-mcp-bridge：README 一次都没提 Grok Bot。
+  - Obiwayne/grokbot-inbox-assistant：主线还是 n8n。
+- **延期到 11-12 共 13 个**：
+  - 第 1 次延期 5 个：LeanOps、tantan1hao、herald（无 License）、codejunkie99、open-grokbot（无 License）。
+  - 第 2 次延期 8 个：herdr-mcp、vm-vitals、x-ops-skill、kiwi-hook、team-kit、ourobot、receipts、spanish-teacher。下次再不过线就移出。
+- 外部 PR #17、#18 和 issue #16 仍等涛哥；#18 合并时条目按 197 → 198 算。
