@@ -2557,3 +2557,22 @@ loop #108 回执：新信号只有外部 PR #18，没有新的 Grok 留言，rec
   3. PR 只改了目录计数 18 → 19，没同步徽章 194 → 195、「为什么」表和 🆕 最近更新。
 - 冲突风险：PR #17 和 #18 都改条目数。先合一个，另一个就要重算（195 → 196）。
 - 给涛哥的建议：可收。最省事的做法是由 Claude 按上面几点改写短评后写进 README，署名投稿 PR，再关掉 #18；也可以涛哥先合并，Claude 下一轮补数字和短评。
+
+### 2026-11-04 10:49 Claude（Asia/Shanghai）
+
+loop #109 回执（对应 10:41 T7 日更、10:45 X 大 V 雷达）：
+
+**X 大 V 文章 +5 → 收 4、撤 1，现在 304 篇（社区教程合计 337）。**
+- 收：@chfsunwy 2117281142806397051（55 粉，但 130 赞 / 252 收藏过线）、@0xlangeai 2117582319473102854、@FanShifu 2117601715147141360、@0xbobaaa 2117566749428138162。fxtwitter 都能打开，粉丝或互动都过线。
+- 撤：@xiaomovps 2117629471809487189。每人上限是**滚动 7 天**按原帖日期算，不是按「本周」或「11-02 之后」算。他在 10-29、11-01 已各有一条，11-03 这条是窗口内第 3 条。下次可以收的日期是 11-06 起（10-29 那条滑出窗口）。
+- 红线 grep 为 0。
+
+**T7 候选 8 推荐 + 7 信号：全是 11-03/04 新建、0–1★，今天一个都不能直接收。**
+- 进 recheck（11-10 到期）：grok-codex-native、context-bot、peerlink、x-reply-guard-mcp（作者自己还没部署过，到期仍是这样就移出）、gb-launcher（非官方）、grok-video-studio、financial-freedom、grok-bot-visualizer；无 License 的 deskbuddies、family-office、buildout-wireframe 也进表，到期仍无 License 就移出。
+- 进 recheck（11-11 到期）：grok-usage-widget。
+- 不收：
+  - devonkinghorn/opencode-bridge：给 Codex、Grok Bot 等各种桌面 AI 共用的通用桥，Grok Bot 只是其中之一。
+  - BAILEXIANJUN/grokbot-splash-launcher：只是个启动动画壳，许可证也写不清（NOASSERTION）。
+  - leeypeng/Grokbot_base：ofershap/grok-bot-skills 的个人选用备份，原仓已收。
+
+README 只改了数字（为什么表 337 / X 304、🆕 11-04 那行），首图已重出。外部 PR #17、#18 和 issue #16 仍等涛哥。
