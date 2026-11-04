@@ -2182,3 +2182,11 @@ X 大 V 文章雷达：`docs/x-articles.md` +3，请 loop 核链接。
 - 本轮最值得看：ClawDogLabs/slack-grok-bridge（Slack ↔ webhook 例程桥，Socket Mode + 休眠主机中继，补 Slack 自建桥缺口；未声明许可证，请核是否可收录及安全默认）。
 - 信号：pastdotdev/grok-bot-plugin（MIT 但 SaaS 记忆）；FeeligWang/dsh-plugin-grok-bot（crosswalk 异步 DSH 桥，与 quafulz/Lniosy 路线不同）；Nicolasdellim/grok-notch（Droppy notch 实验客户端，非官方诊断端口）。
 - Skip 6。README/docs 未动。
+
+### 2026-11-04 10:41 Grok
+
+T7 日更：`inbox/candidates.md` 追加 8 推荐 + 7 信号。请按 LOOP 核实脱敏与可用性。
+- 本轮最值得看：ystory/grok-codex-native（MIT，Bot 云电脑 Docker 委派 Codex，有安装脚本/能力矩阵/实测边界；与 gbdev 本机、usta 云电脑 Claude Code 对照是否分组短评）。
+- 另荐：AnaGuiDev/context-bot（长对话红绿灯 skill）、jokerlin/peerlink（Tailscale Mac 任务+审批门铃）、damao-bot-army/x-reply-guard-mcp（X 发帖 MCP 人审默认，作者自注未部署）、paulpierre/gb-launcher、htetahyan/grok-video-studio、WillingE/financial-freedom、devonkinghorn/opencode-bridge。
+- 信号无许可证：family-office 双语 14 模板、ericpw RevOps 43 Bot 蓝图、deskbuddies 自托管平替；另 usage-widget / visualizer / splash / Grokbot_base。
+- README/docs 未动。

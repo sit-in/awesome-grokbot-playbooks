@@ -4176,3 +4176,36 @@ thomasgonnet/shadow-clinic-reports（某产品测试报告仓）；antzcales-byt
 ### Skip（本轮）
 
 priosweep/priosweep-plugin（空仓）；sgchunge/grokbot-backup-site（个人 Google Drive 备份页，非公开玩法）；Spidermanrobin/awesome-grokbots（已在 inbox）；thomasgonnet/shadow-clinic-reports、67Fujiwara/BOT_Generator、gilangbintang305-droid/Grok-bot-terminal（上轮已 Skip / 无说明）。
+
+## 2026-11-04 10:41 Asia/Shanghai · T7 日更雷达
+
+> 补扫近 24 小时（约 11-03 02:00Z 起）新建 Grok Bot 相关仓；去掉白天玩法雷达已收/已 Skip；X Article / 模板分享帖交 X 大 V 雷达。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| ystory/grok-codex-native | https://github.com/ystory/grok-codex-native | **把编码任务委派给 Bot 云电脑上的 Codex**：Docker worker、技能安装脚本、能力矩阵与实测边界（休眠/重置会打断），MIT + CI；与已收 gbdev（本机 Codex/Cursor）/ usta（云电脑 Claude Code）互补 | 多 Agent 编码 / 云电脑工人 | GitHub 新建（2026-11-03） |
+| AnaGuiDev/context-bot | https://github.com/AnaGuiDev/context-bot | **长对话红绿灯**：🟢继续 / 🟡摘要 / 🔴换新 Bot + 交接文件；一分钟装 skill、带 dashboard，MIT；专治上下文越长越慢越贵 | Skills / 省额度 | GitHub 新建（2026-11-03） |
+| jokerlin/peerlink | https://github.com/jokerlin/peerlink | **Grok Bot 经 Tailscale 跑本机 Mac 任务目录**：Telegram 审批码 + webhook 门铃（只报 pending 数不带内容），有中文 README / CI / SECURITY，MIT | 跨 Agent 协作 / 远程执行 | GitHub 新建（2026-11-03） |
+| damao-bot-army/x-reply-guard-mcp | https://github.com/damao-bot-army/x-reply-guard-mcp | **自托管 X 发帖/回复 MCP（Cloudflare Workers）**：默认人审再发、提示注入防护、六工具白名单；MIT + CI，作者自注 0.1 尚未亲自部署 | 渠道接入 / X 安全发帖 | GitHub 新建（2026-11-03） |
+| paulpierre/gb-launcher | https://github.com/paulpierre/gb-launcher | **一台 Mac 并排多开 Grok Bot 账号**：CLI 建 profile、彩色编号徽章、桌面快捷方式；不改 App 本体，MIT；作者标非官方、依赖未公开行为 | Clients / 多账号 | GitHub 新建（2026-11-03） |
+| htetahyan/grok-video-studio | https://github.com/htetahyan/grok-video-studio | **多 Bot 共享机上的成片工具包 Framewright**：真实素材优先、响度实测、proof pack 才算完工、Bot 不擅自发布/花钱；CLI + 多 Bot 交接例，MIT | 内容生产 / 多 Bot | GitHub 新建（2026-11-03） |
+| WillingE/financial-freedom | https://github.com/WillingE/financial-freedom | **无感记账：iOS 27 通知 → Grok Bot 例程 → Google Sheets**：快捷指令 + Routine 提示 + 表结构模板，拿不准才问人；MIT，中英 README | Routines / 一人公司垂直 | GitHub 新建（2026-11-03） |
+| devonkinghorn/opencode-bridge | https://github.com/devonkinghorn/opencode-bridge | **Bash 桥：让 Grok Bot/Codex 驱动 opencode 会话**（只回用户/助手正文、带 `--since`），附可粘贴 SKILL.md；MIT 单脚本 | Bridges / 编码 | GitHub 新建（2026-11-03） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| liujoe456-glitch/grokbot-family-office | https://github.com/liujoe456-glitch/grokbot-family-office | 中英双语 14 个私人助理模板（秘书/大总管/CFO/法律/健康/翻译/自媒体等）+ 定时任务与 `{{占位符}}`；结构完整但未声明许可证 | Skills / 中文模板 | GitHub 新建 |
+| ericpw-coder/grok-bot-buildout-wireframe | https://github.com/ericpw-coder/grok-bot-buildout-wireframe | RevOps Head 脱敏的 43 Bot 组织蓝图（路由/四经理/例程/连接器/只读写默认）；无许可证，含个人角色名需再核 | 多 Bot 作战室 / 迁移 | GitHub 新建 |
+| silverdakid/deskbuddies | https://github.com/silverdakid/deskbuddies | 自托管「每 Agent 一台 Linux 桌面」对标 Grok Bot，带审批卡与工作流画布；体量大有 CI，未声明许可证 | Self-hosted | GitHub 新建 |
+| Seithreaper/grok-usage-widget | https://github.com/Seithreaper/grok-usage-widget | macOS Übersicht 周额度小组件（池用量/重置/按 Bot 拆分）；MIT 但需自写 `usage.json` 或让 Bot 定时刷新 | 工具 / 额度可见性 | GitHub 新建（2026-11-04） |
+| trimble0-60/grok-bot-visualizer | https://github.com/trimble0-60/grok-bot-visualizer | 本地多 Bot 交接流程图可视化（Vite + 可导出单 HTML）；MIT，示例工作流需换成自己的 | 多 Bot 作战室 / 看板 | GitHub 新建 |
+| BAILEXIANJUN/grokbot-splash-launcher | https://github.com/BAILEXIANJUN/grokbot-splash-launcher | Windows 启动动画壳（Grok娘 splash → 拉起桌面 App），有便携包与校验；偏趣味启动器 | Clients / 趣味 | GitHub 新建 |
+| leeypeng/Grokbot_base | https://github.com/leeypeng/Grokbot_base | 从 ofershap/grok-bot-skills（MIT）按岗位筛选的核验五件套备份；个人角色命名，先作信号 | Skills | GitHub 新建（2026-11-04） |
+
+### Skip（本轮）
+
+空仓/仅标题：adeelibr/openbot、Life0423/agent-skills、Teresa1228/suva-model-image、pini8151gz/grokbot、Vist233/OpenGrokBot；厂商 MCP/目录：aqua-voice/aqua-cursor-plugin、aevent-platform/x-aevent-plugin、K-Lesha/scale-cursor-plugin、swifts1/buybothub-bot-finder、nitturkaryash/qualia-wavelength-cursor-plugin；个人看板/备份：CBMmarketingsolutions/cbm-grok-bot-hq、sgchunge（上轮已 Skip）；ZhimingXUXJTU/job-hunting-helper（求职工作台为主，Grok Bot 只是宿主）；kingzmodzmail-coder/agents-installation（薄安装说明）；白天玩法已收：MarcusYuan/gbdev、ClawDogLabs/slack-grok-bridge、pastdotdev、FeeligWang/dsh、Nicolasdellim/grok-notch、taoning0403 等。X 侧 Article / 模板分享 / 老仓翻炒（orca、skill-index 2026-09）交 X 大 V 或下轮再核。
