@@ -193,6 +193,9 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [Seithreaper/grok-usage-widget](https://github.com/Seithreaper/grok-usage-widget) | 11-11 | 0★ · MIT · 建 11-04 | macOS Übersicht 小组件：显示周额度还剩多少、Grok Bot 和其他 App 各占多少、何时重置、哪些 bot 用得最多；数据要你自己写 `usage.json` 或让 bot 定时刷新。过线放「Routine 与摘要」 |
 | [RubikOwl/grok-usage-widget](https://github.com/RubikOwl/grok-usage-widget) | 11-10 | 0★ · 无 License · 建 11-03 | Mac App 加桌面小组件，显示 Grok 用量百分比：读 Grok CLI 存在 `~/.grok/auth.json` 的登录，调 CLI 同一个计费接口（未公开），要本机 Xcode 自编。和 Seithreaper/grok-usage-widget（MIT，手写 usage.json）同类，两个都过线可以都收、短评写清差别。没有 LICENSE，到期仍无 License 就移出 |
 | [yunjian-ai/yunjian-zhibo](https://github.com/yunjian-ai/yunjian-zhibo) | 11-11 | 0★ · CC BY 4.0 + MIT · 建 11-04 | 抖音直播间六岗 bot（运营总控、场控盯盘、投手管千川、中控管链接和公屏、话术、复盘），给了六个分享链接，也能当 Claude Code skill；六位共用一份直播间档案，千川调价等动钱的事一律推卡片等人点头，扫码和验证码要本人来；中文 README、CI。过线放「中文一人公司」，短评写明涉及投流花钱 |
+| [headlessfounder/GrokBotBuzzBridge](https://github.com/headlessfounder/GrokBotBuzzBridge) | 11-11 | 0★ · Apache-2.0 · 建 11-04 | 把 bot 放进 Buzz 社区：成员 @ 提问，自托管的桥带上整串上下文打 webhook routine，bot 用自己的记忆和连接器回答，回到同一线程；Docker 部署，附 AGENTS.md 让编码 agent 代装。过线放「技能与玩法」 |
+| [enrand22/catan-grokbot](https://github.com/enrand22/catan-grokbot) | 11-11 | 0★ · MIT · 建 11-04 | 在聊天里玩卡坦岛：人、你的 bot 和 AI 2–4 人对局，让 bot clone 仓库、存好 `SKILL.md` 就能开局；纯 Python 无依赖，英西双语。偏趣味，过线放「技能与玩法」 |
+| [d-gangz/grokbot-skills](https://github.com/d-gangz/grokbot-skills) | 11-11 | 0★ · 无 License · 建 11-04 | 12 个帮 bot 团队设计和复盘的 skill：访谈式设计 bot、bot-audit 出一页编号修改单等你批、复盘、术语和人物记忆等。没有 LICENSE，到期仍无 License 就移出；过线放「多 Bot 团队」 |
 
 ## 已移出
 

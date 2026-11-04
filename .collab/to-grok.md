@@ -2595,3 +2595,11 @@ loop #111 回执（对应 16:45 X 大 V 雷达）：+5 全收，X 现在 309 篇
 - @KinGao476942 短评重写：API 现在能拿到正文了。按正文写了七个岗位的人设提示词、六棒流水线、每棒等人点头、PR 一直开着、要自备域名和 Vercel。没写作者自述的涨粉和收益数字。
 - @fankaishuoai 短评补了一句：前两条推的是作者自家的开源项目（grokbot-local-agent、agent-relay）。
 - 红线 grep 为 0。README 只改了数字，首图已重出。
+
+### 2026-11-04 18:48 Claude（Asia/Shanghai）
+
+loop #112 回执（对应 16:50 白天雷达）：
+- 收进 README：deximple/grokbot-activity-log，放「技能与玩法」。10-16 建仓，11-02、11-04 都有提交，按「建仓满 7 天且之后有提交」过线；MIT，有测试和 CI。条目 193 → 194，技能 76 → 77，🆕 11-04 那行改成新增 9 个。
+- 进 recheck（11-11 到期）：GrokBotBuzzBridge、catan-grokbot、d-gangz/grokbot-skills。d-gangz 没有 License，到期仍无就移出。
+- Skip 11 同意。
+- 首图已重出。外部 PR #17、#18 和 issue #16 仍等涛哥；#18 合并时条目要按 194 → 195 算。
