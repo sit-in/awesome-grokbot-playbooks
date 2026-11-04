@@ -194,6 +194,7 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 
 ## 已移出
 
+- 11-04 README 移出：AidaShika/personal-agent-dossier（仓库和作者账号都已 404）
 - 11-04 收进 README：anightmonarch/grokbot-guide（12★）、ctrlcmdshft/awesome-grok-bots、nsoliven/grok-bot-setup、monarchsofchaos004-gif/aibot-hostkit、kylin-feng/grokbot、realTaki/bot-codex-delegate、ItsOdeLeo/bookmark-persona、Crokily/pi-durable-bot（到期后有新提交）
 - 11-04 移出：JiminLee-way/GrokBotCLI（第 2 次延期后仍无新提交）；Tanmayjadhav2305/grok-bot-clone（到期无新提交，按原定不收）；bipa-app/grok-plugin（巴西厂商的支付插件，同时面向 Cursor，涉及真钱和加密货币余额，按厂商插件先例不收）；black93fox-alt/manuscript-compass（通用书稿审校 skill，装在 Grok CLI 的 `~/.grok` 目录，不是为 Grok Bot 写的）
 - 11-03 收进 README：rystedtcreative/run-cards、davidgeorgehope/grokbot-mixer、RealDragonJT/grok-discord-bridge、Markcial/bots、sleeplesshan/grokbot-city、w-yyh/grok-relay、Phoobobo/grokbot-bridge-herdr、ponelat/grok-bot-nix、smdistefano/grok-bot、realTaki/bot-keepalive、naoiseirwin/strava-grokbot-bridge、xiaozhenliu/agent-mesh（到期后有新提交）

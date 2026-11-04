@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/stargazers"><img src="https://img.shields.io/github/stars/sit-in/awesome-grokbot-playbooks?style=flat-square&color=ff7a1a" alt="Stars"></a>
-  <img src="https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-194-blue?style=flat-square" alt="Entries">
+  <img src="https://img.shields.io/badge/%E6%9D%A1%E7%9B%AE-193-blue?style=flat-square" alt="Entries">
   <img src="https://img.shields.io/badge/%E9%85%8D%E6%96%B9-10-blueviolet?style=flat-square" alt="Recipes">
   <img src="https://img.shields.io/badge/%E6%9C%80%E8%BF%91%E6%A0%B8%E5%AE%9E-2026--11--04-success?style=flat-square" alt="Last verified">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml"><img src="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml/badge.svg" alt="link-check"></a>
@@ -25,7 +25,7 @@
 
 | | |
 |---:|---|
-| **194** | 个条目，每条都用 GitHub API 或页面核过：仓库存在、还在更新、确实和 Grok Bot 相关；许可证情况写在短评里 |
+| **193** | 个条目，每条都用 GitHub API 或页面核过：仓库存在、还在更新、确实和 Grok Bot 相关；许可证情况写在短评里 |
 | **10** | 个可抄配方，统一格式：场景 → 输入 → 步骤 → prompt → 产出 → 坑，样例全部脱敏 |
 | **3 级** | 验证标记：✅ 真机跑通 · 🔍 读过文档和配置 · 无标记＝只核实过仓库。✅ 只给真跑过的 |
 | **337** | 篇社区教程和 X 长文精选（[社区教程](docs/community-tutorials.md) 33 + [X 大 V 文章](docs/x-articles.md) 304），加上作者自己的连载索引，每条都核过存活、作者和发布日期 |
@@ -71,7 +71,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 
 - [官方与 SDK](#-官方与-sdk)（6）- 官方文档、模板市场、SDK 和命令行
 - [模板与目录](#-模板与目录)（19）- 模板库、bot 分享链接索引、案例站，找现成的先翻这里
-- [技能与玩法](#-技能与玩法)（77）- skill、MCP、单个模板、可粘贴人设
+- [技能与玩法](#-技能与玩法)（76）- skill、MCP、单个模板、可粘贴人设
 - [多 Bot 团队](#-多-bot-团队)（36）- 作战室、总指挥、多 agent 协作
 - [Routine 与摘要](#-routine-与摘要)（12）- 定时雷达、周报、额度管理
 - [中文一人公司](#-中文一人公司)（6）- 出海客服、微信接入、中文配置
@@ -173,7 +173,6 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 - [grokbot-box-heal](https://github.com/heyalchang/grokbot-box-heal) - 云电脑自愈脚本：平台重置、换机或休眠之后，自动装回 Tailscale、常用软件包和 gh 登录态，并修好休眠后假在线的 Tailscale 连接。云电脑上所有 bot 共用一个带 sudo 的用户，装前看清它改了哪些文件。MIT。标签：`cloud-computer` `tailscale` `recovery`
 - [Grok Bot Backup](https://github.com/company-notes/grok-bot-backup) - 把共享云电脑里的人设、记忆、对话和附件导出成原始文件加可读 Markdown，换助手或交接时用；不想自己跑脚本，可以导入作者做好的备份 bot，按向导选存 Google Drive 还是本地、多久备一次。作者在真实云电脑上测过。导出的 ZIP 没有密码，可能含私密对话和凭证，务必放私密位置。MIT。标签：`backup` `export` `privacy`
 - [Grok Box](https://github.com/dorukardahan/grokbox) - bot 云电脑的持续加密备份，类似 Time Machine：用 restic + rclone 把 `/workspace` 和 `/home/box` 增量备份到你自己的 Google Drive，免费 15 GB 用精简档就够，不要 root、不经别人的服务器。把仓库链接给 bot，它按 AGENTS.md 装，你只需存好恢复密码、建一个 Google OAuth 客户端（约 10 分钟）、点一次授权；`doctor.sh` 和 `test-restore.sh` 检查备份能不能真的还原。默认连凭证一起备份（在加密库里），不想要可以关。MIT。标签：`backup` `restic` `google-drive`
-- [personal-agent-dossier](https://github.com/AidaShika/personal-agent-dossier) - 把一个 bot 的岗位、不许做的事、记忆、routine 和依赖打成一个 `.dossier.md` 搬家：把仓交给 bot 当 skill，说一句「打包你的工作，我要把你搬走」就导出；换平台导入先 dry run，列出会丢什么再等你批。附校验脚本，查字段、重算指纹、扫密钥和隐私。格式源自作者 30 多个 Grok Bot 的真实名册，已试过搬到 Muse、Hermes、OpenClaw。有 CI，中英日韩文档。MIT。标签：`skill` `migration` `memory` `routine`
 - [Tesla Grokbot Connector](https://github.com/naoiseirwin/Tesla-Grokbot-Connector) - 只读的 Tesla Fleet API MCP：问 bot 车还剩多少电、这周开了多远、续航有没有掉，不能控车；在你自己的 bot 云电脑上以 stdio 命令运行，不对公网开放，VIN 打码。要自己申请 Tesla 开发者应用，非官方。MIT。标签：`mcp` `tesla` `read-only`
 - [Grok Bot Vehicle Fleet](https://github.com/matthew-rutledge-dev/grokbot-vehicle-fleet) - 社区 MCP 插件加一组 skill，经官方 Fleet API 读特斯拉车况（电量、空调、门锁、胎压、粗略位置等）：默认只读、先读缓存、不主动唤醒车；打开命令开关后才能下指令，每条都要你确认，不做定时或自动控车，作者写明不能用于紧急或安全场景。要用你自己的开发者应用和令牌，近一周连发了多个版本。MIT。标签：`mcp` `tesla` `vehicle`
 - [grokbot-tunnel](https://github.com/exa-pub/grokbot-tunnel) - 把没有桌面的 Linux 服务器（VPS、家用服务器、容器、树莓派）挂成 Grok Bot 的一台本地电脑，bot 能在上面跑命令、改文件；一个 Go 静态二进制，systemd 常驻、开机自连、自动更新，命令权限分 ask / always / never。非官方；连上期间 bot 能在服务器上执行命令，别挂在放敏感数据的机器上，权限先设 ask。有 CI 和 Release。MIT。标签：`linux` `server` `computer`

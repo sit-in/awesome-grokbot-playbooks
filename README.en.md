@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/stargazers"><img src="https://img.shields.io/github/stars/sit-in/awesome-grokbot-playbooks?style=flat-square&color=ff7a1a" alt="Stars"></a>
-  <img src="https://img.shields.io/badge/entries-194-blue?style=flat-square" alt="Entries">
+  <img src="https://img.shields.io/badge/entries-193-blue?style=flat-square" alt="Entries">
   <img src="https://img.shields.io/badge/recipes-10-blueviolet?style=flat-square" alt="Recipes">
   <img src="https://img.shields.io/badge/last%20verified-2026--11--04-success?style=flat-square" alt="Last verified">
   <a href="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml"><img src="https://github.com/sit-in/awesome-grokbot-playbooks/actions/workflows/link-check.yml/badge.svg" alt="link-check"></a>
@@ -25,7 +25,7 @@
 
 | | |
 |---:|---|
-| **194** | entries, each checked via the GitHub API or the live page: it exists, is still maintained and is actually about Grok Bot; license caveats are noted in the review |
+| **193** | entries, each checked via the GitHub API or the live page: it exists, is still maintained and is actually about Grok Bot; license caveats are noted in the review |
 | **10** | copy-paste recipes in one format: scenario → inputs → steps → prompt → output → pitfalls, all examples sanitized |
 | **3 levels** | of verification: ✅ run end-to-end · 🔍 docs and config reviewed · no mark = repo verified only. ✅ is only for things actually run |
 | **337** | curated community tutorials and X articles ([33 tutorials](docs/community-tutorials.md) + [304 articles from top X creators](docs/x-articles.md)) plus the maintainer's own series, each checked for liveness, author and date |
@@ -71,7 +71,7 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 
 - [Official & SDK](#-official--sdk) (6) - official docs, marketplace, SDKs and CLIs
 - [Templates & directories](#-templates--directories) (19) - template libraries, bot-share indexes and use-case sites; check here first
-- [Skills & Playbooks](#-skills--playbooks) (77) - skills, MCP, single templates, copy-paste profiles
+- [Skills & Playbooks](#-skills--playbooks) (76) - skills, MCP, single templates, copy-paste profiles
 - [Multi-bot teams](#-multi-bot-teams) (36) - war rooms, coordinators, multi-agent work
 - [Routines & Digests](#-routines--digests) (12) - scheduled radars, weekly reviews, usage control
 - [Chinese solo-founder](#-chinese-solo-founder) (6) - global support, WeChat, Chinese configs
@@ -173,7 +173,6 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 - [grokbot-box-heal](https://github.com/heyalchang/grokbot-box-heal) - Self-heal kit for the bot's cloud computer: after a platform reset, machine move or sleep it restores Tailscale, baseline packages and gh auth, and fixes Tailscale hanging on dead sockets after a pause. Every bot on the box shares one sudo user, so check which files it touches first. MIT. Tags: `cloud-computer` `tailscale` `recovery`
 - [Grok Bot Backup](https://github.com/company-notes/grok-bot-backup) - Exports personas, memory, conversations and attachments from the shared cloud computer as raw files plus readable Markdown, for switching assistants or handing over; if you'd rather not run the scripts, import the author's backup bot and its setup asks where to save (Google Drive or local) and how often. Tested by the author on a real cloud computer. The ZIPs have no password and may contain private chats and credentials, so keep them somewhere private. MIT. Tags: `backup` `export` `privacy`
 - [Grok Box](https://github.com/dorukardahan/grokbox) - Time Machine–style encrypted, incremental backups of the bot's cloud computer (`/workspace` and `/home/box`) to your own Google Drive with restic + rclone; the free 15 GB is enough on the lean profile, with no root and no third-party server. Paste the repo link to your bot and it follows AGENTS.md; you only save the restore password, create a Google OAuth client (about 10 minutes) and click one consent link. `doctor.sh` and `test-restore.sh` check that backups really restore. Credentials are backed up by default (inside the encrypted repo); you can turn that off. MIT. Tags: `backup` `restic` `google-drive`
-- [personal-agent-dossier](https://github.com/AidaShika/personal-agent-dossier) - Packs one bot's job, anti-jobs, memory, routines and dependencies into a single `.dossier.md` so it can move: hand the repo to the bot as a skill and say "pack up your job, I'm moving you"; importing on the new platform starts with a dry run that lists what would be lost and waits for your OK. A checker script validates fields, recomputes the fingerprint and scans for secrets and private data. The format grew out of the author's roster of 30+ Grok Bot bots and has been moved to Muse, Hermes and OpenClaw. CI, docs in English, Chinese, Japanese and Korean. MIT. Tags: `skill` `migration` `memory` `routine`
 - [Tesla Grokbot Connector](https://github.com/naoiseirwin/Tesla-Grokbot-Connector) - Read-only Tesla Fleet API MCP: ask your bot how charged the car is, how far it drove this week or whether range is dropping; it can't control the car. Runs as a stdio command on your own bot's computer with no public host, and masks VINs. You need your own Tesla developer app; unofficial. MIT. Tags: `mcp` `tesla` `read-only`
 - [Grok Bot Vehicle Fleet](https://github.com/matthew-rutledge-dev/grokbot-vehicle-fleet) - A community MCP plugin plus skills that reads Tesla vehicle status through the official Fleet API (battery, climate, locks, tire pressure, coarse location and more). Read-only by default, cached data first, and it never wakes the car on its own; commands appear only after you turn them on, each needs your confirmation, and there is no scheduled or automatic control. The author says it is not for emergency or safety use. Uses your own developer app and tokens; several releases shipped in the past week. MIT. Tags: `mcp` `tesla` `vehicle`
 - [grokbot-tunnel](https://github.com/exa-pub/grokbot-tunnel) - Connects a headless Linux server (VPS, home server, container, Raspberry Pi) to Grok Bot as a local computer, so the bot can run commands and edit files there; a single static Go binary that runs as a systemd service, reconnects at boot and updates itself, with ask / always / never command permissions. Unofficial; while connected the bot can execute commands on that server, so keep it off machines with sensitive data and start with ask. CI and releases. MIT. Tags: `linux` `server` `computer`

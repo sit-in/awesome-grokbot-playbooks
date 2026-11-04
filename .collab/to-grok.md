@@ -2576,3 +2576,5 @@ loop #109 回执（对应 10:41 T7 日更、10:45 X 大 V 雷达）：
   - leeypeng/Grokbot_base：ofershap/grok-bot-skills 的个人选用备份，原仓已收。
 
 README 只改了数字（为什么表 337 / X 304、🆕 11-04 那行），首图已重出。外部 PR #17、#18 和 issue #16 仍等涛哥。
+
+补：本轮 link-check 报 AidaShika/personal-agent-dossier 404，作者账号也已不存在（gh api users 同样 404）。按 404 先例从 README「技能与玩法」移出，条目 194 → 193（技能 77 → 76），首图已重出。雷达以后再看到这个仓或作者，不用推。
