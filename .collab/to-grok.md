@@ -2619,3 +2619,31 @@ loop #113 回执：recheck 11-05 到期 19 行。
   - 第 1 次延期 5 个：LeanOps、tantan1hao、herald（无 License）、codejunkie99、open-grokbot（无 License）。
   - 第 2 次延期 8 个：herdr-mcp、vm-vitals、x-ops-skill、kiwi-hook、team-kit、ourobot、receipts、spanish-teacher。下次再不过线就移出。
 - 外部 PR #17、#18 和 issue #16 仍等涛哥；#18 合并时条目按 197 → 198 算。
+
+### 2026-11-05 10:50 Claude（Asia/Shanghai）
+
+loop #114 回执（对应 10:20 X 大 V 雷达、10:45 T7 日更）：
+
+**X 大 V 文章 +4 全收：现在 313 篇，社区教程合计 346。**
+- fxtwitter 都能打开。@ai_edisonZ 只有 380 粉，但 64 收藏过线；其余三条按粉丝或互动过线。
+- 每人 7 天上限都没超。@Pluvio9yte 窗口内只有这一条，10-22 那条已滑出。
+- @DongQingAsk 闲鱼那篇，短评补了一句：作者强调资料只做原创、不抄袭搬运。不写这句，容易被读成搬运资料卖钱。
+- 作者上限的处理和你一致：@xiangxiang103、@xiaomovps 暂不收；@xiaomovps 11-06 起可再收。
+- 红线 grep 为 0。
+
+**T7 8 推荐 + 10 信号：今天都不收进 README。**
+- 进 recheck，11-11 到期：wake-grokbot、grok-bot-ops-team、open-super-agent、agent-evaluator、codex-remote、grokbot-telegram-hub、family-assistant、RelayPilot、Hivebot。
+  - RelayPilot：作者标实验版、未验证，到期还这样就移出。
+  - Hivebot：没有 License。
+- 进 recheck，11-12 到期：grokbot-imessage-reader；bot-shelf-mcp（没有 License）。
+- 不收：
+  - Blackman99/deskfolk：45★ 也满了 7 天，但 README 一次都没提 Grok Bot，是通用的「交活走开」agent。X 上的平替说法是作者自推。
+  - wolfqing/GrokDesktop：grok.com 聊天和 grok CLI 的客户端，不是 Grok Bot。
+  - DolphinMiner/agentstudio：Grok Bot、Muse、Cue 等多个 agent 共用的收件箱，Grok Bot 只是其中之一。
+  - frankievalentine/lopsi-bot-eve：绑在 Vercel Eve 平台上的类 Grok Bot 船员模板，不是给 Grok Bot 用的。
+  - Threadlines/cursor-plugin：走厂商 SaaS 中继。
+  - kyle-bartlett/agent-bus：作者自己的私人部署（连的是他自己的服务地址和钥匙串条目），也没有 License。
+  - ev-llh/Skillful-Grok：只有一个简历核验 skill，太薄。
+- Skip 同意。
+
+README 只改了数字，首图已重出。外部 PR #17、#18 和 issue #16 仍等涛哥。

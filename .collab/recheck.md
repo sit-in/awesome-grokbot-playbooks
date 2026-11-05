@@ -190,6 +190,17 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [headlessfounder/GrokBotBuzzBridge](https://github.com/headlessfounder/GrokBotBuzzBridge) | 11-11 | 0★ · Apache-2.0 · 建 11-04 | 把 bot 放进 Buzz 社区：成员 @ 提问，自托管的桥带上整串上下文打 webhook routine，bot 用自己的记忆和连接器回答，回到同一线程；Docker 部署，附 AGENTS.md 让编码 agent 代装。过线放「技能与玩法」 |
 | [enrand22/catan-grokbot](https://github.com/enrand22/catan-grokbot) | 11-11 | 0★ · MIT · 建 11-04 | 在聊天里玩卡坦岛：人、你的 bot 和 AI 2–4 人对局，让 bot clone 仓库、存好 `SKILL.md` 就能开局；纯 Python 无依赖，英西双语。偏趣味，过线放「技能与玩法」 |
 | [d-gangz/grokbot-skills](https://github.com/d-gangz/grokbot-skills) | 11-11 | 0★ · 无 License · 建 11-04 | 12 个帮 bot 团队设计和复盘的 skill：访谈式设计 bot、bot-audit 出一页编号修改单等你批、复盘、术语和人物记忆等。没有 LICENSE，到期仍无 License 就移出；过线放「多 Bot 团队」 |
+| [Blicae8917/wake-grokbot](https://github.com/Blicae8917/wake-grokbot) | 11-11 | 0★ · MIT · 建 11-04 | 本机 agent（如 Claude Code）叫醒在线 bot 的协议和零依赖 CLI：本地 inbox 是唯一真相，叫醒只是提醒；`wake-envelope/1` JSON Schema，密钥不进配置和消息，带 doctor、限流和总开关，能叫醒 Grok Bot routine 并收回执；中英 README。过线放「多 Bot 团队」 |
+| [antonvnukov/grok-bot-ops-team](https://github.com/antonvnukov/grok-bot-ops-team) | 11-11 | 0★ · MIT · 建 11-04 | 带运维层的多 bot 团队模板：发送、花钱、删除、凭据、品牌、事实六类事必须停下问人，有审稿岗、运行日志格式检查、每个 bot 的停用规则和每周淘汰；AGENTS.md，可用作 GitHub 模板。过线放「多 Bot 团队」 |
+| [kadaliao/open-super-agent](https://github.com/kadaliao/open-super-agent) | 11-11 | 3★ · MIT · 建 11-04 | 自托管 Grok Bot 平替（alpha）：多 bot 群聊交接、后台 worker、共用 Linux 桌面（CDP）、MCP 应用、确认卡和保险库、演示一遍生成技能；中英 README、CI。过线放「自托管与平替」并写明 alpha |
+| [SayandipBagchi/agent-evaluator](https://github.com/SayandipBagchi/agent-evaluator) | 11-11 | 0★ · MIT · 建 11-04 | 给 skill、插件和 MCP 打分并做安全测试：12 个维度评分，在 bwrap 或 Docker 沙箱里放金丝雀检测外泄，19 个 Grok Bot skill 串成评估流水线，引擎本身不调模型 API。过线放「技能与玩法」 |
+| [artisbisers/codex-remote](https://github.com/artisbisers/codex-remote) | 11-11 | 0★ · MIT · 建 11-04 | 非官方远程 MCP：让 bot 列出、新开、读取你 Mac 上的 Codex CLI 会话；本机只听 loopback，经 Cloudflare 隧道加 bearer token 暴露；零 npm 依赖。和已收的 gbdev、bot-codex-delegate 比一比，过线放「多 Bot 团队」 |
+| [0xErnest/grokbot-telegram-hub](https://github.com/0xErnest/grokbot-telegram-hub) | 11-11 | 0★ · MIT · 建 11-04 | 跑在 bot 云电脑里的非官方 Telegram 网关：群里 @ 唤起、固定群路由、主人私聊控制 agent；只出站，网关只听 loopback；从 SSBrouhard 的桥衍生并扩功能，有 CI。过线放「技能与玩法」，短评注明衍生来源 |
+| [mvcaaa/family-assistant](https://github.com/mvcaaa/family-assistant) | 11-11 | 0★ · MIT · 建 11-04 | 家庭 Telegram 网关：手机号白名单、每人一份记忆，后端可选 Grok Bot webhook 或 xAI API；买东西、订东西、删除、改记忆都要主人 10 分钟内点确认；Docker + Cloudflare Tunnel。到期核 Grok Bot 是否主要用法，过线放「技能与玩法」 |
+| [Wyc2006-31/RelayPilot](https://github.com/Wyc2006-31/RelayPilot) | 11-11 | 1★ · MIT · 建 11-04 | 多 agent 编码流程：Grok Bot 编排、Codex 规划和审查、WorkBuddy 云端写和测、GitHub 交接。作者标 Gen1 实验版、端到端云部署未验证；到期仍是这个状态就移出 |
+| [CrepuscularIRIS/Hivebot](https://github.com/CrepuscularIRIS/Hivebot) | 11-11 | 0★ · 无 License · 建 11-04 | 基于 dsh 和 dsh-superagent 的桌面多 bot 个人 agent，目标 1:1 对标 Grok Bot。没有 LICENSE，到期仍无 License 就移出；过线放「自托管与平替」 |
+| [RyanNewsom/grokbot-imessage-reader](https://github.com/RyanNewsom/grokbot-imessage-reader) | 11-12 | 0★ · MIT · 建 11-05 | 在 macOS 上只读、离线读 iMessage 给 bot 用：用 LaunchAgent 把「完全磁盘访问」权限只给一个 helper.app，附 SKILL.md；不能发消息。过线放「技能与玩法」，短评写明要给磁盘访问权限 |
+| [cradrrat/bot-shelf-mcp](https://github.com/cradrrat/bot-shelf-mcp) | 11-12 | 0★ · 无 License · 建 11-05 | Bot Shelf 目录站的 MCP：按想办的事搜 9000 多个社区 bot，远程只读、免费。没有 LICENSE，到期仍无 License 就移出；过线放「模板与目录」，并核 Bot Shelf 和已收目录站是否重复 |
 
 ## 已移出
 
