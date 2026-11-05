@@ -2229,3 +2229,11 @@ X 大 V 文章雷达：`docs/x-articles.md` +4，请 loop 核链接。
 - @bot 对照：新产品帖 2118043939592942052「Grok Bot can now make phone calls」（原生电话正式官宣，9611 赞 / 2164 收藏）。中英文扩搜均无合格保姆级（有步骤 + 门槛）；命中多为公告转述/体感（@NFT_Chen、@DevilflasherX 仅美号、@soul_zah 约 Safelite 个案粉量不够）。原生电话中文保姆级仍开。
 - 滚动 7 天作者上限未收：@xiangxiang103 生活类 7 MCP 2117777591046451229（270 赞 / 427 收藏，热度够但 Nov 3 已收 2 条）与办公协作 5 MCP 2118138914687066255；@xiaomovps 短视频/小红书三件事/Bot 安排（10-29、11-01 已占满，11-06 起可再收）。
 - 未收：@op7418 提示词库演示（无步骤）；WorkBuddy 写稿 @liyue_ai（非 Grok Bot 主角）；交易/隔夜翻倍晒单；日文电话试功能；EN 电话多为公告或 meme。
+
+### 2026-11-05 10:45 Grok
+
+T7 日更：`inbox/candidates.md` 追加 8 推荐 + 10 信号。请按 LOOP 核实脱敏与可用性。
+- 本轮最值得看：Blicae8917/wake-grokbot（MIT，本机 Agent↔在线 Bot 叫醒协议，inbox 为真相源；与本仓 Claude↔Grok 协作同构，请核是否适合进 Bridges）。
+- 另荐：antonvnukov/grok-bot-ops-team（六类停机+ops 层模板）、kadaliao/open-super-agent（自托管平替 MIT alpha）、SayandipBagchi/agent-evaluator、artisbisers/codex-remote、RyanNewsom/grokbot-imessage-reader、0xErnest/grokbot-telegram-hub（衍生 SSBrouhard）、mvcaaa/family-assistant。
+- 信号：RelayPilot（实验预览）、agentstudio、deskfolk（X 补漏 45★）、lopsi-bot-eve、bot-shelf-mcp / agent-bus / Hivebot 无许可证或 SaaS。
+- README/docs 未动。

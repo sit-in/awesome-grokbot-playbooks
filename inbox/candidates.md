@@ -4251,3 +4251,39 @@ Rocco5689/azure-grok-mcp-server（个人 Azure/GitHub 监控 MCP，资源名写�
 ### Skip（本轮）
 
 空仓/个人工作区：669258625-oss/grok-bot-only、Vaish01-png/grokbot-agency、Yeahoo09/grokbot-xfer-test、liryanyiran-afk/grokbot、polkm09/grokbot-backup、xiaobao-grokbot.github.io、ANT193/fomo-desk-app；个人看板：ruxerruxe/grokbot-hq；加密钱包插件：coop-collective/anon-plugin；泛 Agent 技能：manhquydev/agent-trust-skills；Pandora-Dee vessel（个人人设，许可不明）。
+
+## 2026-11-05 10:45 Asia/Shanghai · T7 日更雷达
+
+> 扫近 24 小时（约 11-04 02:00Z 起）新建/更新的 Grok Bot 相关仓；去掉白天玩法雷达已收/已 Skip；X `url:github.com` 交叉；周末优先 GitHub 新仓。未改 README。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| Blicae8917/wake-grokbot | https://github.com/Blicae8917/wake-grokbot | **本机 Agent ↔ 在线 Bot 叫醒协议**：零依赖 CLI，本地 inbox 为真相源、wake 只是 nudge；`wake-envelope/1` JSON Schema；密钥不进配置/消息，带 doctor/限流/kill switch；可唤醒 Grok Bot Routine 并回执。中英 README，MIT。本轮最值得看 | Bridges / Claude↔Grok 协作 | GitHub 新建（2026-11-04） |
+| antonvnukov/grok-bot-ops-team | https://github.com/antonvnukov/grok-bot-ops-team | **带 ops 层的多 Bot 团队模板**：六类停机问人（send/money/delete/credential/brand/fact）、Deming 审稿岗、跑日志格式门禁、每人 kill 规则与周度退役；AGENTS.md + Use this template，MIT | 多 Bot 作战室 / 模板 | GitHub 新建（2026-11-04） |
+| kadaliao/open-super-agent | https://github.com/kadaliao/open-super-agent | **可自托管的 Grok Bot 平替**：多 Bot 群聊交接、后台 Worker、共用 Linux 桌面（CDP）、MCP 应用、确认卡+保险库、演示一遍生成技能；中英 README + CI，MIT（alpha，3★） | Self-hosted / 平替 | GitHub 新建（2026-11-04）+ X |
+| SayandipBagchi/agent-evaluator | https://github.com/SayandipBagchi/agent-evaluator | **给 Skill/插件/MCP 打分与安全闸**：12 维评分、沙箱（bwrap/Docker）+ canary、19 个 Grok Bot skill 编排评估流水线，引擎不调模型 API；MIT | Skills / 安全审计 | GitHub 新建（2026-11-04） |
+| artisbisers/codex-remote | https://github.com/artisbisers/codex-remote | **非官方远程 MCP：让 Grok Bot 操作本机 Codex CLI 会话**（列会话/开任务/读结果）；本机 loopback + Cloudflare 隧道 + bearer；零 npm 依赖，MIT | Bridges / 编码工人 | GitHub 新建（2026-11-04） |
+| RyanNewsom/grokbot-imessage-reader | https://github.com/RyanNewsom/grokbot-imessage-reader | **只读离线读 macOS iMessage**：LaunchAgent 把 Full Disk Access 收窄到 helper.app，附 SKILL.md；不负责发送。MIT，当天新建 | Skills / macOS 渠道 | GitHub 新建（2026-11-05） |
+| 0xErnest/grokbot-telegram-hub | https://github.com/0xErnest/grokbot-telegram-hub | **在 Bot 云电脑里跑的 Telegram 网关**：群 @ + 固定群路由 + 主人私聊 Agent 控制；只出站、网关仅 loopback；衍生自 SSBrouhard 桥并扩功能，MIT + CI | 渠道接入 / Telegram | GitHub 新建（2026-11-04） |
+| mvcaaa/family-assistant | https://github.com/mvcaaa/family-assistant | **家庭 Telegram 网关**：手机号白名单、每人记忆、Grok Bot webhook 或 xAI API；买/订/删/改记忆等一键主人确认（10 分钟）；Docker + Cloudflare Tunnel，MIT | 渠道接入 / 家庭 | GitHub 新建（2026-11-04） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| Wyc2006-31/RelayPilot | https://github.com/Wyc2006-31/RelayPilot | Grok Bot 编排 + Codex 规划审 + WorkBuddy 云端写测 + GitHub 交接的多 Agent 编码工作流；MIT 但标 Gen1 Experimental、端到端云部署 UNVERIFIED | 多 Agent 编码 | GitHub 新建（2026-11-04） |
+| DolphinMiner/agentstudio | https://github.com/DolphinMiner/agentstudio | 本机 Mac 统一收件箱：Grok Bot / Muse / Cue 等 A2A·ACP agent 同屏聊，动作先审批；Apache-2.0，X 今日推 | Clients / 多 Agent 收件箱 | X + GitHub（11-03 建，漏收） |
+| Blackman99/deskfolk | https://github.com/Blackman99/deskfolk | 自托管「交活走开」队友（自带订阅跑编码 agent）；MIT ~45★，X 今日作者自推额度平替叙事；建于 9 月，本轮作补漏信号 | Self-hosted / 平替 | X + GitHub |
+| frankievalentine/lopsi-bot-eve | https://github.com/frankievalentine/lopsi-bot-eve | Vercel Eve 平台上的多 agent 船员模板（改配置走 PR）；Apache-2.0，对标 Grok Bot 形态但绑 Eve | Self-hosted / 平台模板 | GitHub 新建（2026-11-04） |
+| cradrrat/bot-shelf-mcp | https://github.com/cradrrat/bot-shelf-mcp | Bot Shelf 目录站 MCP（搜 9000+ 社区 Bot）；远程只读免费，未声明许可证 | Skills / 目录 MCP | GitHub 新建（2026-11-05） |
+| Threadlines/cursor-plugin | https://github.com/Threadlines/cursor-plugin | Cursor/Grok Bot 连 Threadlines 看本机编码 agent 状态；MIT 但走 SaaS 中继 | Clients / SaaS 连接 | GitHub 新建（2026-11-04） |
+| kyle-bartlett/agent-bus | https://github.com/kyle-bartlett/agent-bus | Claude Code ↔ Grok Bot 双向消息总线（CF Worker MCP+REST）；个人托管、未声明许可证 | Bridges | GitHub 新建（2026-11-04） |
+| ev-llh/Skillful-Grok | https://github.com/ev-llh/Skillful-Grok | MIT Skill 仓，目前仅「CV 履历完整性」一条；结构干净但条目少 | Skills | GitHub 新建（2026-11-04） |
+| wolfqing/GrokDesktop | https://github.com/wolfqing/GrokDesktop | 原生 macOS 窗：嵌 grok.com Chat + 官方 grok CLI（ACP）；Apache-2.0，OpenGrokBot 作者今日同帖带出 | Clients | X（更新信号） |
+| CrepuscularIRIS/Hivebot | https://github.com/CrepuscularIRIS/Hivebot | dsh + dsh-superagent 桌面多 Bot，目标 1:1 对标 Grok Bot；有 README 但未声明 SPDX 许可证 | Self-hosted / 平替 | GitHub 新建（2026-11-04） |
+
+### Skip（本轮）
+
+free-trial-codes/grok-bot（试用邀请推广）；MarsHomestead/panhandle-bot（placeholder）；LanaKor/vedara-mcp-plugin、whoppah/whoppah-plugin（厂商垂直 MCP）；inrilazaldefx-stack/grokbots（纸面交易 PWA）；niboshitofu/grok-bot-work、chapinosuke/grokbot-guide（个人作业/视频导流）；guilherme-vasques-ltda/awesome-ai-radar-list（泛目录薄）；rome-xi/persona-grokbot（Other 许可证）；ExpeditedProjects/hutchdb（上轮已拒通用 agent DB）；OpenGrokBot / exa-pub/grokbot-tunnel / evyevans/content-engine-grokbot / 4zhmv6zvj2-afk/grokbot-essay-writer（README 或 inbox 已有）；空仓/测试同名仓。
