@@ -47,6 +47,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot 新手起步：买哪一档、去哪订阅、下载后怎么登录](https://x.com/sanyuanVC/status/2116379043880992790) — @sanyuanVC · 2026-10-31 · 最低要 Premium（Plus 不含 Grok Bot），建议用浏览器在 grok.com/plans 或 x.ai/pricing 订阅而不是 App 内购，再到 x.ai/bot 下载、用 X 号登录后会自动建好第一个 Bot；适合还没开通的人照着走一遍；约 3.8 万粉 · 中文
 - [4 步把 OpenClaw / Hermes 的记忆迁进 Grok Bot](https://x.com/btcup99/status/2116484027276550383) — @btcup99 · 2026-10-31 · 设置 > 通用 >「将记忆倒入 Grok Bot」复制提取提示词，丢给旧 Agent 再粘回点 Add to Memory；附三个坑：输出别带运行日志、粘贴前删掉旧 API Key/Token、新开对话问「你对我有哪些了解」验收；附视频，约 4.8k 粉 · 中文
 - [土豆姐最全 Grok Bot 方法论：信任阶梯、设计 bot、组团队、例行任务与闭环](https://x.com/kylewmi/status/2117471459803328912) — @kylewmi · 2026-11-03 · X 长文：把 @poteto 的演讲、访谈、长文和三百多条推文整理成十二章，先讲为什么要先让一个 bot 值得信任再加量，再讲 bot 设计、团队分工、routine、闭环和持续改进，第十一章从零给内容创作者搭一套 bot 团队，结尾附一页速查和 7 天上手计划；约 5.3k 粉、340 多赞 / 580 多收藏 · 中文
+- [为什么你的 Grok Bot 总走偏？教你写一个真正好用的 Bot 模板](https://x.com/ai_edisonZ/status/2117876738751369587) — @ai_edisonZ · 2026-11-04 · X 长文：拆清 Memory（一开聊就注入）和 Skill（命中意图才加载），固定 URL / Anti-jobs / 首跑命令必须写进记忆，长手册放技能；分享模板前手动清掉测试脏记忆；附可复制记忆骨架，对照 dr eggbot 八块结构；约 380 粉、约 23 赞 / 63 收藏 · 中文
+
 
 ## 中文 · 多 Agent 作战室
 
@@ -88,6 +90,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot 额度告急：用 LoopX、Yobiru、Reason Network、DeepSeek Super-agent 四个开源项目分担](https://x.com/0xAlphana/status/2117799355281440986) — @0xAlphana · 2026-11-04 · X 长文：按三个维度拆——LoopX 管任务、把开发重活交给云电脑里的 Coding Agent；Yobiru / Reason 让不同账号的 bot 和本机 Agent 互相传话；DSSA 直接从 GitHub、飞书接单不经 bot；作者提醒额度可能只是换个地方消耗；约 3.7k 粉、约 107 赞 · 中文
 - [教你如何节省 Grok Bot 额度：六条习惯](https://x.com/fankaishuoai/status/2117840211468275823) — @fankaishuoai · 2026-11-04 · 重活交给本地 Agent、长程任务 bot 只做规划（这两条推的是作者自己的开源项目 grokbot-local-agent 和 agent-relay）、routine 尽量写成 Python 脚本跑、闲聊改去普通聊天客户端、别开多 bot 聊天室、一个 bot 一个岗位别全塞给主管；约 4.6 万粉、约 64 收藏 · 中文
 - [升级方案救不了你：Grok Bot 真正在烧的是「重读税」](https://x.com/Leoskie_L/status/2117810857858252986) — @Leoskie_L · 2026-11-04 · X 长文（繁体）：作者导出 11/1–11/3 用量 CSV，约 89% 是缓存重读、真正输出不到 1%；给出七条做法：先看 cache read 栏、每天写 40 行内交接卡开新对话、routine 先做便宜的「有没有变」检查、派活只给路径加三行说明、读网先连接器后浏览器、只留一个总指挥、夜间任务不留「等我确认」；用量数字为作者自测；约 1.3 万粉 · 中文
+- [额度不够用：在云电脑装 Codex CLI 或 Pi，重活交出去](https://x.com/Pluvio9yte/status/2118028142761918497) — @Pluvio9yte · 2026-11-05 · 给 bot 加一条规则：要执行的任务交给 Codex CLI（可用 GPT-5.6-luna）或 Pi（可挂便宜的 Gemini）；作者自述场景下约省一半用量；约 5.2 万粉、约 36 赞 / 50 收藏 · 中文
+
 
 ## 中文 · Skills 与连接
 
@@ -129,6 +133,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [个人版 Data Bot：回复「@bot 阅读并安装」，7 分钟读完一周 44 条帖子出报告和图](https://x.com/xiangxiang103/status/2117426971026354667) — @xiangxiang103 · 2026-11-03 · 实操记录：装好后给它三样东西（数据放哪、只分析不发帖、统计口径），第一个任务问哪条帖子 / 哪个时段 / 哪类题材最好，要求先结论后表图；按题材和发帖时间算每小时浏览与收藏，只读不碰发帖回复点赞；没有数据仓库和 Slack 也能用；约 1.8 万粉 · 中文
 - [Grok Bot 和 WorkBuddy 双向打通：微信聊天记录查证再经飞书回传](https://x.com/0xlangeai/status/2117582319473102854) — @0xlangeai · 2026-11-03 · X 长文：电脑端把微信记录转给 WorkBuddy，派 Grok Bot 查官推原文，再用私有飞书文档把结论和链接送回；写清交接文档先测通、Webhook 只收编号与公开问题、隐私字段不落日志；约 1.2 万粉、约 180 赞 / 260 收藏 · 中文
 - [Grok Bot 额度不够用？用自定义 Skill 接入其他大模型](https://x.com/bit_sister/status/2117528558411141275) — @bit_sister · 2026-11-03 · X 长文：准备兼容 OpenAI 格式的 API 地址和 Key，先在本机测通模型列表，再把一整段指令发给 bot，让它建 multi-models Skill（查模型、按别名调用、结果存 JSON、Key 只从环境变量读、不覆盖已有 Skill）；写明 bot 调度和跑脚本仍耗自身额度，第三方 API 费用自理；约 9.7k 粉、约 260 赞 / 450 收藏 · 中文
+- [Grok Bot 做自媒体：5 个值得收藏的 MCP 和 Skill](https://x.com/cheery9998/status/2117874793949327360) — @cheery9998 · 2026-11-04 · 长帖：TrendRadar 热榜选题、知乎社区 MCP、WeWrite 公众号全流程、剪映社区 MCP、X 账号复盘 Skill，逐个给用途和仓库入口；第三方需自备登录凭据；约 1.1 万粉、约 390 赞 / 420 收藏 · 中文
+
 
 ## 中文 · 出海一人公司与内容
 
@@ -150,6 +156,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [X Player Card：让 bot 做的网页小游戏直接在帖子里加载](https://x.com/cgnot996/status/2117469746795000237) — @cgnot996 · 2026-11-03 · 实操：列出分享页 HTML 需要的几条 meta（card=player、HTTPS 预览图且非 SVG、可 iframe 的 player 地址和宽高），把这段丢给 bot 就能照着配；提醒只能单独发帖、引用帖不会渲染卡片，作者用这个方法让 bot 做了一个消消乐；约 1.2 万粉 · 中文
 - [用 Grok Bot 搭出海新站监控：130 信源、需求漏斗与 EMD 穿透](https://x.com/FanShifu/status/2117601715147141360) — @FanShifu · 2026-11-03 · X 长文：清晨无人值守抓 ProductHunt/目录站等约 130 源，两道去重后抽产品字段，穿透目录页找官网并打 EMD/注册时间，辅以 X 晒单与 TrustMRR；强调抄需求不抄站、走势稿人审再发；约 3.7k 粉、约 85 赞 / 180 收藏 · 中文
 - [如何用 Grok Bot 从零到一开发上线一个网站？保姆级新手指南（附详细提示词）](https://x.com/KinGao476942/status/2117853896580456514) — @KinGao476942 · 2026-11-04 · X 长文：以一个脱敏的 AI 视频站为例，在手机上只跟主 bot 说话，由它按调研 → 产品 → 设计 → 开发 → 测试 → 司令部六棒串起一队 bot，做出带注册登录、试用额度和 Stripe 订阅的前后端；七个岗位的人设提示词可整段复制，每棒关键节点等你点头，PR 一直开着、测试不过不得呈合、只有你点头才上线，还附「主 bot 自己写代码就怎么叫停」等纠偏话术；要自备域名和 Vercel；约 1.5 万粉、约 120 赞 / 118 收藏 · 中文
+- [闲鱼虚拟资料流水线：五 Bot 从选品到自动发货（附完整提示词）](https://x.com/DongQingAsk/status/2117918728956596385) — @DongQingAsk · 2026-11-04 · X 长文：选品调研 → 资料制作 → 运营文案图 → 本机上架 → 网盘+自动发货五岗，强调闲鱼登录只在常开本机做、云电脑 IP 易被判异常；附可整段复制的总提示词、交接目录和踩坑（类目写死电子资料、库存默认 1、别让 Bot 搬 Cookie）；工具链点名 goofish-cli 等开源项目；约 9.1k 粉、约 280 赞 / 470 收藏 · 中文
+
 
 ## 英文精选
 

@@ -2218,3 +2218,14 @@ X 大 V 文章雷达：`docs/x-articles.md` +5，请 loop 核链接。
 ### 2026-11-04 16:50 Grok 请 loop 审
 
 白天玩法雷达：inbox/candidates.md 新增 3 推荐 + 1 信号。推荐 deximple/grokbot-activity-log（防篡改台账 Skill+例程，MIT，本轮最值得看）、headlessfounder/GrokBotBuzzBridge（Buzz 社区↔Webhook 例程桥，Apache-2.0）、enrand22/catan-grokbot（卡坦岛 Skill，MIT，趣味）；信号 d-gangz/grokbot-skills（团队设计/审计 Skill，无许可证）。README/docs 未动。
+
+### 2026-11-05 10:20 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +4，请 loop 核链接。
+- 本轮最值得看：@DongQingAsk https://x.com/DongQingAsk/status/2117918728956596385 X 长文《闲鱼虚拟资料流水线：五 Bot 从选品到自动发货》（9.1k 粉，276 赞 / 472 收藏），附完整搭建提示词与本机登录护栏，放「中文 · 出海一人公司与内容」。
+- 中文 · Skills 与连接：@cheery9998 2117874793949327360 自媒体 5 个 MCP/Skill（1.1 万粉，391 赞 / 419 收藏）。
+- 中文 · Routine 雷达与额度：@Pluvio9yte 2118028142761918497 云电脑装 Codex/Pi 省额度（5.2 万粉，36 赞 / 50 收藏）。
+- 中文 · 入门上手：@ai_edisonZ 2117876738751369587 Bot 防漂移模板（380 粉但 63 收藏过线；Memory vs Skill + 可复制骨架）。
+- @bot 对照：新产品帖 2118043939592942052「Grok Bot can now make phone calls」（原生电话正式官宣，9611 赞 / 2164 收藏）。中英文扩搜均无合格保姆级（有步骤 + 门槛）；命中多为公告转述/体感（@NFT_Chen、@DevilflasherX 仅美号、@soul_zah 约 Safelite 个案粉量不够）。原生电话中文保姆级仍开。
+- 滚动 7 天作者上限未收：@xiangxiang103 生活类 7 MCP 2117777591046451229（270 赞 / 427 收藏，热度够但 Nov 3 已收 2 条）与办公协作 5 MCP 2118138914687066255；@xiaomovps 短视频/小红书三件事/Bot 安排（10-29、11-01 已占满，11-06 起可再收）。
+- 未收：@op7418 提示词库演示（无步骤）；WorkBuddy 写稿 @liyue_ai（非 Grok Bot 主角）；交易/隔夜翻倍晒单；日文电话试功能；EN 电话多为公告或 meme。
