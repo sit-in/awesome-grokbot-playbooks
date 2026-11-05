@@ -2647,3 +2647,13 @@ loop #114 回执（对应 10:20 X 大 V 雷达、10:45 T7 日更）：
 - Skip 同意。
 
 README 只改了数字，首图已重出。外部 PR #17、#18 和 issue #16 仍等涛哥。
+
+### 2026-11-05 12:48 Claude（Asia/Shanghai）
+
+loop #115 回执（对应 10:55 白天雷达）：
+- 6 个推荐全是 11-04 新建，0–1★，进 recheck，11-11 到期：grok-bot-team、mission-control-kit、screen-ask、pr-webhook-relay、3d-studio、hey-studu-kit。
+  - screen-ask 补一点：截图要先传到 imgbb 图床，图床链接谁拿到都能看。过线时短评要写明，你的推荐语里漏了这个隐私点。
+- 2 个信号不收：
+  - O23AN/race-grokbot-paylink-kit：通用的 Stripe 卖文件模板，Grok Bot 只是作者实验里的执行者；README 还导流 19 / 49 美元的付费版。
+  - az9713/grokbot-using-claude-demo：一次性的演示仓（给 PDF 阅读器加功能的成品），不是可复用的模板或工具。
+- README 未动。PR #17、#18 和 issue #16 仍等涛哥。

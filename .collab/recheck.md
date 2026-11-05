@@ -201,6 +201,12 @@ Claude 维护。仓库没过收录门槛（见 [CONTRIBUTING.md](../CONTRIBUTING
 | [CrepuscularIRIS/Hivebot](https://github.com/CrepuscularIRIS/Hivebot) | 11-11 | 0★ · 无 License · 建 11-04 | 基于 dsh 和 dsh-superagent 的桌面多 bot 个人 agent，目标 1:1 对标 Grok Bot。没有 LICENSE，到期仍无 License 就移出；过线放「自托管与平替」 |
 | [RyanNewsom/grokbot-imessage-reader](https://github.com/RyanNewsom/grokbot-imessage-reader) | 11-12 | 0★ · MIT · 建 11-05 | 在 macOS 上只读、离线读 iMessage 给 bot 用：用 LaunchAgent 把「完全磁盘访问」权限只给一个 helper.app，附 SKILL.md；不能发消息。过线放「技能与玩法」，短评写明要给磁盘访问权限 |
 | [cradrrat/bot-shelf-mcp](https://github.com/cradrrat/bot-shelf-mcp) | 11-12 | 0★ · 无 License · 建 11-05 | Bot Shelf 目录站的 MCP：按想办的事搜 9000 多个社区 bot，远程只读、免费。没有 LICENSE，到期仍无 License 就移出；过线放「模板与目录」，并核 Bot Shelf 和已收目录站是否重复 |
+| [jon-lange/grok-bot-team](https://github.com/jon-lange/grok-bot-team) | 11-11 | 0★ · MIT · 建 11-04 | 按任务类型逐级放权的多 bot 团队：幕僚长是唯一对接人，专员默认只起草，某类活做稳了才升到「先做后报」；事件唤醒优先、不轮询；带 10 分钟 QUICKSTART、可贴提示词和脱敏案例。过线放「多 Bot 团队」 |
+| [medicfsd/mission-control-kit](https://github.com/medicfsd/mission-control-kit) | 11-11 | 0★ · MIT · 建 11-04 | 自托管 bot 团队看板：各 bot 往共享 JSONL 团队日志写一行，云电脑脚本生成 data.json 推到你自己的免费 VM；页面有今日简报、待批（批准 / 拒绝 / 完成）、进行中、截止和账单、用量、每个 bot 的卡片，密码加 passkey 登录。过线放「多 Bot 团队」 |
+| [echris6/screen-ask](https://github.com/echris6/screen-ask) | 11-11 | 0★ · MIT · 建 11-04 | Mac 上按住快捷键说话问屏幕：截图经 webhook 交给你自己的 routine 回答，长活先回「On it」，花钱、发送、删除先问你；非官方，有 dmg（未公证）和模板。截图要先传到 imgbb 图床拿链接，过线时短评写明截图会上传第三方图床；放「技能与玩法」 |
+| [damao-bot-army/pr-webhook-relay](https://github.com/damao-bot-army/pr-webhook-relay) | 11-11 | 0★ · MIT · 建 11-04 | 组织级 GitHub PR webhook 转发给 routine webhook 的 Cloudflare Worker：校验 HMAC 签名，只转 opened、synchronize 等事件的简短摘要；CI、gitleaks、SECURITY.md，0.1.0。和同作者 x-reply-guard-mcp 一起看。过线放「技能与玩法」 |
+| [script-repo/3d-studio](https://github.com/script-repo/3d-studio) | 11-11 | 0★ · MIT · 建 11-04 | 单 bot 配方：把任意机械做成离线可驾驶的 3D 模拟器；AGENT.md 人设、9 步 SKILL.md、提示词和审稿模板，底层调用另一位作者的 teardown Claude Code skill，附「在 Grok Bot 里重建」三步。过线放「技能与玩法」 |
+| [Clarke-ro/hey-studu-kit](https://github.com/Clarke-ro/hey-studu-kit) | 11-11 | 1★ · MIT · 建 11-04 | 由一队 bot 运营的学生学习 PWA：教练、机会、资讯、聊天等 bot 往 App 推课程和反馈；Render + Neon 免费部署，带 setup bot 和示例内容。过线放「技能与玩法」 |
 
 ## 已移出
 
