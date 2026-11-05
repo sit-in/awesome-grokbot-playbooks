@@ -75,7 +75,7 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 - [Multi-bot teams](#-multi-bot-teams) (36) - war rooms, coordinators, multi-agent work
 - [Routines & Digests](#-routines--digests) (12) - scheduled radars, weekly reviews, usage control
 - [Chinese solo-founder](#-chinese-solo-founder) (8) - global support, WeChat, Chinese configs
-- [Self-hosted bots](#-self-hosted-bots) (18) - stay off the cloud, bring your own model
+- [Self-hosted bots](#-self-hosted-bots) (19) - stay off the cloud, bring your own model
 - [Hardware](#-hardware) (7) - give your bot a physical front end
 - [Learning](#-learning) (13) - tutorials, handbooks, tutorial indexes
 
@@ -290,6 +290,7 @@ Full history: [README commits](https://github.com/sit-in/awesome-grokbot-playboo
 - [kwant](https://github.com/alexsergivan/kwant) - A self-hosted bot team in one Rust binary with a built-in web app: bots hand work to each other by @mention, separate spaces for work and home, scheduled routines, and approval cards for risky steps; engines are Claude, Codex or Grok CLI logins or API keys. No telemetry; first start downloads a routing model (can be turned off). Mac installer available. AGPL-3.0. Tags: `self-hosted` `multi-bot` `alternative`
 - [GrokBot (kylin-feng)](https://github.com/kylin-feng/grokbot) - An open-source learning demo that recreates the Grok Bot interface: a preset team (Chief of Staff, Inbox Manager and more), coworker-style threads, the full run from typing to Working to a step log to Done, looping another bot into a thread, and routines in the sidebar. The "cloud computer" panel is simulated locally and does not drive a real machine. Express and plain JS with no build step; bring your own xAI or any OpenAI-compatible key. Unofficial, Chinese and English README. MIT. Tags: `clone` `demo` `byok`
 - [Pots (pi-durable-bot)](https://github.com/Crokily/pi-durable-bot) - An open-source "AI coworker" on your own machine with the model you choose. It reads the Slack, Discord, email, calendars and other places you invite it to, decides when to speak up, writes and runs code on its own computer and sets its own reminders to follow up. One long-term memory lives on disk; after a crash it picks up where it stopped and never sends the same message twice. An npm package; needs Node 24. The author names Grok Bot as the reference point, so it counts as an open-source alternative. MIT. Tags: `self-hosted` `byo-model` `durable`
+- [5dive](https://github.com/5dive-ai/5dive) - An open-source (MIT) self-hosted agent team: Claude Code, Codex, Grok, Hermes, OpenClaw and other agent CLIs share one task board on your own Linux server, hand work to each other and check it. Each agent is its own Linux user. You need your own Linux server, and the one-line install (`curl … | sudo bash`) runs install.sh as root, so read the script first. 5dive.ai also sells a paid hosted version (author-related). Tags: `self-hosted` `multi-bot` `byo-model` `author`
 
 <sub>[⬆ Back to contents](#-contents)</sub>
 
