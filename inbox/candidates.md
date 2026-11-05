@@ -4313,3 +4313,29 @@ free-trial-codes/grok-bot（试用邀请推广）；MarsHomestead/panhandle-bot�
 ### Skip（本轮）
 
 空仓/个人：PublicAiAPP/grok-bot、peterpitt/grokbot、seanconn-84/grokbot、edward200112/GrokBotBasement、convenexevents/grokbot-dashboard、wayneleong-byte/grokbot-tower、WZ0425/Bots、jun-eg/grokbot-tunnel、b402261150/grokbot-stage2-xfer、Bodila51/grokbot-spacexsi-engineer、medicfsd.github.io、ArchieDX123/bot-manager；ThePeeps191 两仓（无 README/许可不明）；泛工具：Saurabh960/ai-web-app-tester、plugmcp-ai/plugmcp-mcp、omarchy 主题；HiAPIAI/free-backlinks-for-agents（非 Grok Bot 玩法，个人参考不进公开候选）。
+
+## 2026-11-05 16:55 Asia/Shanghai · 白天玩法雷达
+
+> 扫 11-05 04:00 Asia/Shanghai 起新建的 Grok Bot 相关 GitHub 仓 + X `url:github.com` 交叉，与 README / inbox / docs 全文去重（含本日 10:45 T7、10:55 白天两轮）。未改 README。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| WealthRxAi/grok-foreman | https://github.com/WealthRxAi/grok-foreman | **Grok Bot 当工头、Claude Code 当工人、人只点 Merge**：早 6 点 Bot 读错误日志/issue 挑 ≤3 个任务写工单 → `run-ticket.sh` 让 Claude Code 开分支、先写失败测试再最小修复 → Bot 验证据、点预览站、发手机简报 → 合并后回看生产日志；含 Bot 指令、三条 routine、CLAUDE.md 工人契约、settings.json、工单模板。编码不耗 Grok Bot 周额度。MIT。本轮最值得看 | Bridges / 编码工人 | GitHub 新建（2026-11-05，配套视频） |
+| miniLV/portfolio-research-desk | https://github.com/miniLV/portfolio-research-desk | **六席美股研究台**：工作日一份早报（财报、SEC、估值、期权、论点压力测试），永不下单；市场单 Bot 演六席，回「建六席群」再拆五专岗+一群；中英双语 QUICKSTART/SETUP。MIT | 多 Bot 作战室 / 垂直配方 | GitHub 新建（2026-11-05） |
+| digitalgym/grok-bot-usage-harness | https://github.com/digitalgym/grok-bot-usage-harness | **量多 Bot 群聊的唤醒成本**：估算脚本（不耗额度）对比「群聊无 @」与「一个 Lead + 笔记文件」，固定七条测试消息 CSV、前后对比、安静规则提示词；示例数字明确标注为虚构。Python 零依赖，MIT | 省额度 / 团队布局 | GitHub 新建（2026-11-05） |
+| aritosi/grokbot-meme | https://github.com/aritosi/grokbot-meme | **零思考表情包 Skill**：本地脚本按原文/事件/情绪选图、限频、去重，返回一行 JSON，模型不挑图不调 API；stdlib Python、附 30 张 CC0 原创表情与测试。中文 README，MIT | Skills / 省额度 | GitHub 新建（2026-11-05） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| 0xMulight/grok-bot-efficiency-kit | https://github.com/0xMulight/grok-bot-efficiency-kit | 「重复巡逻交给脚本」Skill：BSC 新池只读监控、CA 风险查询、Routine 省额度审计；默认只读不交易，MIT；币圈场景偏窄 | Skills / 省额度 | GitHub 新建（2026-11-05） |
+| hongkongkiwi/grokbot-control | https://github.com/hongkongkiwi/grokbot-control | Rust MCP + CLI：让其他 AI 管 Bot 的人设/对话/routine/记忆/用量；MIT，但面向泛「xAI 驱动 bot」，是否对接 Grok Bot 产品本体待核 | Bridges / 控制面 | GitHub 新建（2026-11-05） |
+| ZhangHalfGod/Grok_Bot_company | https://github.com/ZhangHalfGod/Grok_Bot_company | Three.js 3D 办公室：点工位派任务，Webhook 例程即时派单 + 5 分钟兜底轮询，回复写回本地队列；中文 README，未声明许可证 | 多 Bot 作战室 / 可视化 | GitHub 新建（2026-11-05） |
+| bk-han-dev/tip-to-reduce-usage-for-grok-bot | https://github.com/bk-han-dev/tip-to-reduce-usage-for-grok-bot | 可复制的「每周用量审计 Bot」提示词：不编数字、最多 3 条编号建议、等主人回编号才动；未声明许可证且带个人站导流 | 省额度 / 提示词 | GitHub 新建（2026-11-05） |
+
+### Skip（本轮）
+
+shibamondeki139/grok-bot-complete-guide-grok-bot-（自称「已去掉外链与出处」的汇编，来源不明）；bnth09productions-maker/crypto-wallet-hack-watcher（x402 付费查询导流）；bradleyhomelinuxnet-prog 杠杆交易 bot；slchy/miaiglasses2grokbot（小米眼镜帧协议，尚未见 Grok Bot 接入）；thicket-hq/plugins（厂商 SaaS 插件）；belliedmonkey/grok-bot-usage-optimizer（无许可证、与上面审计类重复）；Antilitist 存档修改器；ThePeeps191 两仓（上轮已 Skip）；空仓/个人作业：ChellyRyo/GrokBot、RandiDev-id/grok-bot-demo、fmsseo/Grokbot、xifengzhu/grokbot-website、yzq1990/grok_bot_project_1、两份 grok-bot-hire-job-part1；omarchy 主题（上轮已 Skip）；X 上「破甲」提示词类帖不收。

@@ -2241,3 +2241,7 @@ T7 日更：`inbox/candidates.md` 追加 8 推荐 + 10 信号。请按 LOOP 核�
 ### 2026-11-05 10:55 Grok 请 loop 审
 
 白天玩法雷达：inbox/candidates.md 新增「2026-11-05 10:55 · 白天玩法雷达」段，推荐 6（jon-lange/grok-bot-team 逐级放权团队最值得看；mission-control-kit 看板、screen-ask、pr-webhook-relay、3d-studio、hey-studu-kit）+ 信号 2；请核许可证与实跑情况后决定是否进 README。README/docs 未动。
+
+### 2026-11-05 16:55 Grok 请 loop 审
+
+白天玩法雷达 inbox/candidates.md 新增「2026-11-05 16:55」一节：推荐 4（最值得看 WealthRxAi/grok-foreman：Grok Bot 当工头、Claude Code 修 bug、人只点 Merge，MIT；另 miniLV/portfolio-research-desk、digitalgym/grok-bot-usage-harness、aritosi/grokbot-meme），信号 4。hongkongkiwi/grokbot-control 是否对接 Grok Bot 本体待核。README/docs 未动。
