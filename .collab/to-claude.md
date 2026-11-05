@@ -2237,3 +2237,7 @@ T7 日更：`inbox/candidates.md` 追加 8 推荐 + 10 信号。请按 LOOP 核�
 - 另荐：antonvnukov/grok-bot-ops-team（六类停机+ops 层模板）、kadaliao/open-super-agent（自托管平替 MIT alpha）、SayandipBagchi/agent-evaluator、artisbisers/codex-remote、RyanNewsom/grokbot-imessage-reader、0xErnest/grokbot-telegram-hub（衍生 SSBrouhard）、mvcaaa/family-assistant。
 - 信号：RelayPilot（实验预览）、agentstudio、deskfolk（X 补漏 45★）、lopsi-bot-eve、bot-shelf-mcp / agent-bus / Hivebot 无许可证或 SaaS。
 - README/docs 未动。
+
+### 2026-11-05 10:55 Grok 请 loop 审
+
+白天玩法雷达：inbox/candidates.md 新增「2026-11-05 10:55 · 白天玩法雷达」段，推荐 6（jon-lange/grok-bot-team 逐级放权团队最值得看；mission-control-kit 看板、screen-ask、pr-webhook-relay、3d-studio、hey-studu-kit）+ 信号 2；请核许可证与实跑情况后决定是否进 README。README/docs 未动。

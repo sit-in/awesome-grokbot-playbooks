@@ -4287,3 +4287,29 @@ Rocco5689/azure-grok-mcp-server（个人 Azure/GitHub 监控 MCP，资源名写�
 ### Skip（本轮）
 
 free-trial-codes/grok-bot（试用邀请推广）；MarsHomestead/panhandle-bot（placeholder）；LanaKor/vedara-mcp-plugin、whoppah/whoppah-plugin（厂商垂直 MCP）；inrilazaldefx-stack/grokbots（纸面交易 PWA）；niboshitofu/grok-bot-work、chapinosuke/grokbot-guide（个人作业/视频导流）；guilherme-vasques-ltda/awesome-ai-radar-list（泛目录薄）；rome-xi/persona-grokbot（Other 许可证）；ExpeditedProjects/hutchdb（上轮已拒通用 agent DB）；OpenGrokBot / exa-pub/grokbot-tunnel / evyevans/content-engine-grokbot / 4zhmv6zvj2-afk/grokbot-essay-writer（README 或 inbox 已有）；空仓/测试同名仓。
+
+## 2026-11-05 10:55 Asia/Shanghai · 白天玩法雷达
+
+> 扫 11-04 起新建的 Grok Bot 相关 GitHub 仓，与 README / inbox / docs 全文去重（含 T7 本日 10:45 一轮）。未改 README。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| jon-lange/grok-bot-team | https://github.com/jon-lange/grok-bot-team | **「按任务类型逐级放权」的多 Bot 团队**：一个幕僚长做唯一对接人，专员默认只起草，某类任务做稳了才升到「先做后报」；带 10 分钟 QUICKSTART、可贴提示词和脱敏案例；事件唤醒优先、不轮询。MIT。本轮最值得看 | 多 Bot 作战室 / 模板 | GitHub 新建（2026-11-04） |
+| medicfsd/mission-control-kit | https://github.com/medicfsd/mission-control-kit | **自托管 Bot 团队看板**：各 Bot 往共享 JSONL 团队日志写一行，box 脚本生成 data.json 推到免费 VM；今日简报、待批（批准/拒绝/完成）、进行中、截止与账单、用量、每 Bot 卡片；密码+passkey 登录。MIT | 多 Bot 作战室 / 看板 | GitHub 新建（2026-11-04） |
+| echris6/screen-ask | https://github.com/echris6/screen-ask | **Mac 按住快捷键语音问屏幕**：截图经 webhook 交给自己的 Grok Bot Routine 回答，长任务说「On it」，花钱/发送/删除先问；非官方、无中间服务器，需 imgbb。MIT，附 dmg 与模板 | Clients / macOS 语音入口 | GitHub 新建（2026-11-04） |
+| damao-bot-army/pr-webhook-relay | https://github.com/damao-bot-army/pr-webhook-relay | **组织级 GitHub PR webhook → Routine webhook 中继**：CF Worker 校验 HMAC，只转 opened/synchronize 等摘要；CI + gitleaks + SECURITY.md，适合补「仓级监听」缺口。MIT，0.1.0 | Bridges / GitHub 事件 | GitHub 新建（2026-11-04） |
+| script-repo/3d-studio | https://github.com/script-repo/3d-studio | **单 Agent 配方：任意机械 → 离线可驾驶 3D 模拟器**：AGENT.md 人设 + 9 步 SKILL.md + 提示词/审稿模板，驱动 Elvar 的 teardown Claude Code skill；「在 Grok Bot 里重建」三步。MIT | Skills / 创意生产 | GitHub 新建（2026-11-04） |
+| Clarke-ro/hey-studu-kit | https://github.com/Clarke-ro/hey-studu-kit | **Bot 团队运营的学生学习 PWA**：Coach/机会/资讯/聊天等 Bot 往 App 发课与反馈并推送；Render + Neon 免费部署，带 setup bot 与示例内容。MIT | 垂直配方 / 教育 | GitHub 新建（2026-11-04） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| O23AN/race-grokbot-paylink-kit | https://github.com/O23AN/race-grokbot-paylink-kit | 只用 Stripe Payment Link 卖文件：服务端核 Checkout Session 后才下发，限权 key；Bot 5 天公开实验产物，付款代码需自审。MIT | 一人公司 / 收款配方 | GitHub 新建（2026-11-04） |
+| az9713/grokbot-using-claude-demo | https://github.com/az9713/grokbot-using-claude-demo | 演示 Grok Bot 在云电脑上调 Claude Code 给开源 PDF 阅读器 Folio 加功能的 fork；作为「Bot 带编码 agent」实证，不是模板。MIT | Bridges / 编码工人 | GitHub 新建（2026-11-04） |
+
+### Skip（本轮）
+
+空仓/个人：PublicAiAPP/grok-bot、peterpitt/grokbot、seanconn-84/grokbot、edward200112/GrokBotBasement、convenexevents/grokbot-dashboard、wayneleong-byte/grokbot-tower、WZ0425/Bots、jun-eg/grokbot-tunnel、b402261150/grokbot-stage2-xfer、Bodila51/grokbot-spacexsi-engineer、medicfsd.github.io、ArchieDX123/bot-manager；ThePeeps191 两仓（无 README/许可不明）；泛工具：Saurabh960/ai-web-app-tester、plugmcp-ai/plugmcp-mcp、omarchy 主题；HiAPIAI/free-backlinks-for-agents（非 Grok Bot 玩法，个人参考不进公开候选）。
