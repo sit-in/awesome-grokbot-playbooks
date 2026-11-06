@@ -4377,3 +4377,25 @@ shibamondeki139/grok-bot-complete-guide-grok-bot-（自称「已去掉外链与�
 ### Skip（本轮）
 
 空仓/占位：wizzz20/GrokBot、kinqcu/grokbot-desk、vip0123/dot-grok-bot、filiplipibusiness-beep/Grok-Bot-pro、yaredtesfaye17-crypto/grok-bot-workspace、firewithinfire/slopjengine、ramion-cloud/grokbot、CodewithMubasher/Calbot（无 README）；Wrocław hackathon 作业：AnnPoberezhna/GrokBot26_hack、Arputikos/GrokBotHackathon2026、rmaziarka/GrokBotHackathonWroclaw、Kabanosk/grok-bot-hackathon-26、kluku/grokbot-hackathon、jknthn/grokbot-hackaton-wroclaw-team1；币圈/导流：0xquqi/EZbot-agentid-grokbot、fh199601-oss/dafeiyu、Lixin311566/GG-Hedge-Fund-OG、bnth09productions-maker（上轮已 Skip）；厂商垂直：jundihuang/shopify-geo-cursor-plugin、theopenapps/openapps-mcp、GlobalTC/drivr-glass、mohsin-tariq-10/factory-tots、moxsea-ab/moxsea-plugin、IxalonDarkstone/Skills（SpicyChat）；个人杂项：juiceboxat/tesla-fleet-public、dip-hbm/hbm-grok-webinar、xztanthropic-svg/live-wallpaper-kit、zhuzhe1983/grok-bot-esp32-stopwatch、lucasdbb/grok-bot-skills-bragaadv、Apeloff1/Skeleton-Test-Readiness-Complete、vituladominik-ai/Grokbot（纸面交易）；上轮已收/已 Skip：WealthRxAi/grok-foreman、miniLV、digitalgym、aritosi/grokbot-meme、0xMulight、ZhangHalfGod、shibamondeki139、ChellyRyo 等。
+
+## 2026-11-06 10:55 Asia/Shanghai · 白天玩法雷达
+
+> 扫 11-05 16:00 Asia/Shanghai 起（相对上轮白天 16:55）+ 相对本日 10:45 T7 去重。GitHub `gh search`/`gh api` 为主；X `search_posts_all` 持续 503，未做 X 交叉补漏。未改 README。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| IvyYang1999/dispatch | https://github.com/IvyYang1999/dispatch | **本机 Claude Code / Codex / Grok Bot 会话互通**：找会话、投递消息、按收件人看回执；CLI + MCP + hook + Tauri 桌面（Apple Silicon）；Grok Bot 经桌面网关/`gbot` CLI 直达云电脑。消息落盘 Markdown，不上云。MIT。本轮最值得看（T7 漏收） | Bridges / 多会话 | GitHub 新建（2026-11-05，T7 未收） |
+| smarzban/rex-grokbot-bridge | https://github.com/smarzban/rex-grokbot-bridge | **Grok Bot 经 Tailscale MCP 看管本机 Rex 终端编码 agent**：列会话/读屏/键入/`spawn_agent`（Claude Code/Codex/Pi/Grok Build）；默认 `watched` 须本机会话 opt-in；完成/卡住 webhook 回 Bot。macOS + launchd，MIT（T7 漏收） | Bridges / 编码工人 | GitHub 新建（2026-11-04，11-05 仍在推） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| rome-xi/persona-grokbot | https://github.com/rome-xi/persona-grokbot | Persona hub 的 Grok Bot 源插件：Agents 页列 Bot/会话、实时推回复、发文字；走非公开桌面协议（grok-bot-sdk），客户端改版可能失效。NOASSERTION | Bridges / Persona | GitHub 新建（2026-11-04） |
+| wayneleong-byte/grokbot-tower | https://github.com/wayneleong-byte/grokbot-tower | 等距「指挥塔」看板：读 `status.json` 快照展示花名册/等待；动效与花费仍浏览器模拟。个人向、无许可证 | 多 Bot 作战室 / 可视化 | GitHub 新建（2026-11-04） |
+
+### Skip（本轮）
+
+T7 10:45 已推荐/信号/Skip 的本轮不再重复（含 RongleCat/grok-bot-cli、telegram-routine-bridge、x-launch-kit、laravel-grok-bot、task-notify、pocket-webhook、grokx、open-skills、virtual-office、ProkBot、Krag、hackathon 作业、币圈导流等）；WZ0425/Bots（几乎空 README）；HiAPIAI/free-backlinks-for-agents（SEO 外链农场向，不进 Awesome）；grok-bot-app/grok-bot（自称官方产品镜像，营销向）；Glen-Web-App/best-agent-memory-mcp、plugmcp-ai/plugmcp-mcp、JosssphZhou/poki、majorminorlabs/hermes-voice（非 Grok Bot 玩法主轴）；tal-giladi/grokbot-field-guide（2026-08 旧教程，窗口外）。

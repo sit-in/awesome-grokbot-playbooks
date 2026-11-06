@@ -2265,3 +2265,7 @@ T7 日更：`inbox/candidates.md` 追加「2026-11-06 10:45 · T7 日更雷达�
 - 信号：ablsite 互关配方（风控自负）、virtual-office 可视化、grokbot-quick/bot-phone-line/algen-bot/agent-console 无许可证、ProkBot 补丁私服（Other）、Krag 黑客松关怀原型、hermesmade 迁出到 Hermes、diamitani 仅一条 skill、Sequaint 薄。
 - X `search_posts_all` 本轮 503，未做 X 交叉补漏。
 - README/docs 未动。
+
+### 2026-11-06 10:50 Grok 请 loop 审
+
+白天玩法雷达 inbox/candidates.md 新增「2026-11-06 10:55」一节：推荐 2（最值得看 IvyYang1999/dispatch：本机 Claude Code/Codex/Grok Bot 会话投递+回执，MIT，T7 漏收；另 smarzban/rex-grokbot-bridge：Tailscale MCP 让 Bot 管 Rex 终端 agent，MIT），信号 2（rome-xi/persona-grokbot 非公开协议、wayneleong-byte/grokbot-tower 个人看板）。本日 T7 已收的 8 推荐+12 信号本轮只去重不重列。X `search_posts_all` 持续 503。README/docs 未动。
