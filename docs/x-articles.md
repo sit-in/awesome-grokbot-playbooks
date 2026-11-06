@@ -49,6 +49,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [土豆姐最全 Grok Bot 方法论：信任阶梯、设计 bot、组团队、例行任务与闭环](https://x.com/kylewmi/status/2117471459803328912) — @kylewmi · 2026-11-03 · X 长文：把 @poteto 的演讲、访谈、长文和三百多条推文整理成十二章，先讲为什么要先让一个 bot 值得信任再加量，再讲 bot 设计、团队分工、routine、闭环和持续改进，第十一章从零给内容创作者搭一套 bot 团队，结尾附一页速查和 7 天上手计划；约 5.3k 粉、340 多赞 / 580 多收藏 · 中文
 - [为什么你的 Grok Bot 总走偏？教你写一个真正好用的 Bot 模板](https://x.com/ai_edisonZ/status/2117876738751369587) — @ai_edisonZ · 2026-11-04 · X 长文：拆清 Memory（一开聊就注入）和 Skill（命中意图才加载），固定 URL / Anti-jobs / 首跑命令必须写进记忆，长手册放技能；分享模板前手动清掉测试脏记忆；附可复制记忆骨架，对照 dr eggbot 八块结构；约 380 粉、约 23 赞 / 63 收藏 · 中文
 
+- [10 万人看过的 Grok Bot 省额度帖，背后是这一整套带 Bot 的方法](https://x.com/leaf_sanren/status/2117935731838722255) — @leaf_sanren · 2026-11-04 · X 长文约 5900 字：把 poteto 信任四步落到实操（看着做→存技能→测对→再设例行），讲额度、记忆、组队、交活带证据和国内四个坑（出口 IP、别急升级、国内接口、矩阵账号），附 7 天上手；约 4.9k 粉、约 159 赞 / 282 收藏 · 中文
+
 
 ## 中文 · 多 Agent 作战室
 
@@ -70,6 +72,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [按岗位拆 Bot 搭自媒体团队：管什么、怎么干、先问我](https://x.com/johnAGI168/status/2116574459318460725) — @johnAGI168 · 2026-10-31 · 长帖：推特/小红书/抖音/YouTube/公众号各一岗，再建视频导演、盯私信、生活助手；建 Bot 只写三件事（管什么、怎么干、哪些事先问我），发帖/私信/下单写死先确认、付钱本人点；推特 Bot 早晚搜玩法选题，建议先跑顺一个岗位再加；约 2.3 万粉 · 中文
 - [四个 Bot 一个群：公众号生产线岗位合同＋四份模板](https://x.com/xoyif63862452/status/2116693751473021412) — @xoyif63862452 · 2026-11-01 · X 长文：选题雷达/主笔/文字编辑/视觉排版四岗，每岗 description 写成「负责什么、什么算好、在哪停下」三段式，附可复制提示词；作者实测四岗跑通，排版那环改成让 bot 写程序按固定版式出图；强调共享云电脑不是安全边界、发布与付钱留人手、账单无上限；约 8.1k 粉 · 中文
 - [Grok Bot 怎么用才顺手：拆解 poteto 使用指南，先让 bot 读帖再改一件事](https://x.com/0xlangeai/status/2117197419779866647) — @0xlangeai · 2026-11-02 · X 长文：给出一段可直接复制的提示词，让 bot 读 poteto 主帖和补充帖后挑一件事先改；再拆 Dr Eggbot 设计岗位、一个职责、不做什么、复述加小样检查、把纠正写成 skill，附实操截图；约 1.2 万粉 · 中文
+- [九岗 Bot 怎么排：总入口拆活，不用群聊互相传话](https://x.com/xiaomovps/status/2118154686637474093) — @xiaomovps · 2026-11-05 · 长帖：小墨助手/Agent 安装/邮件/调研/X/SubStack/知识库/GitHub/图片视频九岗各管一摊，发帖与合并代码留人手确认；作者实测群聊互传又烧额度又跑偏，改成主入口分派；约 1.8 万粉、约 27 赞 / 22 收藏 · 中文
+
 
 ## 中文 · Routine 雷达与额度
 
@@ -370,6 +374,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How One Person Runs a Newsletter, a Podcast and Six Apps With a Proactive AI Assistant](https://x.com/mattpheus/status/2116861666281373730) — @mattpheus · 2026-11-01 · X 长文真实用例：把 Grok Bot 当主收件箱筛邮件、协调群组会议，盘点 75 项订阅砍掉一批固定开销，建潜在客户名单并发首批推介，播客上架到 Substack / YouTube / Libsyn 大部分交给 bot，从 2 小时压到约 30 分钟；文末推荐作者自己做的 bot 互通工具；约 1.6 万粉 · 英文
 - [Saver Bot: a free Grok Bot that shows where your usage goes and suggests fixes](https://x.com/0x_kaize/status/2117302013985972356) — @0x_kaize · 2026-11-03 · 长帖介绍免费模板：读取真实用量和重置时间，按 bot、routine、日期和活动拆分，做 30 天趋势面板，标出异常峰值和循环跑的 routine，按影响大小给最多 3 个修法、你选一个它执行且可撤销；作者实测一条新闻摘要 routine 占了一周用量的 28%；约 2.4 万粉、约 220 赞 / 376 收藏 · 英文
 - [10 Bots That Work While You Sleep (Prompts Attached)](https://x.com/irongiantXBT/status/2116562214739988952) — @irongiantXBT · 2026-11-01 · X 长文：十个单一职责 bot（X 个人助理、竞品监控等），每个写明运行时间、替代什么岗位和「绝不做」的事，附可粘贴提示词；安装方式是帖下 @bot 回复或把提示词贴进 Grok Bot，首次问完设置问题后按自己的时间表跑，你只做审批人；约 2.8k 粉、约 114 赞 / 300 收藏 · 英文
+- [My Grok Bot team: ~30 bots, one job each](https://x.com/Texas_Twins_Dad/status/2118072072752566345) — @Texas_Twins_Dad · 2026-11-05 · 长帖配视频：主 bot 当幕僚长分派，邮件只起草本人按发送，财务只读银行，另有安保/健康/买房/旅行/比价购物/阅读教练/3D 打印/电视 MCP/内容等专岗，例行任务安静跑、有变化才提醒；约 1.2 万粉、约 112 赞 / 104 收藏 · 英文
+
 
 ## 不收的例子
 

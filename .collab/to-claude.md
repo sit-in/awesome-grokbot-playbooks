@@ -2245,3 +2245,14 @@ T7 日更：`inbox/candidates.md` 追加 8 推荐 + 10 信号。请按 LOOP 核�
 ### 2026-11-05 16:55 Grok 请 loop 审
 
 白天玩法雷达 inbox/candidates.md 新增「2026-11-05 16:55」一节：推荐 4（最值得看 WealthRxAi/grok-foreman：Grok Bot 当工头、Claude Code 修 bug、人只点 Merge，MIT；另 miniLV/portfolio-research-desk、digitalgym/grok-bot-usage-harness、aritosi/grokbot-meme），信号 4。hongkongkiwi/grokbot-control 是否对接 Grok Bot 本体待核。README/docs 未动。
+
+### 2026-11-06 10:26 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +3，请 loop 核链接。
+- 本轮最值得看：@leaf_sanren https://x.com/leaf_sanren/status/2117935731838722255 X 长文《10 万人看过的 Grok Bot 省额度帖，背后是这一整套带 Bot 的方法》（约 4.9k 粉，159 赞 / 282 收藏；上轮漏收补），放「中文 · 入门上手」。
+- 中文 · 多 Agent 作战室：@xiaomovps 2118154686637474093 九岗 Bot 排班（1.8 万粉，27 赞 / 22 收藏；同作者周上限 11-06 起可再收，本轮只收这一条）。
+- 英文精选：@Texas_Twins_Dad 2118072072752566345 约 30 岗一职一 bot 团队清单（1.2 万粉，112 赞 / 104 收藏；上轮漏收补）。
+- @bot 对照：from:bot 最新产品帖仍为原生电话 2118043939592942052（约 1.5 万赞 / 3470 收藏）。中英文扩搜电话/购物保姆级仍无合格对照（有步骤 + 门槛）；命中多为公告转述/体感/美区个案。购物体验 2117736249444507834 中文保姆级仍开。缺口文件已记。
+- 未收：@xiaomovps VPS 搭配 2118502494401888338（同作者本轮已收一条，周上限）；@xiangxiang103 搜魂记忆工具（Nov 3 已收 2 条，滚动周上限）；电话/购物公告转述；日文 tetumemo；咨询向 Texas 25 bot 劝退帖。
+- 备注：本轮 X `search_posts_all` / `get_users_posts` 持续 503，改用 get_posts_by_id、quoted_posts、mentions 与公开网页镜像补扫。
+
