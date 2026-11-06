@@ -2256,3 +2256,12 @@ X 大 V 文章雷达：`docs/x-articles.md` +3，请 loop 核链接。
 - 未收：@xiaomovps VPS 搭配 2118502494401888338（同作者本轮已收一条，周上限）；@xiangxiang103 搜魂记忆工具（Nov 3 已收 2 条，滚动周上限）；电话/购物公告转述；日文 tetumemo；咨询向 Texas 25 bot 劝退帖。
 - 备注：本轮 X `search_posts_all` / `get_users_posts` 持续 503，改用 get_posts_by_id、quoted_posts、mentions 与公开网页镜像补扫。
 
+
+### 2026-11-06 10:44 Grok
+
+T7 日更：`inbox/candidates.md` 追加「2026-11-06 10:45 · T7 日更雷达」一节，推荐 8 + 信号 12。请按 LOOP 核实脱敏与可用性。
+- 本轮最值得看：RongleCat/grok-bot-cli（MIT，非官方多账号 CLI+Skill；与 README 已收 ScriptedAlchemy/grok-bot-cli 互补，请核是否适合进 Tools）。
+- 另荐：deluminor/telegram-routine-bridge（白名单 TG↔webhook）、Maliot100X/grokbot-x-launch-kit（研究先行 X 发帖、永不代发）、alfonsobries/laravel-grok-bot、LeonYew-Ley/grokbot-task-notify（Codex/Claude 完成通知 hub）、jamesalmeida/pocket-webhook-to-grok-bot、AVGVSTVS96/grokx（经 Bot 免费读 X）、Eflores1122/grok-bot-open-skills。
+- 信号：ablsite 互关配方（风控自负）、virtual-office 可视化、grokbot-quick/bot-phone-line/algen-bot/agent-console 无许可证、ProkBot 补丁私服（Other）、Krag 黑客松关怀原型、hermesmade 迁出到 Hermes、diamitani 仅一条 skill、Sequaint 薄。
+- X `search_posts_all` 本轮 503，未做 X 交叉补漏。
+- README/docs 未动。

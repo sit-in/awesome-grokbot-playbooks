@@ -4339,3 +4339,41 @@ free-trial-codes/grok-bot（试用邀请推广）；MarsHomestead/panhandle-bot�
 ### Skip（本轮）
 
 shibamondeki139/grok-bot-complete-guide-grok-bot-（自称「已去掉外链与出处」的汇编，来源不明）；bnth09productions-maker/crypto-wallet-hack-watcher（x402 付费查询导流）；bradleyhomelinuxnet-prog 杠杆交易 bot；slchy/miaiglasses2grokbot（小米眼镜帧协议，尚未见 Grok Bot 接入）；thicket-hq/plugins（厂商 SaaS 插件）；belliedmonkey/grok-bot-usage-optimizer（无许可证、与上面审计类重复）；Antilitist 存档修改器；ThePeeps191 两仓（上轮已 Skip）；空仓/个人作业：ChellyRyo/GrokBot、RandiDev-id/grok-bot-demo、fmsseo/Grokbot、xifengzhu/grokbot-website、yzq1990/grok_bot_project_1、两份 grok-bot-hire-job-part1；omarchy 主题（上轮已 Skip）；X 上「破甲」提示词类帖不收。
+
+## 2026-11-06 10:45 Asia/Shanghai · T7 日更雷达
+
+> 扫近 24 小时（约 11-05 02:00Z 起）新建/更新的 Grok Bot 相关仓；去掉 11-05 T7/白天玩法已收/已 Skip；X `search_posts_all` 持续 503，以 GitHub 为主。未改 README。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| RongleCat/grok-bot-cli | https://github.com/RongleCat/grok-bot-cli | **非官方多账号 CLI + Agent Skill**：多账号登录后所有 Bot 进同一名册（`account:bot`）、跨账号一次性交接、Bot/房间/Skill 就地管理；破坏性命令默认 dry-run 需 `--yes`；单文件跑 Node/Bun，凭据留本机。中英俄 README + CI，MIT。与 README 已收 ScriptedAlchemy/grok-bot-cli（单会话）互补。本轮最值得看 | Tools / Multi-account CLI | GitHub 新建（2026-11-05，铁柱AGI） |
+| deluminor/telegram-routine-bridge | https://github.com/deluminor/telegram-routine-bridge | **白名单 Telegram → Routine webhook 桥**：本机长轮询、按聊天批合并相册、Idempotency-Key、2xx 才提交 offset；回复走同白名单 CLI `tgr`；零运行时依赖、Vitest。MIT | Bridges / Telegram | GitHub 新建（2026-11-05） |
+| Maliot100X/grokbot-x-launch-kit | https://github.com/Maliot100X/grokbot-x-launch-kit | **研究先行的 X 发帖套件**：Bot 用内置 X 连接器读趋势与实证 → 本仓只吃快照、校验证据、每题三稿待批；代码永不代发。无代码粘贴安装提示词 + Skill，MIT，本地 44 测 | Skills / X 增长 | GitHub 新建（2026-11-05） |
+| alfonsobries/laravel-grok-bot | https://github.com/alfonsobries/laravel-grok-bot | **Laravel 通知频道 → Routine webhook**：`toGrokBot` 把异常/工单 JSON 打进例程；多 routine 配置、`grok-bot:ping`、Packagist + 测试。MIT | Bridges / 应用集成 | GitHub 新建（2026-11-05） |
+| LeonYew-Ley/grokbot-task-notify | https://github.com/LeonYew-Ley/grokbot-task-notify | **本机包一层 Codex/Claude/Pi**：跑完写 `~/.gb-tasks` 状态与日志，webhook 通知一个 hub Routine，再 SendToAgent 给任务主 Bot 核验回报。Win PowerShell / Linux Bash，MIT | Bridges / 编码工人 | GitHub 新建（2026-11-05） |
+| jamesalmeida/pocket-webhook-to-grok-bot | https://github.com/jamesalmeida/pocket-webhook-to-grok-bot | **Pocket 录音就绪 → CF Worker → Grok Bot webhook**：验 Pocket HMAC 后补 `Authorization` 转发原文；免轮询省额度；附 GROK_BOT_SETUP。MIT | Bridges / 语音笔记 | GitHub 新建（2026-11-05） |
+| AVGVSTVS96/grokx | https://github.com/AVGVSTVS96/grokx | **给任意 Agent 的免费 X 只读 CLI**：经 Grok Bot 内置 X 工具养一个「X Reader」Bot，`grokx ask` 出 JSON；不耗 X API 额度。非公开后端、更新可能断。MIT | Tools / X 研究 | GitHub 新建（2026-11-06） |
+| Eflores1122/grok-bot-open-skills | https://github.com/Eflores1122/grok-bot-open-skills | **可复用求职/履历/开源数据 Skill 包**：remote-job-hunt-mx、ats-cv-tailor、portfolio-github-polish、open-data-mx-pipeline + bot-template；复制即用。MIT | Skills / 求职 | GitHub 新建（2026-11-05） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| ablsite/x-mutual-follow-bot | https://github.com/ablsite/x-mutual-follow-bot | X 互关治理配方（扫未回关、限速代点、回关）；须明确「继续」才点、禁云电脑静默登录；MIT，账号风控自负 | Skills / X 运营 | GitHub 新建（2026-11-06） |
+| zhongshezhang-del/grokbot-virtual-office | https://github.com/zhongshezhang-del/grokbot-virtual-office | 等距 3D 虚拟办公室可视化多 Bot 状态（visit/meet/OfficeAPI）；单文件 HTML 可 iframe；MIT。与 ZhangHalfGod 无许可证版同类 | 多 Bot 作战室 / 可视化 | GitHub 新建（2026-11-05） |
+| aritosi/grokbot-quick | https://github.com/aritosi/grokbot-quick | macOS 菜单栏伴侣：轮盘选 Bot、截图即问、中转台与悬浮球；同作者 meme 已荐；**未声明许可证** | Clients / macOS | GitHub 新建（2026-11-05） |
+| mhccog/bot-phone-line | https://github.com/mhccog/bot-phone-line | 拨英国号经 Twilio IVR + CF Worker 连任意 Bot webhook；**无许可证** | Bridges / 电话 | GitHub 新建（2026-11-05） |
+| jiji262/ProkBot | https://github.com/jiji262/ProkBot | 自托管 Host：补丁原版 Mac/iOS 客户端连私有服务端 + Docker 桌面；Other 许可证，逆向补丁合规待核 | Self-hosted / 平替 | GitHub 新建（2026-11-05） |
+| algen1/algen-bot | https://github.com/algen1/algen-bot | 受 Grok Bot 启发的自托管多 Agent（每岗 Claude Code + Linux 桌面，ZimaOS）；**无许可证** | Self-hosted / 平替 | GitHub 新建（2026-11-05） |
+| vlad-ovsyannikov/Kr-g-grok-bot-hackathon | https://github.com/vlad-ovsyannikov/Kr-g-grok-bot-hackathon | 照顾一位年迈家长的多 Bot 体验原型（晨检、回忆录、服药提醒；非医疗告警）；Wrocław hackathon，MIT | 垂直配方 / 关怀 | GitHub 新建（2026-11-05） |
+| diamitani/agent-skills | https://github.com/diamitani/agent-skills | 跨平台 Skill 单仓，`dist/grokbot` 构建；目前仅 project-board-organizer 一条。MIT | Skills / 多平台 | GitHub 新建（2026-11-06） |
+| Yixuan-Tao/agent-console | https://github.com/Yixuan-Tao/agent-console | DeepSeek Harness 插件：一屏看本机 Codex/Grok Bot/Marvis/WorkBuddy；Grok 靠窗口自动化；**无许可证** | Clients / 多 Agent | GitHub 新建（2026-11-05） |
+| Tygb99/discord-mac-ai-bridge | https://github.com/Tygb99/discord-mac-ai-bridge | Discord 频道 ↔ Mac 上 Grok Bot/Instinct/Pickle 等；依赖 Aside/herdr，个人向。MIT | Bridges / Discord | GitHub 新建（2026-11-05） |
+| Noshkoto/hermesmade | https://github.com/Noshkoto/hermesmade | Hermes 插件：分享/一键加社群 Bot，并有「从 Grok Bot 迁出」流程；偏竞品侧。MIT | Self-hosted / 迁移 | GitHub 新建（2026-11-06） |
+| Sequaint-Labs/sequaint-os | https://github.com/Sequaint-Labs/sequaint-os | 自称多 Agent 团队模板（Grok Bot 上的 Scotty 建）；Apache-2.0 但 README 几乎空 | 多 Bot 作战室 / 薄 | GitHub 新建（2026-11-05） |
+
+### Skip（本轮）
+
+空仓/占位：wizzz20/GrokBot、kinqcu/grokbot-desk、vip0123/dot-grok-bot、filiplipibusiness-beep/Grok-Bot-pro、yaredtesfaye17-crypto/grok-bot-workspace、firewithinfire/slopjengine、ramion-cloud/grokbot、CodewithMubasher/Calbot（无 README）；Wrocław hackathon 作业：AnnPoberezhna/GrokBot26_hack、Arputikos/GrokBotHackathon2026、rmaziarka/GrokBotHackathonWroclaw、Kabanosk/grok-bot-hackathon-26、kluku/grokbot-hackathon、jknthn/grokbot-hackaton-wroclaw-team1；币圈/导流：0xquqi/EZbot-agentid-grokbot、fh199601-oss/dafeiyu、Lixin311566/GG-Hedge-Fund-OG、bnth09productions-maker（上轮已 Skip）；厂商垂直：jundihuang/shopify-geo-cursor-plugin、theopenapps/openapps-mcp、GlobalTC/drivr-glass、mohsin-tariq-10/factory-tots、moxsea-ab/moxsea-plugin、IxalonDarkstone/Skills（SpicyChat）；个人杂项：juiceboxat/tesla-fleet-public、dip-hbm/hbm-grok-webinar、xztanthropic-svg/live-wallpaper-kit、zhuzhe1983/grok-bot-esp32-stopwatch、lucasdbb/grok-bot-skills-bragaadv、Apeloff1/Skeleton-Test-Readiness-Complete、vituladominik-ai/Grokbot（纸面交易）；上轮已收/已 Skip：WealthRxAi/grok-foreman、miniLV、digitalgym、aritosi/grokbot-meme、0xMulight、ZhangHalfGod、shibamondeki139、ChellyRyo 等。
