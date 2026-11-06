@@ -4399,3 +4399,29 @@ shibamondeki139/grok-bot-complete-guide-grok-bot-（自称「已去掉外链与�
 ### Skip（本轮）
 
 T7 10:45 已推荐/信号/Skip 的本轮不再重复（含 RongleCat/grok-bot-cli、telegram-routine-bridge、x-launch-kit、laravel-grok-bot、task-notify、pocket-webhook、grokx、open-skills、virtual-office、ProkBot、Krag、hackathon 作业、币圈导流等）；WZ0425/Bots（几乎空 README）；HiAPIAI/free-backlinks-for-agents（SEO 外链农场向，不进 Awesome）；grok-bot-app/grok-bot（自称官方产品镜像，营销向）；Glen-Web-App/best-agent-memory-mcp、plugmcp-ai/plugmcp-mcp、JosssphZhou/poki、majorminorlabs/hermes-voice（非 Grok Bot 玩法主轴）；tal-giladi/grokbot-field-guide（2026-08 旧教程，窗口外）。
+
+## 2026-11-06 16:55 Asia/Shanghai · 白天玩法雷达
+
+> 扫 11-06 10:51 Asia/Shanghai 起（相对上轮白天）新建/明显更新的 Grok Bot 相关仓；相对本日 T7 10:45 + 白天 10:55 去重。GitHub `gh search`/`gh api` 为主；X `search_posts_all` 本轮可用，交叉未见新的可复用公开仓（多为公告转述/额度吐槽/模板清单帖）。未改 README。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| luxiaolei/grok-bot-team-management | https://github.com/luxiaolei/grok-bot-team-management | **可复用的团队运转 + 账号交接 Skill**：精干花名册、契约落 git、一人交付一人验收、少唤醒；含全量/增量交接目录与三门技能。MIT。本轮最值得看 | Skills / 多 Bot 团队 | GitHub 新建（2026-11-06） |
+| Anudorannador/Agent2GrokBot | https://github.com/Anudorannador/Agent2GrokBot | **任意 MCP 客户端 → 固定 webhook 对端 Bot**：FastAPI MCP 2.0 占住 SSE，Bot 心跳/进度/结果 POST 回调；超时降级为 `task_get` 轮询不丢结果。Python+uv+测，MIT | Bridges / MCP↔Webhook | GitHub 新建（2026-11-06） |
+| incredible404-rgb/GrokBot-tray | https://github.com/incredible404-rgb/GrokBot-tray | **Windows 托盘伴侣**：关窗/最小化进托盘、开机静默、隐藏后内存回收（测约 1.2GB→70MB）；中英 UI，预编译+源码，MIT。与早前 Skip 的 foztrk 小工具同类但完整可发 | Clients / Windows | GitHub 新建（2026-11-06） |
+| huanxxxx/grokbot-ops-lab | https://github.com/huanxxxx/grokbot-ops-lab | **证据驱动的 X×公众号冷启动运营账本**：人在环硬约束、`fact/method/stop/hypo` 沉淀、可复用 playbooks（X 手回三门禁、公众号单主条）；README 声明 CC0（GitHub 未挂 SPDX） | 垂直配方 / 运营实验 | GitHub 新建（2026-11-06） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| stantheman0128/threads-mcp | https://github.com/stantheman0128/threads-mcp | 本机 Threads MCP（浏览/语意搜/受控写）+ 专文 GROK-BOT 远程 mcp-remote 说明；体量大，**未声明许可证** | Bridges / Threads | GitHub 新建（2026-11-06） |
+| koshikraj/birdie | https://github.com/koshikraj/birdie | 本机 agent 总线：Claude Code/Codex/Grok CLI ↔ webhook Grok Bot 双向消息（线程+回执）；Go 单二进制+onboard。**无许可证**；与本日已荐 IvyYang1999/dispatch 互补 | Bridges / 多会话 | GitHub 更新（建于 11-02，本窗仍推） |
+| shagghiesuperstar/grokbotzoneMCP | https://github.com/shagghiesuperstar/grokbotzoneMCP | 把 grokbot.zone 目录站挂成 HTTPS MCP（搜/分类/提交须人确认）；MIT。同作者 zone 站此前已作信号 | Bridges / 目录站 MCP | GitHub 新建（2026-11-06） |
+| cricle2914/GrokBot-Personal | https://github.com/cricle2914/GrokBot-Personal | 个人 Windows 多 Bot 桌面（Tauri+FastAPI）；一阶段尚无模型回复/多 Bot 通信。**无许可证**，偏自建平台非产品玩法 | Self-hosted / 早期 | GitHub 新建（2026-11-06） |
+
+### Skip（本轮）
+
+空仓/占位：qingfenglailai/grokbot1、kinqcu/grokbot-desk（上午已 Skip）；DiweiQuantum/cursor-cloud-agent-smoke（仅冒烟沙箱说明）；mingz009988-ops/meme-desk-pwa（无 README、纸面交易 PWA）；noramimiyuma/x-feed（薄 RSS 托管、无许可证）；上午 T7/白天已收的 RongleCat、dispatch、rex-grokbot-bridge、grokx、hermesmade、ablsite 等不再重列；X 侧模板清单/额度吐槽/Linear 产品官宣转述不进 inbox。

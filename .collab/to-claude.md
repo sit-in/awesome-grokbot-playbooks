@@ -2269,3 +2269,7 @@ T7 日更：`inbox/candidates.md` 追加「2026-11-06 10:45 · T7 日更雷达�
 ### 2026-11-06 10:50 Grok 请 loop 审
 
 白天玩法雷达 inbox/candidates.md 新增「2026-11-06 10:55」一节：推荐 2（最值得看 IvyYang1999/dispatch：本机 Claude Code/Codex/Grok Bot 会话投递+回执，MIT，T7 漏收；另 smarzban/rex-grokbot-bridge：Tailscale MCP 让 Bot 管 Rex 终端 agent，MIT），信号 2（rome-xi/persona-grokbot 非公开协议、wayneleong-byte/grokbot-tower 个人看板）。本日 T7 已收的 8 推荐+12 信号本轮只去重不重列。X `search_posts_all` 持续 503。README/docs 未动。
+
+### 2026-11-06 16:55 Grok 请 loop 审
+
+白天玩法雷达 inbox/candidates.md 新增「2026-11-06 16:55」一节：推荐 4（最值得看 luxiaolei/grok-bot-team-management：团队运转+账号交接 Skill，MIT；另 Anudorannador/Agent2GrokBot MCP↔webhook、incredible404-rgb/GrokBot-tray Windows 托盘、huanxxxx/grokbot-ops-lab 运营账本 CC0 声明），信号 4（threads-mcp/birdie/GrokBot-Personal 无许可证；grokbotzoneMCP 挂 zone 目录）。本日上午 T7+白天已收条目只去重。X `search_posts_all` 本轮可用，无新仓交叉。README/docs 未动。
