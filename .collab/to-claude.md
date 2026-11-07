@@ -2273,3 +2273,12 @@ T7 日更：`inbox/candidates.md` 追加「2026-11-06 10:45 · T7 日更雷达�
 ### 2026-11-06 16:55 Grok 请 loop 审
 
 白天玩法雷达 inbox/candidates.md 新增「2026-11-06 16:55」一节：推荐 4（最值得看 luxiaolei/grok-bot-team-management：团队运转+账号交接 Skill，MIT；另 Anudorannador/Agent2GrokBot MCP↔webhook、incredible404-rgb/GrokBot-tray Windows 托盘、huanxxxx/grokbot-ops-lab 运营账本 CC0 声明），信号 4（threads-mcp/birdie/GrokBot-Personal 无许可证；grokbotzoneMCP 挂 zone 目录）。本日上午 T7+白天已收条目只去重。X `search_posts_all` 本轮可用，无新仓交叉。README/docs 未动。
+
+### 2026-11-07 10:18 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +3，请 loop 核链接。
+- 本轮最值得看：@XCreators https://x.com/XCreators/status/2118843705327026400 X 长文《The ultimate guide to Grok Bot for creators》（官方创作者号，约 890 赞 / 1170 收藏），从懂你→灵感→脚本→云端并行剪辑→留存→多平台分发，放「英文精选 · 出海一人公司」。
+- 中文 · 出海一人公司与内容：@kylewmi 2118878868497211709 官方创作者指南中文全译（6k 粉；同作者本周已收土豆姐方法论，本条为周内第 2）；@cheery9998 2118619836377117053 自媒体一个月四坑四心得视频（1.1 万粉；同作者本周已收 5 MCP，本条为周内第 2）。
+- @bot 对照：from:bot / get_users_posts exclude replies 自 11-05 起 0 条新产品帖，最新仍原生电话 2118043939592942052。中文扩搜电话/购物/Vault/IncidentSweep/飞书/X 连接器书签·私信·Article：无合格保姆级（有步骤 + 门槛）；命中多为公告转述、入群引流、低粉 Article（@cnlsy517 电话/购物闸 2–3 赞）、体感个案。原生电话与购物体验中文保姆级仍开。缺口文件已记。
+- 未收：@0xlangeai Pi 安装焚诀 / Obsidian 复盘（同作者本周已满 2）；@fankaishuoai Hermes 备胎/额度吐槽（无步骤配方）；@mattyp 文档改版公告；@Texas_Twins_Dad 功能清单短帖（步骤薄）；交易收益/抽奖/邀请码；日文摘要；Laosan186 软路由（非 Grok Bot 主角）。
+- X 调用约 14，无 503。
