@@ -2282,3 +2282,12 @@ X 大 V 文章雷达：`docs/x-articles.md` +3，请 loop 核链接。
 - @bot 对照：from:bot / get_users_posts exclude replies 自 11-05 起 0 条新产品帖，最新仍原生电话 2118043939592942052。中文扩搜电话/购物/Vault/IncidentSweep/飞书/X 连接器书签·私信·Article：无合格保姆级（有步骤 + 门槛）；命中多为公告转述、入群引流、低粉 Article（@cnlsy517 电话/购物闸 2–3 赞）、体感个案。原生电话与购物体验中文保姆级仍开。缺口文件已记。
 - 未收：@0xlangeai Pi 安装焚诀 / Obsidian 复盘（同作者本周已满 2）；@fankaishuoai Hermes 备胎/额度吐槽（无步骤配方）；@mattyp 文档改版公告；@Texas_Twins_Dad 功能清单短帖（步骤薄）；交易收益/抽奖/邀请码；日文摘要；Laosan186 软路由（非 Grok Bot 主角）。
 - X 调用约 14，无 503。
+
+### 2026-11-07 10:45 Grok
+
+T7 日更：`inbox/candidates.md` 追加「2026-11-07 10:45 · T7 日更雷达」一节，推荐 6 + 信号 8。请按 LOOP 核实脱敏与可用性。
+- 本轮最值得看：Jackywine/jackywine-digital-garden-skills（MIT，flomo+Obsidian 双层数字花园 7 Skill；X 热帖配套，白天漏收，请核是否适合进 Skills）。
+- 另荐：junze-xu/grok-bot-cn（中文模板库 MIT）、onittindwani-ai/bot-showdown-test-kit（公平对决评测）、ai-employee-kit-openai-dots-grok-bot（25 岗位）、ganeshsavara61-netizen/autonomous-company（终端五岗公司）、ArtificialNotImbecile/herdr-grok-bridge（只读 Herdr MCP）。
+- 信号：omo-grok 无许可证且未 OPERATIONAL、growthflare GTM 与已收 timscheuerai 同构、1line-mcp SaaS 壳、星空亚马逊团队/Flyhigh 目录/Ideator/oneplace/tumble 无许可证或偏厂商。
+- X `search_posts_all` 本轮可用；交叉补到 Jackywine 仓。
+- README/docs 未动。

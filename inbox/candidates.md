@@ -4425,3 +4425,36 @@ T7 10:45 已推荐/信号/Skip 的本轮不再重复（含 RongleCat/grok-bot-cl
 ### Skip（本轮）
 
 空仓/占位：qingfenglailai/grokbot1、kinqcu/grokbot-desk（上午已 Skip）；DiweiQuantum/cursor-cloud-agent-smoke（仅冒烟沙箱说明）；mingz009988-ops/meme-desk-pwa（无 README、纸面交易 PWA）；noramimiyuma/x-feed（薄 RSS 托管、无许可证）；上午 T7/白天已收的 RongleCat、dispatch、rex-grokbot-bridge、grokx、hermesmade、ablsite 等不再重列；X 侧模板清单/额度吐槽/Linear 产品官宣转述不进 inbox。
+
+## 2026-11-07 10:45 Asia/Shanghai · T7 日更雷达
+
+> 扫近 24 小时（约 11-06 02:00Z 起）新建/更新的 Grok Bot 相关仓 + X `url:github.com` 交叉；去掉 11-06 T7/白天玩法已收/已 Skip。周末以 GitHub 为主。未改 README。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| Jackywine/jackywine-digital-garden-skills | https://github.com/Jackywine/jackywine-digital-garden-skills | **flomo L1 + 本地 Obsidian 双层数字花园 7 Skill**：装机引导、推特进 flomo、全文剪藏+wikilink、学徒写库纪律、相关笔记/孤儿扫描；`npx skills add` 即装，配套 kepano/obsidian-skills；隐私与「先问再改」硬约束。MIT。X 长文热帖配套开源。本轮最值得看 | Skills / 知识库 | GitHub 新建（2026-11-06；白天漏收）+ X 交叉 |
+| junze-xu/grok-bot-cn | https://github.com/junze-xu/grok-bot-cn | **中文契约模板库**：自称 33 模板 / 13 技能 / 8 例程 / 12 模式；Setup Bot 粘 START.md 拉 PROFILE，或 `npx github:junze-xu/grok-bot-cn`；JSON Schema+分享安全 CI。MIT，多语言 README + Pages 目录 | Templates / 中文团队 | GitHub 新建（2026-11-06） |
+| onittindwani-ai/bot-showdown-test-kit | https://github.com/onittindwani-ai/bot-showdown-test-kit | **Grok Bot vs Claude Code 五场销售任务公平对决**：合成线索/回复、预先锁死答案钥+SHA、计分脚本与双方结果；禁开答案钥直到跑完。MIT，可复用评测骨架 | Tools / 评测 | GitHub 新建（2026-11-06） |
+| onittindwani-ai/ai-employee-kit-openai-dots-grok-bot | https://github.com/onittindwani-ai/ai-employee-kit-openai-dots-grok-bot | **25 名销售/招聘/运营「AI 员工」提示词**：每人一套 Dots + Grok Bot 安装文、8 个团队交接配方、CHOOSER 选型表与安全权限说明；只起草不代发。MIT | 一人公司 / 岗位配方 | GitHub 新建（2026-11-06） |
+| ganeshsavara61-netizen/autonomous-company | https://github.com/ganeshsavara61-netizen/autonomous-company | **终端 CEO 指挥五岗公司**（CEO/CTO/CMO/CFO/COO）：本地 Python 免费模式 + 可选 `gbot` CLI 接真 Grok Bot；站会/董事会命令与测试。MIT | 多 Bot 作战室 / 一人公司 | GitHub 新建（2026-11-06） |
+| ArtificialNotImbecile/herdr-grok-bridge | https://github.com/ArtificialNotImbecile/herdr-grok-bridge | **只读 Herdr MCP 桥**：白名单 list/get/read pane + bridge_info；硬拒 send-keys/起进程；输出截断+脱敏。MIT。与已收 phoobobo/frysquint 等写向桥互补 | Bridges / Herdr | GitHub 新建（2026-11-06） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| pysol-dev/omo-grok | https://github.com/pysol-dev/omo-grok | OmO 启发的 SQLite 多 Bot 工作流总线（webhook 唤醒角色 Bot）；自陈 PARTIALLY INSTALLED / NOT OPERATIONAL；**无许可证** | Bridges / 编排总线 | GitHub 新建（2026-11-06） |
+| growthflare-ignite/grokbot-gtm-team | https://github.com/growthflare-ignite/grokbot-gtm-team | 冷邮件 GTM 多 Bot + Claude/Codex playbook；与 README 已收 timscheuerai/grokbot-gtm-team 高度同构；**无许可证** | 一人公司 / GTM | GitHub 新建（2026-11-06） |
+| galaxy-co-ai/1line-mcp | https://github.com/galaxy-co-ai/1line-mcp | Cursor/Grok Bot 市场插件壳：挂托管 1line MCP 共享记忆；MIT 但本体为 SaaS 列表页，几乎无本地代码 | Bridges / 记忆 SaaS | GitHub 新建（2026-11-06） |
+| wenjiany312-hub/starsky-amazon-botteam | https://github.com/wenjiany312-hub/starsky-amazon-botteam | 亚马逊美站 11 角色运营团队（选品→广告→复盘）；Grok Bot/OpenBot/StarSky；**无许可证** | 垂直配方 / 电商 | GitHub 新建（2026-11-06） |
+| appygudu/flyhigh-bots | https://github.com/appygudu/flyhigh-bots | Flyhigh 免费模板目录静态站（从 x.ai/bot 与目录 API 拉证）；**无许可证**，偏展示站非配方 | Templates / 目录站 | GitHub 新建（2026-11-06） |
+| RonniKahalani/Ideator | https://github.com/RonniKahalani/Ideator | 问题→证据挑战→点子→pretotype 材料的 Ideator Bot 配方包（不代发）；文档全、样例齐；**无许可证** | Skills / 产品研究 | GitHub 新建（2026-11-06） |
+| oneplaceai/grok-bot-plugin | https://github.com/oneplaceai/grok-bot-plugin | 欧洲房产检索/收藏/联系卖家的厂商插件说明；**无许可证** | Bridges / 垂直插件 | GitHub 新建（2026-11-06） |
+| theopenapps/tumble-grok | https://github.com/theopenapps/tumble-grok | Tumble 体测/家庭活动游戏的 Grok Bot/Cursor/Claude 插件配置；MIT，场景偏窄 | Skills / 垂直插件 | GitHub 新建（2026-11-06） |
+
+### Skip（本轮）
+
+空仓/占位：worldcoin/world-id-grokbot-plugin、a-hao-1234/grok-avatars、jiekong240-lang/grok-bot-local-deploy-research、satadru-codes/grokbot-hide-seek、stone06/grokbot、shadyalsuleiman-glitch/Grok-bot、DhanushkaUdayantha/GROKDeskBots-NeuraLink-Multiagent-Framework、darondicker729-oss/Grokbot（几乎空 README）；Kinggoz18/grokbot-local-only-mode（仅一条 PROMPT.md）；agentshorts/SpaceX-GrokBot-Stock-Predictor（个股日内研究笔记）；mingz009988-ops/meme-desk-pwa（白天已 Skip）；alxspiker/hermes-xai-budget-guard（Hermes 插件管 xAI 调用预算，非 Grok Bot 玩法）；窗口外旧仓仅 X 清单带过：imbavirus/grokbot-bridge-plugin（10-08）、tsconfigdotjson/vibe-os-native（10-30）、mateuscmtropical/cloudbot、ianpilon/clewbert、galleonlabs/hypergrok-trading-desk、dax8it/spudstack（Hermes）；11-06 白天已收 luxiaolei/Anudorannador/GrokBot-tray/huanxxxx/threads-mcp/birdie/grokbotzoneMCP/GrokBot-Personal 等不再重列。
+
