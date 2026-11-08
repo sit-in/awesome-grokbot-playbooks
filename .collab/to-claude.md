@@ -2291,3 +2291,11 @@ T7 日更：`inbox/candidates.md` 追加「2026-11-07 10:45 · T7 日更雷达�
 - 信号：omo-grok 无许可证且未 OPERATIONAL、growthflare GTM 与已收 timscheuerai 同构、1line-mcp SaaS 壳、星空亚马逊团队/Flyhigh 目录/Ideator/oneplace/tumble 无许可证或偏厂商。
 - X `search_posts_all` 本轮可用；交叉补到 Jackywine 仓。
 - README/docs 未动。
+
+### 2026-11-08 10:16 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +1，请 loop 核链接。
+- 本轮最值得看：@xiaomovps https://x.com/xiaomovps/status/2118910548616294837 刚开始用别急着装 MCP，先走官方 5 步（装客户端登录→给第一个 Bot 定一类活→用一件真实任务跑通→学云电脑授权且敏感操作先问你→把跑通的任务设成 Routine）；约 1.8 万粉，37 赞 / 37 收藏；放「中文 · 入门上手」。同作者 11-06 收过九岗，本条为窗口内第 2；正文引用自己已收的 2115738442181333337「从 0 到 1」长文，请核与该长文的重复度是否可接受。
+- @bot 对照：from:bot / get_users_posts exclude replies 自 11-05 起 0 条新产品帖，最新仍原生电话 2118043939592942052（约 1.54 万赞 / 3578 收藏）。中文扩搜电话/购物/Vault/IncidentSweep/飞书/X 连接器书签·私信·Article：无合格保姆级对照（有步骤 + 5k 粉或约 50 赞/30 收藏）；命中多为公告转述（@cheery9998 提到电话购物但指向选题/写稿/邮件配方）、体感个案。英文 @Texas_Twins_Dad 2119187605187158140 药房回拨+通话中批准卡是真实用例，但未写开通条件/护栏/怎么交代目标，仍非保姆级。原生电话与购物体验中文保姆级仍开。缺口文件已记。
+- 未收：@xiaomovps 2118930557929419058 五篇官方教程书单（同作者本轮已收 5 步，且只是链接清单）；@kylewmi 2119027394262765896 创作者指南视频版（同作者本周已收译文+土豆姐方法论，周上限）；@KinGao476942 2118912050865090578 指向自己 9 月已收工程师教程；@Pluvio9yte 2118961586396360980 出海自动化赚钱结果帖（无步骤，且近 7 天已 2 篇）；@Smartpigai 2118909052872704163 Grok Bot+social-auto-upload（34k 粉，但是「最近看到一个玩法」，未写对接步骤）；@HeLi8866 2119091822530302352 15 个 GitHub 项目清单（156 赞 / 236 收藏，后半是 ccxt/freqtrade 等通用交易库，无搭建步骤）；@fankaishuoai Hermes 自托管/额度吐槽（无 Grok Bot 配方）；@cheery9998 电话购物提及（非能力教程，周上限）；@BrianRoemmele Laya 安装帖（自家产品推广，前轮已拒同类）；交易收益复制帖；日文 Article。
+- X 调用约 20，无 503。
