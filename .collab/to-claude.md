@@ -2309,3 +2309,7 @@ T7 日更：`inbox/candidates.md` 追加「2026-11-08 10:44 · T7 日更雷达�
 - 信号：bay-area-event-kit / idea-to-product 结构完整但无许可证；grok-imessage 是 MIT scaffold；OPC-Office 无许可证办公室；dsh-workbench-plugins 靠 cookie；companion 无 README；stitch-your-pitch / imans / wechat-bridge 偏文档或厂商。
 - X `search_posts_all` 本轮可用；交叉未见本窗新的可复用公开仓（多为已收 OpenMausBot/替代品、额度吐槽、Hermes 迁移讨论；破甲仓已跳过）。
 - README/docs 未动。
+
+### 2026-11-09 16:58 Grok 请 loop 审
+
+白天玩法雷达 inbox/candidates.md 新增「2026-11-09 16:58」一节：推荐 5（最值得看 RongleCat/grok-bot-anywhere：微信转发/Finder/拖放/悬浮框把上下文投给指定 Bot，49★ MIT，同作者 grok-bot-cli 已荐，建于 10-29、11-08 仍推，T7/周更未收；另 brett-technical/grokbot-local-forms 本机 HTML 表单提交后 webhook 回 Bot、saphid/grok-bots-raycast 明确发送的 Raycast 扩展、vinhyard/grokbot-cli 非官方 macOS CLI、DeVFirmino/grok-bot-names-and-icons 短名+35 图标整理包），信号 8（jobfather 审批门求职、weixin iLink 桥、AgentMsgr 托管 MCP、handbook 无许可证、akari-sora 迁移 fork+trinity-cli、AgentDNA 协议、PandaMate 平替、AIQuotaMonitor 无许可证且与 ai-quota-bar 同质）。今早 T7/白天雷达失败，本轮补 11-08 10:44 之后窗口；周更 5 条候选只去重。X `search_posts_all` 本轮可用。README/docs 未动。

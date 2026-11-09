@@ -4526,3 +4526,34 @@ T7 10:45 已推荐/信号/Skip 的本轮不再重复（含 RongleCat/grok-bot-cl
 - 无许可证或说明书不全：huanxxxx/grokbot-ops-lab（README 自称 CC0，GitHub 未挂 SPDX）、0xkaize/grok-bot-handbook、mittal-parth/companion 等。
 - 交易 / 自动投递 / 越狱：Noisyxl/grokbot、PoetCoderJun/hk-auto-apply、FoalSupervise/grok-4-7-abliterated。
 - 其余（又一件 IM 桥、Windows 托盘、Hermes 迁移、像素办公室、今天刚出现的 local-forms / Raycast 扩展）：同质、小众或过新，留 inbox。
+
+## 2026-11-09 16:58 Asia/Shanghai · 白天玩法雷达
+
+> 扫 11-08 T7 之后（约 11-08 02:44Z / 10:44 Asia/Shanghai 起）新建/更新的 Grok Bot 相关仓 + X `url:github.com` 交叉。今早 T7 / 白天雷达额度耗尽失败，本轮补窗；对照 11-08 T7 与 11-09 周更 5 条候选去重。未改 README。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| RongleCat/grok-bot-anywhere | https://github.com/RongleCat/grok-bot-anywhere | **从微信「转发到其他应用」、Finder/资源管理器、拖放或全局悬浮框，把此刻上下文投递给指定 Bot**：每 Bot 可设入口、投递方式和固定前缀；本地收件记录看有没有落地/发出，不明结果不自动重发。非官方 Electron 客户端（观察本地协议，上游改版可能失效）。v0.1.4，macOS 已实机验证，Windows 部分验证，Linux 暂不支持。同作者 grok-bot-cli 已荐。49★，MIT。本轮最值得看 | Clients / 投递入口 | X 交叉（建于 10-29，11-08 仍推；T7/周更未收） |
+| brett-technical/grokbot-local-forms | https://github.com/brett-technical/grokbot-local-forms | **本机 HTML 表单问人、提交后落盘并 webhook 通知发起的 Bot**：答案写成带时间戳的 `.md` + `.json`（可进 Obsidian），不覆盖旧稿；密钥只进本机 `webhook.local.json`、不进对话。例程闲置 1 小时自停。问题文案和选项须先问发起 Bot，不代编。MIT | Skills / 人在环表单 | GitHub 新建（2026-11-09） |
+| saphid/grok-bots-raycast | https://github.com/saphid/grok-bots-raycast | **Raycast 原生扩展给已有 Bot 发消息**：`fleet say hi` → Return 审稿 → ⌘Return 才发送；凭据藏在 `~/.config/grok-bots`，不进 Raycast 偏好或仓库；保存请求 ID、不自动重试，历史只留投递状态不存正文。走 Bot 的 webhook 例程，不是 xAI 推理 Key。CI + SECURITY.md + 测试，MIT | Clients / Raycast | GitHub 新建（2026-11-08，11-09 仍推） |
+| vinhyard/grokbot-cli | https://github.com/vinhyard/grokbot-cli | **非官方 macOS CLI**：经已登录的桌面 App 列出/读线程/发一条/创建或更新 Bot；`doctor` 检查环境，破坏性命令要 `--yes`，`send` 可 `--dry-run`。Node 22、无运行时依赖。MIT + 测试。与已收 ScriptedAlchemy（单会话）和 RongleCat（多账号）互补 | Tools / CLI | GitHub 新建（2026-11-08） |
+| DeVFirmino/grok-bot-names-and-icons | https://github.com/DeVFirmino/grok-bot-names-and-icons | **按职责给已有 Bot 起短名 + 配 35 枚统一图标**：目录/清单/提示词/SKILL.md，粘一句让 Bot 读 SKILL 后协助整理；改名前先提案，图标在各 Bot 自己的对话里应用并核对侧栏。不装应用。MIT | Skills / 花名册整理 | GitHub 新建（2026-11-08） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| simo255/jobfather | https://github.com/simo255/jobfather | 求职 Bot 配方：每岗先给你看简报等你点头，再起草答案等你改，最后核对简历和答卷才提交一次；LinkedIn 只用只读 MCP，投递走浏览器。有公开模板。MIT。与跳过的 hk-auto-apply（自动投）不同 | 垂直配方 / 求职 | GitHub 新建（2026-11-09） |
+| pku-zhb/grokbot-weixin-bridge | https://github.com/pku-zhb/grokbot-weixin-bridge | 自托管微信 iLink 桥：经 grokbot-cli 的 `rpc --stream` 把单主人消息/附件转给云端 Bot，SQLite 记投递；带测试。MIT。依赖非公开 RPC，且需自备已授权 iLink 账号，账号风险自负 | Bridges / 微信 | GitHub 新建（2026-11-08） |
+| agentmsgr/agentmsgr-mcp | https://github.com/agentmsgr/agentmsgr-mcp | 把 Muse / Grok Bot / 自建 bot 拉进同一群聊的托管 MCP 说明；服务本身非开源。Grok Bot 因每账号只能挂一个自定义 MCP，需走 shared 地址，文档写明端到端仍在测。MIT | Bridges / 多 Agent 群聊 SaaS | GitHub 新建（2026-11-09） |
+| 0xkaize/grok-bot-handbook | https://github.com/0xkaize/grok-bot-handbook | 单文件 A–Z 手册（安装、套餐、Cursor、多 Bot、例程、安全与 webhook），约 54KB。周更已点名；**未声明许可证** | 文档 / 手册 | GitHub 新建（2026-11-09） |
+| akari-sora/grok-bot-cli | https://github.com/akari-sora/grok-bot-cli | 非官方 gbot fork：把 Bot 的记忆/技能/例程/历史/文件迁到 Hermes、Muse 或 Your dot，并检查迁完还能用；号称不耗 Grok Bot 额度。2★，MIT。镜像，权威仓在 GitLab。同作者还有 trinity-cli（一条 CLI 管 Your dot / Grok Bot / Muse） | Tools / 迁移 CLI | GitHub 新建（2026-11-08） |
+| 540709984-dotcom/earth-online-agentdna | https://github.com/540709984-dotcom/earth-online-agentdna | 人主导的多 Bot 协作协议 + 五支 Skill（任务契约、证据转录、独立校对、经验升级提案、调研主流程）；演练示例标明虚构。MIT。部署说明同时写 WorkBuddy 与 Grok Bot | Skills / 多 Bot 协议 | GitHub 新建（2026-11-08） |
+| zhiruiai/PandaMate | https://github.com/zhiruiai/PandaMate | 开源自托管 Grok Bot 平替（群聊分工、带出处的网页调研、对话里打开交付物）；Apache-2.0，体量大。周更已标「该分类较满、留观察」 | Self-hosted / 平替 | GitHub 新建（2026-11-08） |
+| fuchu8/AIQuotaMonitor | https://github.com/fuchu8/AIQuotaMonitor | macOS 菜单栏看 Codex / Cursor / OpenCode Go / Grok Bot 额度，读本机已登录态。原生 Swift，**未声明许可证**；与已荐 QinGeneral/ai-quota-bar 同质 | 工具 / 额度可见性 | GitHub 新建（2026-11-08） |
+
+### Skip（本轮）
+
+空仓/占位：tonycodes/grok-bot-updates、suzeeparker/GrokBot_Lean-Input、jicaixin/GrokBotWorkshop、leumasnot-prog/bots-grok、shintarou1008a/grok-bot-study、gjjjjjun/grok-bot-tokei、Ali747711/grok-bots（无 README，Hermes 上的 Grok-Bot 风格研究稿）；T7 已 Skip 的 michaellu20051024-alt/Grok-Bot-skill 不重列。薄仓/说明书不全：megahertz8/grok-bot-packs（无许可证的模板 skill 包）、rphoward/bot-mover-tools（某个 Bot Mover 模板的辅助脚本）、nlaughter100/grokbot-javis-dashboard（个人日报快照的 JARVIS 皮肤，无许可证）、15266/portable-agent-orchestrator（无许可证编排层）、Happyman67/grok-bot-guide、AXXDM/grok-bot-bluebook-site、Johnnnmai/valenx-bots（付费模板结账备份页）。偏题：First-Integration-Partners-Llc/grok-build-cli-slack-plugin（Grok Build CLI 的 Slack 插件，非 Grok Bot 产品玩法）、codejunkie99/iphone-control（周更已标通用手机工具）、thellis954/bodyhop、yagomp/statsproven-cursor-plugin、jianhuachan/GrokBot-Web3Learn、Leluth/rakazo-evaluation。交易 / 自动投递：tim871199-eng/grokbot-trading、imqwinsi/grok-bot-trading-paper、PoetCoderJun/hk-auto-apply（周更已拒）。X 交叉多为已收 OpenMausBot 平替热帖、额度吐槽；补到 RongleCat/grok-bot-anywhere。
