@@ -4494,3 +4494,35 @@ T7 10:45 已推荐/信号/Skip 的本轮不再重复（含 RongleCat/grok-bot-cl
 ### Skip（本轮）
 
 空仓/占位：michaellu20051024-alt/Grok-Bot-skill、alexeykrol/GrokBotCEO、xpandabletech/xtlab-plugins、dziduchm/grokbot2hermes（仅一行 README）、pohtrader/Grok-bot、sikandarkuk12-beep/Grok-Bot、tomhnb321/grok-bot、princejain756/ghw-builders-grok-bot-workspace、edward0714/GrokBot-aiwebsites、buildersfilmstudio/GrokbotDavinci、magnolialtd/email-assets；偏题/非产品玩法：FoalSupervise/grok-4-7-abliterated（越狱提示词）、chekusu/pinku-chat-plugin（约会插件）、nodirbek5298/phakinsaepo/urbanfashion 等交易台、ju0o/7Day_GrokBot（Bot 做的记忆拼图游戏而非配方）、AIBanlv/AIBanlv-Bot（桌面数字人，非 Grok Bot）、HalphMuitaGrana/grokbot-skills（写给 OpenMausBot 衍生 Bots 应用）、saber0616/dsh-grok-night-theme（Harness 主题）、sirealco/grok-bot-icon-generator、anorthernman-developer/framevr-grokbot-journey（旅程笔记）、connect-world-1985-ai 能力边界快照（无 README）、MartyDaMonster/agent-space（个人看板/白名单）、gregboero/netbird-admin-mcp（通用 NetBird MCP，Grok Bot 侧尚未核验）；已有条目的镜像/fork：OpenMausBot/OpenMausBot（指向已收 milind-soni/OpenMausBot）、dv365lab/dv365-OpenGrokBot（OpenGrokBot 再发行+导流码）；昨日 T7 已 Skip：a-hao-1234/grok-avatars、jiekong240-lang/grok-bot-local-deploy-research；X 交叉多为已收 OpenMausBot/Codync、额度吐槽与 Hermes 迁移讨论，窗口外旧仓仅带过不重列（mateuscmtropical/cloudbot、ianpilon/clewbert、jaredtrichard/grok-factory、serenakeyitan/agent-org-chart、leepokai/Codync、tecadrise-ai/TecAdRiseBot、transparent-pegasus/utsurigi-agent-hub、StandEasyOps/worker-dock-public、Daijunfan/Aexus-Bot）；破甲/代理方法论 free-dam-man/agent-deploy-memory-grok 跳过。
+
+## 2026-11-09 16:25 Asia/Shanghai · 周更候选
+
+> 从 11-02 周更后各轮「推荐」71 条 + 近 7 日 GitHub 公开搜索 + github-radar 11-09 下午补报里挑 5 条，gh 只读实查星标/许可；全文见 box /workspace/awesome-grokbot/candidates-2026-11-09-weekly.md。待 sitin 确认后才改 README。
+
+### 候选（5 条）
+
+1. [remorses/grokhouse](https://github.com/remorses/grokhouse) - 等距办公室里看 Bot 干活并能对话：每间房一个 Bot（忙着跳桌、空闲散步、睡着打呼），未读消息出漫画气泡，关掉即已读（和官方 App 同步），打字就能回；墙钟显示下次例程，软木板贴 todo。演示站 [grokhouse.dev](https://grokhouse.dev)。走 Cursor 浏览器登录调非公开 `GrokBotService`（文档写明随时可能失效）。4★ · MIT · 11-07 更新。
+   - 建议分类：👥 多 Bot 团队　标签：`multi-bot` `dashboard` `unofficial`
+2. [sarbarshem/grok-bot-3d-campus](https://github.com/sarbarshem/grok-bot-3d-campus) - 把仓库链接交给主 Bot，它按 skill 在你自己的 Vercel 上建一座 3D 校园作战室：每个团队一间房，能看谁在干什么、额度电池、待你审批的事项，一键把指令送回主 Bot（对外动作仍先在聊天里确认）。演示站用虚构数据、不连真实 Bot。本周日更雷达漏收。32★ · MIT · 11-07 更新。
+   - 建议分类：👥 多 Bot 团队　标签：`multi-bot` `3d` `dashboard` `skill`
+3. [junze-xu/grok-bot-cn](https://github.com/junze-xu/grok-bot-cn) - 中文契约模板库：现为 151 个模板 / 16 支团队 / 14 个技能 / 8 条例程，带自主性等级（默认第一周只起草）。建一个 Setup Bot 粘 `START.md` 即可拉 PROFILE，也可用 `npx` 或 [Pages 目录](https://junze-xu.github.io/grok-bot-cn/) 复制。JSON Schema + 分享安全 CI。0★ · MIT · 11-08 更新。
+   - 建议分类：📦 模板与目录 / 💼 中文一人公司　标签：`templates` `chinese` `teams`
+4. [Jackywine/jackywine-digital-garden-skills](https://github.com/Jackywine/jackywine-digital-garden-skills) - flomo（L1 闪念/推特）+ 本地 Obsidian（全文剪藏与 wikilink）双层数字花园 7 个 Skill：装机引导、推特进 flomo、剪藏质检、学徒写库纪律、相关笔记与孤儿扫描；`npx skills add` 即装，配套 kepano/obsidian-skills。点名 Grok Bot 的导入方式，默认先问再改、不代发。7★ · MIT · 11-06 更新。
+   - 建议分类：🧩 技能与玩法　标签：`skill` `obsidian` `flomo` `zh`
+5. [dabingfy-dot/solo-to-team-skills](https://github.com/dabingfy-dot/solo-to-team-skills) - 一人统筹多个 AI 助手的中文协作技能包：派活→收回→核证→验收登记，四支技能加模板和脱敏案例。正文写明 Codex / Cursor 等「支持」，Grok Bot 为「支持，需手动配置」。11-07 新建，约两天涨到 353★。353★ · MIT · 11-07 更新。
+   - 建议分类：🧩 技能与玩法 / 💼 中文一人公司　标签：`skill` `multi-agent` `zh`
+   - 注意：Grok Bot 不是首发一等支持，收不收由 sitin 定。
+
+注：1 和 2 都是多 Bot 可视化，grokhouse 能对话、3d-campus 带审批和额度且本周雷达漏收；3 的 GitHub 简介仍写「33 个模板」，仓内已核到 151 份 PROFILE；5 星虽高但是通用协作包。
+
+### 没收（一句话理由）
+
+- DIYgod/pinky（1145★）、codejunkie99/iphone-control（7★）、janestreet/agent_skills 等：通用手机 / Agent 工具，未把 Grok Bot 当主场。
+- 上周周更已提：BeatAPI/grokbot-growth、number5meme/grokbot-larkbot-bridge、Revve-AI/grokbot-webhook-adapter 未进 README，不重复提；souhun / bot-codex-delegate / 微信·QQ 桥已收入 README。
+- 本周日更已荐、扎实但本轮名额让给更缺的条目：IvyYang1999/dispatch、WealthRxAi/grok-foreman、jon-lange/grok-bot-team、luxiaolei/grok-bot-team-management、RongleCat/grok-bot-cli、Blicae/wake-grokbot（由 Blicae8917 迁仓）、Anudorannador/Agent2GrokBot、aritosi/GrokBot-Cloudstandby 等，留 inbox。
+- QinGeneral/ai-quota-bar：与已收 quota-ring / GrokGauge / usage-checkin 同质。
+- kadaliao/open-super-agent（7★）、DolphinMiner/agentstudio（8★）、zhiruiai/PandaMate、cxc1344/OpenGrokBot-Android、frankievalentine/lopsi-bot-eve：平替或客户端，README 该分类已较满，留观察。
+- ArtificialNotImbecile/herdr-grok-bridge：与已收 phoobobo/grokbot-bridge-herdr 互补（只读），先留 inbox。
+- 无许可证或说明书不全：huanxxxx/grokbot-ops-lab（README 自称 CC0，GitHub 未挂 SPDX）、0xkaize/grok-bot-handbook、mittal-parth/companion 等。
+- 交易 / 自动投递 / 越狱：Noisyxl/grokbot、PoetCoderJun/hk-auto-apply、FoalSupervise/grok-4-7-abliterated。
+- 其余（又一件 IM 桥、Windows 托盘、Hermes 迁移、像素办公室、今天刚出现的 local-forms / Raycast 扩展）：同质、小众或过新，留 inbox。
