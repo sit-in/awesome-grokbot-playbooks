@@ -4613,3 +4613,28 @@ T7 10:45 已推荐/信号/Skip 的本轮不再重复（含 RongleCat/grok-bot-cl
 ### Skip（本轮）
 
 今早 T7 已收/已 Skip 不重列。补漏后仍不进候选：littletechbird/otherhand（11-01 建，X 称可给 Grok Bot 控 Windows 桌面并加光环，README 未点名 Grok Bot，是 vercel-labs/agent-desktop 的无头驱动）；kinqcu/grokbot-desk（无许可证个人看板）。
+
+## 2026-11-10 16:55 Asia/Shanghai · 白天玩法雷达
+
+> 扫 11-10 10:51 之后（约 11-10 02:51Z 起）新建/更新的 Grok Bot 相关仓 + X `url:github.com` 交叉。今早 T7（10:50，`7447e61`）与白天雷达（10:55，`3074cd6`）已覆盖条目只去重不重列。未改 README。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| krishhgg/t3-watch | https://github.com/krishhgg/t3-watch | **零额度看守**：T3 Code / Codex / Claude Code 线程结束、要输入或失败时才叫醒 Grok Bot（也可 webhook）；等待期间不耗 Bot 额度。单二进制 Rust，多路看守共用一个后台 daemon 和一次上游 long-poll；只读状态、不代答不问不批准。macOS/Linux，尚无发行包须源码编译。MIT 或 Apache-2.0。今早 T7 漏收（仓名无 grok，08:28 已建），本窗仍推并在 X 交叉出现。与已收 DoubleDipCode/grokbot-t3-bridge 互补。本轮最值得看 | Tools / 零额度看守 | X 交叉（建于 11-10 08:28 Asia/Shanghai；白天漏收） |
+| Agentasy-AI/grokbot-lab | https://github.com/Agentasy-AI/grokbot-lab | **Claude Code ⇄ Grok Bot 的 ping/pong 协议 + 双 Skill**：Claude 侧发白名单任务，Grok Bot 当远程传感器跑完带回证据；ping 只带数据不当指令，无证据的 ok 视为未核实。人批门（排程、外联、重试、删除等）。webhook 体限制 3KB。状态 draft，对真实 Bot 7/7 实测。MIT | Skills / 跨 Agent 协议 | GitHub 新建（2026-11-10） |
+| ycaistudio/grokbot-token-saver | https://github.com/ycaistudio/grokbot-token-saver | **多 Bot 团队把每周额度用满一周的通用 Skill**：10 招整理自 @vartekxx 的额度文，另补 12 条实战（交接/投胎、群组只派一个负责 Bot、错三次就停、改规则只通知受影响岗）。把仓链给主 Bot 存为 skill 即可；改 routine 须先批。繁中/英/日 README + SKILL.md。MIT | Skills / 省额度 | GitHub 新建（2026-11-10） |
+| MrLongMo/homer-hermes-kit | https://github.com/MrLongMo/homer-hermes-kit | **一个窗口把 Grok Bot 连工作文件搬到 Hermes（Mac Apple 芯片）**：安装 Hermes、选账号、复制提示词让 Bot 打包再搬入；有图文教程和 unittest（假 hermes）。密钥只留本机。与已荐 grokbot-to-hermes / grok-bot-twin 互补（本仓是可下载的搬家 GUI）。MIT | Bridges / Hermes 迁移 | GitHub 新建（2026-11-10） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| SvenKunkka/multi-platform-bot-inbox | https://github.com/SvenKunkka/multi-platform-bot-inbox | macOS 收件箱：把文字/链接/附件存本地，补说明后投给已有 Grok Bot；飞书/钉钉/QQ 经独立接收服务回源会话。TypeScript + 测试，0.1.0 候选，正式签名和真账号验收未完成。**未声明许可证**。与已荐 RongleCat/grok-bot-anywhere 同类 | Clients / 多平台收件 | GitHub 新建（2026-11-10） |
+| markjamesc/grok-bot-analyst-workflow | https://github.com/markjamesc/grok-bot-analyst-workflow | 父 Bot 编排、六个子岗做设计/评审/R/SQL 的五阶段分析流程设计；闸门代码未实现。文档声明**不授予许可证**、禁止复用。对照仓 chatgpt-solo-analyst-workflow 是单聊 ChatGPT 稿，非 Grok Bot 配方 | 垂直配方 / 分析流程 | GitHub 新建（2026-11-10） |
+| zyamzin/cursor-usage-bar | https://github.com/zyamzin/cursor-usage-bar | macOS 菜单栏看 Cursor 用量与 Grok Bot 周额度及重置日；读本机已登录的 Cursor 会话，不另传数据。Swift，MIT，可下 DMG。与已荐 QinGeneral/ai-quota-bar 同质 | 工具 / 额度可见性 | GitHub 新建（2026-11-10） |
+
+### Skip（本轮）
+
+空仓/个人产出：shuyaofficial/grokbot-output（无 README 的 HTML/PPT dump）、Gambit025/My_Grok_Army（一行 README 的个人 3D 看板，无许可证）、wyldephyre/grok-bot-releases（模板版本 JSON，无许可证）。交易：alinor3141/grok-trading-bot（无 README）。偏题：markjamesc/chatgpt-solo-analyst-workflow（ChatGPT 对照稿）；luobinger/PerkRadar（福利聚合，Grok Bot 只是部署帮手）；thomasbek3/hermes-bot-kit（8 月旧仓，Hermes 界面插件，X 有更新帖但不作本窗新配方）。今早 T7/白天已收或已 Skip（含 grokbot-rag、grokbot-t3-bridge、OpenMausBot 热帖、wrokBot 自推）不重列。

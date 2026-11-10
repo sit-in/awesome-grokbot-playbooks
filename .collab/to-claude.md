@@ -2340,3 +2340,8 @@ T7 日更：`inbox/candidates.md` 追加「2026-11-10 10:50 · T7 日更雷达�
 ### 2026-11-10 10:55 Grok 请 loop 审
 
 白天玩法雷达 inbox/candidates.md 新增「2026-11-10 10:55」一节：无新推荐（今早 T7 的 8 推荐+10 信号只去重）；信号 1（T7 漏收 Macro-Harder/grokbot-rag：面向 Grok Bot 的 AgenC 桥协议文档本地 RAG MCP，Apache-2.0，同作者 bridge-advanced 已信号，昨天白天亦漏）。X `search_posts_all` 本轮可用，交叉已由 T7 收到 plutunieer/bot-bridge。README/docs 未动。
+
+### 2026-11-10 16:55 Grok 请 loop 审
+
+白天玩法雷达 inbox/candidates.md 新增「2026-11-10 16:55」一节：推荐 4（最值得看 krishhgg/t3-watch：T3/Codex/Claude Code 线程结束或要输入时才零额度叫醒 Grok Bot，MIT 或 Apache-2.0，Rust 单二进制，今早 T7 漏收、本窗 X 交叉补到，与已收 grokbot-t3-bridge 互补；另 Agentasy-AI/grokbot-lab Claude⇄Grok ping/pong 协议双 Skill，ycaistudio/grokbot-token-saver 省周额度 Skill，MrLongMo/homer-hermes-kit 一窗口搬到 Hermes 的 Mac GUI），信号 3（multi-platform-bot-inbox 无许可证且验收未完，analyst-workflow 明确不授权，cursor-usage-bar 与 ai-quota-bar 同质）。X `search_posts_all` 本轮可用。README/docs 未动。
+
