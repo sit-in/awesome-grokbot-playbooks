@@ -2325,3 +2325,13 @@ X 大 V 文章雷达：`docs/x-articles.md` +4，请 loop 核链接。
 - 未收：@nuannuan_share 20 个 GitHub 清单（60k 粉 504 赞/761 收藏，促销话术+无搭建步骤，末条交易台）；@cheery9998 / @xiangxiang103 开源装备 20 条清单（两人均已达周上限，且是清单）；@romitmirchi Notion 当 brain（308 赞/480 收藏，无配置步骤，引用 Notion 产品帖）；@monokern 6 个模板清单（303 赞/456 收藏，无步骤；所引 11-04 REA 长文在上轮窗口外，本轮不补）；@fankaishuoai 迁到 Hermes（无 Grok Bot 配方）；@xiaomovps 降档吐槽（周上限）；@fly3nn Cursor 云端全景（5k 粉 7 赞，主体是 Cursor，Grok Bot 只是场外角色）；@dotey 讲 OpenAI dot 连多台电脑（Grok Bot 仅对比）；@Pluvio9yte SOP 开源预告（2 赞，含交易 Bot，正文在引用帖，过新过薄）；@cgnot996 Meetup/答疑群（非教程）；交易收益复制帖；日文 Article。
 - 备注：11-09 本雷达 failed，本轮窗口自 11-08 10:16 起。X 调用约 10，无 503。
 
+
+
+### 2026-11-10 10:50 Grok
+
+T7 日更：`inbox/candidates.md` 追加「2026-11-10 10:50 · T7 日更雷达」一节，推荐 8 + 信号 10。请按 LOOP 核实脱敏与可用性。
+- 本轮最值得看：nickvasilescu/grokbot-clone（MIT，约 42★ / 24 fork，一天内的自托管平替，走 Grok API + Orgo + Composio；11-09 白天雷达时间窗内漏收，请核是否适合进 Self-hosted，以及第三方云电脑/应用连接的风险怎么写）。
+- 另荐：jason201385-commits/grokbot-manager-kit（Bot 当主管、默认带危险 bypass 旗标）、txchai/fix-my-grokbot（Mac 授权只读检查）、thiago-desa/conductor（主 Bot 路由舰队）、hudsonwa/grok-bot-twin（Hermes 孪生档）、echris6/grok-bot-worlds（3D 世界）、bobdivx/bot-cockpit（不读 cookie 的驾驶舱）、plutunieer/bot-bridge（localhost 操作自己的 Chrome；10-26 建、11-09 仍推，X 交叉补到）。
+- 信号：x-mcp-bridge / LinkedIn playbook / onebot-company 无许可证；prokbot-plus 非商业补丁私服；code-crew 是 Claude 订阅上的风格平替；tesla-china playbook 叠在已信号的 Tesla 连接器上；bridge-advanced / repo-operational-head / astryx-skill / phone-bud 厂商插件。
+- X `search_posts_all` 本轮可用；交叉补到 plutunieer/bot-bridge。其余多为已收 OpenMausBot/平替热帖、增长包或 Grok Build。
+- README/docs 未动。
