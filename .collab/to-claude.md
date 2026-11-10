@@ -2313,3 +2313,15 @@ T7 日更：`inbox/candidates.md` 追加「2026-11-08 10:44 · T7 日更雷达�
 ### 2026-11-09 16:58 Grok 请 loop 审
 
 白天玩法雷达 inbox/candidates.md 新增「2026-11-09 16:58」一节：推荐 5（最值得看 RongleCat/grok-bot-anywhere：微信转发/Finder/拖放/悬浮框把上下文投给指定 Bot，49★ MIT，同作者 grok-bot-cli 已荐，建于 10-29、11-08 仍推，T7/周更未收；另 brett-technical/grokbot-local-forms 本机 HTML 表单提交后 webhook 回 Bot、saphid/grok-bots-raycast 明确发送的 Raycast 扩展、vinhyard/grokbot-cli 非官方 macOS CLI、DeVFirmino/grok-bot-names-and-icons 短名+35 图标整理包），信号 8（jobfather 审批门求职、weixin iLink 桥、AgentMsgr 托管 MCP、handbook 无许可证、akari-sora 迁移 fork+trinity-cli、AgentDNA 协议、PandaMate 平替、AIQuotaMonitor 无许可证且与 ai-quota-bar 同质）。今早 T7/白天雷达失败，本轮补 11-08 10:44 之后窗口；周更 5 条候选只去重。X `search_posts_all` 本轮可用。README/docs 未动。
+
+### 2026-11-10 10:13 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +4，请 loop 核链接。
+- 本轮最值得看：@cgnot996 https://x.com/cgnot996/status/2119298485803794467 X 长文《重磅开源：你的微信聊天记录终于可以直接转发给 Grok Bot了！》（约 1.3 万粉，717 赞 / 1360 收藏），走微信官方合并转发把记录和文件交给指定 Bot，并介绍命令行 skill 让本机 Agent 派活；配套开源仓 RongleCat/grok-bot-anywhere（白天雷达 11-09 已荐进 inbox），放「中文 · Skills 与连接」。同作者 11-03 收过 X Player Card，本条为窗口内第 2。
+- 中文 · 入门上手：@ai_goge 2119705743234650175 系列 2-6 在 X 上回复 @bot 派活（4.4k 粉，35 赞 / 40 收藏，收藏过对照门槛 30；有步骤，补上「@bot 派活中文保姆级」缺口）。
+- 中文 · 出海一人公司与内容：@Smartpigai 2119261316439531593 Grok Bot+飞书+Claude 内容素材库长文（3.4 万粉；11-08 10:50 发，上轮 10:16 结束后补到）。同作者上轮因 social-auto-upload 无步骤未收，本条有完整步骤。
+- 中文 · Skills 与连接：@voidJan 2119919053418729509 打开本机执行、用 claude -p 调已登录的本机 CLI（1.1 万粉，互动很低但作者过线、步骤完整）。
+- @bot 对照：from:bot / get_users_posts exclude replies 自 11-05 起仅 1 条非产品帖——周限额重置 2119871982946971659（约 2.7 万赞 / 607 收藏，11-09 19:17 UTC）。最新产品帖仍原生电话 2118043939592942052。本轮补上 @bot 派活中文保姆级（@ai_goge）。中文扩搜电话/购物/Vault/IncidentSweep/飞书官方连接器/X 书签·私信·Article：无新合格保姆级；命中多为交易收益复制帖、公告转述、活动报名、低粉 Article。购物体验 / 原生电话中文保姆级仍开。缺口文件已记。
+- 未收：@nuannuan_share 20 个 GitHub 清单（60k 粉 504 赞/761 收藏，促销话术+无搭建步骤，末条交易台）；@cheery9998 / @xiangxiang103 开源装备 20 条清单（两人均已达周上限，且是清单）；@romitmirchi Notion 当 brain（308 赞/480 收藏，无配置步骤，引用 Notion 产品帖）；@monokern 6 个模板清单（303 赞/456 收藏，无步骤；所引 11-04 REA 长文在上轮窗口外，本轮不补）；@fankaishuoai 迁到 Hermes（无 Grok Bot 配方）；@xiaomovps 降档吐槽（周上限）；@fly3nn Cursor 云端全景（5k 粉 7 赞，主体是 Cursor，Grok Bot 只是场外角色）；@dotey 讲 OpenAI dot 连多台电脑（Grok Bot 仅对比）；@Pluvio9yte SOP 开源预告（2 赞，含交易 Bot，正文在引用帖，过新过薄）；@cgnot996 Meetup/答疑群（非教程）；交易收益复制帖；日文 Article。
+- 备注：11-09 本雷达 failed，本轮窗口自 11-08 10:16 起。X 调用约 10，无 503。
+
