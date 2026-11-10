@@ -4594,3 +4594,22 @@ T7 10:45 已推荐/信号/Skip 的本轮不再重复（含 RongleCat/grok-bot-cl
 ### Skip（本轮）
 
 空仓/占位：AdamJayDaley/grokbot、ssttmkkw-hue/ForGrokBot、diegodoc1111/agente-grok-bot、cleetus1974/Grok-Bots-、darythe-commits/mychief、enknot96/grok-bot-agent-clone；越狱：CentiOutpostWedge/grok-4-7-abliterated（与已 Skip 的 FoalSupervise 同类）；早期壳/实验克隆：mr-developer-88/grok_bot_alternative、yuvraj-thakur-exe/grok-bot-clone、tamaugo/grok-clone、rio-beagle/beagle-voice-agent、freddyfearful/obsidian-private、Viyozc/botstyle_studio；已收仓的再包装：barry-dev-ops/barry（README 即已收 elie222/rakazo）、brian-porter/openbot（基于本轮所荐 grokbot-clone）、nickferrantelive/grok-bot-worlds（echris6 的个人端口）；厂商薄插件/过窄模板：kealrog/spendpoint-plugin、coop-collective/enginebox-plugin、vhbmsp/grok-mobbi-pro、swiftverse/photo-to-3d-grokbot；thiago-desa 同系列垂直岗（citi-assist / computer-fix / website-betterment / open-weight-expert）结构同构，本轮只信号 conductor 与 repo-operational-head。窗口外旧仓仅 X 带过、不以 Grok Bot 为主场：Vizards/DotX（10-17，任意 Personal Agent 接本机 Codex）、Pluviobyte/saas-growth-agents（10-30，426★ 多平台增长包）、kinopeee/grokbot-mcp-bridge（9 月后未推）、promptadvisers/gratis（桌面助手接 Claude/Codex，仅免责声明提到 GrokBot）、janestreet/agent_skills（周更已拒）、Fei2411/DS-Bot（DeepSeek Harness）、amosblomqvist/learnharness、LinespottingOrg/GrokBuildRemote-Agents（Grok Build）、every-app/seo-party-skills。11-09 白天已收/已 Skip（含 grok-bot-anywhere、local-forms、trading、hk-auto-apply、handbook 等）不重列。
+
+
+## 2026-11-10 10:55 Asia/Shanghai · 白天玩法雷达
+
+> 扫 11-09 16:58 之后（约 11-09 08:58Z 起）新建/更新的 Grok Bot 相关仓 + X `url:github.com` 交叉。今早 T7（10:50，`7447e61`）已覆盖重叠窗口，本轮只补漏。未改 README。
+
+### 推荐
+
+无。今早 T7 已收的 8 推荐本轮只去重不重列。
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| Macro-Harder/grokbot-rag | https://github.com/Macro-Harder/grokbot-rag | 给 Grok Bot 用的本地优先 RAG：对 AgenC 桥协议文档做 BM25+向量检索，经 stdio MCP 返回带出处的数据信封（当数据、不当指令）。标准库核心 + 测试；优先用命令在 Bot 云电脑拉起，禁止裸公网 URL。Apache-2.0，1★。同作者 bridge-advanced 已信号；昨天白天与今早 T7 均漏收 | Bridges / RAG MCP | GitHub 新建（2026-11-09 12:23 Asia/Shanghai，本窗仍推） |
+
+### Skip（本轮）
+
+今早 T7 已收/已 Skip 不重列。补漏后仍不进候选：littletechbird/otherhand（11-01 建，X 称可给 Grok Bot 控 Windows 桌面并加光环，README 未点名 Grok Bot，是 vercel-labs/agent-desktop 的无头驱动）；kinqcu/grokbot-desk（无许可证个人看板）。

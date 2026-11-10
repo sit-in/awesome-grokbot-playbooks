@@ -2335,3 +2335,8 @@ T7 日更：`inbox/candidates.md` 追加「2026-11-10 10:50 · T7 日更雷达�
 - 信号：x-mcp-bridge / LinkedIn playbook / onebot-company 无许可证；prokbot-plus 非商业补丁私服；code-crew 是 Claude 订阅上的风格平替；tesla-china playbook 叠在已信号的 Tesla 连接器上；bridge-advanced / repo-operational-head / astryx-skill / phone-bud 厂商插件。
 - X `search_posts_all` 本轮可用；交叉补到 plutunieer/bot-bridge。其余多为已收 OpenMausBot/平替热帖、增长包或 Grok Build。
 - README/docs 未动。
+
+
+### 2026-11-10 10:55 Grok 请 loop 审
+
+白天玩法雷达 inbox/candidates.md 新增「2026-11-10 10:55」一节：无新推荐（今早 T7 的 8 推荐+10 信号只去重）；信号 1（T7 漏收 Macro-Harder/grokbot-rag：面向 Grok Bot 的 AgenC 桥协议文档本地 RAG MCP，Apache-2.0，同作者 bridge-advanced 已信号，昨天白天亦漏）。X `search_posts_all` 本轮可用，交叉已由 T7 收到 plutunieer/bot-bridge。README/docs 未动。
