@@ -4638,3 +4638,35 @@ T7 10:45 已推荐/信号/Skip 的本轮不再重复（含 RongleCat/grok-bot-cl
 ### Skip（本轮）
 
 空仓/个人产出：shuyaofficial/grokbot-output（无 README 的 HTML/PPT dump）、Gambit025/My_Grok_Army（一行 README 的个人 3D 看板，无许可证）、wyldephyre/grok-bot-releases（模板版本 JSON，无许可证）。交易：alinor3141/grok-trading-bot（无 README）。偏题：markjamesc/chatgpt-solo-analyst-workflow（ChatGPT 对照稿）；luobinger/PerkRadar（福利聚合，Grok Bot 只是部署帮手）；thomasbek3/hermes-bot-kit（8 月旧仓，Hermes 界面插件，X 有更新帖但不作本窗新配方）。今早 T7/白天已收或已 Skip（含 grokbot-rag、grokbot-t3-bridge、OpenMausBot 热帖、wrokBot 自推）不重列。
+
+## 2026-11-11 10:45 Asia/Shanghai · T7 日更雷达
+
+> 扫近 24 小时（约 11-10 02:50Z / 昨天 T7 ~10:50 Asia/Shanghai 起）新建/更新的 Grok Bot 相关仓 + X `url:github.com` 交叉；对照 11-10 T7（10:50）与白天玩法雷达（10:55 / 16:55）已收/已 Skip 去重。未改 README。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| PeerRich/grok-bot-macos-menu-bar | https://github.com/PeerRich/grok-bot-macos-menu-bar | **macOS 菜单栏看已有 Bot 正在干什么**：图标显示当前任务（「处理中」「正在搜索」），多个活跃 Bot 会标 `+N`；菜单上半是干活的、下半是其余，点一下在官方 App 里打开。名单只读本地花名册，实时状态需把官方 App 以 `--remote-debugging-port=9347` 拉起（只听 127.0.0.1，文档写明本机任意程序可检控窗口）。非官方，依赖内部实现（测过 0.79.3），上游改版可能失效。MIT，2★，Swift。@peer_rich 自荐。本轮最值得看 | Clients / macOS 菜单栏 | X 交叉（建于 2026-11-10 21:12 Asia/Shanghai；白天漏收） |
+| AleiahLock/elon-man | https://github.com/AleiahLock/elon-man | **把 Grok Bot 做成桌面机器人**：3D 打印身体 + ESP32 固件 + Mac 上的核心（视觉/语音/邮件桥/可选 MCP），Bot 当大脑；可先用假身体联调。命令走 `policy.yaml` 白名单，付费/外发/删除仍回审批卡；本机执行默认「每次先问」。带零件清单、接线、Grok Bot 配置与人设提示。MIT，1★ | Skills / 硬件机器人 | GitHub 新建（2026-11-11 06:23 Asia/Shanghai） |
+| webazarashi/mori-webhook-relay | https://github.com/webazarashi/mori-webhook-relay | **Mori 会议摘要好了才 webhook 叫醒 Grok Bot**：Cloudflare Worker 每 15 分钟查 Mori MCP，只有新摘要（可带全文）才触发例程，空转不耗 Bot 额度；失败下次重试。附受付例程提示词和部署清单。非官方，MIT。作者在 X 自荐 | Bridges / 零额度 webhook | X 交叉（建于 2026-11-10 18:37 Asia/Shanghai） |
+| AlizayAyesha/awesome-grok-bot-skills | https://github.com/AlizayAyesha/awesome-grok-bot-skills | **Grok Bot 技能目录 + 原创 fullstack 开工清单**：索引指向上游技能原文（不复制正文），另附 14 层上线检查的 `fullstack-vibe-coder`（含 references）。写了在 Grok Bot 里粘贴/拷贝技能文件夹的用法。MIT，1★ | Skills / 目录 | GitHub 新建（2026-11-11 08:38 Asia/Shanghai） |
+| AlizayAyesha/grok-social-media-skills | https://github.com/AlizayAyesha/grok-social-media-skills | **七个社媒增长 Skill**（X / LinkedIn / Threads / Instagram / TikTok / Facebook / Reddit）：计划、起草、去 AI 味、主页体检；外发帖/回复/评论/私信一律先留草稿等人批，不编数据。改编自 MIT 技能并写明出处。LICENSE 为 MIT（GitHub SPDX 显示 NOASSERTION），1★。同作者目录已荐 | Skills / 社媒 | GitHub 新建（2026-11-11 08:08 Asia/Shanghai） |
+| moeghashim/seo-growth-playbook | https://github.com/moeghashim/seo-growth-playbook | **SEO / AI 搜索增长审计 Skill**：按站抓 Search Console 等数据做技术与内容审计，输出 now/next/later 路线图和审批清单；默认只读，改站与付费须主人点头。可当 Grok Bot / Cursor 插件技能用。MIT | Skills / SEO | GitHub 新建（2026-11-10 17:49 Asia/Shanghai；白天漏收） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| joeseesun/xnews | https://github.com/joeseesun/xnews | 用 Grok Bot 例程（官方 X 工具 + WebFetch）抓海外创始人长文 / Article / 爆款 AI 视频，改写成中文站 xnews.qiaomu.ai，附原文。约 77★ / 9 fork。11-05 建、此前雷达因仓名无 grok 漏收，本窗仍推并在 X 出现。README 写 MIT，但仓内没有 LICENSE、GitHub 未挂许可证 | 一人公司 / 内容站 | X 交叉（更新于 2026-11-11） |
+| julienlieben/grokbot-gtm-setup | https://github.com/julienlieben/grokbot-gtm-setup | ColdIQ 完整 GTM 安装包：一个参谋路由多岗（客户运营/名单/回复/日报/内容），外发一律草稿先批；把总说明交给主 Bot 即可安装。结构完整，与已收 GTM 团队配方同类；**未声明许可证** | 一人公司 / GTM | GitHub 新建（2026-11-11 03:22 Asia/Shanghai） |
+| matheusvelloso/ai-usage-bar | https://github.com/matheusvelloso/ai-usage-bar | macOS 菜单栏 + Windows 托盘看 Claude / Grok Bot 等额度，读本机已登录态。MIT，有站点与安装包。与已荐 QinGeneral/ai-quota-bar 同质，增量是 Windows | 工具 / 额度可见性 | GitHub 新建（2026-11-11 00:51 Asia/Shanghai） |
+| steelzeh/grok-bot-menubar-patch | https://github.com/steelzeh/grok-bot-menubar-patch | 给官方 macOS App 打补丁，把 Dock 图标改到菜单栏（测过 0.79.3/0.79.4）。会改签名、可能影响自动更新和系统授权；**未声明许可证** | Tools / 官方 App 补丁 | GitHub 新建（2026-11-11 05:04 Asia/Shanghai） |
+| get-octane/octane-grok-plugin | https://github.com/get-octane/octane-grok-plugin | Octane 厂商插件：只读看店铺业绩/库存/发票，带出处。Apache-2.0，仓较薄 | Bridges / 垂直插件 | GitHub 新建（2026-11-11 01:59 Asia/Shanghai） |
+| Synapsr/louez-assistant-plugins | https://github.com/Synapsr/louez-assistant-plugins | Louez 租赁店厂商插件（Claude Code / Cursor / Grok Bot）。MIT，偏 SaaS 连接器 | Bridges / 垂直插件 | GitHub 新建（2026-11-10 21:14 Asia/Shanghai） |
+| openbook-contacts/openbook-plugin | https://github.com/openbook-contacts/openbook-plugin | Openbook 通讯录厂商插件（Claude / Grok Bot / Cursor）。MIT，仓较薄 | Bridges / 垂直插件 | GitHub 新建（2026-11-11 05:53 Asia/Shanghai） |
+| sendblue-api/sendblue-grok-plugin | https://github.com/sendblue-api/sendblue-grok-plugin | Sendblue 消息/送达状态的 OAuth MCP 插件说明；**未声明许可证**，偏厂商 | Bridges / 垂直插件 | GitHub 新建（2026-11-11 05:26 Asia/Shanghai） |
+
+### Skip（本轮）
+
+空仓/薄仓/个人产出：ChihiroNishioka/grokbot-job-engine（README 仅 299 字节、无许可证）、tishan-perera/grokbot（个人组织拷贝）、Joseemm96/donbots（个人配置移交）、samuelsaid2003/cold-email-starter-workspace（无许可证冷邮工作区）、dadutss/cpanel-cwp-transfer（无许可证、场景过窄）、Atlas-Grok/grok-atlas、Shea-Nelson/grok-lessons、hhhhhh1140/agent-center、masalaempire/GrokBot-Desktop-Pet（均无许可证或说明书不全）、errrrrrr-jpg/grok-bot、zwsfpn4j6r-oss/grok-bot、Black-sys-dot/grok-bot-ripeoff、realbrianhanson/grokbot-automation-done-for-you（营销站）。交易 / 越狱：tim871199-eng/grokbot-trading、alinor3141/grok-trading-bot、Jake-SX9/GarvisTrades、CentiOutpostWedge/grok-4-7-abliterated（上轮已 Skip，本窗仍推）。已有仓再包装：techfundoffice/cloudbot-staging（主页即 OpenMausBot，体量镜像）。偏题 / 非 Grok Bot 主场：Soren-Starck/t3-bot（T3 Code 的 iPhone 配套，只是「长得像」）、PhilipAD/wow-mentor（通用游戏教练，Grok 只是可选远程 bot）、YogurtJ/OhMyBuddy、SmartStudio/baize-bot、feigbar-SimpleDot/simpledot-agent-studio、guidsen/hermes-grok-bot-skin、vellxw/hermes-bots-console、stephenlb 本地 Ollama 长名仓、pavel444-byte/free.（Dots 平替）、jonzobrist/customer-player-cards（概念+构建提示，未写成 Grok Bot 配方）、asgeirtj/system_prompts_leaks（提示词泄露清单）。窗口外旧仓仅 X 带过不重列：milind-soni/OpenMausBot、CopilotKit/OpenBot、Crokily/pi-durable-bot、krishhgg/t3-watch、DoubleDipCode/grokbot-t3-bridge、thomasbek3/hermes-bot-kit、luobinger/PerkRadar、rystedtcreative/run-cards、transparent-pegasus/utsurigi-agent-hub、oliexe/paseo-bots、stanley50z/cua-bot、rome-os/rome 等。11-10 T7/白天已收或已 Skip（含 grokbot-lab、token-saver、t3-watch、coop-collective/enginebox-plugin、megahertz8/grok-bot-packs、PoetCoderJun/hk-auto-apply、shuyaofficial/grokbot-output 等）不重列。

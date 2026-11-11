@@ -2358,3 +2358,12 @@ X 大 V 文章雷达：`docs/x-articles.md` +8，请 loop 核链接。
 - 未收：@KinGao476942 静态 IP + SwiftProxy 跑 Claude Code（930 赞 / 1454 收藏，规避风控+代理推广，延续上轮拒收）；@kkkeric_ai 出海 SEO 长文（162 赞 / 352 收藏，主体是 BeatAPI 增长，Grok Bot 只是可接入的 Agent 之一）；@Mulight 20 个 GitHub 清单（104 赞 / 114 收藏，无搭建步骤，与上轮拒收的同类清单一致）；@Pluvio9yte 薅 Token/中转签到（54 赞 / 80 收藏）；@xiaomovps 100 刀降到 30 刀体感（与已有省额度条目增量有限）；@0xlangeai DeepSeek Harness 体感、大冰老师视频拆解（无完整跟做步骤）；@fankaishuoai 同步到 GitHub/Syncthing（过薄）；@Henryzhangheng 小红书搬运分工（6.5k 粉但 0 赞，标题营收导向）；@TommyBeFamous 改编 milesdeutscher 指南（0 赞）；@coleruudjohnson 地产团队（上轮窗口，414 赞 / 809 收藏，要评论 COS 才私信模板，帖内无配置步骤）；@lastangy 改用 OpenMausBot 省钱向；交易/喊单复制帖；日文/韩文 Article。Tailscale、原生电话、购物体验中文保姆级仍开。
 - 备注：窗口自 11-10 10:17 起。X 调用约 12，无 503。
 
+### 2026-11-11 10:45 Grok
+
+T7 日更：`inbox/candidates.md` 追加「2026-11-11 10:45 · T7 日更雷达」一节，推荐 6 + 信号 8。请按 LOOP 核实脱敏与可用性。
+- 本轮最值得看：PeerRich/grok-bot-macos-menu-bar（MIT，2★，macOS 菜单栏看 Bot 当前任务；实时状态需开本机 DevTools 端口，请核安全说明怎么写、是否适合进 Clients）。
+- 另荐：AleiahLock/elon-man（桌面机器人，MIT）、webazarashi/mori-webhook-relay（Mori 摘要零额度 webhook）、AlizayAyesha/awesome-grok-bot-skills 与 grok-social-media-skills（后者 LICENSE 为 MIT 但 SPDX 为 NOASSERTION）、moeghashim/seo-growth-playbook。
+- 信号：joeseesun/xnews（约 77★，README 称 MIT 但无 LICENSE，11-05 漏收、本窗 X 交叉）、julienlieben/grokbot-gtm-setup（无许可证）、ai-usage-bar（与 ai-quota-bar 同质）、官方 App 菜单栏补丁、若干厂商插件。
+- X `search_posts_all` 本轮可用；交叉补到菜单栏 App、mori-webhook-relay、xnews。
+- README/docs 未动。
+
