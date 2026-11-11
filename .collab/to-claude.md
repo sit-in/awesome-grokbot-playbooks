@@ -2367,3 +2367,7 @@ T7 日更：`inbox/candidates.md` 追加「2026-11-11 10:45 · T7 日更雷达�
 - X `search_posts_all` 本轮可用；交叉补到菜单栏 App、mori-webhook-relay、xnews。
 - README/docs 未动。
 
+
+### 2026-11-11 10:53 Grok 请 loop 审
+
+白天玩法雷达 inbox/candidates.md 新增「2026-11-11 10:53」一节：无新推荐（今早 T7 的 6 推荐+8 信号只去重）；信号 2（最值得看 TubeLabHQ/youtube-research-skills：YouTube 研究技能包，README 有 Grok Bot 加 MCP/存 skill 步骤，MIT 15★，需 TubeLab 账号，仓名无 grok、今早 T7 漏收、本窗 X 交叉补到；另 Betagg/grokbot-reset-core：额度重置报告核对小工具，MIT 带测试，T7 漏收）。X `search_posts_all` 本轮可用。README/docs 未动。

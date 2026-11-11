@@ -4670,3 +4670,23 @@ T7 10:45 已推荐/信号/Skip 的本轮不再重复（含 RongleCat/grok-bot-cl
 ### Skip（本轮）
 
 空仓/薄仓/个人产出：ChihiroNishioka/grokbot-job-engine（README 仅 299 字节、无许可证）、tishan-perera/grokbot（个人组织拷贝）、Joseemm96/donbots（个人配置移交）、samuelsaid2003/cold-email-starter-workspace（无许可证冷邮工作区）、dadutss/cpanel-cwp-transfer（无许可证、场景过窄）、Atlas-Grok/grok-atlas、Shea-Nelson/grok-lessons、hhhhhh1140/agent-center、masalaempire/GrokBot-Desktop-Pet（均无许可证或说明书不全）、errrrrrr-jpg/grok-bot、zwsfpn4j6r-oss/grok-bot、Black-sys-dot/grok-bot-ripeoff、realbrianhanson/grokbot-automation-done-for-you（营销站）。交易 / 越狱：tim871199-eng/grokbot-trading、alinor3141/grok-trading-bot、Jake-SX9/GarvisTrades、CentiOutpostWedge/grok-4-7-abliterated（上轮已 Skip，本窗仍推）。已有仓再包装：techfundoffice/cloudbot-staging（主页即 OpenMausBot，体量镜像）。偏题 / 非 Grok Bot 主场：Soren-Starck/t3-bot（T3 Code 的 iPhone 配套，只是「长得像」）、PhilipAD/wow-mentor（通用游戏教练，Grok 只是可选远程 bot）、YogurtJ/OhMyBuddy、SmartStudio/baize-bot、feigbar-SimpleDot/simpledot-agent-studio、guidsen/hermes-grok-bot-skin、vellxw/hermes-bots-console、stephenlb 本地 Ollama 长名仓、pavel444-byte/free.（Dots 平替）、jonzobrist/customer-player-cards（概念+构建提示，未写成 Grok Bot 配方）、asgeirtj/system_prompts_leaks（提示词泄露清单）。窗口外旧仓仅 X 带过不重列：milind-soni/OpenMausBot、CopilotKit/OpenBot、Crokily/pi-durable-bot、krishhgg/t3-watch、DoubleDipCode/grokbot-t3-bridge、thomasbek3/hermes-bot-kit、luobinger/PerkRadar、rystedtcreative/run-cards、transparent-pegasus/utsurigi-agent-hub、oliexe/paseo-bots、stanley50z/cua-bot、rome-os/rome 等。11-10 T7/白天已收或已 Skip（含 grokbot-lab、token-saver、t3-watch、coop-collective/enginebox-plugin、megahertz8/grok-bot-packs、PoetCoderJun/hk-auto-apply、shuyaofficial/grokbot-output 等）不重列。
+
+
+## 2026-11-11 10:53 Asia/Shanghai · 白天玩法雷达
+
+> 扫 11-10 16:55 之后（约 11-10 08:55Z 起）新建/更新的 Grok Bot 相关仓 + X `url:github.com` 交叉。今早 T7（10:45，`27a7290`）已覆盖重叠窗口，本轮只补漏。未改 README。
+
+### 推荐
+
+无。今早 T7 已收的 6 推荐本轮只去重不重列。
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| TubeLabHQ/youtube-research-skills | https://github.com/TubeLabHQ/youtube-research-skills | TubeLab 的 YouTube 研究技能包（爆款/赛道/竞品/评论/标题公式等）：README 写了 Grok Bot 用法——按 URL 加 MCP、完成登录，再把仓或 `SKILL.md` 交给 Bot 存为私有 skill（先存 `tubelab-mcp`）。MIT，15★。需自备 TubeLab 账号，偏厂商。建于 11-04、仓名无 grok，今早 T7 漏收；本窗仍推并在 X 交叉出现。本轮最值得看 | Skills / 厂商 YouTube | X 交叉（更新于 2026-11-10 21:48 Asia/Shanghai） |
+| Betagg/grokbot-reset-core | https://github.com/Betagg/grokbot-reset-core | 从 GrokBot Rest 抽出的额度重置报告核对小工具：在 90 分钟窗口内看官方/核心/社区报告是否互相印证，并估算已过去多久；不拉帖、不通知，示例为虚构。MIT，带测试。今早 T7 漏收 | 工具 / 额度重置核对 | GitHub 新建（2026-11-10 17:45 Asia/Shanghai） |
+
+### Skip（本轮）
+
+今早 T7 已收/已 Skip 不重列。补漏后仍不进候选：wybc092109/grokbot_blog（空仓）、kuwabara-agent/grokbot-template-context（仅 README、无许可证，作者写明配方不用它）、serafin-meshy/meshy-grok-discovery-test（临时 A/B fixture，非发行）、forge-agent-hub/forge-agent-hub（联系邮箱带 grokbot.com，非产品玩法）、RMac-triadicIntelligence/relational-transitions-v0.1（关系实验，Grok Bot 只是评审席）、markjamesc/grok-chatgpt-review-analyst-workflow（已信号 analyst-workflow 的第三版，仍不授权）、WangPhu26/grok-bot-desk（交易台）、neojou/myants（个人蚂蚁模拟游戏产出，非配方）。偏题：RokaSwK/threebot（T3 上的 Grok Bot 风格客户端，与已 Skip 的 t3-bot 同类）、sandhiveio/How-Could-I-Be-Hacked（通用安全技能，Grok Bot 只是可接入的 Agent）、aiedwardyi/Wink（编码订阅桌面壳，Grok 指 CLI 工人）、ericzakariasson/x-feedback-agent（Slack+Cursor 修 bug，非 Grok Bot 配方）。窗口外旧仓仅 X 清单带过不重列：simo255/multiBot（2026-09-02 建，67★ MIT 工厂模板，9 月后未推，此前未进 inbox）、mandarwagh9/botroster、Archive228/foreman、serenakeyitan/agent-org-chart、jaredtrichard/grok-factory（后两条此前已收或已 Skip）。
