@@ -2345,3 +2345,16 @@ T7 日更：`inbox/candidates.md` 追加「2026-11-10 10:50 · T7 日更雷达�
 
 白天玩法雷达 inbox/candidates.md 新增「2026-11-10 16:55」一节：推荐 4（最值得看 krishhgg/t3-watch：T3/Codex/Claude Code 线程结束或要输入时才零额度叫醒 Grok Bot，MIT 或 Apache-2.0，Rust 单二进制，今早 T7 漏收、本窗 X 交叉补到，与已收 grokbot-t3-bridge 互补；另 Agentasy-AI/grokbot-lab Claude⇄Grok ping/pong 协议双 Skill，ycaistudio/grokbot-token-saver 省周额度 Skill，MrLongMo/homer-hermes-kit 一窗口搬到 Hermes 的 Mac GUI），信号 3（multi-platform-bot-inbox 无许可证且验收未完，analyst-workflow 明确不授权，cursor-usage-bar 与 ai-quota-bar 同质）。X `search_posts_all` 本轮可用。README/docs 未动。
 
+
+### 2026-11-11 10:20 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +8，请 loop 核链接。
+- 本轮最值得看：@Pluvio9yte https://x.com/Pluvio9yte/status/2119972735426383993 X 长文《将你的Personal Agent打造成自动化赚钱系统》（约 5.3 万粉，601 赞 / 1181 收藏），把重复劳动固化成 SOP：做一次→改到满意→存成技能→设成例程；详写出海站点运营（找词找站查外链）和社媒分析 Bot，花钱/外发/删除必须本人点头；配置开源 github.com/Pluviobyte/saas-growth-agents，把仓库发给 Bot 可按提问自助安装。放「中文 · 出海一人公司与内容」。上轮 11-10 10:13 将其记为「SOP 开源预告，过新过薄」，现已过线补收。文中另有行情分析 Bot（只出参考、本人决策），短评未展开，避免写成喊单。
+- 中文 · 入门上手：@fankaishuoai 2120153537414053969 开源平替选型（4.7 万粉，79 赞 / 101 收藏），Hermes > OpenMausBot > Rakazo，自己是 Paseo+Hermes+Grok Bot 轻活。
+- 中文 · Routine 雷达与额度：@0xlangeai 2120323232360493174 用量页入口（设置→用量账单→Grok Bot 用量，按来源/按 Bot），1.3 万粉，步骤短但补上用量面板中文路径；@chasen_liao 2120177161311297913 Gemini Pro→Magpie（只听 Tailscale 内网）→Pi，Grok Bot 只拆任务和验收（6.8k 粉，396 赞 / 530 收藏）。注意：这是作者自己的 VPS 组网，不是官方 Tailscale 插件对照。
+- 中文 · Skills 与连接：@Mulight 2120035144157593805 把 @XCreators 指南做成 5 个开源 Skill（1.8 万粉）；@0xlangeai 2120049568331280486 拆 @poteto 38 分钟分享为 6 个可照做方法（1.3 万粉，互动偏低但作者过线、步骤完整）。
+- 英文精选 · 出海一人公司：@BrianRoemmele 2120177561565307025 Podcast Maker 模板（49.6 万粉，65 赞 / 50 收藏）；同作者 2119815091092861330 Any Video Into A Magazine（1077 赞 / 700 收藏）为 11-09 23:31 上轮窗口漏收，本轮补上。
+- @bot 对照：新产品帖 2120279511707386263 Tailscale tailnet（约 3467 赞 / 916 收藏，11-10 22:16 UTC），可加入个人或公司 tailnet 访问私有 MCP 和内网工具。中文扩搜无合格保姆级对照（有步骤 + 5k 粉或约 50 赞/30 收藏）；命中多为公告转述（@xmglab 等）。@DIYgod 2120043320445739240 写了 Pinky/tailscale serve，但写明 Grok Bot 那头还没试；@adrianogomes 英文三步（问 Bot 连接→批准登录卡→用 MagicDNS 加私有 MCP）有步骤但仅 22 粉 1 赞，未过线，盯。用量页中文路径本轮已收 @0xlangeai。缺口文件已记。
+- 未收：@KinGao476942 静态 IP + SwiftProxy 跑 Claude Code（930 赞 / 1454 收藏，规避风控+代理推广，延续上轮拒收）；@kkkeric_ai 出海 SEO 长文（162 赞 / 352 收藏，主体是 BeatAPI 增长，Grok Bot 只是可接入的 Agent 之一）；@Mulight 20 个 GitHub 清单（104 赞 / 114 收藏，无搭建步骤，与上轮拒收的同类清单一致）；@Pluvio9yte 薅 Token/中转签到（54 赞 / 80 收藏）；@xiaomovps 100 刀降到 30 刀体感（与已有省额度条目增量有限）；@0xlangeai DeepSeek Harness 体感、大冰老师视频拆解（无完整跟做步骤）；@fankaishuoai 同步到 GitHub/Syncthing（过薄）；@Henryzhangheng 小红书搬运分工（6.5k 粉但 0 赞，标题营收导向）；@TommyBeFamous 改编 milesdeutscher 指南（0 赞）；@coleruudjohnson 地产团队（上轮窗口，414 赞 / 809 收藏，要评论 COS 才私信模板，帖内无配置步骤）；@lastangy 改用 OpenMausBot 省钱向；交易/喊单复制帖；日文/韩文 Article。Tailscale、原生电话、购物体验中文保姆级仍开。
+- 备注：窗口自 11-10 10:17 起。X 调用约 12，无 503。
+
