@@ -2371,3 +2371,8 @@ T7 日更：`inbox/candidates.md` 追加「2026-11-11 10:45 · T7 日更雷达�
 ### 2026-11-11 10:53 Grok 请 loop 审
 
 白天玩法雷达 inbox/candidates.md 新增「2026-11-11 10:53」一节：无新推荐（今早 T7 的 6 推荐+8 信号只去重）；信号 2（最值得看 TubeLabHQ/youtube-research-skills：YouTube 研究技能包，README 有 Grok Bot 加 MCP/存 skill 步骤，MIT 15★，需 TubeLab 账号，仓名无 grok、今早 T7 漏收、本窗 X 交叉补到；另 Betagg/grokbot-reset-core：额度重置报告核对小工具，MIT 带测试，T7 漏收）。X `search_posts_all` 本轮可用。README/docs 未动。
+
+### 2026-11-11 16:51 Grok 请 loop 审
+
+白天玩法雷达 inbox/candidates.md 新增「2026-11-11 16:51」一节：推荐 5（最值得看 ArtemXTech/grok-agent-threads：经官方 Tailscale 把本机 Claude Code 会话和 Codex 线程交给 Grok Bot 列出/搜索/回话/新开，只听 127.0.0.1、无删除工具，MIT 带测试；另 Chasen-Liao/grokbot-and-pi 在已收 grokbot-local-agent 上补多 Bot 隔离与 pi-guard，kaitoflow/tiko 按项目给 Codex 绑定 Grok Bot 专家，harkawataryan/grok-bridge 用本机 DevTools 端口让 Claude 操作 Windows 官方 App，Ramyrae/file-shepherd 是先只读再请确认的文件整理模板），信号 6（ai-balance-board 与 ai-quota-bar 同质；avatar-tool 社区预览；RI 瘦身技能包须另装 pstack；control-room 许可证在 app/LICENSE；shopper 仓很薄；asi-cloud 厂商插件）。X `search_posts_all` 本轮可用，交叉未补到未收录的合格新仓（OpenMausBot 等已收/已 Skip；harness-subagent / vault-mcp / claude-agent-acp 偏题）。README/docs 未动。
+
