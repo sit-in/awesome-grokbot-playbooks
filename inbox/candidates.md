@@ -4752,3 +4752,23 @@ T7 10:45 已推荐/信号/Skip 的本轮不再重复（含 RongleCat/grok-bot-cl
 ### Skip（本轮）
 
 空仓/薄仓/占位：itskeeeyin/bot-office（MIT 但几乎只有一行 README）、ankit8898/grok-bot-test（一个 html）、catalioapp/catalio-mcp-plugin（无许可证、README 仅百余字节）、pingcodeai/grokbotai（Vue 站点模板，非玩法）。交易 / 错名克隆：agentshorts/Grokbot-Daytrade-Wallet、icecoldsteve/aetherdesk-trading-bots、rikardopavlovs-ai/grokbot（实为 Solana Agent Kit 拷贝）、enesclbb/grokbot（pump.fun 交易脚本拷贝）。偏题 / 非 Grok Bot 产品玩法：LBM-OASIG/dsh-grok-bot（给 DeepSeek Harness 的 Bot 插件，只拿 Grok Bot 当功能参照）、WastedPatriot/pocketbots（钥匙扣固件，README 未对接 Grok Bot 产品）、zmlworks/charge-log / dalixinc/zx-course / ksaday/ChristianCalendarGrok（用 Bot 做出来的应用或课程，不是配方）、wildmaker/grok-bot-meetup-credits（活动签到墙）、WBR-Technologies/Accord（落地页）、cyrano21/grok-bot（无许可证的自托管聊天壳）、ST4RM0N/brainsort 与 brainsort-grok-bot-pages（无许可证、概念向）。X 交叉但窗口外或不宜进候选：cufelix/grokbot-cli-mcp（superagent-ai/grok-cli 的 fork，10-31 后未推）、botseverywhere-ai/BotsEverywhere（10-19 建 25★，11-04 后未推）、Wecko-ai/hermes-bot、davidpgil/hermes-stage、mirecekd/herdogroco（Hermes/Tesla 向）、rkendel1/personalOS、smfworks/agent-llm-wiki-vault（写给 Hermes/OpenClaw）。窗口内热帖已收或已 Skip 不重列：milind-soni/OpenMausBot、Chasen-Liao/grokbot-and-pi、exa-pub/grokbot-tunnel、Soren-Starck/t3-bot、realspqrk/harness-subagent、guidsen/hermes-grok-bot-skin、rio-beagle/beagle-voice-agent、luobinger/PerkRadar、timothyreavis/self-hosted-vault-mcp、agentclientprotocol/claude-agent-acp、alexsergivan/kwant。昨天 T7/白天已收或已 Skip 不重列（含 grok-agent-threads、tiko、grok-bridge、file-shepherd、shopper、RI、control-room、avatar-tool、ai-balance-board 等）。
+
+## 2026-11-12 10:55 Asia/Shanghai · 白天玩法雷达
+
+> 扫 11-11 16:51 之后（约 11-11 08:51Z 起）新建/更新的 Grok Bot 相关仓 + X `url:github.com` 交叉。今早 T7（10:50，`c952451`）已覆盖条目只去重不重列。未改 README。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| lixiaomeng0001-hue/osgb2su | https://github.com/lixiaomeng0001-hue/osgb2su | **测绘向 Grok Bot 技能：把倾斜摄影 OSGB 按地块边界选出瓦片，转成 SketchUp 可导入的 COLLADA/OBJ**。脚本只需系统 Python 3、无第三方依赖；先 `--dry-run` 再导出，只读源数据、不改原始 OSGB，也不走 GISBox 付费导出。仓内有 `skills/grok-bot/SKILL.md`，另附 WorkBuddy 技能和网页对话开场白。已验证 ContextCapture/Smart3D + EPSG:4543；按瓦整块导出，不是沿红线切三角面。MIT。今早 T7 漏收（仓名无 grok，10:20 新建）。本轮最值得看 | Skills / 测绘导出 | GitHub 新建（2026-11-12 10:20 Asia/Shanghai；T7 漏收，本窗 README/技能交叉补到） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| gopkg-dev/damail | https://github.com/gopkg-dev/damail | 自托管邮件中枢（Gmail/Outlook/iCloud/QQ/163/IMAP），MCP + REST；文档有专节写 Grok Bot：自定义连接器 + OAuth，接上后可用 Routine。发信须主人点头。MIT，5★，Docker 一键装，中英文档完整。主产品是邮件枢纽，Grok Bot 是多客户端之一（与 Claude Duet / ChatGPT dots / Meta Muse 并列） | Bridges / 邮件 MCP | GitHub 新建（2026-11-12 09:16 Asia/Shanghai；T7 漏收，仓名无 grok） |
+
+### Skip（本轮）
+
+空仓/个人笔记：jun173975-create/-bot（空仓，描述是期货期权盯盘 skill，未声明许可证）。不宜收录：starixs/grok-bot-research-ricoh（官方桌面 App 内部复刻/解析 POC，含本机路径，未声明许可证）。偏题或非配方：lixiaomeng 之外的「用 Bot 做出来的工具」不在本窗重复；smfworks/smf-works-books（无许可证，书籍仓）；akira-tokiwa/hft-self-improve（交易/HFT，无许可证）。X 交叉已收或已 Skip 不重列：exa-pub/grokbot-tunnel（作者发 v1.6.0 支持 1.0.1，已收仓版本更新不重列）、zabrodsk/bot2bot（已收）、ramarivera/grok-bot-bridge、pagzhong/ai-bridge、Chasen-Liao/grokbot-and-pi、milind-soni/OpenMausBot、cufelix/grokbot-cli-mcp、botseverywhere-ai/BotsEverywhere、rkendel1/personalOS、davidpgil/hermes-stage、Soren-Starck/t3-bot、alexsergivan/kwant、mirecekd/herdogroco、smfworks/agent-llm-wiki-vault。今早 T7 已收或已 Skip 不重列。

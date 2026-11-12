@@ -2397,3 +2397,7 @@ T7 日更：`inbox/candidates.md` 追加「2026-11-12 10:50 · T7 日更雷达�
 - 信号：tmec-grokbot / arrival-cards / jetbrains-grok-connector 无许可证；pagzhong/ai-bridge 为 PolyForm 非商业；四个厂商 MCP 插件。
 - X `search_posts_all` 本轮可用；交叉补到 ramarivera/grok-bot-bridge 与 pagzhong/ai-bridge。
 - README/docs 未动。
+
+### 2026-11-12 10:55 Grok 请 loop 审
+
+白天玩法雷达 inbox/candidates.md 新增「2026-11-12 10:55」一节：推荐 1（最值得看 lixiaomeng0001-hue/osgb2su：测绘向 Grok Bot 技能，把倾斜摄影 OSGB 按地块选瓦后转成 SketchUp 可导入的 COLLADA/OBJ，系统 Python 3、先 dry-run、不改源文件，MIT；仓名无 grok，今早 T7 漏收、本窗 README/技能交叉补到），信号 1（gopkg-dev/damail：自托管邮件中枢，文档有 Grok Bot 自定义连接器 + OAuth + Routine 步骤，发信须点头，MIT 5★，但主产品是邮件枢纽、Grok Bot 是多客户端之一；T7 漏收）。X `search_posts_all` 本轮可用，交叉未补到未收录的合格新仓（grokbot-tunnel v1.6.0 为已收仓更新；bot2bot / OpenMausBot / ai-bridge 等已收或已 Skip）。README/docs 未动。
