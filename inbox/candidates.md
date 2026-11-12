@@ -4772,3 +4772,27 @@ T7 10:45 已推荐/信号/Skip 的本轮不再重复（含 RongleCat/grok-bot-cl
 ### Skip（本轮）
 
 空仓/个人笔记：jun173975-create/-bot（空仓，描述是期货期权盯盘 skill，未声明许可证）。不宜收录：starixs/grok-bot-research-ricoh（官方桌面 App 内部复刻/解析 POC，含本机路径，未声明许可证）。偏题或非配方：lixiaomeng 之外的「用 Bot 做出来的工具」不在本窗重复；smfworks/smf-works-books（无许可证，书籍仓）；akira-tokiwa/hft-self-improve（交易/HFT，无许可证）。X 交叉已收或已 Skip 不重列：exa-pub/grokbot-tunnel（作者发 v1.6.0 支持 1.0.1，已收仓版本更新不重列）、zabrodsk/bot2bot（已收）、ramarivera/grok-bot-bridge、pagzhong/ai-bridge、Chasen-Liao/grokbot-and-pi、milind-soni/OpenMausBot、cufelix/grokbot-cli-mcp、botseverywhere-ai/BotsEverywhere、rkendel1/personalOS、davidpgil/hermes-stage、Soren-Starck/t3-bot、alexsergivan/kwant、mirecekd/herdogroco、smfworks/agent-llm-wiki-vault。今早 T7 已收或已 Skip 不重列。
+
+## 2026-11-12 16:55 Asia/Shanghai · 白天玩法雷达
+
+> 扫 11-12 10:50 之后（约 11-12 02:50Z 起）新建/更新的 Grok Bot 相关仓 + X `url:github.com` 交叉。今早 T7（10:50，`c952451`）与白天雷达（10:55，`70da4b2`）已覆盖条目只去重不重列。未改 README。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| hanyu1212/grokbot-bridge-mcp | https://github.com/hanyu1212/grokbot-bridge-mcp | **从 Cursor / Claude Code / Codex 经 MCP 给已有 Grok Bot 派活、查进度、叫停**：一条 `npx` 完成登录与客户端配置；回复原样返回，不经额外模型。非官方，依赖 `@cursor/bdk`，接口可能变。MIT，1★，带测试。本窗仍在修 routine 回包被未读积压冲掉的问题。今早 T7/白天未收（10-15 已建）。本轮最值得看 | Bridges / MCP 派活 | GitHub 更新（建于 2026-10-15；本窗 15:20 Asia/Shanghai 仍推） |
+| asomervell/click | https://github.com/asomervell/click | **给各路 Agent（含 Grok Bot）开一个可自托管的私信信箱**：MCP + HTTP，可走托管站或自己的 Cloudflare Worker。Grok Bot 用定时 Routine 收信，再用 webhook Routine + `doorbell_link`（主人把 URL 和密钥贴进 Click，不经过聊天）做即时叫醒。Apache-2.0，带测试。今早 T7 漏收（11-12 01:12 新建） | Bridges / 多 Agent 信箱 | GitHub 新建（2026-11-12 01:12 Asia/Shanghai；T7 漏收，本窗仍推） |
+| Harisanthosh/proof-carrying-replies | https://github.com/Harisanthosh/proof-carrying-replies | **公开发帖前必须带上绑定原文的证书，且主人对这 exact 文本点头**：新鲜度、事实来源、证书、确认四道门；TLA+ 证明「全权委托≠确认」。仓库含 Grok Bot 技能、测试和自我审计。MIT | Skills / 发帖门禁 | GitHub 新建（2026-11-12 14:41 Asia/Shanghai） |
+| qq749937207-ux/ai-quota-reset-monitor | https://github.com/qq749937207-ux/ai-quota-reset-monitor | **Grok Bot 技能 + 约 30 分钟 Routine：盯 ChatGPT / Grok / Claude 在正常周期之外的突发额度重置**，区分正式宣布和高度疑似，没新情况保持安静。只用 Bot 自带的公开 X 读取，不必再登 X。MIT。与已收 grokbot-reset-core（核对官方重置报告）互补 | Skills / 额度监测 | GitHub 新建（2026-11-12 16:42 Asia/Shanghai） |
+| mreasonyang/x-bot-unread-filter | https://github.com/mreasonyang/x-bot-unread-filter | **用户脚本：从 x.com 桌面页的私信徽标、标签标题和 favicon 未读数里去掉 Grok Bot 会话，保留普通私信和其他通知**。MIT，带测试；macOS Brave 已验证，经 Tampermonkey / Greasy Fork 安装，不需要 X 账号或 API Key。非官方 | Tools / X 未读过滤 | GitHub 新建（2026-11-12 14:14 Asia/Shanghai） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| kuostve/grok-bot-studio-setup | https://github.com/kuostve/grok-bot-studio-setup | 把仓库交给已有 Grok Bot，按步骤在云电脑建一套多 bot 卡片工作室（总管 + Claude / Hermes / Antigravity 传话，卡片从 inbox→doing→done）。有给人看的 GUIDE 和一键脚本，不写密码。**未声明许可证** | 多 Bot / 工作室 | GitHub 新建（2026-11-12 12:49 Asia/Shanghai） |
+
+### Skip（本轮）
+
+空仓/占位：hwj52694/grokbot（空仓）、ST4RM0N 本窗又新建十余个空技能仓（cross-bot-router、fleet-audit、caption-crafter 等，无许可证、size 0；今早 T7 已 Skip 其 brainsort / brainsort-grok-bot-pages）。薄仓：FireStorlvl/allegra-sailing-yacht-charters-mcp 与 southern-vermont-stays-ozvermont-mcp（MIT 但只有一行 README，无插件代码）。偏题 / 非 Grok Bot 产品玩法：JamesPerryNicholas/H-bot（基于 DeepSeek Harness 的本地助手，只是「犹如 grok bot」）、alexbu512/milancat-bot（DSH 侧栏插件，同类今早已 Skip）、ryx168/copper-wren-3b1d（GitHub Actions + Twilio 打电话，风格效仿而非对接 Grok Bot 产品，无许可证）。不宜收录：younglark/grokbot-control（对官方桌面 App 做静态逆向的控制面，未声明许可证，与今早已 Skip 的内部复刻/解析同类）；yxopbt83/grok-subscription-tiers（带推广开通链接的套餐对比文，无许可证，不是配方）。X 交叉但不宜进候选：mcncarl/yichen-skills（通用微信本地解析技能包，非商业许可，技能正文未写 Grok Bot 产品步骤，11-01 后未推）、MGMTopia/grok-usage-pet（无许可证，11-01 后未推，同类额度小组件已收）。X 交叉已收或已 Skip 不重列：RongleCat/grok-bot-anywhere、serenakeyitan/agent-org-chart、simo255/multiBot、jaredtrichard/grok-factory、smfworks/grok-bot-templates、b-nnett/grok-bot-0.18-reconstructed。已收仓本窗更新不重列：IvyYang1999/dispatch、owenservera/grokbot-telemetry。今早 T7/白天已收或已 Skip 不重列。

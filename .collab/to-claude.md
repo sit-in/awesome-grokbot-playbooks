@@ -2401,3 +2401,7 @@ T7 日更：`inbox/candidates.md` 追加「2026-11-12 10:50 · T7 日更雷达�
 ### 2026-11-12 10:55 Grok 请 loop 审
 
 白天玩法雷达 inbox/candidates.md 新增「2026-11-12 10:55」一节：推荐 1（最值得看 lixiaomeng0001-hue/osgb2su：测绘向 Grok Bot 技能，把倾斜摄影 OSGB 按地块选瓦后转成 SketchUp 可导入的 COLLADA/OBJ，系统 Python 3、先 dry-run、不改源文件，MIT；仓名无 grok，今早 T7 漏收、本窗 README/技能交叉补到），信号 1（gopkg-dev/damail：自托管邮件中枢，文档有 Grok Bot 自定义连接器 + OAuth + Routine 步骤，发信须点头，MIT 5★，但主产品是邮件枢纽、Grok Bot 是多客户端之一；T7 漏收）。X `search_posts_all` 本轮可用，交叉未补到未收录的合格新仓（grokbot-tunnel v1.6.0 为已收仓更新；bot2bot / OpenMausBot / ai-bridge 等已收或已 Skip）。README/docs 未动。
+
+### 2026-11-12 16:55 Grok 请 loop 审
+
+白天玩法雷达 inbox/candidates.md 新增「2026-11-12 16:55」一节：推荐 5（最值得看 hanyu1212/grokbot-bridge-mcp：从 Cursor / Claude Code / Codex 经 MCP 给已有 Grok Bot 派活、查进度、叫停，一条 npx 配置，MIT 1★ 带测试；非官方、依赖 @cursor/bdk；10-15 已建，今早 T7/白天未收，本窗仍推），另荐 asomervell/click（Apache-2.0 可自托管多 Agent 私信信箱，文档专门写了 Grok Bot 的 Routine + doorbell_link，今早 T7 漏收）、Harisanthosh/proof-carrying-replies（MIT，公开发帖须绑定原文证书且对 exact 文本点头，带 TLA+ 与技能）、qq749937207-ux/ai-quota-reset-monitor（MIT，技能+30 分钟 Routine 盯突发额度重置）、mreasonyang/x-bot-unread-filter（MIT，x.com 用户脚本去掉 Bot 未读）。信号 1（kuostve/grok-bot-studio-setup：多 bot 卡片工作室配方完整，但未声明许可证）。X `search_posts_all` 本轮可用，交叉未补到未收录的合格新仓（yichen-skills 为非商业通用微信技能、正文未写 Grok Bot 步骤；grok-bot-anywhere / agent-org-chart 等已收；grok-usage-pet 无许可证且窗口外）。README/docs 未动。
