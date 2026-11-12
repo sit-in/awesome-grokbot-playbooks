@@ -101,6 +101,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [额度不够用：在云电脑装 Codex CLI 或 Pi，重活交出去](https://x.com/Pluvio9yte/status/2118028142761918497) — @Pluvio9yte · 2026-11-05 · 给 bot 加一条规则：要执行的任务交给 Codex CLI（可用 GPT-5.6-luna）或 Pi（可挂便宜的 Gemini）；作者自述场景下约省一半用量；约 5.2 万粉、约 36 赞 / 50 收藏 · 中文
 - [用量页上线：按来源和按 Bot 查看谁在吃额度](https://x.com/0xlangeai/status/2120323232360493174) — @0xlangeai · 2026-11-11 · 入口在设置 → 用量账单 → Grok Bot 用量；可按来源（你本人、例行任务、Bot 之间）或按单个 Bot 查看消耗。约 1.3 万粉 · 中文
 - [Grok Bot 只负责拆任务和验收，干活交给 Pi：一份 Gemini 订阅两边用](https://x.com/chasen_liao/status/2120177161311297913) — @chasen_liao · 2026-11-10 · 四步：把 Gemini Pro 经 Magpie 反代到 VPS，只监听 Tailscale 内网，再用 CCW 接到本地 Pi；Grok Bot 拆任务、验收，执行走 Pi，跑完 webhook 叫醒 Bot 检查。作者说详细教程还在后面。约 6.8k 粉、约 396 赞 / 530 收藏 · 中文
+- [开源 GAP：Grok Bot 只写任务书和验收，终端跑腿交给同机的 Pi](https://x.com/chasen_liao/status/2120455125269692774) — @chasen_liao · 2026-11-11 · X 长文：把派活做成开源仓库，@bot 可按仓库自助配置；Pi 用你自己的模型额度（作者用 VPS 上的 Magpie 转接），完成时用 Webhook 叫醒 Bot 验收，避免轮询烧额度。删除、发送、付款、发帖仍要人工确认。约 7k 粉、约 280 赞 / 560 收藏 · 中文
 
 
 ## 中文 · Skills 与连接
@@ -149,6 +150,9 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [打开「在本地计算机上执行」，一句话让 Grok Bot 调用本机 Claude Code / Codex](https://x.com/voidJan/status/2119919053418729509) — @voidJan · 2026-11-10 · 长帖：在桌面端设置里打开 Execution on Local Computer，用 `claude -p` 非交互模式加 `--allowedTools`，把读改文件和跑命令交给本机已登录的 CLI；对比了在云电脑重装再买静态代理、或另搭第三方桥接的绕路，并提醒路径要用绝对路径。约 1.1 万粉 · 中文
 - [把官方创作者指南做成 5 个可安装 Skill：风格、选题、脚本、剪辑、复盘](https://x.com/Mulight/status/2120035144157593805) — @Mulight · 2026-11-10 · 按 @XCreators 指南拆成五个独立开源 Skill（风格手册、选题库、脚本教练、本地 FFmpeg 出片、多平台数据复盘），附中文 README 和 Windows 启动菜单；部分功能需本地 Python，视频需 FFmpeg。约 1.8 万粉 · 中文
 - [先让 Agent 能证明自己做对：Grok Bot 工程师 Lauren 分享里的 6 个方法](https://x.com/0xlangeai/status/2120049568331280486) — @0xlangeai · 2026-11-10 · 拆解 @poteto 38 分钟分享：把验收做成可调用的验证技能、维护功能地图、流程技能和验证技能分开、反复出现的错误先改结构和自动检查而不是补提示词，最后再接 Slack/Sentry 例程自动复现和开 PR（不是自动合并）。约 1.3 万粉 · 中文
+- [用官方 Tailscale 加上 Pinky，让 Grok Bot 经电脑中转操作手机](https://x.com/0xmomonifty/status/2120405103782117876) — @0xmomonifty · 2026-11-11 · 在 Mac 或 Windows 上装 Tailscale 和 Pinky，连上手机后打开「设置 › 智能体 › 远程智能体」并开启 Tailscale Serve，把授权链接交给 Bot；敏感操作仍要在电脑上点批准，Bot 不能直连手机。约 6.8k 粉、约 87 赞 / 164 收藏 · 中文
+- [用 t3 code + Tailscale 打通 Grok Bot、Mac、Windows 和 NAS](https://x.com/CyanCloud77/status/2120363980325871810) — @CyanCloud77 · 2026-11-11 · 把除 Claude 外的订阅都放到 t3 code，小任务在 Mac、重活自动转到 Windows，NAS 经 Tailscale 挂 SMB 共享文件；t3 本身是 MCP，接到 Grok Bot 就能指挥全部 t3 code。约 4k 粉、约 49 赞 / 51 收藏 · 中文
+- [把 Grok Bot 接进微信：ClawBot 插件四步走通，还能收发图片和文件](https://x.com/bit_sister/status/2120445798303588836) — @bit_sister · 2026-11-11 · X 长文：让 Bot 经 iLink 建 Webhook 入口，把 URL 和 Key 填进加密输入框，再在微信插件里扫码绑定；随后升级转发程序即可收发图片、文件和视频。云端在线，关本地电脑也能回。约 9.7k 粉 · 中文
 
 
 ## 中文 · 出海一人公司与内容
@@ -177,6 +181,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 
 - [用 Grok Bot + 飞书 + Claude 搭一套内容素材库：监控、归档、选题、写作、复盘](https://x.com/Smartpigai/status/2119261316439531593) — @Smartpigai · 2026-11-08 · X 长文：先在飞书建素材库、选题库、成稿库三张表和四个视图，再让 Grok Bot 按账号池与时间窗定时搜热点并去重入库，用评分表选题后把事实包交给 Claude 写提纲和初稿，发布后 24 小时和 7 天复盘。强调先跑通手动归档再上定时，链接和摘要要能对上原文。约 3.4 万粉 · 中文
 - [把重复劳动写成 SOP，再交给 Bot 去跑：出海站点运营和社媒分析实操](https://x.com/Pluvio9yte/status/2119972735426383993) — @Pluvio9yte · 2026-11-10 · X 长文：先判断活是否重复、有规矩、有账可记，再走「做一次→改到满意→存成技能→设成例程」；详细写了找词找站查外链的站点运营 Bot，以及丢链接就分析入库的社媒分析 Bot；花钱、外发和删除必须本人点头。配置已开源，把仓库发给 Bot 可按提问自助安装。约 5.3 万粉、约 601 赞 / 1181 收藏 · 中文
+- [三步把 ChatCut 接到 Grok Bot，用对话复刻参考视频的剪辑风格](https://x.com/KinGao476942/status/2120476101399216519) — @KinGao476942 · 2026-11-11 · 先发官方口令授权连接器并安装剪辑技能，再把参考视频交给它拆分镜、把节奏和动画存成 skill，最后丢自己的素材按这套 skill 出片；作者说全程可在手机 App 完成。约 1.6 万粉、约 410 赞 / 679 收藏 · 中文
+- [靠 YouTube 切片做号：Grok Bot + ChatCut 对话式剪出竖屏短视频](https://x.com/Pluvio9yte/status/2120682798071877905) — @Pluvio9yte · 2026-11-12 · X 长文：发官方口令接好 ChatCut，用云端上传通道喂长视频，再一句话剪成 9:16 竖屏（居中留白、前 3 秒钩子、中文字幕）；可打开云端工程微调，并附可复制提示词。约 5.3 万粉 · 中文
 
 
 ## 英文精选
@@ -394,6 +400,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [The ultimate guide to Grok Bot for creators](https://x.com/XCreators/status/2118843705327026400) — @XCreators · 2026-11-07 · X 官方创作者账号长文：从喂风格与数据、拆收藏灵感、当脚本教练，到云电脑并行剪 10 条、留存复盘、一次成片多平台分发；作者 Ethan_Ng_13，约 890 赞 / 1170 收藏 · 英文
 - [Any Video Into A Magazine：每周把订阅的 YouTube 和播客做成一本杂志](https://x.com/BrianRoemmele/status/2119815091092861330) — @BrianRoemmele · 2026-11-09 · 公开模板：盯指定频道和节目，把新一期写成杂志稿，抽视频真实截图配说明，保留逐字引语并链回原作，再导出 Kindle EPUB 和邮件通讯。约 49.6 万粉、约 1077 赞 / 700 收藏 · 英文
 - [Podcast Maker：一句话把 X 账号、PDF 或日报变成一集播客](https://x.com/BrianRoemmele/status/2120177561565307025) — @BrianRoemmele · 2026-11-10 · 公开模板：自选 1–15 分钟和语气，引用真实来源、不编造，生成音频、字幕、波形视频和 PDF 逐字稿，也可设成定时更新。约 49.6 万粉、约 65 赞 / 50 收藏 · 英文
+- [How to Run Your GTM With Grok Bot (Full step-by-step Guide)](https://x.com/MichLieben/status/2120524273999868314) — @MichLieben · 2026-11-11 · X 长文：一个首席 bot 带 21 个岗位，跑多客户的外呼名单、回复草稿和每日复盘；逐步写了接 Slack/Gmail/日历、加 ColdIQ MCP、共享 GitHub 资料库，以及让云电脑里的 Claude Code 做名单重活；发邮件和发帖都要先问你。文中工具栈以作者团队的 ColdIQ 为主。约 1.3 万粉 · 英文
 
 
 ## 不收的例子

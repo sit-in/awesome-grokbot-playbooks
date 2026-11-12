@@ -2376,3 +2376,15 @@ T7 日更：`inbox/candidates.md` 追加「2026-11-11 10:45 · T7 日更雷达�
 
 白天玩法雷达 inbox/candidates.md 新增「2026-11-11 16:51」一节：推荐 5（最值得看 ArtemXTech/grok-agent-threads：经官方 Tailscale 把本机 Claude Code 会话和 Codex 线程交给 Grok Bot 列出/搜索/回话/新开，只听 127.0.0.1、无删除工具，MIT 带测试；另 Chasen-Liao/grokbot-and-pi 在已收 grokbot-local-agent 上补多 Bot 隔离与 pi-guard，kaitoflow/tiko 按项目给 Codex 绑定 Grok Bot 专家，harkawataryan/grok-bridge 用本机 DevTools 端口让 Claude 操作 Windows 官方 App，Ramyrae/file-shepherd 是先只读再请确认的文件整理模板），信号 6（ai-balance-board 与 ai-quota-bar 同质；avatar-tool 社区预览；RI 瘦身技能包须另装 pstack；control-room 许可证在 app/LICENSE；shopper 仓很薄；asi-cloud 厂商插件）。X `search_posts_all` 本轮可用，交叉未补到未收录的合格新仓（OpenMausBot 等已收/已 Skip；harness-subagent / vault-mcp / claude-agent-acp 偏题）。README/docs 未动。
 
+### 2026-11-12 10:22 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +7，请 loop 核链接。
+- 本轮最值得看：@KinGao476942 https://x.com/KinGao476942/status/2120476101399216519 三步把 ChatCut 接到 Grok Bot（约 1.6 万粉，410 赞 / 679 收藏）：发官方口令授权并装剪辑技能 → 用参考视频拆分镜存成 skill → 丢自己的素材按这套 skill 出片，全程可在手机 App 完成。放「中文 · 出海一人公司与内容」。
+- 中文 · Routine 雷达与额度：@chasen_liao 2120455125269692774 开源 GAP 长文（7k 粉，280 赞 / 560 收藏），是上轮 2120177161311297913 预告的详细教程：任务书派给同机 Pi、Webhook 叫醒验收，作者用 VPS Magpie 转接模型额度；文中 Tailscale 仍是作者自己的 VPS 组网，不是官方连接器对照。
+- 中文 · Skills 与连接：@0xmomonifty 2120405103782117876 官方 Tailscale + Pinky Serve 经电脑中转操作手机（6.8k 粉，87 赞 / 164 收藏），部分补 Tailscale 中文对照；@CyanCloud77 2120363980325871810 t3 code + Tailscale 打通多设备（4k 粉，49 赞 / 51 收藏过线）；@bit_sister 2120445798303588836 微信 ClawBot 四步（9.7k 粉，互动偏低但作者过线、步骤完整），非官方桥。
+- 中文 · 出海一人公司与内容：另收 @Pluvio9yte 2120682798071877905 YouTube 切片 + ChatCut 长文（5.3 万粉，今早刚发，步骤和提示词完整）。
+- 英文精选 · 出海一人公司：@MichLieben 2120524273999868314 GTM 21 bot 指南（1.3 万粉，12 赞 / 13 收藏偏低但作者过线、步骤完整），工具栈以作者团队 ColdIQ 为主。
+- @bot 对照：新产品两则。① 2120582957782200586 Grok Bot 1.0（约 11323 赞 / 3246 收藏，11-11 18:22 UTC）：共享 Team Bot、进 Slack/Microsoft Teams、邀请加入 Google Meet/Zoom/Teams、主动跟进。② 2120580467682656670 Gopuff 端到端下单（约 1559 赞 / 223 收藏）。Tailscale 中文对照部分补上 @0xmomonifty；通用「连接器搜 Tailscale、加入 tailnet、访问私有 MCP」保姆级仍开。1.0 / Share Bots / 会议中文保姆级未过线：最佳候选 @cnlsy517 2120694131739824611（套餐门槛、分享不是复制、额度谁出、Share+Slack 五步）仅 3.0k 粉 0 赞，盯。Gopuff/购物、入会配置中文仍缺。
+- 未收：@chessxyz Tailscale 场景洞察（353 赞 / 516 收藏，11-11 01:09 UTC 上轮窗口漏看，无配置步骤，不关通用对照缺口）；@lxz2677 连接器搜索并授权（5.7k 粉，9 赞，过薄）；@xiaomovps / @KinGao476942 / @MaiYangAI / @shao__meng / @0xlangeai 的 1.0 功能盘点（公告转述无配置步骤）；@cnlsy517 五入口对照表与 1.0 分享长文（3k 粉未过线，盯）；@xiangxiang103 Computer Use 发现帖（权限清单，无开启步骤）；@XFreeze 1.0 / 隐藏指令英文盘点（公告转述）；@Texas_Twins_Dad Family Desk 模板（只有模板链接和视频）；@Mulight 让 Bot 接单赚模型费（链上导向）；交易类 Article（@DaviddDotTech 等）；日文/韩文 Article。原生电话、购物体验（含新 Gopuff）、Vault 更深、IncidentSweep、飞书官方连接器、X 书签/私信/Article 中文仍开。
+- 备注：窗口自 11-11 10:17 起。X 调用约 14，无 503。
+
