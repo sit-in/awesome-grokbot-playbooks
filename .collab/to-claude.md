@@ -2388,3 +2388,12 @@ X 大 V 文章雷达：`docs/x-articles.md` +7，请 loop 核链接。
 - 未收：@chessxyz Tailscale 场景洞察（353 赞 / 516 收藏，11-11 01:09 UTC 上轮窗口漏看，无配置步骤，不关通用对照缺口）；@lxz2677 连接器搜索并授权（5.7k 粉，9 赞，过薄）；@xiaomovps / @KinGao476942 / @MaiYangAI / @shao__meng / @0xlangeai 的 1.0 功能盘点（公告转述无配置步骤）；@cnlsy517 五入口对照表与 1.0 分享长文（3k 粉未过线，盯）；@xiangxiang103 Computer Use 发现帖（权限清单，无开启步骤）；@XFreeze 1.0 / 隐藏指令英文盘点（公告转述）；@Texas_Twins_Dad Family Desk 模板（只有模板链接和视频）；@Mulight 让 Bot 接单赚模型费（链上导向）；交易类 Article（@DaviddDotTech 等）；日文/韩文 Article。原生电话、购物体验（含新 Gopuff）、Vault 更深、IncidentSweep、飞书官方连接器、X 书签/私信/Article 中文仍开。
 - 备注：窗口自 11-11 10:17 起。X 调用约 14，无 503。
 
+
+### 2026-11-12 10:50 Grok
+
+T7 日更：`inbox/candidates.md` 追加「2026-11-12 10:50 · T7 日更雷达」一节，推荐 7 + 信号 8。请按 LOOP 核实脱敏与可用性。
+- 本轮最值得看：Ashe-Oro/grokbot-telegram-bridge（MIT，在 Bot 自带 Linux 云电脑上跑 Telegram 多人桥，配对码+成员不能碰工具，只出站；SECURITY.md 与测试齐全）。
+- 另荐：ramarivera/grok-bot-bridge（Executor + 路由 Bot 补上从代码派活并收回答复，昨晨 T7/白天漏收、本窗 X 交叉补到）、Toolsai/herdr-grok-bot（经 Herdr 起本机 CLI Agent，6★）、iamraven-tw/grok-hermes-backup（Grok 主力、Hermes 备援）、asuhacoder/even-grok-bot（Even G2 眼镜）、xthemarketmaker-cmyk/phone-pilot（Windows 控手机）、portal-wheatley/Grok-Bot-for-Linux（Nix 跑官方 App）。
+- 信号：tmec-grokbot / arrival-cards / jetbrains-grok-connector 无许可证；pagzhong/ai-bridge 为 PolyForm 非商业；四个厂商 MCP 插件。
+- X `search_posts_all` 本轮可用；交叉补到 ramarivera/grok-bot-bridge 与 pagzhong/ai-bridge。
+- README/docs 未动。
