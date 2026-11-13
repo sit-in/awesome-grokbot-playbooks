@@ -4828,3 +4828,28 @@ T7 10:45 已推荐/信号/Skip 的本轮不再重复（含 RongleCat/grok-bot-cl
 ### Skip（本轮）
 
 空仓/薄仓/占位：seaniebe1/grokbot（空仓）、wxz44428/GrokBot（仅一篇介绍）、chrisdesp1993/grokbothack（README 仅「we'll see」）、rohmaddwi511-arch/Grokbot 与 47s7d84zj5-crypto/grokbot-app（个人页/薄站）、ioraysilva/grokbot-prompt（一份葡语提示、无许可证）、DranakCorps-bot/ai-tools-compare（对照表 html）、Deikus-LXXVII/gboost（early design，写明还不能安装，无许可证）、sespear86/silvia-dashboard（作者自称私人工作仓）。官方 App 补丁/复刻不宜收录：AM-QAQ/grokbot-proxy（向安装目录放入 version.dll 做流量 Hook，LICENSE.txt 主要是 MinHook，GitHub SPDX 为 NOASSERTION）、G4rv19/grok-bot-local-core（从已安装官方 App 抽出界面再打本地后端）。黑客松一次性项目：伦敦房地产赛道一批（alexechoi/grok-bot-hack、thekashifnazir/paper-trail、AlbertLiu398/FloorQi、TYK3、oligreenhalgh、ArmanBayatmaku、mrathree/block-action-desk、grok-bot-realestate/* 等）以及 LordCodie/grok-bot-jhb-hackathon，未写成可复用配方。交易/纸面盘：bryce-sneed/parlay-locks、Robinhood13777/trading-desk-sim、nyhop/harvest-desk-paper、mingz009988-ops/meme-desk-pwa。偏题 / 非 Grok Bot 产品玩法：yangmu-dot/bot-workbench（DeepSeek Harness 侧栏插件）、ThatCakeIsAPie/hermes-desktop-tweaks（Hermes 桌面）、xiaoluoboding/stackchan-grok-bot-face（StackChan 固件表情，语音走自家服务，未对接 Grok Bot 产品）、monkeysmac62/grok-bot-app（iOS 桌面小组件本地勾任务，不连 Grok Bot）、lanoixdesign/autonomous-agent（README 写明不是 Grok Bot，本窗 X 自荐为平替）、gmpetrov/brigade / nuphos/nuphos 等开源平替（已有同类 Skip）、addyosmani/agent-skills 与 sergebulaev/x-skills（通用技能包，仓内未写 Grok Bot 安装步骤；后者本窗有人说自己改过）、aaron-he-zhu/aaron-marketing-skills（跨宿主营销技能包，Grok Bot 只是 AI Staff 安装路径之一，非本窗新建）、OpenLinkSoftware/ai-agent-skills（Virtuoso/OPAL 向）。又一批厂商 MCP 插件不逐条进信号：memonono94/tif-grok-bot-plugin、ndiego/spellbinder-plugin，以及 YaakovTzedek 的 balmas / okdoc / reelsi / socialflow / persqo。jbellsolutions 本窗又推若干无许可证 drop-in pack（revenue-os-max、find-me-money、idea-incubator、smart-contracting、grokbot-usage-mastery），作者定制团队已在昨天 T7 作信号，不重列。ST4RM0N 空技能仓昨天白天已 Skip，本窗仍在搜索结果里，不重列。X 交叉已收或已 Skip 不重列：Harisanthosh/proof-carrying-replies、fabiocolor 之外的已收桥、yichen-skills、OpenMausBot、agent-org-chart、multiBot、grok-factory、grok-bot-templates、elon-man、RongleCat/grok-bot-anywhere、b-nnett/grok-bot-0.18-reconstructed、Pluviobyte/saas-growth-agents、smfworks/smf-works-books。昨天 T7/白天已收或已 Skip 不重列。
+
+
+## 2026-11-13 16:54 Asia/Shanghai · 白天玩法雷达
+
+> 扫 11-13 10:53 之后（约 11-13 02:53Z 起）新建/更新的 Grok Bot 相关仓 + X `url:github.com` 交叉。今早 T7（10:50，`81765e1`）已覆盖条目只去重不重列。未改 README。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| jksim26/lucid-dream | https://github.com/jksim26/lucid-dream | **一本机 Rust 小服务，给 Grok Bot、Claude Code、ChatGPT、Codex 共用一份 Markdown/git 记忆，并让它们互相传话**：白天各 agent 往共享收件箱丢笔记，夜里用已登录的 Claude Code 或 Codex 订阅整理成 wiki；Grok Bot 经连接器读写记忆。空闲的 Claude 会话可被 hook 叫醒，Grok Bot 则被 webhook 叫醒（通知只说有信、从谁来，不含正文）。每客户端一把令牌，云端客户端走单独入口。MIT，带 CI 和 SECURITY.md。今早 T7 漏收（仓名无 grok）。本轮最值得看 | Bridges / 共享记忆 | X 交叉（建于 2026-11-11 14:50 Asia/Shanghai；本窗作者自荐，09:24 仍推） |
+| lucklypriyansh-2/grok-bot-relay | https://github.com/lucklypriyansh-2/grok-bot-relay | **给任意 AI CLI（Claude Code / Codex / Gemini）补上向已有 Grok Bot 派活并拿回答复的 MCP 与命令行**：Routine webhook 的 200 只表示开跑，本仓给任务编号，再轮询 Bot 写到本机 `results/`（或经只读 HTTP，可走 Cloudflare 隧道 / Tailscale）的结果文件。密钥放在 `chmod 600` 环境文件，不进 CLI 配置；请求体不能覆盖 Bot 的常设规则。MIT，带测试；作者写明在 Mac 上用 Claude Code 实测往返约 5–7 秒。与已收 hanyu1212/grokbot-bridge-mcp、ramarivera/grok-bot-bridge 同向（派活+回收），增量是不依赖 Executor / `@cursor/bdk`，而是 webhook + 结果文件闭环 | Bridges / MCP 派活 | GitHub 新建（2026-11-13 16:02 Asia/Shanghai） |
+| brantley-creator/android-agent-bridge | https://github.com/brantley-creator/android-agent-bridge | **开源 Android 无障碍桥：让已有 Grok Bot（或其他 MCP 客户端）读屏幕元素树并点击、输入、滑动、开应用**。人必须先配对再点「开始会话」才能武装，助手不能自己开；通知栏 / 快捷设置可随时停，密码框不回传正文，安装器 / 钱包等默认拒绝。手机是安全边界。Apache-2.0，带单元测试、SECURITY.md 和给 Grok Bot 的 PLAYBOOK（还可对照 agent-desktop 操作本机桌面）。本窗作者在 X 自荐。与已荐 phone-pilot（Windows 经 USB 控手机）路径不同 | Bridges / 手机操控 | X 交叉（建于 2026-11-01 06:13 Asia/Shanghai；本窗 14:07 仍推） |
+| Yevanchen/cli-relay | https://github.com/Yevanchen/cli-relay | **本机账本：把任务交给已经登录订阅的 Claude Code / Codex，避免同一请求开两次，断线后状态保持诚实，完成结果要等消费方 ACK 才放下**。可选 webhook 叫醒指定 Grok Bot，并支持按队列和依赖提交、向已有会话续写一轮。MIT，带测试和介绍视频。不是模型代理或编排框架。今早 T7 漏收（仓名无 grok；10-19 已建，11-13 01:15 仍推）。本窗作者在 X 自荐 | Bridges / CLI 派活账本 | X 交叉（建于 2026-10-19；本窗自荐） |
+| ahmadaryanto/vertical-reels-video-studio | https://github.com/ahmadaryanto/vertical-reels-video-studio | **竖屏讲解 Reels 工作室套件 + Grok Bot 模板**：调研需一手来源、脚本须本人点头，配音、Remotion 渲染和 QA 交给 agent，上传发布由你自己做。含技能、导出 / QA 脚本、Bot 模板和双语 README。MIT。与已荐 Morkeeth/grokbot-video-template（本地预览/导出工具，文档写明尚未实测 Bot 调用）互补。今早 T7 漏收（仓名无 grok） | 模板 / 竖屏视频工作室 | GitHub 新建（2026-11-13 03:48 Asia/Shanghai；T7 漏收，本窗 11:23 仍推） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| jazfox-cloud/grokbot-playbooks | https://github.com/jazfox-cloud/grokbot-playbooks | 中英对照的 Grok Bot 实战案例静态站（Astro）：约 12 个案例 JSON，含步骤、提示词模板、连接器与例程，来源字段指向公开帖。本窗新建。**未声明许可证** | 学习资源 / 案例库 | GitHub 新建（2026-11-13 12:05 Asia/Shanghai） |
+
+### Skip（本轮）
+
+空仓/薄仓：segalz/grok-bot-voice-skill、chaojiang0416-svg/grokbot-skills、extraterrestrial1/GrokBot（均为空仓）；avsonwane/tech-demos（README 仅标题）；segalz/grok-bot-slack-skill（约 1.8KB，只是官方 Slack 插件的短技能，无许可证）；ebteq/ebteqdesk-grok-mcp（README 仅一行，厂商工单 MCP）。上架/交易向：yomislight/grok-bot-listing-guide（第三方商店上架流程夹带 Hyper Trader 交易白皮书，未声明许可证，视频链接待填）。官方 App 钩子不宜收录：younglark/grokbot-x（用 CDP 给官方桌面 App 加插件；同作者 grokbot-control 今早 T7 已 Skip）。开源平替不重列：nickvasilescu/bot-hq（Hermes + Orgo 的 Grok Bot 风格界面，同作者 grokbot-clone 已荐）。X 交叉已收或已 Skip 不重列：Phoobobo/grokbot-bridge-herdr（README 已收）、ferretgeek/prokbot-plus（11-10 T7 已作信号：非商业补丁私服）。本窗仍在更新但不重列：sixwei2025 汇芯两仓、47s7d84zj5-crypto/grokbot-app、jbellsolutions 无许可证 pack、YaakovTzedek/persqo-plugin、伦敦/约翰内斯堡黑客松仓。今早 T7 已收或已 Skip 不重列。

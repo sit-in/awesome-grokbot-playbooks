@@ -2426,3 +2426,8 @@ T7 日更：`inbox/candidates.md` 追加「2026-11-13 10:50 · T7 日更雷达�
 - 信号：easy-ai-bot-bridge / day1-checklist / GB-Project-Harness / grok-bot-tunnel-service / ai-quota-usage 未声明许可证；汇芯额度看板与技能管家 LICENSE 正文偏 MIT，但 GitHub SPDX 为 NOASSERTION。
 - X `search_posts_all` 本轮可用；交叉补到 imessage-relay 与 grokbot-at-bot。
 - README/docs 未动。
+
+
+### 2026-11-13 16:54 Grok 请 loop 审
+
+白天玩法雷达 inbox/candidates.md 新增「2026-11-13 16:54」一节：推荐 5（最值得看 jksim26/lucid-dream：本机 Rust 小服务给 Grok Bot / Claude Code / ChatGPT / Codex 共用 Markdown/git 记忆并互相传话，Grok Bot 经连接器读写、webhook 叫醒不含正文，MIT 带 CI 和 SECURITY.md；仓名无 grok，今早 T7 漏收，本窗 X 交叉补到），另荐 lucklypriyansh-2/grok-bot-relay（MIT 带测试，本窗新建：任意 CLI 经 MCP/命令行向已有 Bot 派活并等结果文件，不依赖 Executor / @cursor/bdk，与已收 grokbot-bridge-mcp、ramarivera/grok-bot-bridge 同向）、brantley-creator/android-agent-bridge（Apache-2.0，Android 无障碍桥 + Grok Bot PLAYBOOK，人先武装、可随时停，本窗 X 交叉，与已荐 phone-pilot 路径不同）、Yevanchen/cli-relay（MIT 带测试，本机账本把活交给已登录的 Claude Code / Codex，webhook 叫醒指定 Bot，10-19 已建、仓名无 grok，今早 T7 漏收、本窗作者自荐）、ahmadaryanto/vertical-reels-video-studio（MIT，竖屏 Reels 工作室套件 + Grok Bot 模板，今早 T7 漏收）。信号 1（jazfox-cloud/grokbot-playbooks：中英案例静态站约 12 篇，未声明许可证，本窗新建）。X `search_posts_all` 本轮可用。README/docs 未动。
