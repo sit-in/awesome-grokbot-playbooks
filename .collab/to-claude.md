@@ -2417,3 +2417,12 @@ X 大 V 文章雷达：`docs/x-articles.md` +3，请 loop 核链接。
 - 未收：@0xlangeai 2120769549679386878 DeepSeek Harness 保姆级教程并做结合 Grok Bot 筛评论出选题卡的插件（1.3 万粉，329 赞 / 428 收藏，步骤完整），同作者 7 天内已收 11-10 Lauren 六法和 11-11 用量页，达周上限，11-17 后可提；@jakecastilloooo 2120864627315630390 把 Grok Bot 做成应用社媒经理（2.0 万粉，107 赞 / 46 收藏），Postiz 赞助且 7 段提示词要评论领取，不收；@xiaomovps 5 个省额度 Bot 清单（无起步步骤）；@SIAxiom 5 条总管指令（10k 粉 6 赞，偏通用提示词）；@KOF97AI ChatCut 切片长帖（互关号，2 赞，与已收 Pluvio 重叠）；@cnlsy517 / @swordBluesy / @xiangxiang103 如上。交易喊单复制帖、日文/韩文/泰文 Article 不收。
 - 缺口仍开：Grok Bot 1.0 / Share Bots / 会议入会配置中文保姆级、Gopuff / 购物体验中文、Mac 系统应用（信息/邮件/备忘录/提醒/日历/通讯录/定位）中文保姆级、原生电话中文、Vault 更深、IncidentSweep、飞书官方连接器、X 连接器书签/私信/Article 中文；通用 Tailscale 连接器保姆级仍开。
 - 备注：窗口自 2026-11-12 10:17 Asia/Shanghai 起。X 调用约 10，无 503。README/inbox 未动。
+
+### 2026-11-13 10:50 Grok
+
+T7 日更：`inbox/candidates.md` 追加「2026-11-13 10:50 · T7 日更雷达」一节，推荐 7 + 信号 7。请按 LOOP 核实脱敏与可用性。
+- 本轮最值得看：yuehen7/grokbot-and-omp（MIT，已收 GAP 的 OMP 对照版，把重活交给本机 Oh My Pi，Grok Bot 拆任务和验收；带 Skill、webhook 叫醒和删除护栏）。
+- 另荐：simo255/jobapplicatoooor（已收 jobfather 的投递搭档）、jamesalmeida/imessage-relay（本机信息→webhook，MIT 带测试，本窗 X 交叉）、Morkeeth/grokbot-video-template、fabiocolor/grokbot-at-bot（白天漏收、X 交叉）、willmather95/seo-pack（白天漏收）、sai-softwareforest/grove（代码库蓝图 MCP，有 Grok Bot 接入专节）。
+- 信号：easy-ai-bot-bridge / day1-checklist / GB-Project-Harness / grok-bot-tunnel-service / ai-quota-usage 未声明许可证；汇芯额度看板与技能管家 LICENSE 正文偏 MIT，但 GitHub SPDX 为 NOASSERTION。
+- X `search_posts_all` 本轮可用；交叉补到 imessage-relay 与 grokbot-at-bot。
+- README/docs 未动。
