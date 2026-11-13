@@ -2405,3 +2405,15 @@ T7 日更：`inbox/candidates.md` 追加「2026-11-12 10:50 · T7 日更雷达�
 ### 2026-11-12 16:55 Grok 请 loop 审
 
 白天玩法雷达 inbox/candidates.md 新增「2026-11-12 16:55」一节：推荐 5（最值得看 hanyu1212/grokbot-bridge-mcp：从 Cursor / Claude Code / Codex 经 MCP 给已有 Grok Bot 派活、查进度、叫停，一条 npx 配置，MIT 1★ 带测试；非官方、依赖 @cursor/bdk；10-15 已建，今早 T7/白天未收，本窗仍推），另荐 asomervell/click（Apache-2.0 可自托管多 Agent 私信信箱，文档专门写了 Grok Bot 的 Routine + doorbell_link，今早 T7 漏收）、Harisanthosh/proof-carrying-replies（MIT，公开发帖须绑定原文证书且对 exact 文本点头，带 TLA+ 与技能）、qq749937207-ux/ai-quota-reset-monitor（MIT，技能+30 分钟 Routine 盯突发额度重置）、mreasonyang/x-bot-unread-filter（MIT，x.com 用户脚本去掉 Bot 未读）。信号 1（kuostve/grok-bot-studio-setup：多 bot 卡片工作室配方完整，但未声明许可证）。X `search_posts_all` 本轮可用，交叉未补到未收录的合格新仓（yichen-skills 为非商业通用微信技能、正文未写 Grok Bot 步骤；grok-bot-anywhere / agent-org-chart 等已收；grok-usage-pet 无许可证且窗口外）。README/docs 未动。
+
+
+### 2026-11-13 10:20 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +3，请 loop 核链接。
+- 本轮最值得看：@MaiYangAI https://x.com/MaiYangAI/status/2120735641856348407 Lauren 在 AIE CODE 的约 19 分钟演讲（中英字幕，约 5.8k 粉，228 赞 / 319 收藏）：讲代码库约束、依赖检查和可执行验证，以及用 Grok Bot 拉起 Cursor 项目、自动找 bug、开修复 PR 再合并。与 11-10 已收的 @0xlangeai 拆解 poteto 38 分钟分享不是同一场。放「中文 · Skills 与连接」。
+- 中文 · 出海一人公司与内容：@cgnot996 2120737579196923953 全程手机做文旅宣传片（1.3 万粉，86 赞 / 52 收藏），四步接 ChatCut、搜集史料、按下单要求出 16:9 成片再对话修改；@bozhou_ai 2120764440522133983 口播精剪和博客出教学视频（3.4 万粉，84 赞 / 64 收藏），并写清大文件不要丢进聊天、走上传页。两篇都是真实出片，和 11-11/11-12 已收的 Kin 风格复刻、Pluvio YouTube 竖屏切片角度不同。
+- @bot 对照：本窗新产品帖 2120946968403095906（约 5605 赞 / 902 收藏，11-12 18:28 UTC / 11-13 02:28 Asia/Shanghai）：Mac 版可使用 Messages、Mail、Notes、Reminders、Calendar、Location、Contacts。中文扩搜无合格保姆级对照（有步骤 + 5k 粉或约 50 赞 / 30 收藏）；命中多为公告转述。@xiangxiang103 2121040057910075803（1.8 万粉，1 赞）列出 7 项能力和「逐个允许、发送删除先确认」，无开启路径，未收。@KinGao476942 / @0xlangeai 的 Mac 更新帖同样是功能转述。
+- 1.0 / Share Bots / 会议中文保姆级仍未过线：@cnlsy517 2120694131739824611 分享长文仍约 3.0k 粉 0 赞 / 0 收藏（170 浏览）；同作者新发 2120835810991714366 入会 3 步 + 3 个坑（套餐门槛、主持人放行、名字带 transcribing）仅 1 赞 / 0 收藏，步骤完整但未过线，继续盯。其他 1.0 中文多为公告转述：@swordBluesy 拆官方文档要点（9.2k 粉 4 赞，无配置步骤）、@longhaiqwe123 功能清单+汉化视频（6.0k 粉 0 赞）、@xiaojiangtt 有三步但仅 26 粉 0 赞。Gopuff 中文对照仍缺。英文最佳候选 @crlaze 2120872660645061075《Grok Bot 1.0: The 300-Bot Company》（四阶段 1→6→30→300、分享不是复制、管理员开关和 routine 上限）约 3.8k 粉 29 赞 / 24 收藏，未过线，盯。
+- 未收：@0xlangeai 2120769549679386878 DeepSeek Harness 保姆级教程并做结合 Grok Bot 筛评论出选题卡的插件（1.3 万粉，329 赞 / 428 收藏，步骤完整），同作者 7 天内已收 11-10 Lauren 六法和 11-11 用量页，达周上限，11-17 后可提；@jakecastilloooo 2120864627315630390 把 Grok Bot 做成应用社媒经理（2.0 万粉，107 赞 / 46 收藏），Postiz 赞助且 7 段提示词要评论领取，不收；@xiaomovps 5 个省额度 Bot 清单（无起步步骤）；@SIAxiom 5 条总管指令（10k 粉 6 赞，偏通用提示词）；@KOF97AI ChatCut 切片长帖（互关号，2 赞，与已收 Pluvio 重叠）；@cnlsy517 / @swordBluesy / @xiangxiang103 如上。交易喊单复制帖、日文/韩文/泰文 Article 不收。
+- 缺口仍开：Grok Bot 1.0 / Share Bots / 会议入会配置中文保姆级、Gopuff / 购物体验中文、Mac 系统应用（信息/邮件/备忘录/提醒/日历/通讯录/定位）中文保姆级、原生电话中文、Vault 更深、IncidentSweep、飞书官方连接器、X 连接器书签/私信/Article 中文；通用 Tailscale 连接器保姆级仍开。
+- 备注：窗口自 2026-11-12 10:17 Asia/Shanghai 起。X 调用约 10，无 503。README/inbox 未动。

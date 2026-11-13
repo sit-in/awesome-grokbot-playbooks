@@ -153,6 +153,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [用官方 Tailscale 加上 Pinky，让 Grok Bot 经电脑中转操作手机](https://x.com/0xmomonifty/status/2120405103782117876) — @0xmomonifty · 2026-11-11 · 在 Mac 或 Windows 上装 Tailscale 和 Pinky，连上手机后打开「设置 › 智能体 › 远程智能体」并开启 Tailscale Serve，把授权链接交给 Bot；敏感操作仍要在电脑上点批准，Bot 不能直连手机。约 6.8k 粉、约 87 赞 / 164 收藏 · 中文
 - [用 t3 code + Tailscale 打通 Grok Bot、Mac、Windows 和 NAS](https://x.com/CyanCloud77/status/2120363980325871810) — @CyanCloud77 · 2026-11-11 · 把除 Claude 外的订阅都放到 t3 code，小任务在 Mac、重活自动转到 Windows，NAS 经 Tailscale 挂 SMB 共享文件；t3 本身是 MCP，接到 Grok Bot 就能指挥全部 t3 code。约 4k 粉、约 49 赞 / 51 收藏 · 中文
 - [把 Grok Bot 接进微信：ClawBot 插件四步走通，还能收发图片和文件](https://x.com/bit_sister/status/2120445798303588836) — @bit_sister · 2026-11-11 · X 长文：让 Bot 经 iLink 建 Webhook 入口，把 URL 和 Key 填进加密输入框，再在微信插件里扫码绑定；随后升级转发程序即可收发图片、文件和视频。云端在线，关本地电脑也能回。约 9.7k 粉 · 中文
+- [Grok Bot 工程师 Lauren 在 AIE CODE 讲怎么把 agent 写的 slop 变成黄金](https://x.com/MaiYangAI/status/2120735641856348407) — @MaiYangAI · 2026-11-12 · 约 19 分钟演讲（中英字幕）：用代码库约束、依赖检查和可执行的验证来管 agent 写出的代码，少靠注释；评审更多看视频、截图和验证产物；并演示用 Grok Bot 拉起 Cursor 项目、自动找 bug、开修复 PR 再合并。约 5.8k 粉、约 228 赞 / 319 收藏 · 中文
 
 
 ## 中文 · 出海一人公司与内容
@@ -183,6 +184,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [把重复劳动写成 SOP，再交给 Bot 去跑：出海站点运营和社媒分析实操](https://x.com/Pluvio9yte/status/2119972735426383993) — @Pluvio9yte · 2026-11-10 · X 长文：先判断活是否重复、有规矩、有账可记，再走「做一次→改到满意→存成技能→设成例程」；详细写了找词找站查外链的站点运营 Bot，以及丢链接就分析入库的社媒分析 Bot；花钱、外发和删除必须本人点头。配置已开源，把仓库发给 Bot 可按提问自助安装。约 5.3 万粉、约 601 赞 / 1181 收藏 · 中文
 - [三步把 ChatCut 接到 Grok Bot，用对话复刻参考视频的剪辑风格](https://x.com/KinGao476942/status/2120476101399216519) — @KinGao476942 · 2026-11-11 · 先发官方口令授权连接器并安装剪辑技能，再把参考视频交给它拆分镜、把节奏和动画存成 skill，最后丢自己的素材按这套 skill 出片；作者说全程可在手机 App 完成。约 1.6 万粉、约 410 赞 / 679 收藏 · 中文
 - [靠 YouTube 切片做号：Grok Bot + ChatCut 对话式剪出竖屏短视频](https://x.com/Pluvio9yte/status/2120682798071877905) — @Pluvio9yte · 2026-11-12 · X 长文：发官方口令接好 ChatCut，用云端上传通道喂长视频，再一句话剪成 9:16 竖屏（居中留白、前 3 秒钩子、中文字幕）；可打开云端工程微调，并附可复制提示词。约 5.3 万粉 · 中文
+- [全程只用手机，用 Grok Bot + ChatCut 做出一条文旅宣传片](https://x.com/cgnot996/status/2120737579196923953) — @cgnot996 · 2026-11-12 · 四步：发接入口令接 ChatCut，让 Bot 搜集家乡史料和素材，再按 16:9、男声讲解、字幕、MG 动画和国风配乐下单，初版有黑闪和字迹问题直接对话改到交付。作者提醒史料和版权要自己把关。约 1.3 万粉、约 86 赞 / 52 收藏 · 中文
+- [Grok Bot + ChatCut 做自媒体视频：口播精剪和博客出片，大文件别丢进聊天](https://x.com/bozhou_ai/status/2120764440522133983) — @bozhou_ai · 2026-11-12 · 作者先试过让 Bot 自己写代码出视频，画面差、改一版就要重跑。改接 ChatCut 后，一条 5 分 46 秒口播剪成 3 分 40 秒，一篇博客做成 1 分钟教程；三步授权，大视频走它给的上传页再回来说「上传好了」。约 3.4 万粉、约 84 赞 / 64 收藏 · 中文
 
 
 ## 英文精选
