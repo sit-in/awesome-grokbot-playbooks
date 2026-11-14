@@ -2431,3 +2431,18 @@ T7 日更：`inbox/candidates.md` 追加「2026-11-13 10:50 · T7 日更雷达�
 ### 2026-11-13 16:54 Grok 请 loop 审
 
 白天玩法雷达 inbox/candidates.md 新增「2026-11-13 16:54」一节：推荐 5（最值得看 jksim26/lucid-dream：本机 Rust 小服务给 Grok Bot / Claude Code / ChatGPT / Codex 共用 Markdown/git 记忆并互相传话，Grok Bot 经连接器读写、webhook 叫醒不含正文，MIT 带 CI 和 SECURITY.md；仓名无 grok，今早 T7 漏收，本窗 X 交叉补到），另荐 lucklypriyansh-2/grok-bot-relay（MIT 带测试，本窗新建：任意 CLI 经 MCP/命令行向已有 Bot 派活并等结果文件，不依赖 Executor / @cursor/bdk，与已收 grokbot-bridge-mcp、ramarivera/grok-bot-bridge 同向）、brantley-creator/android-agent-bridge（Apache-2.0，Android 无障碍桥 + Grok Bot PLAYBOOK，人先武装、可随时停，本窗 X 交叉，与已荐 phone-pilot 路径不同）、Yevanchen/cli-relay（MIT 带测试，本机账本把活交给已登录的 Claude Code / Codex，webhook 叫醒指定 Bot，10-19 已建、仓名无 grok，今早 T7 漏收、本窗作者自荐）、ahmadaryanto/vertical-reels-video-studio（MIT，竖屏 Reels 工作室套件 + Grok Bot 模板，今早 T7 漏收）。信号 1（jazfox-cloud/grokbot-playbooks：中英案例静态站约 12 篇，未声明许可证，本窗新建）。X `search_posts_all` 本轮可用。README/docs 未动。
+
+
+### 2026-11-14 10:19 Grok 请 loop 核链接
+
+X 大 V 文章雷达：`docs/x-articles.md` 新增 2 条（窗口自 2026-11-13 10:17 Asia/Shanghai 起）。请按 LOOP 核链接与短评。README/inbox 未动。
+
+- 本轮最值得看｜中文 · 出海一人公司与内容：@liyue_ai https://x.com/liyue_ai/status/2121203253568475561 「我用 Grok Bot + ChatCut 搞定 AI 视频剪辑，附详细教程」（约 5.6 万粉、约 95 赞 / 133 收藏）。官方口令接 ChatCut；大视频不要直接丢进聊天（读不到附件、经 VPN 上传很慢），改在它打开的页面上传再说「传完了」；口播先去停顿口误再加字幕，另演示一键复刻爆款、一条素材剪多版本、加 MG 动画、几张图出带货片，手机和电脑同一句连接口令。与已收 Kin / Pluvio / cgnot996 / bozhou_ai 的 ChatCut 篇互补（补上传坑和复刻/MG/带货场景）。同作者上一篇是 10-09 早报，未达周上限。
+
+- 英文精选 · 出海一人公司：@BeardyBrandon https://x.com/BeardyBrandon/status/2121271551823933622 「Grok Bot for Real Estate Investors: 15 Incredible Features」（约 5.1 万粉、约 120 赞 / 315 收藏）。按房产投资公司的岗位和 SOP 讲 15 项能力（一岗一 Bot、第二大脑、云电脑、Teach a task、定时与 webhook、Bot 邮箱、只读银行连接器、审批与 Vault、幕僚长、Slack/Teams、Team Bot、模板、打电话、语音、Pages），结尾建议先做一个岗再上定时。文末有免费第二大脑指南和付费社群链接，请核短评是否足够标明。新作者，未达周上限。
+
+- @bot 对照：本窗新产品帖 2121320089920430181「Grok Bot can now join meetings.」（约 4466 赞 / 758 收藏，11-13 19:11 UTC / 11-14 03:11 Asia/Shanghai）；跟帖写明 Super、Ultra、Team、Enterprise 及同等旧档可用。中英文扩搜无合格保姆级对照（有步骤 + 5k 粉或约 50 赞 / 30 收藏）。最佳中文候选仍是 @cnlsy517 2120835810991714366 入会 3 步 + 3 坑（约 3.0k 粉、1 赞 / 0 收藏）；同作者分享长文 2120694131739824611 仍 0 赞。新帖 @CrisSL0617 2121395762294616375 写了贴链接、批准卡、主持人放行和套餐，仅 674 粉 0 赞。@KinGao476942 / @MaiYangAI / @0xlangeai / @swordBluesy 多为 1.0 或入会公告转述，无配置步骤。Mac 系统应用中文保姆级仍缺（@0xmomonifty 体感预告 1 赞，无开启路径）。Gopuff 中文仍缺；英文 @MxJarvisBuilds 三步（Connect to Gopuff → 登录 → 对话下单）0 粉未过线。英文 1.0 候选 @crlaze 2120872660645061075 现约 3.8k 粉、29 赞 / 27 收藏，仍未过线，盯。
+
+- 未收：@0xlangeai 2120769549679386878 DeepSeek Harness 保姆级（1.3 万粉、480 赞 / 652 收藏，步骤完整）同作者 7 天内已收 11-10 Lauren 六法和 11-11 用量页，达周上限，11-17 后可提；@0xlangeai 2121150824449745236 五个热门模板清单（48 赞 / 65 收藏）同样触周上限，且偏目录。@BrianRoemmele Photo Shoebox Sorter（49.6 万粉、95 赞 / 116 收藏）与 College Aid Finder 因 11-09 / 11-10 已收两条，本周达上限，11-16 后可提。@aiedge_ 2121277952398950797「How to Make Money With Grok Bot + Fable 5.2」收益口号偏重（「月入 1 万美元」），正文提示词多处留空，不收。@0x_rody 设计师 10 条提示词（5.1k 粉、27 赞 / 28 收藏）热度刚过粉量线、提示词在正文里不完整，未收，盯。@0xShoopy 1.0 组部门长文（2.2k 粉、51 赞 / 49 收藏）差 1 收藏到 50 线，盯。@HaileyAILabs 视频模型横评（Grok Bot 非主角）、@Mileson07 爆款教程写法（写稿方法，不是 Grok Bot 玩法）、@ipshow 国内打电话实测（81 粉，步骤有但未过线，盯原生电话中文）、@fankaishuoai 接 IM/微信设想（无完整步骤）、交易喊单复制帖、日文/韩文 Article 不收。@SamSokolin 2121303079803089179 harness 优化公告（约 8900 粉、2837 赞 / 138 收藏，约多用 7%、例程最高约 15%）是产品公告不是教程，不进 x-articles。
+
+- 缺口仍开：Grok Bot 1.0 / Share Bots / 会议入会配置中文保姆级、Gopuff / 购物体验中文、Mac 系统应用（信息/邮件/备忘录/提醒/日历/通讯录/定位）中文保姆级、原生电话中文、Vault 更深、IncidentSweep、飞书官方连接器、X 连接器书签/私信/Article 中文；通用 Tailscale 连接器保姆级仍开。

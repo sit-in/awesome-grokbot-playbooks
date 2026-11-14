@@ -186,6 +186,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [靠 YouTube 切片做号：Grok Bot + ChatCut 对话式剪出竖屏短视频](https://x.com/Pluvio9yte/status/2120682798071877905) — @Pluvio9yte · 2026-11-12 · X 长文：发官方口令接好 ChatCut，用云端上传通道喂长视频，再一句话剪成 9:16 竖屏（居中留白、前 3 秒钩子、中文字幕）；可打开云端工程微调，并附可复制提示词。约 5.3 万粉 · 中文
 - [全程只用手机，用 Grok Bot + ChatCut 做出一条文旅宣传片](https://x.com/cgnot996/status/2120737579196923953) — @cgnot996 · 2026-11-12 · 四步：发接入口令接 ChatCut，让 Bot 搜集家乡史料和素材，再按 16:9、男声讲解、字幕、MG 动画和国风配乐下单，初版有黑闪和字迹问题直接对话改到交付。作者提醒史料和版权要自己把关。约 1.3 万粉、约 86 赞 / 52 收藏 · 中文
 - [Grok Bot + ChatCut 做自媒体视频：口播精剪和博客出片，大文件别丢进聊天](https://x.com/bozhou_ai/status/2120764440522133983) — @bozhou_ai · 2026-11-12 · 作者先试过让 Bot 自己写代码出视频，画面差、改一版就要重跑。改接 ChatCut 后，一条 5 分 46 秒口播剪成 3 分 40 秒，一篇博客做成 1 分钟教程；三步授权，大视频走它给的上传页再回来说「上传好了」。约 3.4 万粉、约 84 赞 / 64 收藏 · 中文
+- [我用 Grok Bot + ChatCut 搞定 AI 视频剪辑，附详细教程](https://x.com/liyue_ai/status/2121203253568475561) — @liyue_ai · 2026-11-13 · X 长文：官方口令接好 ChatCut 后，大视频不要直接丢进聊天（作者遇到读不到附件、经 VPN 上传很慢），改在它打开的页面上传再说「传完了」；口播先去停顿口误再加字幕（8 分钟剪到约 6 分 47 秒），另演示一键复刻爆款、一条素材剪多版本、加 MG 动画、几张图出带货片，手机和电脑用同一句连接口令。约 5.6 万粉、约 95 赞 / 133 收藏 · 中文
 
 
 ## 英文精选
@@ -404,6 +405,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Any Video Into A Magazine：每周把订阅的 YouTube 和播客做成一本杂志](https://x.com/BrianRoemmele/status/2119815091092861330) — @BrianRoemmele · 2026-11-09 · 公开模板：盯指定频道和节目，把新一期写成杂志稿，抽视频真实截图配说明，保留逐字引语并链回原作，再导出 Kindle EPUB 和邮件通讯。约 49.6 万粉、约 1077 赞 / 700 收藏 · 英文
 - [Podcast Maker：一句话把 X 账号、PDF 或日报变成一集播客](https://x.com/BrianRoemmele/status/2120177561565307025) — @BrianRoemmele · 2026-11-10 · 公开模板：自选 1–15 分钟和语气，引用真实来源、不编造，生成音频、字幕、波形视频和 PDF 逐字稿，也可设成定时更新。约 49.6 万粉、约 65 赞 / 50 收藏 · 英文
 - [How to Run Your GTM With Grok Bot (Full step-by-step Guide)](https://x.com/MichLieben/status/2120524273999868314) — @MichLieben · 2026-11-11 · X 长文：一个首席 bot 带 21 个岗位，跑多客户的外呼名单、回复草稿和每日复盘；逐步写了接 Slack/Gmail/日历、加 ColdIQ MCP、共享 GitHub 资料库，以及让云电脑里的 Claude Code 做名单重活；发邮件和发帖都要先问你。文中工具栈以作者团队的 ColdIQ 为主。约 1.3 万粉 · 英文
+- [Grok Bot for Real Estate Investors: 15 Incredible Features](https://x.com/BeardyBrandon/status/2121271551823933622) — @BeardyBrandon · 2026-11-13 · X 长文：按房产投资公司的岗位和 SOP 讲 Grok Bot，15 项能力各配用法（一岗一 Bot、第二大脑、云电脑、演示教学、定时与 webhook 触发、Bot 邮箱分流、只读银行连接器、审批与 Vault、幕僚长、Slack/Teams、Team Bot、模板、打电话、语音边走边聊、可分享看板），结尾建议先做一个岗、一项技能再上定时；文末有作者免费指南和付费社群链接。约 5.1 万粉、约 120 赞 / 315 收藏 · 英文
 
 
 ## 不收的例子
