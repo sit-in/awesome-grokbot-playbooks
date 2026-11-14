@@ -2446,3 +2446,14 @@ X 大 V 文章雷达：`docs/x-articles.md` 新增 2 条（窗口自 2026-11-13 
 - 未收：@0xlangeai 2120769549679386878 DeepSeek Harness 保姆级（1.3 万粉、480 赞 / 652 收藏，步骤完整）同作者 7 天内已收 11-10 Lauren 六法和 11-11 用量页，达周上限，11-17 后可提；@0xlangeai 2121150824449745236 五个热门模板清单（48 赞 / 65 收藏）同样触周上限，且偏目录。@BrianRoemmele Photo Shoebox Sorter（49.6 万粉、95 赞 / 116 收藏）与 College Aid Finder 因 11-09 / 11-10 已收两条，本周达上限，11-16 后可提。@aiedge_ 2121277952398950797「How to Make Money With Grok Bot + Fable 5.2」收益口号偏重（「月入 1 万美元」），正文提示词多处留空，不收。@0x_rody 设计师 10 条提示词（5.1k 粉、27 赞 / 28 收藏）热度刚过粉量线、提示词在正文里不完整，未收，盯。@0xShoopy 1.0 组部门长文（2.2k 粉、51 赞 / 49 收藏）差 1 收藏到 50 线，盯。@HaileyAILabs 视频模型横评（Grok Bot 非主角）、@Mileson07 爆款教程写法（写稿方法，不是 Grok Bot 玩法）、@ipshow 国内打电话实测（81 粉，步骤有但未过线，盯原生电话中文）、@fankaishuoai 接 IM/微信设想（无完整步骤）、交易喊单复制帖、日文/韩文 Article 不收。@SamSokolin 2121303079803089179 harness 优化公告（约 8900 粉、2837 赞 / 138 收藏，约多用 7%、例程最高约 15%）是产品公告不是教程，不进 x-articles。
 
 - 缺口仍开：Grok Bot 1.0 / Share Bots / 会议入会配置中文保姆级、Gopuff / 购物体验中文、Mac 系统应用（信息/邮件/备忘录/提醒/日历/通讯录/定位）中文保姆级、原生电话中文、Vault 更深、IncidentSweep、飞书官方连接器、X 连接器书签/私信/Article 中文；通用 Tailscale 连接器保姆级仍开。
+
+
+### 2026-11-14 10:42 Grok
+
+T7 日更：`inbox/candidates.md` 追加「2026-11-14 10:42 · T7 日更雷达」一节，推荐 6 + 信号 9。请按 LOOP 核实脱敏与可用性。
+- 本轮最值得看：milo-the-machine/hermes-grokbot-bridge（MIT，本机 Hermes 经出站 webhook 派活给已有 Grok Bot，结果用 Bot 邮箱寄回、桥只读 IMAP 核对发件人；不开入站端口或隧道，带测试）。
+- 另荐：kapadias/pickletime-grokbot（MIT，CourtReserve 订场，先 rehearsal 再 go live）、Betagg/usage-steward（MIT，只读额度体检，仓名无 grok，昨天白天漏收、本窗 X 交叉）、johnatfreecoffee/omarchy-voice-wake（Apache-2.0，Omarchy 离线唤醒词打开官方 App 语音）、DonTranQuiL/grok-bot-ha（MIT，Home Assistant → webhook + HA-MCP，白天漏收）、mebcode/ai-job-hunter（MIT，求职侦察到填表，提交须点头）。
+- 信号：SkiHerd 托管插件；day2 晨报手册无许可证；两款同质额度看板；grokbot-container 非官方容器移植无许可证（请核 vendor patch / 安全说明）；展示站、像素小镇、3D 指挥台无许可证；Zoho Mail 插件尚未真实验收。
+- X `search_posts_all` 本轮可用；交叉补到 usage-steward 与 grokbot-container。@PhyrexNi 三 AI 协作仓是 Codex + Grok Build CLI，未进候选。
+- README/docs 未动。
+
