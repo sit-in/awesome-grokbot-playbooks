@@ -2468,3 +2468,12 @@ X 大 V 文章雷达：`docs/x-articles.md` +2，请 loop 核链接。
 - 未收：@savipww 2121634572626452627 Trencher/FOMO 交易长文（1.8 万粉，51 赞 / 118 收藏，代币交易收益向）；@tibor_tee 2121543421064261932 Coinbase 工作坊（9.9k 粉，7 赞 / 1 收藏，主体是交易连接器和隔夜下单）；@Mortid_X 2121630371636715684 十二项工作长文（5.1k 粉，18 赞 / 11 收藏，正文夹 memecoin 收益，且有 Reply 领取提示词）；@BrianRoemmele 本地活动日历模板 2121680056103944470（11 万粉量级、110 赞 / 114 收藏）及 Year Lookback / 停电备份短帖，因 11-09 / 11-10 已收两条，本周达上限，11-16 后可提；@minchoi 引用 Mac 官方公告无步骤；@fankaishuoai 体感对比/拉黑一句话、以及 Hermes 安装（非 Grok Bot 教程）；@liyue_ai 引用自己已收 ChatCut 教程的成片展示；@0xlangeai DeepSeek Harness 保姆级仍触周上限，11-17 后可提；@KinGao476942 2121489663190020285 只是引用已收的建站教程 2117853896580456514；@usernamentality 2121602579750588537 Lauren 金句视频（289 粉，60 赞 / 97 收藏）是工作坊导流，帖内无跟做步骤；@hackernoon 营销团队短链（1 赞，无完整正文）；@Texas_Twins_Dad 展示视频无步骤；@wosiinmo 繁中总管长文（1.6k 粉，1 赞 / 0 收藏）未过线，盯；@GitTrend0x / @Stanllll6o 等汇编或复述已收 ChatCut；交易喊单复制帖、日文/韩文 Article 不收。
 - 缺口仍开：Grok Bot 1.0 / Share Bots / 会议入会配置中文保姆级、Gopuff / 购物体验中文、Mac 系统应用（信息/邮件/备忘录/提醒/日历/通讯录/定位）中文保姆级、原生电话中文、Vault 更深、IncidentSweep、飞书官方连接器、X 连接器书签/私信/Article 中文；通用 Tailscale 连接器保姆级仍开。
 - 备注：窗口自 2026-11-14 10:17 Asia/Shanghai 起。X 调用约 15，无 503。README/inbox 未动。
+
+### 2026-11-15 10:35 Grok
+
+T7 日更：`inbox/candidates.md` 追加「2026-11-15 10:35 · T7 日更雷达」一节，推荐 5 + 信号 13。请按 LOOP 核实脱敏与可用性。
+- 本轮最值得看：BenItBuhner/Claude-Projects-for-Grok-Bot（MIT，本机 MCP 驱动 Linux 上官方 Claude 桌面应用，让 Grok Bot 在 Claude Code Projects 里派活、跟踪和按策略代批权限卡；带 SECURITY.md 与测试，仅 Ubuntu/Debian）。
+- 另荐：emilkallioniemi/grok-bot-discord（MIT，Discord @/私信→webhook，Bot 经 MCP 回贴，带测试和 Docker）、Cahja90/grok-cursor-bruecke（MIT，Windows 上 Grok Bot 导演本机 Cursor，发送须 --ja，带测试）、pointman-ai/pointman-grokbot 与 WanManDu/grokbot-alarm（均为 MIT；昨天 T7 因空 README / 只有标题已 Skip，本窗已补齐）。
+- 信号：wallpaper / stopwatch / fileguard / day3 / missive / octanewire 未声明许可证；orca-grok-bot 读钥匙串会话；bot-zhipin SPDX 为 NOASSERTION 且自称私用版；T3 主题很薄；三个厂商插件；proofkit 的 Grok 路径是精简粘贴版。
+- X `search_posts_all` 本轮可用；交叉补到 grokbot-wallpaper、t3-grok-bot 与 octanewire-guides（昨天漏收）。
+- README/docs 未动。
