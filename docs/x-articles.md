@@ -154,6 +154,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [用 t3 code + Tailscale 打通 Grok Bot、Mac、Windows 和 NAS](https://x.com/CyanCloud77/status/2120363980325871810) — @CyanCloud77 · 2026-11-11 · 把除 Claude 外的订阅都放到 t3 code，小任务在 Mac、重活自动转到 Windows，NAS 经 Tailscale 挂 SMB 共享文件；t3 本身是 MCP，接到 Grok Bot 就能指挥全部 t3 code。约 4k 粉、约 49 赞 / 51 收藏 · 中文
 - [把 Grok Bot 接进微信：ClawBot 插件四步走通，还能收发图片和文件](https://x.com/bit_sister/status/2120445798303588836) — @bit_sister · 2026-11-11 · X 长文：让 Bot 经 iLink 建 Webhook 入口，把 URL 和 Key 填进加密输入框，再在微信插件里扫码绑定；随后升级转发程序即可收发图片、文件和视频。云端在线，关本地电脑也能回。约 9.7k 粉 · 中文
 - [Grok Bot 工程师 Lauren 在 AIE CODE 讲怎么把 agent 写的 slop 变成黄金](https://x.com/MaiYangAI/status/2120735641856348407) — @MaiYangAI · 2026-11-12 · 约 19 分钟演讲（中英字幕）：用代码库约束、依赖检查和可执行的验证来管 agent 写出的代码，少靠注释；评审更多看视频、截图和验证产物；并演示用 Grok Bot 拉起 Cursor 项目、自动找 bug、开修复 PR 再合并。约 5.8k 粉、约 228 赞 / 319 收藏 · 中文
+- [「我看谁不学 Grok Bot」系列第 4 课：后台数据、微信群聊、Bot 的记忆，两个插件全交给 Grok Bot](https://x.com/czzzzzzJ_/status/2121548072480301202) — @czzzzzzJ_ · 2026-11-14 · X 长文：用铁柱 @cgnot996 的两个插件解决问题。浏览器剪藏插件 Grok Bot Clipper 可整页保存、截图或采集元素，一次把多个后台标签发给 Bot，跑顺后也可录成云电脑定时任务；桌面端 Grok Bot Anywhere 用微信「合并转发到其他应用」把群聊和附件打包给 Bot（需打开该 Bot 的接收转发），和只负责对话的微信连接不是一回事。另用记忆管家把各 Bot 人设和规则备份到私有 GitHub 仓。文末有作者知识站和付费课程链接。约 7.0k 粉、约 33 赞 / 64 收藏 · 中文
 
 
 ## 中文 · 出海一人公司与内容
@@ -269,6 +270,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Anatomy of a Personal Factory of Grok Bots](https://x.com/RoyOsherove/status/2115591603133764082) — @RoyOsherove · 2026-10-29 · X 长文：搭了 8 天的个人 bot 工厂，一个 bot 一份活、共享记忆、一块决策仪表盘再接编程 CLI，并写了还缺什么；约 1.2 万粉 · 英文
 - [How I Turned Grok Bot Into an Operating System for 26 AI Agents (Full Course)](https://x.com/JulianGoldieSEO/status/2116363222781702403) — @JulianGoldieSEO · 2026-10-31 · X 长文：一块屏管 26 个 bot，用 6 段可粘贴提示词搭出总控：一键唤起整个团队、给每个 bot 打分、跟踪每项任务走到哪一步，所有屏都只读、不替 bot 发东西；6 段提示词免费给，bot 清单模板和完整版放在作者的付费社群里；约 17 万粉 · 英文
 - [A short guide on how I create high quality bots and manage my team](https://x.com/poteto/status/2116576229319233596) — @poteto · 2026-10-31 · SpaceXAI / Grok Bot 负责人长帖：加 Dr Eggbot 设计 Bot、少而精、让 Bot 自建 Skill 并可推私有 GitHub、接连接器与 Vault、减少手工复制、用新人入职方式介绍自己、语音脑暴后让 Bot「用自己的话复述」验收；约 24 万粉、约 5900 赞 / 1 万多收藏 · 英文
+- [Build Your Own Workflow Intelligence System With Grok Bot](https://x.com/liam_fallen/status/2121629595703087585) — @liam_fallen · 2026-11-14 · X 长文：先接两三款日常应用，建共享工作区，再搭四个 Bot（工作流分析、自动化调研、技能搭建、总管）和一块看板；分析 Bot 找出重复劳动，调研 Bot 判断值不值得自动化，技能搭建 Bot 写成可复用 Skill，跑通后再设成例程。12 步都附可复制岗位说明，建议先从三个工作流试起。约 9.5k 粉、约 21 赞 / 61 收藏 · 英文
 
 ### Routine 雷达与额度
 

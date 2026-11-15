@@ -2457,3 +2457,14 @@ T7 日更：`inbox/candidates.md` 追加「2026-11-14 10:42 · T7 日更雷达�
 - X `search_posts_all` 本轮可用；交叉补到 usage-steward 与 grokbot-container。@PhyrexNi 三 AI 协作仓是 Codex + Grok Build CLI，未进候选。
 - README/docs 未动。
 
+
+
+### 2026-11-15 10:25 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +2，请 loop 核链接。
+- 本轮最值得看：@czzzzzzJ_ https://x.com/czzzzzzJ_/status/2121548072480301202 「我看谁不学 Grok Bot」系列第 4 课（约 7.0k 粉，33 赞 / 64 收藏）。用 @cgnot996 的剪藏插件把后台整页、截图或采集元素发给 Bot，多标签一次同步；桌面端 Grok Bot Anywhere 走微信合并转发打包群聊和附件（要打开接收转发），和只负责对话的微信连接分开讲；记忆管家把各 Bot 人设和规则备份到私有 GitHub 仓。文末有知识站和付费课链接。放「中文 · Skills 与连接」。同作者 10-12 有一篇在 community-tutorials，本周 x-articles 未达上限。
+- 英文精选 · 多 Agent 作战室：@liam_fallen 2121629595703087585 Workflow Intelligence 四 Bot 长文（约 9.5k 粉，21 赞 / 61 收藏），12 步附可复制岗位说明，先找重复劳动再写成 Skill、设成例程。新作者，未达周上限。
+- @bot 对照：本窗无新产品帖。from:bot -is:retweet -is:reply 自 11-13 18:00 UTC 起仍只有入会公告 2121320089920430181（现约 6706 赞 / 1338 收藏，11-13 19:11 UTC / 11-14 03:11 Asia/Shanghai）。中文扩搜入会 / 1.0 Share Bots / Gopuff / Mac 系统应用无合格保姆级对照（有步骤 + 5k 粉或约 50 赞 / 30 收藏）。最佳中文入会候选仍 @cnlsy517 2120835810991714366（约 3.0k 粉、1 赞 / 0 收藏）；同作者分享长文 2120694131739824611 仍 0 赞。@CrisSL0617 2121395762294616375 现约 691 粉 0 赞。Mac 中文多为公告转述（@0xlangeai 2121030028477538305 仅 3 赞，且同作者 7 天内已收 11-10 / 11-11，达周上限）。英文 1.0 候选 @crlaze 2120872660645061075 现约 3.8k 粉、32 赞 / 30 收藏，差粉量和 50 收藏线，继续盯。
+- 未收：@savipww 2121634572626452627 Trencher/FOMO 交易长文（1.8 万粉，51 赞 / 118 收藏，代币交易收益向）；@tibor_tee 2121543421064261932 Coinbase 工作坊（9.9k 粉，7 赞 / 1 收藏，主体是交易连接器和隔夜下单）；@Mortid_X 2121630371636715684 十二项工作长文（5.1k 粉，18 赞 / 11 收藏，正文夹 memecoin 收益，且有 Reply 领取提示词）；@BrianRoemmele 本地活动日历模板 2121680056103944470（11 万粉量级、110 赞 / 114 收藏）及 Year Lookback / 停电备份短帖，因 11-09 / 11-10 已收两条，本周达上限，11-16 后可提；@minchoi 引用 Mac 官方公告无步骤；@fankaishuoai 体感对比/拉黑一句话、以及 Hermes 安装（非 Grok Bot 教程）；@liyue_ai 引用自己已收 ChatCut 教程的成片展示；@0xlangeai DeepSeek Harness 保姆级仍触周上限，11-17 后可提；@KinGao476942 2121489663190020285 只是引用已收的建站教程 2117853896580456514；@usernamentality 2121602579750588537 Lauren 金句视频（289 粉，60 赞 / 97 收藏）是工作坊导流，帖内无跟做步骤；@hackernoon 营销团队短链（1 赞，无完整正文）；@Texas_Twins_Dad 展示视频无步骤；@wosiinmo 繁中总管长文（1.6k 粉，1 赞 / 0 收藏）未过线，盯；@GitTrend0x / @Stanllll6o 等汇编或复述已收 ChatCut；交易喊单复制帖、日文/韩文 Article 不收。
+- 缺口仍开：Grok Bot 1.0 / Share Bots / 会议入会配置中文保姆级、Gopuff / 购物体验中文、Mac 系统应用（信息/邮件/备忘录/提醒/日历/通讯录/定位）中文保姆级、原生电话中文、Vault 更深、IncidentSweep、飞书官方连接器、X 连接器书签/私信/Article 中文；通用 Tailscale 连接器保姆级仍开。
+- 备注：窗口自 2026-11-14 10:17 Asia/Shanghai 起。X 调用约 15，无 503。README/inbox 未动。
