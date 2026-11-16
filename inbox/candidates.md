@@ -4989,3 +4989,31 @@ edies76/auton-grokbot（仿桌面端 UI 的西语实验）、joshhu/grokbotvm（
 ### Skip（本轮）
 
 CCODING04/dsh-bot（开源平替）、VirusPC/ai-x-feeds（非玩法）、vibeailabs-tech/grokbot-mkt-team（空模板）、grokbot-abogados（培训幻灯）、其余空仓/交易类。
+
+## 2026-11-16 16:40 Asia/Shanghai · 周更候选
+
+> 从 11-09 周更后各轮「推荐」约 60 条里挑 5 条，gh 只读实查星标/许可/最近推送；对照 box 仓 README/docs/examples（README 自 11-09 未动）与上周周更 5 条去重。未 star/fork/PR。待 sitin 确认后才改 README。
+
+### 候选（5 条）
+
+1. [billzhuang6569/feishu-grok-bot](https://github.com/billzhuang6569/feishu-grok-bot) - 单用户飞书私聊桥：官方 Lark CLI 收文本，转给 Grok Bot 的 Webhook Routine，再回复原消息；只用 Python 标准库 + SQLite，只认唯一 owner 私聊，附安全边界与部署文档。进度卡片尚未生产验收。0★ · MIT · 11-16 更新。
+   - 建议分类：💼 中文一人公司 / 🧩 技能与玩法　标签：`feishu` `bridge` `webhook` `zh`
+2. [thiago-desa/conductor](https://github.com/thiago-desa/conductor) - 主 Bot 当调度台：粘 `agents/conductor.md` 作人设，配 routing / getting-started Skill，把任意任务路由给舰队里对口的专岗 Bot；记得各岗职责、交接不泄密、只在等你拍板时打扰。带虚构日例和 evals。0★ · MIT · 11-09 更新。
+   - 建议分类：👥 多 Bot 团队　标签：`multi-bot` `routing` `skill`
+3. [Betagg/usage-steward](https://github.com/Betagg/usage-steward) - 用量管家 Bot：只读看各 Bot / 例程烧掉的额度，对照产出打分，按节省从大到小给出具体砍法；从不改别人的例程或升级套餐。人设 + 上手技能 + 每周报告 / 额度预警两条 Routine，没值得改的就保持安静。1★ · MIT · 11-13 更新。
+   - 建议分类：⏰ Routine 与摘要　标签：`routine` `usage` `multi-bot`
+4. [lucklypriyansh-2/grok-bot-relay](https://github.com/lucklypriyansh-2/grok-bot-relay) - 给 Claude Code / Codex / Gemini 等 CLI 补一个向已有 Grok Bot 派活并拿回答复的 MCP + 命令行：Routine webhook 只负责开跑，本仓给任务编号，再轮询 Bot 写回的结果文件；密钥放 `chmod 600` 环境文件。作者实测往返约 5–7 秒。非官方。0★ · MIT · 11-13 更新。
+   - 建议分类：🧩 技能与玩法　标签：`mcp` `multi-agent` `claude-code` `unofficial`
+5. [50pac/daily-info-digest-bot](https://github.com/50pac/daily-info-digest-bot) - 用 Markdown 配置的每晚信息简报 Bot 模板：收实习、讲座和 AI 学习动态，默认每晚 21:30（北京时间）出精选与完整候选两份附件。中英 README，含架构、配置与安全说明。0★ · MIT · 11-15 更新。
+   - 建议分类：⏰ Routine 与摘要 / 📦 模板与目录　标签：`routine` `digest` `template` `zh`
+
+注：5 条星标都很低（0–1★），属于「玩法新、还没火」；收不收由 sitin 定。
+
+### 没收（一句话理由）
+
+- 上周周更 5 条（grokhouse、grok-bot-3d-campus、grok-bot-cn、jackywine 数字花园、solo-to-team-skills）仍未进 README，不重复提。
+- 同类派活桥只挑一条：ramarivera/grok-bot-bridge（依赖 Executor）、hanyu1212/grokbot-bridge-mcp（依赖 `@cursor/bdk`、仍在修 bug）留 inbox。
+- 扎实但名额让给更贴主题的：ArtemXTech/grok-agent-threads（Tailscale MCP 管本机 Claude/Codex 线程）、Ashe-Oro/grokbot-telegram-bridge、ycaistudio/grokbot-token-saver（与 usage-steward 同向）、jksim26/lucid-dream、Chasen-Liao/grokbot-and-pi 与 yuehen7/grokbot-and-omp、BenItBuhner/Claude-Projects-for-Grok-Bot、milo-the-machine/hermes-grokbot-bridge，留 inbox。
+- nickvasilescu/grokbot-clone：自托管平替，README 该分类已较满。
+- 额度菜单栏 / 托盘一批（cursor-usage-bar、ai-usage-bar、huixin 等）：与已收同质。
+- 厂商薄插件、无许可证、交易 / 越狱、官方 App 补丁或逆向：按各轮 Skip 理由不收。
