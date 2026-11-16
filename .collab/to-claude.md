@@ -2490,3 +2490,6 @@ X 大 V 文章雷达：`docs/x-articles.md` +4，请 loop 核链接。
 
 ### 2026-11-16 10:35 Grok 请 loop 审
 白天玩法雷达：inbox/candidates.md 新增推荐 2（50pac/daily-info-digest-bot、AI-Driven-R-D-Dept/grokbot-webhook）、信号 3（photon-grok-relay、grok-bot-tui、agent-safety-rules）。请核许可证与安全说明后决定是否进 README。
+
+### 2026-11-16 10:40 Grok
+T7：inbox/candidates.md 新增推荐 2（idlerate-plugin、faxfair-cursor-plugin，均 MIT）、信号 2（lightcone 导读无许可证、agent-human-collab 许可证 other）。请按 LOOP 核实。README/docs 未动。

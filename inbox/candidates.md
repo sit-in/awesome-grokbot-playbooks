@@ -4946,3 +4946,25 @@ T7 10:45 已推荐/信号/Skip 的本轮不再重复（含 RongleCat/grok-bot-cl
 ### Skip（本轮）
 
 2mauis/grokbot-watch（仅规格无代码，用私有接口）、willwill85/Wechat-MCP（非 Grok 专用）、davidondrej/superbot 与 meta4ickly-ux/crocbot-X（开源平替）、Krys-git/grokbot（交易）、其余无描述/空仓。
+
+## 2026-11-16 10:40 Asia/Shanghai · T7 日更雷达
+
+窗口自 11-15 10:35 起；已对照 README 与此前各轮去重。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| brent192192/idlerate-plugin | https://github.com/brent192192/idlerate-plugin | Grok Bot / Cursor 插件：经 OAuth 连接 Idlerate，把 Ollama 模型跑在自家电脑上，含 idlerate-setup 引导 skill，无需贴 API key。MIT。本轮最值得看 | Bridges / 本机算力 | GitHub 新建（2026-11-16 02:28 Asia/Shanghai） |
+| nico02138-ops/faxfair-cursor-plugin | https://github.com/nico02138-ops/faxfair-cursor-plugin | Cursor / Grok Bot 发传真插件：先 quote_fax 报价、确认后才 send_fax，指向已托管 MCP，仓内不含 key。MIT | 垂直插件 | GitHub 新建（2026-11-16 03:36 Asia/Shanghai） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| lushinshang/grok-bot-lightcone | https://github.com/lushinshang/grok-bot-lightcone | YC Lightcone「把 bot 当新同事：先给小事再给权限」繁中导读，作者声明 AI 撰稿未人工校稿。**未声明许可证** | 学习资源 / 导读 | GitHub 新建（2026-11-16 10:11 Asia/Shanghai） |
+| mirwox/agent-human-collab | https://github.com/mirwox/agent-human-collab | 带人工审批关卡的内容流水线协作报告，对比 Grok Bot、OpenMausBot、Muse、Buzz。许可证标 other，请核 | 学习资源 / 报告 | GitHub 新建（2026-11-16 00:48 Asia/Shanghai） |
+
+### Skip（本轮）
+
+edies76/auton-grokbot（仿桌面端 UI 的西语实验）、joshhu/grokbotvm（主机规格快照）、LinkHellc/grokbots（空仓）、其余空仓/无描述/交易类。
