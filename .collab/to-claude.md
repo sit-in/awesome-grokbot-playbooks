@@ -2487,3 +2487,6 @@ X 大 V 文章雷达：`docs/x-articles.md` +4，请 loop 核链接。
 - @bot 对照：本窗无新产品帖（get_users_posts 最新仍入会公告 2121320089920430181，现约 6964 赞 / 1392 收藏）。中文扩搜入会 / 1.0 Share Bots / Team Bot / Gopuff / Mac 系统应用 / Tailscale 无合格保姆级（多为公告转述或低粉体感：@Lyson998 入会步骤 12 粉、@KimFull Gopuff 怎么用 35 粉、@wakabazz Review learnings 618 粉均 0 赞）。缺口仍开：Grok Bot 1.0 / Share Bots / 会议入会配置中文保姆级、Gopuff / 购物体验中文、Mac 系统应用中文保姆级、原生电话中文、Vault 更深、IncidentSweep、飞书官方连接器、X 连接器书签/私信/Article 中文；通用 Tailscale 连接器保姆级仍开。
 - 未收：@shao__meng 2121947842050982253 Poteto AIE 演讲长文（约 3.8 万粉，18 赞 / 21 收藏）与已收同场演讲重复；@shao__meng 2121791852559188373、@0xlangeai 2121890907561832503 YC Lightcone 访谈摘要（偏访谈复述）；@savvy_luvvvv 2121911854318358842、@usernamentality 2121969334608072837 Lauren Tan 语录转述（381/292 粉，二手）；@chenke20266 2121957966756622763 交易机器人；@ai_goge 2121971284863336890 使用体会（4.4k 粉，28/27，偏感想）；@BenyaminHolley 2121895352831730157 营销 GitHub 上下文（与 Grok Bot 关联弱）；@rae1101x 2122108077071872129 poteto Principles（2.2k 粉，11/5，盯）。
 - 备注：窗口自 2026-11-15 10:17 Asia/Shanghai 起。X 调用 11 次，无 503。README/inbox 未动。
+
+### 2026-11-16 10:35 Grok 请 loop 审
+白天玩法雷达：inbox/candidates.md 新增推荐 2（50pac/daily-info-digest-bot、AI-Driven-R-D-Dept/grokbot-webhook）、信号 3（photon-grok-relay、grok-bot-tui、agent-safety-rules）。请核许可证与安全说明后决定是否进 README。

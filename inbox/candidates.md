@@ -4923,3 +4923,26 @@ T7 10:45 已推荐/信号/Skip 的本轮不再重复（含 RongleCat/grok-bot-cl
 ### Skip（本轮）
 
 空仓/薄仓/占位：raffik-cpo/GrokBotSlack、lbqye/grok-with-chatgpt（空仓）、CoffeePoweredMojo/grokbot-boba（几乎空）、grokbotleo-svg/grokbot-office 与 deadronos/grokbot-office（后者虽挂 MIT，几乎只有两行 README）、aihubos/grokbot-intro（韩语介绍薄页）。交易 / 纸面盘：Bitnxslabs/bitnxs-grokbot、cdeason12341-cpu/desk、olli81pump/desk、bbollinger-grok-bot/grok-sports-betting、Rd1882/gta-vi-claude-grok（带货漏斗）。只读/保留著作权不宜公开收录：AutoManEE/grokbot-system（蓝图完整且带测试，但许可证写明 all rights reserved，复制和改作须书面许可）。开源平替不逐条进候选：spidron/grok-aeon-derivative（Aeon 衍生，自陈是闭环 Grok Bot 的平替）。偏题 / 非 Grok Bot 产品玩法：cinderandcrown/phoenix-fox（Meta 眼镜 iOS 伴侣，Apache-2.0 体量很大，描述写 companion，正文里 Grok 只是可切换的模型提供方之一，且作者写明尚未在真机眼镜上跑过）、SquishEyez/ANThub（Antelope 链钱包，作者仅提到用 Grok Bot 协助开发）、backnotprop/plannotator（通用 agent 批注收件箱，图标墙无 Grok Bot）、radiancelux/prgenie（本机 PR 通道，X 上作为「别让 Bot 自己写代码」的补充，非专用配方）、comalice/pi-tools（Pi 扩展，窗口外且非 Grok Bot）、esgindy/spreadsheet-realign-clean-verify（通用表格技能，虽标了 grok-bot topic）、markoa-grokbot/first-time-user-qa（通用实验技能，仓很薄、未写 Grok Bot 安装步骤）。已收/已信号仓不重列：pysol-dev/oh-my-grok 为已信号 pysol-dev/omo-grok 的更名续作，仍无许可证；10foldjosh/grokbot-uses 此前已 Skip。X 交叉已收或已 Skip 不重列：Betagg/usage-steward、mcncarl/yichen-skills、sandhiveio/How-Could-I-Be-Hacked、kydlikebtc/awesome-grokbot、unicodef1wn/grokbot-field-notes、smfworks/smf-works-books、modelflare-ai/AnyModelBot。本窗仍在更新但不重列：feiw3440-cell 的 day1 / day2 手册、cgwiz2001/jarvis-command-deck、xiaopai20/easy-ai-bot-bridge（此前因无许可证作信号，本窗已挂 MIT，请 Claude 核是否升级，本轮不重开条目）。昨天 T7 已收或已 Skip 不重列。
+
+## 2026-11-16 10:35 Asia/Shanghai · 白天玩法雷达
+
+窗口自 11-15 10:42 起；已对照 README 与此前各轮去重。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| 50pac/daily-info-digest-bot | https://github.com/50pac/daily-info-digest-bot | **用 Markdown 配置的每晚信息简报 Bot 模板**：收实习、讲座和 AI 学习动态，默认每晚 21:30（Asia/Shanghai）出精选与完整候选两份附件。MIT，中英 README，含架构、配置和安全说明。本轮最值得看 | 垂直配方 / 信息简报 | GitHub 新建（2026-11-15 08:08 Asia/Shanghai） |
+| AI-Driven-R-D-Dept/grokbot-webhook | https://github.com/AI-Driven-R-D-Dept/grokbot-webhook | **在 Claude Code 里一句话经 Routine webhook 把问答/调研/总结类活交给已有 Grok Bot 并等回复**：对话式安装生成 `ask-grokbot` skill，短问题约 11–17 秒返回。非官方，仅 macOS 实测，文档仅日文。MIT | Bridges / Claude Code | GitHub 新建（2026-11-15 06:15 Asia/Shanghai） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| BrianSeong99/photon-grok-relay | https://github.com/BrianSeong99/photon-grok-relay | 给已有 Grok Bot 加 iMessage 入口：短信发到 Photon 号码，本机 TypeScript 中继触发 Bot，Bot 经中继 MCP 回复工具回到同一会话，含演示和搭建教程。**未声明许可证** | Bridges / iMessage | GitHub 新建（2026-11-15 07:42 Asia/Shanghai） |
+| Kuanyeah/grok-bot-tui | https://github.com/Kuanyeah/grok-bot-tui | 终端里的非官方 Grok Bot 界面（附件、表情、动画头像、离线演示），基于两个 MIT 上游，MIT；认证依赖 macOS 桌面端已登录会话，请核风险 | Clients / 终端 | GitHub 新建（2026-11-15 16:51 Asia/Shanghai） |
+| iiGeek/agent-safety-rules | https://github.com/iiGeek/agent-safety-rules | 复制即用的 agent 安全规则包（不删除、不花钱、不发送、不强推须先问），通用非 Grok 专用。MIT | 学习资源 / 安全规则 | GitHub 新建（2026-11-16 02:11 Asia/Shanghai） |
+
+### Skip（本轮）
+
+2mauis/grokbot-watch（仅规格无代码，用私有接口）、willwill85/Wechat-MCP（非 Grok 专用）、davidondrej/superbot 与 meta4ickly-ux/crocbot-X（开源平替）、Krys-git/grokbot（交易）、其余无描述/空仓。
