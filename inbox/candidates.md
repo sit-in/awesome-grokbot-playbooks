@@ -4968,3 +4968,24 @@ T7 10:45 已推荐/信号/Skip 的本轮不再重复（含 RongleCat/grok-bot-cl
 ### Skip（本轮）
 
 edies76/auton-grokbot（仿桌面端 UI 的西语实验）、joshhu/grokbotvm（主机规格快照）、LinkHellc/grokbots（空仓）、其余空仓/无描述/交易类。
+
+## 2026-11-16 16:30 Asia/Shanghai · 白天玩法雷达（下午）
+
+窗口自 11-16 10:30 起；已对照 README 与此前各轮去重。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| billzhuang6569/feishu-grok-bot | https://github.com/billzhuang6569/feishu-grok-bot | 单用户飞书私聊桥：官方 Lark CLI 收文本，转给 Grok Bot Webhook Routine，再回复原消息；仅 Python 标准库+SQLite，仅限唯一 owner 私聊，附安全边界与部署文档。MIT。进度卡片尚未生产验收 | Bridges / 飞书 | GitHub 新建（2026-11-16 10:51 Asia/Shanghai） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| dudu2099/grokbot-hud | https://github.com/dudu2099/grokbot-hud | 给官方桌面应用换壁纸并常显用量，不改应用本体、可恢复，非官方。MIT | Clients / 桌面美化 | GitHub 新建（2026-11-16 11:23 Asia/Shanghai） |
+| 1806629231-del/grokbot-wallpaper-windows | https://github.com/1806629231-del/grokbot-wallpaper-windows | Windows 版自定义壁纸与透明度面板，与上条同类。MIT | Clients / 桌面美化 | GitHub 新建（2026-11-16 16:19 Asia/Shanghai） |
+
+### Skip（本轮）
+
+CCODING04/dsh-bot（开源平替）、VirusPC/ai-x-feeds（非玩法）、vibeailabs-tech/grokbot-mkt-team（空模板）、grokbot-abogados（培训幻灯）、其余空仓/交易类。
