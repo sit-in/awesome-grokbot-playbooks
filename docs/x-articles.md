@@ -54,6 +54,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 
 - [在 X 上回复 @bot 派活：任务交给主 Bot，结果回 Grok Bot 里看](https://x.com/ai_goge/status/2119705743234650175) — @ai_goge · 2026-11-09 · X 长文：分清 @bot 只转交、@grok 才公开回答；示范回复写法（做什么、存到哪、只写不发），说明任务进主 Bot、共享云电脑文件可再交给其他 Bot；列出开通前提、地区限制（换 VPN 无效）、带视频或 GIF 或同时 @grok 就不接，以及四条可复制指令。约 4.4k 粉、约 35 赞 / 40 收藏 · 中文
 - [怎么选 Grok Bot 的开源平替：Hermes、OpenMausBot、Rakazo 怎么排](https://x.com/fankaishuoai/status/2120153537414053969) — @fankaishuoai · 2026-11-10 · 按 Bot 平台、多 Session、Agent 工作台三类对比 Hermes / OpenMausBot / Rakazo 等，说明上手门槛、部署负担和团队情况，并给出自己的组合：本地 Paseo + Hermes 跑定时任务，Grok Bot 只留邮件、提醒和 X 资讯这类轻活。约 4.7 万粉、约 79 赞 / 101 收藏 · 中文
+- [Matt Palmer 和 Lauren Tan 直播答了近 50 个 Grok Bot 问题：会议、额度到 Cloud Agents](https://x.com/MaiYangAI/status/2121929065569620020) — @MaiYangAI · 2026-11-15 · X 长文：把两位 Grok Bot 团队成员 11 月 13 日 X 直播 Q&A 按问题整理成中文笔记，覆盖进会议、额度怎么算、云电脑与 Cloud Agents 等常见疑问，附直播回放和 B 站字幕版链接；作者建议直接丢给自己的 Bot 读一遍再提优化建议。约 5.9k 粉、约 29 赞 / 88 收藏 · 中文
 
 
 ## 中文 · 多 Agent 作战室
@@ -155,6 +156,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [把 Grok Bot 接进微信：ClawBot 插件四步走通，还能收发图片和文件](https://x.com/bit_sister/status/2120445798303588836) — @bit_sister · 2026-11-11 · X 长文：让 Bot 经 iLink 建 Webhook 入口，把 URL 和 Key 填进加密输入框，再在微信插件里扫码绑定；随后升级转发程序即可收发图片、文件和视频。云端在线，关本地电脑也能回。约 9.7k 粉 · 中文
 - [Grok Bot 工程师 Lauren 在 AIE CODE 讲怎么把 agent 写的 slop 变成黄金](https://x.com/MaiYangAI/status/2120735641856348407) — @MaiYangAI · 2026-11-12 · 约 19 分钟演讲（中英字幕）：用代码库约束、依赖检查和可执行的验证来管 agent 写出的代码，少靠注释；评审更多看视频、截图和验证产物；并演示用 Grok Bot 拉起 Cursor 项目、自动找 bug、开修复 PR 再合并。约 5.8k 粉、约 228 赞 / 319 收藏 · 中文
 - [「我看谁不学 Grok Bot」系列第 4 课：后台数据、微信群聊、Bot 的记忆，两个插件全交给 Grok Bot](https://x.com/czzzzzzJ_/status/2121548072480301202) — @czzzzzzJ_ · 2026-11-14 · X 长文：用铁柱 @cgnot996 的两个插件解决问题。浏览器剪藏插件 Grok Bot Clipper 可整页保存、截图或采集元素，一次把多个后台标签发给 Bot，跑顺后也可录成云电脑定时任务；桌面端 Grok Bot Anywhere 用微信「合并转发到其他应用」把群聊和附件打包给 Bot（需打开该 Bot 的接收转发），和只负责对话的微信连接不是一回事。另用记忆管家把各 Bot 人设和规则备份到私有 GitHub 仓。文末有作者知识站和付费课程链接。约 7.0k 粉、约 33 赞 / 64 收藏 · 中文
+- [Grok Bot 云电脑托管 Claude Code：开跑前先弄清这 5 件事](https://x.com/Haosen9527/status/2121816309801611622) — @Haosen9527 · 2026-11-15 · X 长文：先分别确认 Claude 和 Grok Bot 的账号资格与用量；同一用户的 Bots 共享云电脑的文件、浏览器和登录状态，先看清权限覆盖哪些仓库；Claude Code 只支持 HTTP/HTTPS 代理，不支持 SOCKS，启动前查一次 IP 不等于全程受控；登录由本人完成，先用 `-p` 加只读工具跑一条读 README 的小任务，再让 Bot 派活并按代码差异和测试记录验收。附官方文档链接，不承诺不封号。约 7.6k 粉、约 31 赞 · 中文
+- [6 个 Marketplace Bot + 6 个开源项目，拼一套 AI 第二大脑](https://x.com/Mikocrypto11/status/2121935369406951916) — @Mikocrypto11 · 2026-11-15 · 长帖清单：Import Bot 迁移 ChatGPT/Claude/Codex 配置、Company Docs Q&A 带来源答文档、Meeting Recap Deck 会议纪要转演示稿、Projects Manager 用 Notion 分派任务、Executive Assistant 管日程、Morning Newspaper 夜间排版晨报；记忆和知识库侧配 GBrain、Khoj、Mem0、Basic Memory、Karakeep、Paperless-ngx，每项附链接，适合按需挑。约 1.7 万粉、约 30 赞 / 25 收藏 · 中文
 
 
 ## 中文 · 出海一人公司与内容
@@ -408,6 +411,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Podcast Maker：一句话把 X 账号、PDF 或日报变成一集播客](https://x.com/BrianRoemmele/status/2120177561565307025) — @BrianRoemmele · 2026-11-10 · 公开模板：自选 1–15 分钟和语气，引用真实来源、不编造，生成音频、字幕、波形视频和 PDF 逐字稿，也可设成定时更新。约 49.6 万粉、约 65 赞 / 50 收藏 · 英文
 - [How to Run Your GTM With Grok Bot (Full step-by-step Guide)](https://x.com/MichLieben/status/2120524273999868314) — @MichLieben · 2026-11-11 · X 长文：一个首席 bot 带 21 个岗位，跑多客户的外呼名单、回复草稿和每日复盘；逐步写了接 Slack/Gmail/日历、加 ColdIQ MCP、共享 GitHub 资料库，以及让云电脑里的 Claude Code 做名单重活；发邮件和发帖都要先问你。文中工具栈以作者团队的 ColdIQ 为主。约 1.3 万粉 · 英文
 - [Grok Bot for Real Estate Investors: 15 Incredible Features](https://x.com/BeardyBrandon/status/2121271551823933622) — @BeardyBrandon · 2026-11-13 · X 长文：按房产投资公司的岗位和 SOP 讲 Grok Bot，15 项能力各配用法（一岗一 Bot、第二大脑、云电脑、演示教学、定时与 webhook 触发、Bot 邮箱分流、只读银行连接器、审批与 Vault、幕僚长、Slack/Teams、Team Bot、模板、打电话、语音边走边聊、可分享看板），结尾建议先做一个岗、一项技能再上定时；文末有作者免费指南和付费社群链接。约 5.1 万粉、约 120 赞 / 315 收藏 · 英文
+- [I own an HVAC and plumbing company. Here's how I actually use Grok Bot.](https://x.com/TylerGriffin/status/2121792697547497739) — @TylerGriffin · 2026-11-15 · X 长文：40 多人、30 辆车的暖通水电公司老板，按岗位拆出销售跟进、收件箱、招聘薪酬、评价监控、CRM 运营、数据看板、社媒七个 Bot，接 ServiceTitan、邮件、日历和短信，在路上就能派活：跟进报价、先向供应商核价再出锅炉报价、召回单自动找最近的技师排期。经验四条：署名发出的内容必须本人写过、改过或批准；一次只给一件活；改稿让它学你的口吻；先从枯燥的杂活下手。约 1.8k 粉、约 216 赞 / 416 收藏 · 英文
 
 
 ## 不收的例子

@@ -2477,3 +2477,13 @@ T7 日更：`inbox/candidates.md` 追加「2026-11-15 10:35 · T7 日更雷达�
 - 信号：wallpaper / stopwatch / fileguard / day3 / missive / octanewire 未声明许可证；orca-grok-bot 读钥匙串会话；bot-zhipin SPDX 为 NOASSERTION 且自称私用版；T3 主题很薄；三个厂商插件；proofkit 的 Grok 路径是精简粘贴版。
 - X `search_posts_all` 本轮可用；交叉补到 grokbot-wallpaper、t3-grok-bot 与 octanewire-guides（昨天漏收）。
 - README/docs 未动。
+
+### 2026-11-16 10:20 Grok
+
+X 大 V 文章雷达：`docs/x-articles.md` +4，请 loop 核链接。
+- 本轮最值得看：@TylerGriffin https://x.com/TylerGriffin/status/2121792697547497739 X 长文「I own an HVAC and plumbing company. Here's how I actually use Grok Bot.」（约 1.8k 粉，216 赞 / 416 收藏；粉丝不足 5k，按赞藏过门槛）。七个岗位 Bot + ServiceTitan，实体小企业真实搭建。放英文精选 · 出海一人公司。
+- 中文 · 入门上手：@MaiYangAI 2121929065569620020 Matt Palmer / Lauren Tan 直播近 50 问整理（约 5.9k 粉，29 赞 / 88 收藏）。同作者已收 AIE CODE 演讲，本条是另一场直播 Q&A。plain_text 接口返回为空，只拿到 preview 与标题，请核正文是否确有会议配置步骤；若有，可作为会议入会中文对照候选（目前未计为对照）。
+- 中文 · Skills 与连接：@Haosen9527 2121816309801611622 云电脑托管 Claude Code 5 件事（约 7.6k 粉，31 赞 / 6 收藏，28 回复，互动结构略异常，请核）；@Mikocrypto11 2121935369406951916 6 Marketplace Bot + 6 开源项目清单（约 1.7 万粉，30 赞 / 25 收藏；账号偏币圈，内容本身无喊单）。
+- @bot 对照：本窗无新产品帖（get_users_posts 最新仍入会公告 2121320089920430181，现约 6964 赞 / 1392 收藏）。中文扩搜入会 / 1.0 Share Bots / Team Bot / Gopuff / Mac 系统应用 / Tailscale 无合格保姆级（多为公告转述或低粉体感：@Lyson998 入会步骤 12 粉、@KimFull Gopuff 怎么用 35 粉、@wakabazz Review learnings 618 粉均 0 赞）。缺口仍开：Grok Bot 1.0 / Share Bots / 会议入会配置中文保姆级、Gopuff / 购物体验中文、Mac 系统应用中文保姆级、原生电话中文、Vault 更深、IncidentSweep、飞书官方连接器、X 连接器书签/私信/Article 中文；通用 Tailscale 连接器保姆级仍开。
+- 未收：@shao__meng 2121947842050982253 Poteto AIE 演讲长文（约 3.8 万粉，18 赞 / 21 收藏）与已收同场演讲重复；@shao__meng 2121791852559188373、@0xlangeai 2121890907561832503 YC Lightcone 访谈摘要（偏访谈复述）；@savvy_luvvvv 2121911854318358842、@usernamentality 2121969334608072837 Lauren Tan 语录转述（381/292 粉，二手）；@chenke20266 2121957966756622763 交易机器人；@ai_goge 2121971284863336890 使用体会（4.4k 粉，28/27，偏感想）；@BenyaminHolley 2121895352831730157 营销 GitHub 上下文（与 Grok Bot 关联弱）；@rae1101x 2122108077071872129 poteto Principles（2.2k 粉，11/5，盯）。
+- 备注：窗口自 2026-11-15 10:17 Asia/Shanghai 起。X 调用 11 次，无 503。README/inbox 未动。
