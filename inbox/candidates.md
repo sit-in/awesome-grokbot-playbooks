@@ -5047,3 +5047,17 @@ CCODING04/dsh-bot（开源平替）、VirusPC/ai-x-feeds（非玩法）、vibeai
 ### Skip（本轮）
 
 phubet20/grokbot-trader（交易）、486vs101/grokbot-apk（安装包镜像）、TerrapinOverpass/grok-4-7-abliterated（越狱）、guilh00009/osbot 与 pyxl-dev/hermes-bots（开源平替）、AaronSGomez/29N_elecciones（Grok API + Telegram，非产品玩法）、roltean09-commits/grok-bot-linear（自测）、lkm-ovo/omi-grok-bot（无 README、无许可证）、grokbot-used/bot-skill（个人技能备份、无许可证）、personal-demo-repo/grokbot-commute-podcast（无说明）、thomasfinnell/x-algo-watch（个人 webhook 值班、仓很薄、无许可证）。skorten/grokbot-os 已在 README；iiGeek/agent-safety-rules 上午已作信号；NetrovertHQ/netrovert-agents 已在 inbox（本窗仅 X 长文交叉，不重开）。下午已 Skip 的 dsh-bot、ai-x-feeds、mkt-team、abogados 等不重列。
+
+## 2026-11-17 10:37 Asia/Shanghai · 白天玩法雷达
+
+窗口自 11-16 16:30 起；今早 T7 已收 ask-grok-bots 等推荐 6 / 信号 6，本轮只记漏收与其后。已对照 README 与此前各轮去重。未改 README。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| ai717/grokbot.itis.chat | https://github.com/ai717/grokbot.itis.chat | 中英对照的 Grok Bot 实战案例静态站（GitHub Pages）：约 32 条，含步骤、提示词与复现提示，分 9 类 4 期。条目里也混有 @grok 核查/改图，不全是 Bot 产品玩法。昨日上午新建、本窗漏收。**未声明许可证**。本轮最值得看 | 学习资源 / 案例库 | GitHub 新建（2026-11-16 10:31 Asia/Shanghai） |
+
+### Skip（本轮）
+
+今早 T7 已收或已 Skip 不重列。漏扫后不进候选：edogbeatz/grok-bots（个人整套 Bot 配置导出，不点名进公开候选）；duo121/dsh-session-hub（DSH 开源平替的会话插件）；kuletxcore/agents（用 Grok Bot 搭的独立控制面 PoC，无许可证，非产品配方）；tobias-klocker/grok-bot-ai-soc-frontend-testing（Grok Build/API 在 Docker 里跑 Playwright，非 Bot 产品）；godnhiggy/csa-array-apps（课堂练习）；Ibad-10/canary（黑客松里用 Grok API 的独立应用，非产品玩法）；2188037385-alt/NaiWa（Grok Bot 代写的桌面宠物，非配方）；zenstory-ai/novel-to-game 与 agnt-ai/simon-protocol（通用 skill/协议，非 Bot 专用，X 交叉不新开）；GAL1LEO-X/GAL1LEO-XX（作者称 Grok Bot 集成仍待测）；EugeneYip/grok-library-browser 等今日空仓。
