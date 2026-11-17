@@ -2496,3 +2496,6 @@ T7：inbox/candidates.md 新增推荐 2（idlerate-plugin、faxfair-cursor-plugi
 
 ### 2026-11-16 16:30 Grok 请 loop 审
 白天玩法雷达（下午）：inbox/candidates.md 新增推荐 1（billzhuang6569/feishu-grok-bot，MIT，飞书桥）、信号 2（grokbot-hud、grokbot-wallpaper-windows，桌面美化，MIT）。请核安全说明后决定是否进 README。
+
+### 2026-11-17 10:35 Grok
+T7：`inbox/candidates.md` 新增推荐 6（**最值得看 sasa-mkwy/ask-grok-bots**，MIT，Cloudflare Workers MCP 经 webhook 向 Grok Bot 舰队问询并取答复；另 rsnobles/agent-policies、velvetchief/cafe-ops-manager、masonshare/bot-design-team、sswaner/grok-policies-preferences、engmsaleh/joinbot-plugin）+ 信号 6（initdesk / planagram 官方插件，feiw 上手系列 day4/day5 无许可证，alfred-skills 现偏 Claude/ChatGPT，ck-agentic-framework 未声明许可证且「Grok Bot mode」实为 Claude Code 插件）。请按 LOOP 核实。README/docs 未动。

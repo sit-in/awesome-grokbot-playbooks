@@ -5017,3 +5017,33 @@ CCODING04/dsh-bot（开源平替）、VirusPC/ai-x-feeds（非玩法）、vibeai
 - nickvasilescu/grokbot-clone：自托管平替，README 该分类已较满。
 - 额度菜单栏 / 托盘一批（cursor-usage-bar、ai-usage-bar、huixin 等）：与已收同质。
 - 厂商薄插件、无许可证、交易 / 越狱、官方 App 补丁或逆向：按各轮 Skip 理由不收。
+
+## 2026-11-17 10:35 Asia/Shanghai · T7 日更雷达
+
+窗口自 11-16 10:40 起；下午雷达已收 feishu-grok-bot / hud / wallpaper 等，本轮只记其后与漏收。已对照 README 与此前各轮去重。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| sasa-mkwy/ask-grok-bots | https://github.com/sasa-mkwy/ask-grok-bots | MCP（Cloudflare Workers）让 Claude / Codex 等经 webhook 向你的 Grok Bot 舰队提问并取回答复；含最多 3 次重试、单次咨询 HMAC、测试与日文说明。非官方。MIT。本轮最值得看 | Bridges / MCP | GitHub 新建（2026-11-17 02:12 Asia/Shanghai） |
+| rsnobles/agent-policies | https://github.com/rsnobles/agent-policies | 一份 policy.yaml 渲染成 Grok Bot skill / Auto-review 规则、Cursor hooks 与 Grok Build AGENTS.md，`make check` 防输出漂移。MIT，带 SECURITY.md | 技能与玩法 / 安全策略 | GitHub 新建（2026-11-17 07:21 Asia/Shanghai） |
+| velvetchief/cafe-ops-manager | https://github.com/velvetchief/cafe-ops-manager | 咖啡店后台 Grok Bot 模板与技能：账单、日销、盘点与低库存提醒写入自己的 Google Drive；不代发员工邮件、不下供应商单，首版靠邮件收日报。MIT | 模板与目录 / 垂直场景 | GitHub 新建（2026-11-17 01:11 Asia/Shanghai） |
+| masonshare/bot-design-team | https://github.com/masonshare/bot-design-team | 三人设计小队（提示词 / Skill / Bot 架构）+ 可单独安装的 Agent Skills，含 OpenMausBot 导入与 Grok Bot 手工搭建指南。MIT，英/越文 | 多 Bot 团队 | GitHub 新建（2026-11-16 20:38 Asia/Shanghai） |
+| sswaner/grok-policies-preferences | https://github.com/sswaner/grok-policies-preferences | 专为 Grok Bot 的政策/偏好工具包：POLICY 只许主人改，PREFERENCE 须主人批准才生效；变更走 PR，机器人不推 main。MIT | 技能与玩法 / 安全策略 | GitHub 新建（2026-11-16 22:43 Asia/Shanghai） |
+| engmsaleh/joinbot-plugin | https://github.com/engmsaleh/joinbot-plugin | 把 agent 作为可点名发言的 AI 与会者送进 Zoom / Meet / Teams；Grok Bot 用 workspace connect key + Routine webhook 叫醒。MIT，非官方。与官方「入会」能力互补 | 垂直插件 / 会议 | GitHub 新建（2026-11-17 01:47 Asia/Shanghai） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| initdesk/initdesk-grokbot-plugin | https://github.com/initdesk/initdesk-grokbot-plugin | 官方 initdesk 客服插件：远程 MCP + OAuth（仓内无 key），含分拣/回复等 skills，并写明 Grok Bot 自定义连接器步骤。MIT。厂商托管，请核是否偏薄 | 垂直插件 / 客服 | GitHub 新建（2026-11-16 22:15 Asia/Shanghai） |
+| getplanagram-bit/planagram-plugin | https://github.com/getplanagram-bit/planagram-plugin | 官方 Planagram 社媒排期插件：托管 MCP + OAuth，默认为草稿，按要求才排期或发布。MIT。偏厂商薄插件 | 垂直插件 / 社媒 | GitHub 新建（2026-11-17 05:49 Asia/Shanghai） |
+| feiw3440-cell/grok-bot-day4-shop-manager | https://github.com/feiw3440-cell/grok-bot-day4-shop-manager | 「上手」系列第 4 篇：专职店长手册（入职模板、Shopify 连接边界、只读盘点、确认后改一件事）。步骤完整，**未声明许可证** | 学习资源 / 入门手册 | GitHub 新建（2026-11-17 07:27 Asia/Shanghai） |
+| feiw3440-cell/grok-bot-day5-group-collaboration | https://github.com/feiw3440-cell/grok-bot-day5-group-collaboration | 系列收官第 5 篇：把总管和店长放进同一群做一次只读协作，强调群不是提权、确认卡不进群。步骤完整，**未声明许可证** | 学习资源 / 入门手册 | GitHub 新建（2026-11-17 07:28 Asia/Shanghai） |
+| ssdavidai/alfred-skills | https://github.com/ssdavidai/alfred-skills | 可移植管家技能包（7 日上手、晨报、周计划等），仍保留原 Grok Bot 模板链接，但正文已转向 Claude / ChatGPT，并写明不模仿 Bot 的电脑/连接器/定时。MIT | 技能与玩法 / 模板 | GitHub 新建（2026-11-16 19:39 Asia/Shanghai） |
+| chalach49266/ck-agentic-framework | https://github.com/chalach49266/ck-agentic-framework | 本机 ck-run 调度框架，README 的「Grok Bot mode」实为 Claude Code 的 `/grokbot` 插件编排 claude/codex/cursor。体量较大，**未声明许可证**，请核是否官方产品玩法 | 编排 / 本机 | GitHub 新建（2026-11-16 22:48 Asia/Shanghai） |
+
+### Skip（本轮）
+
+phubet20/grokbot-trader（交易）、486vs101/grokbot-apk（安装包镜像）、TerrapinOverpass/grok-4-7-abliterated（越狱）、guilh00009/osbot 与 pyxl-dev/hermes-bots（开源平替）、AaronSGomez/29N_elecciones（Grok API + Telegram，非产品玩法）、roltean09-commits/grok-bot-linear（自测）、lkm-ovo/omi-grok-bot（无 README、无许可证）、grokbot-used/bot-skill（个人技能备份、无许可证）、personal-demo-repo/grokbot-commute-podcast（无说明）、thomasfinnell/x-algo-watch（个人 webhook 值班、仓很薄、无许可证）。skorten/grokbot-os 已在 README；iiGeek/agent-safety-rules 上午已作信号；NetrovertHQ/netrovert-agents 已在 inbox（本窗仅 X 长文交叉，不重开）。下午已 Skip 的 dsh-bot、ai-x-feeds、mkt-team、abogados 等不重列。
