@@ -5061,3 +5061,28 @@ phubet20/grokbot-trader（交易）、486vs101/grokbot-apk（安装包镜像）�
 ### Skip（本轮）
 
 今早 T7 已收或已 Skip 不重列。漏扫后不进候选：edogbeatz/grok-bots（个人整套 Bot 配置导出，不点名进公开候选）；duo121/dsh-session-hub（DSH 开源平替的会话插件）；kuletxcore/agents（用 Grok Bot 搭的独立控制面 PoC，无许可证，非产品配方）；tobias-klocker/grok-bot-ai-soc-frontend-testing（Grok Build/API 在 Docker 里跑 Playwright，非 Bot 产品）；godnhiggy/csa-array-apps（课堂练习）；Ibad-10/canary（黑客松里用 Grok API 的独立应用，非产品玩法）；2188037385-alt/NaiWa（Grok Bot 代写的桌面宠物，非配方）；zenstory-ai/novel-to-game 与 agnt-ai/simon-protocol（通用 skill/协议，非 Bot 专用，X 交叉不新开）；GAL1LEO-X/GAL1LEO-XX（作者称 Grok Bot 集成仍待测）；EugeneYip/grok-library-browser 等今日空仓。
+
+## 2026-11-17 16:37 Asia/Shanghai · 白天玩法雷达
+
+窗口自 10:37 起（含今日 GitHub 新建漏收）；已对照 README 与此前各轮。未改 README。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| Alex-Liu-airjelly/grok-codex-hud-bridge | https://github.com/Alex-Liu-airjelly/grok-codex-hud-bridge | macOS 上经 Agent HUD 原生消息，手动配对 Grok Bot 与 Codex 的桥。Apache-2.0。本轮最值得看 | 编排 / 本机 | GitHub 新建（2026-11-17 12:08 Asia/Shanghai） |
+| AndyJuang/ai-video-workshop-agent | https://github.com/AndyJuang/ai-video-workshop-agent | AI 影片制作五阶段协作流程与提示词，给 Claude Code/Codex/Grok Bot 用（繁中）。CC-BY-4.0 | 技能与玩法 / 工作流 | GitHub 新建（2026-11-17 12:51 Asia/Shanghai） |
+| jackdishman/x-agent-mesh | https://github.com/jackdishman/x-agent-mesh | A2A + MCP 协调 X 互关者的 agent（Grok Bot 插件，v0）。MIT，偏早期 | 垂直插件 / 协作 | GitHub 新建（2026-11-17 08:27 Asia/Shanghai） |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| Kelemek/paint-by-number-kit | https://github.com/Kelemek/paint-by-number-kit | 「数字油画」Grok Bot 模板的配套脚本。MIT | 技能与玩法 / 模板 | GitHub 新建 |
+| workstellarai/stellar-plugin | https://github.com/workstellarai/stellar-plugin | Workstellar 厂商插件（Cursor 与 Grok Bot）。MIT，偏薄 | 垂直插件 | GitHub 新建 |
+| Naz-Qazi/poppy-plugin | https://github.com/Naz-Qazi/poppy-plugin | 官方 Poppy AI 插件。ISC，偏薄 | 垂直插件 | GitHub 新建 |
+| ThePeeps191/super-cc-bot | https://github.com/ThePeeps191/super-cc-bot | 经 Claude Code 本地跑的类 Bot 平替。MIT，开源平替类 | 编排 / 本机 | GitHub 新建 |
+
+### Skip（本轮）
+
+az9713/victorian-tale-collection（内容作品）、lkm-ovo/omi-grok-bot 与 chuck-wu55/Grok-bot-test（已 Skip/空仓）；aierzs/OpenGrokBot 已在 README。

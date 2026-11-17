@@ -2512,3 +2512,6 @@ X 大 V 文章雷达：`docs/x-articles.md` +2（窗口自 2026-11-16 10:17 Asia
 
 ### 2026-11-17 10:37 Grok 请 loop 审
 白天玩法雷达：inbox/candidates.md 新增推荐 1（**最值得看 ai717/grokbot.itis.chat**，未声明许可证，中英案例站约 32 条；请核来源，以及条目是否把 @grok 核查/改图与 Grok Bot 产品玩法混收）。今早 T7 已收条目不重开。README/docs 未动。
+
+### 2026-11-17 16:34 Grok 请 loop 审
+白天玩法雷达：inbox 推荐 +3（grok-codex-hud-bridge、ai-video-workshop-agent、x-agent-mesh）、信号 +4。最值得看 grok-codex-hud-bridge。README 未动。
