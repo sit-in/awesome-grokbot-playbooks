@@ -78,6 +78,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [四个 Bot 一个群：公众号生产线岗位合同＋四份模板](https://x.com/xoyif63862452/status/2116693751473021412) — @xoyif63862452 · 2026-11-01 · X 长文：选题雷达/主笔/文字编辑/视觉排版四岗，每岗 description 写成「负责什么、什么算好、在哪停下」三段式，附可复制提示词；作者实测四岗跑通，排版那环改成让 bot 写程序按固定版式出图；强调共享云电脑不是安全边界、发布与付钱留人手、账单无上限；约 8.1k 粉 · 中文
 - [Grok Bot 怎么用才顺手：拆解 poteto 使用指南，先让 bot 读帖再改一件事](https://x.com/0xlangeai/status/2117197419779866647) — @0xlangeai · 2026-11-02 · X 长文：给出一段可直接复制的提示词，让 bot 读 poteto 主帖和补充帖后挑一件事先改；再拆 Dr Eggbot 设计岗位、一个职责、不做什么、复述加小样检查、把纠正写成 skill，附实操截图；约 1.2 万粉 · 中文
 - [九岗 Bot 怎么排：总入口拆活，不用群聊互相传话](https://x.com/xiaomovps/status/2118154686637474093) — @xiaomovps · 2026-11-05 · 长帖：小墨助手/Agent 安装/邮件/调研/X/SubStack/知识库/GitHub/图片视频九岗各管一摊，发帖与合并代码留人手确认；作者实测群聊互传又烧额度又跑偏，改成主入口分派；约 1.8 万粉、约 27 赞 / 22 收藏 · 中文
+- [用 Grok Bot + Codex 搭建多 Agent 团队：从架构设计到落地的完整教程](https://x.com/zhu185178/status/2120171874676347035) — @zhu185178 · 2026-11-10 · X 长文：用幕僚长调度 Writer/Editor/Researcher 等角色，任务记在 GitHub Ticket 上，Codex 在本机 Mac 后台执行、Webhook 回调验收；从零九步（独立用户、安装 Codex、GitHub、桌面端开本地执行、建幕僚长和第一个团队、配回调、跑通第一张单、再加定时与扩团队），对外发布走审批卡。约 1.7k 粉、约 236 赞 / 578 收藏 · 中文
 
 
 ## 中文 · Routine 雷达与额度
@@ -226,6 +227,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [You're Using Grok Bot at 30%. Here's How the SpaceXAI ran it for 100% (full guide)](https://x.com/Raytar/status/2116477644665450811) — @Raytar · 2026-10-31 · X 长文：五个习惯，每个附可粘贴提示词：一个 bot 先写清一份职责（用语音备忘录生成职责卡并先干跑），在 Auto-review 自定义规则里写好哪些动作必须先问你，routine 加「没新东西就回 NOOP」的结尾省额度并每周盘点所有 routine，录一遍操作存成 skill，再让 Ops bot 每天收集各 bot 卡点并把错误写成规则；文中官方团队细节为作者转述；约 1.5 万粉 · 英文
 - [Steal These 7 Grok Bot Superpowers](https://x.com/teedubya/status/2116517016278605889) — @teedubya · 2026-10-31 · X 长文：爆款帖早期提醒、深度调研、事实核查、邮件诈骗过滤、YouTube/LinkedIn 增长、视频下载 7 个模板，个人信息已剥离，每个附安装链接，装上回答几个设置问题就能用，并说明哪两个适合给家里长辈；约 17 万粉 · 英文
 - [Grok Bot Agents: Build 24/7 AI Agent Graph That Automate Your Life (5-Step Guide)](https://x.com/0xCodila/status/2090130749768786050) — @0xCodila · 2026-08-19 · X 长文：五步把多个常驻 bot 连成一张分工图，讲清各自职责和交接；文首导流作者的 Substack；约 3.3 万粉、2000+ 收藏 · 英文
+- [How to Clone Yourself With Grok Bot](https://x.com/liam_fallen/status/2122362101926662255) — @liam_fallen · 2026-11-17 · X 长文：新建以自己命名的 Clone Bot，在共享云电脑建 My Clone 文件夹（About Me、How I Work、My Decisions 等），用可复制提示词访谈工作方式、喂已完成的真实作品，再拿未告知答案的决策题测试；每周五复盘，未经批准不代发、不采购、不对他人冒充本人。约 9.5k 粉、约 65 赞 / 124 收藏 · 英文
 
 ### 多 Agent 作战室
 

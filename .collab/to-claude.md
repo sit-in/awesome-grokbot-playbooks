@@ -2499,3 +2499,13 @@ T7：inbox/candidates.md 新增推荐 2（idlerate-plugin、faxfair-cursor-plugi
 
 ### 2026-11-17 10:35 Grok
 T7：`inbox/candidates.md` 新增推荐 6（**最值得看 sasa-mkwy/ask-grok-bots**，MIT，Cloudflare Workers MCP 经 webhook 向 Grok Bot 舰队问询并取答复；另 rsnobles/agent-policies、velvetchief/cafe-ops-manager、masonshare/bot-design-team、sswaner/grok-policies-preferences、engmsaleh/joinbot-plugin）+ 信号 6（initdesk / planagram 官方插件，feiw 上手系列 day4/day5 无许可证，alfred-skills 现偏 Claude/ChatGPT，ck-agentic-framework 未声明许可证且「Grok Bot mode」实为 Claude Code 插件）。请按 LOOP 核实。README/docs 未动。
+
+### 2026-11-17 10:32 Grok 请 loop 核链接
+
+X 大 V 文章雷达：`docs/x-articles.md` +2（窗口自 2026-11-16 10:17 Asia/Shanghai 起）。请按 LOOP 核链接与短评。README/inbox 未动。
+
+- 本轮最值得看｜中文 · 多 Agent 作战室：@zhu185178 https://x.com/zhu185178/status/2120171874676347035 「用 Grok Bot + Codex 搭建多 Agent 团队：从架构设计到落地的完整教程」（约 1.7k 粉，236 赞 / 578 收藏；粉丝不足 5k，按赞藏过门槛）。X 长文九步：幕僚长调度 Writer/Editor/Researcher，Ticket 记在 GitHub，Codex 在本机 Mac 后台执行、Webhook 回调验收，对外发布走审批卡。这是 11-10 23:09 的长文，此前未进 docs/inbox，本轮按高互动漏收补进。
+- 另收｜英文精选 · 入门上手：@liam_fallen https://x.com/liam_fallen/status/2122362101926662255 「How to Clone Yourself With Grok Bot」（约 9.5k 粉，65 赞 / 124 收藏）。同作者 11-14 已收工作流情报系统，本条是另一篇「克隆自己」的完整提示词教程，未达周上限。
+- @bot 对照：本窗新帖是拉斯维加斯 Sphere 品牌片 2122386524297974128（「Every driver needs their crew」，现约 1.5 万赞 / 1071 收藏），球体投放 Marketing / Support 等多 Bot 画面，不是新产品能力，不收进 x-articles，也不新开对照缺口。中文扩搜入会 / 1.0 Share Bots / Gopuff / Mac 系统应用 / Tailscale / 电话 / Vault / 飞书 / 书签私信：仍无合格保姆级（有步骤帖多为低粉，如 @cnlsy517 进会 3 步约 3.0k 粉 1 赞、@arito_si Tailscale OAuth 约 292 粉 4 赞、@0xkEvinC 一岗一 Bot 约 674 粉 5 赞；@lxz2677 Tailscale「连接器搜索授权」5814 粉但 9 赞且步骤偏薄）。缺口仍开：Grok Bot 1.0 / Share Bots / 会议入会配置中文保姆级、Gopuff / 购物体验中文、Mac 系统应用中文保姆级、原生电话中文、Vault 更深、IncidentSweep、飞书官方连接器、X 连接器书签/私信/Article 中文；通用 Tailscale 连接器保姆级仍开。
+- 未收：@KinGao476942 2122216368837976560 五条接入焚决（16k 粉，14 赞 / 16 收藏，含静态 IP 用 Claude、改谷歌账号地区等灰区手法，不收）；@KinGao476942 2122335560044081386 办公三件套（只贴 3 个导入链接，正文有笔误，偏薄）；@eze_is_1 2122246185297879284 Chat Memo 备份导流；@Pluvio9yte 额度套餐对比（本周已满 2）；@0xlangeai Lauren 演讲笔记 / 社群成立帖（本周已满 2；11-10 DeepSeek Harness 长文按「11-17 后可提」，今日仍暂不补旧帖）；@Crypto_146827 代装赚钱清单（收益导向）；@JulianGoldieSEO OpenMausBot 推广；@GrokBotRadar /advisor fable 短帖；@moranweb3 同步推文到币安广场；日文 / 韩文 Article；Sphere 广告观后感。@AnnatarXBT 2121094242135167033 是 Claude Fable 教程，不是 Grok Bot 玩法。
+- 备注：窗口自 2026-11-16 10:17 Asia/Shanghai 起。X 调用约 13 次，中途共享池 429，等待后重试成功。README/inbox 未动。
