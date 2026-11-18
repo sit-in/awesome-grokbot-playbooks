@@ -2525,3 +2525,6 @@ X 大 V 文章雷达：`docs/x-articles.md` +2（窗口自 2026-11-17 10:00 Asia
 - @bot 对照：本窗新帖 2122771386456551516「Five Bots now have full-time roles on our accounting team」（约 5.8k 赞 / 6.2k 收藏，11-17 19:18 UTC / 11-18 03:18 Asia/Shanghai），是官方 order-to-cash 会计团队用例文章，非新开关能力；中文扩搜（会计/财务/回款/对账）只有低粉转述，无合格对照。入会 / Mac 系统应用 / 1.0 Share Bots 等仍缺合格中文对照。社区预发布 1.2.0（短信联系 Bot、连接器 SSO）未正式公告，暂不跟。
 - 未收：@0xMorlex 2122703423854281141「Grok Bot Inc: build your agent harness in 10 steps」（约 4.7k 粉，45 赞 / 37 收藏，略低于线，下轮可复看）；@MaiYangAI 2122554956297412624 直播 bot 数量点评（短评论，非教程）；@xiaomovps 2122512952310054991 注册账号盘点（灰区）；@fankaishuoai 2122587000385778100 转向 Hermes 观点帖；@AleiahLock GTA 6 赚钱帖（收益导向）。
 - 备注：X 调用约 10 次。
+
+### 2026-11-18 10:37 Grok 请 loop 审
+T7 日更雷达：inbox 推荐 +3（grok-content-pipeline、open-agent-team、grok-bot-shangshou）、信号 +5。最值得看 grok-content-pipeline。README 未动。

@@ -5086,3 +5086,28 @@ phubet20/grokbot-trader（交易）、486vs101/grokbot-apk（安装包镜像）�
 ### Skip（本轮）
 
 az9713/victorian-tale-collection（内容作品）、lkm-ovo/omi-grok-bot 与 chuck-wu55/Grok-bot-test（已 Skip/空仓）；aierzs/OpenGrokBot 已在 README。
+
+## 2026-11-18 10:37 Asia/Shanghai · T7 日更雷达
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| thescottking/grok-content-pipeline | https://github.com/thescottking/grok-content-pipeline | 即插即用内容流水线：8 个 Bot 把调研或选题变成核查过的可发布稿 | 技能与玩法 / 内容 | GitHub 新建 |
+| TherealsmallsAi/open-agent-team | https://github.com/TherealsmallsAi/open-agent-team | 开源 Agent 团队套件（Chief 等角色分工），受 pstack 方法启发 | 作战室 / 团队模板 | GitHub 新建 |
+| feiw3440-cell/grok-bot-shangshou | https://github.com/feiw3440-cell/grok-bot-shangshou | Grok Bot 上手 1–5 天操作手册（入职、晨报、回信排会、店长、群组协作），中文；未声明许可证 | 教程 / 入门 | GitHub 新建 |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| FizzEat/xinspire | https://github.com/FizzEat/xinspire | 创作者灵感流程：收集、去重、起草 | 技能与玩法 / 内容 | GitHub 新建 |
+| Rexios80/postern | https://github.com/Rexios80/postern | Cloud Run 自托管 MCP，让 Bot 读发邮件 | 垂直插件 | GitHub 新建 |
+| junlee30/grokbot-deskpet | https://github.com/junlee30/grokbot-deskpet | 每个 Bot 一只桌面像素宠物，Apache-2.0，非官方 | 垂直插件 / 趣味 | GitHub 新建 |
+| RogFrank/javis-skill | https://github.com/RogFrank/javis-skill | 贾维斯个人助理：Bot + 苹果提醒/日历 | 技能与玩法 | GitHub 新建 |
+| noobhackerTOT/grok-bot-local-exec | https://github.com/noobhackerTOT/grok-bot-local-exec | 本地执行相关，MIT，待看内容 | 编排 / 本机 | GitHub 新建 |
+
+### Skip（本轮）
+
+GrokBotDemo、GrokBotDevTeam、grok-links、grok-bot-clone、grok-bot-sim 等空仓/测试仓；beat-news、gorseford-trail-notice（非玩法）；yuzhi-robot/grok-bot、zero-phoenix/agent-bot-opensource、zhukunpenglinyutong/superbot（独立聊天机器人/平替）。
+
