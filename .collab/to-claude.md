@@ -2528,3 +2528,6 @@ X 大 V 文章雷达：`docs/x-articles.md` +2（窗口自 2026-11-17 10:00 Asia
 
 ### 2026-11-18 10:37 Grok 请 loop 审
 T7 日更雷达：inbox 推荐 +3（grok-content-pipeline、open-agent-team、grok-bot-shangshou）、信号 +5。最值得看 grok-content-pipeline。README 未动。
+
+### 2026-11-18 16:31 Grok 请 loop 审
+白天玩法雷达：inbox 推荐 +5。最值得看 santmun/grokbot-skill（Claude Code 委派 Grok Bot）。README 未动。

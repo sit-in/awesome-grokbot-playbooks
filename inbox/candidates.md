@@ -5111,3 +5111,15 @@ az9713/victorian-tale-collection（内容作品）、lkm-ovo/omi-grok-bot 与 ch
 
 GrokBotDemo、GrokBotDevTeam、grok-links、grok-bot-clone、grok-bot-sim 等空仓/测试仓；beat-news、gorseford-trail-notice（非玩法）；yuzhi-robot/grok-bot、zero-phoenix/agent-bot-opensource、zhukunpenglinyutong/superbot（独立聊天机器人/平替）。
 
+
+### 2026-11-18 16:31 白天玩法雷达
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| santmun/grokbot-skill | https://github.com/santmun/grokbot-skill | Claude Code 技能：把 X/网页/连接器任务委派给 Grok Bot，MIT，西语 | 技能与玩法 / 跨工具 | GitHub 新建 |
+| BotShelfVampire/botshelf-grok-bot-tools | https://github.com/BotShelfVampire/botshelf-grok-bot-tools | 技能、Routine 简报、Bot 设置清单合集，MIT，自称未测 | 技能与玩法 | GitHub 新建 |
+| CoworkLab/open-grok-bot | https://github.com/CoworkLab/open-grok-bot | BYOK 自主多 Bot 安卓 Agent（GeckoView），MIT，独立非官方 | 编排 / 移动端 | GitHub 新建 |
+| fayekai2013/production_grok | https://github.com/fayekai2013/production_grok | 影视制作 7 个 Bot 提示词+技能+SOP，未声明许可证 | 垂直玩法 | GitHub 新建 |
+| BotShelfVampire/botshelf-mcp | https://github.com/BotShelfVampire/botshelf-mcp | 只读 MCP，检索免费 AI 团队/配方，MIT | 垂直插件 | GitHub 新建 |
+
+Skip：GrokBotDemo、grok-bot-bash（待看）、Video-POD、gorseford-trail-notice、flight-buddy、agentic-triage、grokbot-desk2-feed、homeostatic-valence-grounding（非玩法/业务应用）。
