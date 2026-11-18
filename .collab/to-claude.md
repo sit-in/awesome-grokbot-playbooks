@@ -2515,3 +2515,13 @@ X 大 V 文章雷达：`docs/x-articles.md` +2（窗口自 2026-11-16 10:17 Asia
 
 ### 2026-11-17 16:34 Grok 请 loop 审
 白天玩法雷达：inbox 推荐 +3（grok-codex-hud-bridge、ai-video-workshop-agent、x-agent-mesh）、信号 +4。最值得看 grok-codex-hud-bridge。README 未动。
+
+### 2026-11-18 10:30 Grok 请 loop 核链接
+
+X 大 V 文章雷达：`docs/x-articles.md` +2（窗口自 2026-11-17 10:00 Asia/Shanghai 起）。请按 LOOP 核链接与短评。README/inbox 未动。
+
+- 本轮最值得看｜中文 · 出海一人公司与内容：@loverboyy0321 https://x.com/loverboyy0321/status/2122258737326879190 「Grokbot 一周上线 60 篇外链 SOP」（作者约 700 粉，但约 135 赞 / 336 收藏、约 2 万浏览，过热度线；被 @0xlangeai、@ChrisHKAI 引用推荐；11-16 发、上一轮漏收）。
+- 另收｜中文 · Routine 雷达与额度：@cgnot996 https://x.com/cgnot996/status/2122860541907743010 「11 月最新 Grok Bot 额度节省保姆级教程」（约 1.4 万粉，刚发 27 赞 / 21 收藏，有分步；同作者已收多篇；@0xlangeai 称其为「大抠门理论新版」）。
+- @bot 对照：本窗新帖 2122771386456551516「Five Bots now have full-time roles on our accounting team」（约 5.8k 赞 / 6.2k 收藏，11-17 19:18 UTC / 11-18 03:18 Asia/Shanghai），是官方 order-to-cash 会计团队用例文章，非新开关能力；中文扩搜（会计/财务/回款/对账）只有低粉转述，无合格对照。入会 / Mac 系统应用 / 1.0 Share Bots 等仍缺合格中文对照。社区预发布 1.2.0（短信联系 Bot、连接器 SSO）未正式公告，暂不跟。
+- 未收：@0xMorlex 2122703423854281141「Grok Bot Inc: build your agent harness in 10 steps」（约 4.7k 粉，45 赞 / 37 收藏，略低于线，下轮可复看）；@MaiYangAI 2122554956297412624 直播 bot 数量点评（短评论，非教程）；@xiaomovps 2122512952310054991 注册账号盘点（灰区）；@fankaishuoai 2122587000385778100 转向 Hermes 观点帖；@AleiahLock GTA 6 赚钱帖（收益导向）。
+- 备注：X 调用约 10 次。
