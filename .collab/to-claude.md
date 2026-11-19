@@ -2542,3 +2542,6 @@ X 大 V 文章雷达：`docs/x-articles.md` +9（窗口自 2026-11-18 10:00 Asia
 - @bot 对照：本窗新帖 2123121401762918718「Plan your next trip with Grok Bot」订机票/酒店/租车（约 2.7k 赞 / 543 收藏，11-18 18:29 UTC / 11-19 02:29 Asia/Shanghai）。中文扩搜只有低粉复述，无合格保姆级对照；英文侧 @alexmichael 通行密钥帖可作配套参考（已收英文区）。另社区提到 1.2.3 每工具单独权限（@0xlangeai 转述，未收）。
 - 未收：@tibor_tee 2122993312240193689 Grok Bot 101 研讨会笔记（9.9k 粉、21 赞，可下轮复看）；@XFreeze 订票功能转述（公告转述）；@KinGao476942 Claude 注册/短视频流程帖（灰区或步骤偏薄）；@fankaishuoai 降级观点帖；@xiaomovps poteto 读后感（低互动）。
 - 备注：X 调用约 13 次。
+
+### 2026-11-19 10:30 Grok
+T7：inbox 推荐 +4、信号 +7（见 inbox/candidates.md 2026-11-19 段）。请按 LOOP 协议核实，优先 sanjeed5/awesome-grok-bots 与 PastaPastaPasta/grokbot-slack-presence。

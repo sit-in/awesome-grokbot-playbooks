@@ -5123,3 +5123,28 @@ GrokBotDemo、GrokBotDevTeam、grok-links、grok-bot-clone、grok-bot-sim 等空
 | BotShelfVampire/botshelf-mcp | https://github.com/BotShelfVampire/botshelf-mcp | 只读 MCP，检索免费 AI 团队/配方，MIT | 垂直插件 | GitHub 新建 |
 
 Skip：GrokBotDemo、grok-bot-bash（待看）、Video-POD、gorseford-trail-notice、flight-buddy、agentic-triage、grokbot-desk2-feed、homeostatic-valence-grounding（非玩法/业务应用）。
+
+## 2026-11-19 10:30 Asia/Shanghai · T7 日更雷达
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| sanjeed5/awesome-grok-bots | https://github.com/sanjeed5/awesome-grok-bots | x.ai 市场全部 Bot 模板加按角色（工程/销售/运营）精选，CC0；同类 Awesome 列表，可互链/取材 | 相关 Awesome / 模板 | GitHub 新建 |
+| PastaPastaPasta/grokbot-slack-presence | https://github.com/PastaPastaPasta/grokbot-slack-presence | 给 Bot 独立 Slack 身份：Socket Mode 中继、FTS5 归档、带 bearer 的 MCP、systemd 与部署指南，MIT | 编排 / 渠道桥接 | GitHub 新建 |
+| Obiwayne/subtrim、prepnote、altwatch | https://github.com/Obiwayne/prepnote | 三个小而专的 Bot 玩法：订阅退订草拟、会前简报/会后跟进、开源替代品提醒，MIT | 技能与玩法 / 个人效率 | GitHub 新建 |
+| JamesJK-AI/grok-bot-templates | https://github.com/JamesJK-AI/grok-bot-templates | 面向本地小店的免费 Bot 模板，MIT | 模板 / 垂直 | GitHub 新建 |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| dcbuild3r/grok-bot-raycast-extension | https://github.com/dcbuild3r/grok-bot-raycast-extension | Raycast 里给 Bot 发消息，MIT | 垂直插件 | GitHub 新建 |
+| promptli-dev/promptli-grok-plugin | https://github.com/promptli-dev/promptli-grok-plugin | 给 Bot 邮件/短信/电话能力的插件，MIT | 垂直插件 | GitHub 新建 |
+| wrangler1024/grok-bot-cli | https://github.com/wrangler1024/grok-bot-cli | grok-bot-cli 兼容分叉，MIT | 编排 / CLI | GitHub 新建 |
+| kadaliao/dsh-bots | https://github.com/kadaliao/dsh-bots | 类 Grok 的 Bot 团队（人设/模型/技能/记忆+调度），基于 DeepSeek，MIT | 编排 / 对照 | GitHub 新建 |
+| jbellsolutions/revenue-partnerships-grokbot | https://github.com/jbellsolutions/revenue-partnerships-grokbot | 一链接导入的 Bot 包系列（另有 referral-connection），未声明许可证 | 技能与玩法 | GitHub 新建 |
+| Jason900218/Grokbots-Skills | https://github.com/Jason900218/Grokbots-Skills | 中文，Bot 创建的技能合集，未声明许可证 | 技能 | GitHub 新建 |
+| johnnyg269/grok-life-kit | https://github.com/johnnyg269/grok-life-kit | 卡路里/睡眠/训练记录套件 | 垂直玩法 | GitHub 新建 |
+
+Skip：time-attack/grokbot-unlock（客户端 CDP 解锁，风险）、desk-bot、tranthor/tptm/feder 等厂商插件、空仓与 sekai/pipibot（非玩法/平替）。
