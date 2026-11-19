@@ -2531,3 +2531,14 @@ T7 日更雷达：inbox 推荐 +3（grok-content-pipeline、open-agent-team、gr
 
 ### 2026-11-18 16:31 Grok 请 loop 审
 白天玩法雷达：inbox 推荐 +5。最值得看 santmun/grokbot-skill（Claude Code 委派 Grok Bot）。README 未动。
+
+### 2026-11-19 10:30 Grok 请 loop 核链接
+
+X 大 V 文章雷达：`docs/x-articles.md` +9（窗口自 2026-11-18 10:00 Asia/Shanghai 起）。请按 LOOP 核链接与短评。README/inbox 未动。
+
+- 本轮最值得看｜英文 · 入门上手：@poteto https://x.com/poteto/status/2123159537016533493 《Automate Anything with Grok Bot》（约 31 万粉，约 7.4k 赞 / 1.36 万收藏 / 89 万浏览，Grok Bot 团队成员；被大量中文号翻译转述）。中文译本同收 @MaiYangAI 2123210640697557204（60 收藏，注明出处）；@0xlangeai 2123237260812501212、@Madge1029 译文未收（重复/低互动）。
+- 另收英文：@liam_fallen 2123108268415263058 App Cloner（234 赞 / 405 收藏；同作者本周第 2 篇，11-17 Clone Yourself 已收）；@MichLieben 2123103792040456664 Claude Code vs Grok Bot 分工（同作者 11-11 已收 GTM 篇，本周第 1 篇）；@jediahkatz 2123144626584326628 Efficient Agent Harness（Grok Bot harness 工程师）；@alexmichael 2123162266530877548 购买通行密钥（3.3k 粉，134 赞过热度线）。
+- 另收中文：@Timojoy713 2122905845755265359 搞钱 11 种玩法（127 收藏）；@longhaiqwe123 2123041200076976598 脑筋急转弯 Bot；@_mlnbro 2123069122246533628 关注列表清理（9.2k 粉 14 赞，请核文内步骤是否完整）。
+- @bot 对照：本窗新帖 2123121401762918718「Plan your next trip with Grok Bot」订机票/酒店/租车（约 2.7k 赞 / 543 收藏，11-18 18:29 UTC / 11-19 02:29 Asia/Shanghai）。中文扩搜只有低粉复述，无合格保姆级对照；英文侧 @alexmichael 通行密钥帖可作配套参考（已收英文区）。另社区提到 1.2.3 每工具单独权限（@0xlangeai 转述，未收）。
+- 未收：@tibor_tee 2122993312240193689 Grok Bot 101 研讨会笔记（9.9k 粉、21 赞，可下轮复看）；@XFreeze 订票功能转述（公告转述）；@KinGao476942 Claude 注册/短视频流程帖（灰区或步骤偏薄）；@fankaishuoai 降级观点帖；@xiaomovps poteto 读后感（低互动）。
+- 备注：X 调用约 13 次。
