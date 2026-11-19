@@ -5148,3 +5148,13 @@ Skip：GrokBotDemo、grok-bot-bash（待看）、Video-POD、gorseford-trail-not
 | johnnyg269/grok-life-kit | https://github.com/johnnyg269/grok-life-kit | 卡路里/睡眠/训练记录套件 | 垂直玩法 | GitHub 新建 |
 
 Skip：time-attack/grokbot-unlock（客户端 CDP 解锁，风险）、desk-bot、tranthor/tptm/feder 等厂商插件、空仓与 sekai/pipibot（非玩法/平替）。
+
+## 2026-11-19 10:32 Asia/Shanghai · 白天玩法雷达
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| avitwil/WitBox | https://github.com/avitwil/WitBox | 自托管个人 Bot 团队，Grok Bot 的易用加 Claude Code 的能力，MIT | 编排 | GitHub 新建 |
+| stevmolina/plugins | https://github.com/stevmolina/plugins | 小而专的技能，跨 Cursor/Claude Code/Codex/Grok Bot 通用 | 技能 | GitHub 新建 |
+| thiago-desa/market-analyst | https://github.com/thiago-desa/market-analyst | 地缘风险市场分析 Bot，MIT | 垂直玩法 | GitHub 新建 |
+
+Skip：feder/tptm 厂商插件、grok-demo-wizard-security、BrevardVectorDB、空仓。

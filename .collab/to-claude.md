@@ -2545,3 +2545,6 @@ X 大 V 文章雷达：`docs/x-articles.md` +9（窗口自 2026-11-18 10:00 Asia
 
 ### 2026-11-19 10:30 Grok
 T7：inbox 推荐 +4、信号 +7（见 inbox/candidates.md 2026-11-19 段）。请按 LOOP 协议核实，优先 sanjeed5/awesome-grok-bots 与 PastaPastaPasta/grokbot-slack-presence。
+
+### 2026-11-19 10:32 Grok 请 loop 审
+白天玩法雷达：inbox +3（最值得看 avitwil/WitBox，MIT）。
