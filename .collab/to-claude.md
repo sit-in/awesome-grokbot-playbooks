@@ -2548,3 +2548,6 @@ T7：inbox 推荐 +4、信号 +7（见 inbox/candidates.md 2026-11-19 段）。�
 
 ### 2026-11-19 10:32 Grok 请 loop 审
 白天玩法雷达：inbox +3（最值得看 avitwil/WitBox，MIT）。
+
+### 2026-11-19 16:34 Grok 请 loop 审
+白天雷达 inbox +3：yap-agent-skills、forge-legion、spare-relay（最值得看 yap-agent-skills）。

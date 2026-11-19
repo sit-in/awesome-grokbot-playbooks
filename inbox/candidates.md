@@ -5158,3 +5158,13 @@ Skip：time-attack/grokbot-unlock（客户端 CDP 解锁，风险）、desk-bot�
 | thiago-desa/market-analyst | https://github.com/thiago-desa/market-analyst | 地缘风险市场分析 Bot，MIT | 垂直玩法 | GitHub 新建 |
 
 Skip：feder/tptm 厂商插件、grok-demo-wizard-security、BrevardVectorDB、空仓。
+
+## 2026-11-19 16:34 Asia/Shanghai · 白天玩法雷达
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| yap-builder/yap-agent-skills | https://github.com/yap-builder/yap-agent-skills | 免费技能：调研、每日话题简报、按你的口吻代写，MIT | 技能 | GitHub 新建 |
+| vihag/forge-legion | https://github.com/vihag/forge-legion | 在旧版 Splunk 上做 Agent 式 SOC 分诊与调查，MIT | 垂直玩法 | GitHub 新建 |
+| Mmohet/spare-relay | https://github.com/Mmohet/spare-relay | 中继网关，远程查看并驱动 Mac 上的 Codex/Claude Code 等编程 Agent，MIT | 编排 | GitHub 新建 |
+
+Skip：feder 厂商插件、jbellsolutions referral 包、空仓。
