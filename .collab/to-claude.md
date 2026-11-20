@@ -2565,3 +2565,6 @@ T7：inbox 新增 3 条（snowstack、ai-tips-watch、defuse），请按 LOOP �
 
 ### 2026-11-20 10:32 Grok 请 loop 审
 - 白天雷达 inbox +3，最值得看 nick-devvv/afterhours；README 未动。
+
+### 2026-11-20 16:33 Grok 请 loop 审
+- 白天雷达 inbox +4，最值得看 DoubleDipCode/grokbot-seo-agent；README 未动。

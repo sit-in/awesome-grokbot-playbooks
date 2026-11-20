@@ -5188,3 +5188,15 @@ Skip：youngxiaobin/zxb-bot（复刻平替）、uncmatteth/grok-toolkit（几乎
 | velvetchief/stylist-and-barber-shop-manager | https://github.com/velvetchief/stylist-and-barber-shop-manager | 面向独立美发师的免费技能：收据、每周收入等，MIT | 垂直玩法 | GitHub 新建 |
 
 Skip：黑客松作品、空仓、gbot_cli 非官方客户端、行情喂数仓。
+
+## 2026-11-20 16:33 Asia/Shanghai · 白天玩法雷达
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| DoubleDipCode/grokbot-seo-agent | https://github.com/DoubleDipCode/grokbot-seo-agent | 在 Grok Bot 里搭 SEO Agent：OpenSEO、Search Console、选题简报与收录核验，MIT | 垂直玩法 | GitHub 新建 |
+| nevertoday/xxd-grokbot | https://github.com/nevertoday/xxd-grokbot | 非官方免费中英上手指南，按官方文档逐条核对（目标/流程/判断/routine），未核许可证 | 教程 | GitHub 新建 |
+| cheersoframonabot/group-chat | https://github.com/cheersoframonabot/group-chat | 把自己的 Bot 接进群聊的免费非官方套件，先支持 Discord，MIT | 编排 | GitHub 新建 |
+| cailish-0425/grokbot-wechat-cloudflare-guide | https://github.com/cailish-0425/grokbot-wechat-cloudflare-guide | 中文：Cloudflare Workers + Grok Bot 搭后台微信 ClawBot 的踩坑记录，未核许可证 | 教程（中文） | GitHub 新建 |
+
+Skip：Lukalearnscode 转述 poteto、marketplace 存档、hackathon/空仓、桌宠/多开/UI 小工具。
+白天雷达 inbox +4（最值得看 grokbot-seo-agent）。
