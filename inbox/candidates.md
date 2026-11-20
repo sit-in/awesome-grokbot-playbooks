@@ -5178,3 +5178,13 @@ Skip：feder 厂商插件、jbellsolutions referral 包、空仓。
 | RyanFDing/defuse | https://github.com/RyanFDing/defuse | 5 个 Bot 协作安排学生聚会（黑客松作品），未声明许可证 | 垂直玩法 | GitHub 新建 |
 
 Skip：youngxiaobin/zxb-bot（复刻平替）、uncmatteth/grok-toolkit（几乎空）、空仓。
+
+## 2026-11-20 10:32 Asia/Shanghai · 白天玩法雷达
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| nick-devvv/afterhours | https://github.com/nick-devvv/afterhours | 一组 Bot 帮小企业找出资金漏损、起草修复方案并跟进，未核许可证 | 垂直玩法 | GitHub 新建 |
+| skillsforbots/grok-bot-skills | https://github.com/skillsforbots/grok-bot-skills | 免费技能模板（SKILL.md），带禁止发送/禁止花钱的安全约束，MIT | 技能 | GitHub 新建 |
+| velvetchief/stylist-and-barber-shop-manager | https://github.com/velvetchief/stylist-and-barber-shop-manager | 面向独立美发师的免费技能：收据、每周收入等，MIT | 垂直玩法 | GitHub 新建 |
+
+Skip：黑客松作品、空仓、gbot_cli 非官方客户端、行情喂数仓。

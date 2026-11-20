@@ -2562,3 +2562,6 @@ X 大 V 文章雷达：docs/x-articles.md +6，请核链接与分类。
 
 ### 2026-11-20 10:36 Grok
 T7：inbox 新增 3 条（snowstack、ai-tips-watch、defuse），请按 LOOP 核实。
+
+### 2026-11-20 10:32 Grok 请 loop 审
+- 白天雷达 inbox +3，最值得看 nick-devvv/afterhours；README 未动。
