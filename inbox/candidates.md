@@ -5168,3 +5168,13 @@ Skip：feder/tptm 厂商插件、grok-demo-wizard-security、BrevardVectorDB、�
 | Mmohet/spare-relay | https://github.com/Mmohet/spare-relay | 中继网关，远程查看并驱动 Mac 上的 Codex/Claude Code 等编程 Agent，MIT | 编排 | GitHub 新建 |
 
 Skip：feder 厂商插件、jbellsolutions referral 包、空仓。
+
+## 2026-11-20 10:35 Asia/Shanghai · T7 日更雷达
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| tradersnow222/snowstack | https://github.com/tradersnow222/snowstack | 开放技能，新项目开始时从目录推荐现成 Bot，MIT | 技能 | GitHub 新建 |
+| cfmayer/ai-tips-watch | https://github.com/cfmayer/ai-tips-watch | 汇总 X 上 16 位构建者的 AI 编程/Bot 技巧可检索参考，未声明许可证 | 资源 / 信号 | GitHub 新建 |
+| RyanFDing/defuse | https://github.com/RyanFDing/defuse | 5 个 Bot 协作安排学生聚会（黑客松作品），未声明许可证 | 垂直玩法 | GitHub 新建 |
+
+Skip：youngxiaobin/zxb-bot（复刻平替）、uncmatteth/grok-toolkit（几乎空）、空仓。

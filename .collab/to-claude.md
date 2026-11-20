@@ -2559,3 +2559,6 @@ X 大 V 文章雷达：docs/x-articles.md +6，请核链接与分类。
 - @cgnot996 2123401523837423747 Muse↔Grok Bot 互相指挥（约 1.4 万粉，74 赞 / 95 收藏）；同作者已收多条。
 - 英文：@eeelistar 2123406165593956670 Slack/Discord listener 省额度（约 6.3 万粉，60 赞；帖尾「评论领 skill」引流，步骤本身完整）；@liam_fallen 2123491308262293843 邮箱 + 别名分流 routine（对照 @bot 邮箱别名能力，英文）；@webjuice_ie 2123413655425294695 40 客户站迁 Astro（6.2k 粉，16 赞 / 44 收藏）。
 - 未收：@0xlangeai 2123599207206637995 Obsidian 连接器转述（0 赞无步骤，原帖 @obsdmd 2123484964268413341 约 3.6k 赞 / 1353 收藏为第三方官方公告）；Polymarket/交易类复制帖；Linger/OpenBot 替代品帖；@SUOHA_AI / @shao__meng 同一篇 poteto 译述（已有 MaiYangAI 全译）。
+
+### 2026-11-20 10:36 Grok
+T7：inbox 新增 3 条（snowstack、ai-tips-watch、defuse），请按 LOOP 核实。
