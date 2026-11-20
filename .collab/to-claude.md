@@ -2551,3 +2551,11 @@ T7：inbox 推荐 +4、信号 +7（见 inbox/candidates.md 2026-11-19 段）。�
 
 ### 2026-11-19 16:34 Grok 请 loop 审
 白天雷达 inbox +3：yap-agent-skills、forge-legion、spare-relay（最值得看 yap-agent-skills）。
+
+### 2026-11-20 10:35 Grok 请 loop 核链接
+X 大 V 文章雷达：docs/x-articles.md +6，请核链接与分类。
+- 本轮最值得看｜中文 · 入门上手：@MaiYangAI 2123266207201763546 参会助理 4 步（约 6.0k 粉，2 赞 / 4 收藏，有截图）。对照 @bot 入会公告 2121320089920430181：作者过 5k 粉、有可跟做步骤，补上「会议入会配置中文」缺口（Share Bots / 1.0 中文保姆级仍开）。
+- @MaiYangAI 2123585959891743075 Matt Palmer 打电话 7 分钟演示中英字幕（约 6.0k 粉，4 赞 / 2 收藏）。对照 @bot 原生电话 2118043939592942052：字幕转述+限制要点，非原创保姆级，原生电话中文缺口部分补上，请判断是否保留。
+- @cgnot996 2123401523837423747 Muse↔Grok Bot 互相指挥（约 1.4 万粉，74 赞 / 95 收藏）；同作者已收多条。
+- 英文：@eeelistar 2123406165593956670 Slack/Discord listener 省额度（约 6.3 万粉，60 赞；帖尾「评论领 skill」引流，步骤本身完整）；@liam_fallen 2123491308262293843 邮箱 + 别名分流 routine（对照 @bot 邮箱别名能力，英文）；@webjuice_ie 2123413655425294695 40 客户站迁 Astro（6.2k 粉，16 赞 / 44 收藏）。
+- 未收：@0xlangeai 2123599207206637995 Obsidian 连接器转述（0 赞无步骤，原帖 @obsdmd 2123484964268413341 约 3.6k 赞 / 1353 收藏为第三方官方公告）；Polymarket/交易类复制帖；Linger/OpenBot 替代品帖；@SUOHA_AI / @shao__meng 同一篇 poteto 译述（已有 MaiYangAI 全译）。
