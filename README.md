@@ -196,6 +196,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 - [Bookmark Persona](https://github.com/ItsOdeLeo/bookmark-persona) - 可一键导入的模板（也打包成插件）：经 X 插件读你最多 200 条帖子、300 条收藏和 600 个赞，对比「发出来的你」和「收藏里的你」，各给一个四字母类型、一只宠物和昵称，出一张分享卡，也可以选只显示类型的私密版。互粉帖、抽奖、单个表情不计。纯娱乐，不是性格测试，数据留在你自己的 bot 里。代码和 16 只宠物美术都是 MIT。标签：`template` `x` `fun` `share-card`
 - [grokbot-activity-log](https://github.com/deximple/grokbot-activity-log) - 给个人版 Grok Bot 补一份防篡改的操作台账（官方的操作记录和审计日志只给企业版）：skill 规定 bot 干活时用 `gblog` 记下任务起止、浏览器动作和审批通过或拒绝，每个 bot 一条哈希链，改、删、截断任一行 `verify` 都报 FAIL；写盘前先抹掉常见形状的 key 和密码，每日审计 routine 出报告推到你自己的仓，推公开仓会被拒。还能自动抓命令、浏览记录和文件改动，对照 bot 自报的覆盖率，每周据此提改人设、skill、routine 的建议等你批。单文件 Python 标准库，有测试和 CI。MIT。标签：`skill` `audit` `routine` `security`
 - [grok-export-tool](https://github.com/LofiSu/grok-export-tool) - 把本机已登录 grok.com 账号里的 Grok Bot（名册、完整对话、附件）和普通 Grok 对话导出成 JSONL、Markdown 和原始 JSON；附只读的 MCP 服务（列 bot、取对话、搜索）和 skill，让 Claude Code、Codex、OpenCode 查这份归档。不发消息、不要 key。非官方：自动读本机 Chrome 的 cookie（Mac 经钥匙串、Windows 经 DPAPI），走 grok.com 未公开的接口，改版就可能失效；导出里有私密对话，放好。和 Grok Bot Backup 不同，它在你自己电脑上跑，不进云电脑。中英教程。MIT。标签：`export` `backup` `mcp` `unofficial`
+- [deed-page-skill](https://github.com/f-o-x11/deed-page-skill) - 发布技能 + Grok 插件清单（MCP：https://deed.page/mcp）：让 Bot 把文件或文件夹发布到永久的 `https://<name>.deed.page` 链接并回复网址。标签：`skill` `mcp` `publish`
 
 <sub>[⬆ 回到目录](#-目录)</sub>
 
