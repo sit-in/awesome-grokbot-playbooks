@@ -59,6 +59,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [杀鸡也可用牛刀：为了高质量陪伴孩子，我做了个脑筋急转弯的 Grok Bot](https://x.com/longhaiqwe123/status/2123041200076976598) — @longhaiqwe123 · 2026-11-18 · X 长文：小而完整的生活用例，新建一个专用 Bot，喂几本脑筋急转弯书，让它按「5 岁能懂、贴近日常、够有趣」筛成题库，每次出题时混入少量旧题、难易搭配并记录出题情况，之后加书就能扩题库。约 6.5k 粉、约 29 赞 / 21 收藏 · 中文
 - [Grok Bot 参会助理 4 步上手：建 Bot、发会议链接、点同意入会](https://x.com/MaiYangAI/status/2123266207201763546) — @MaiYangAI · 2026-11-19 · 亲测入会流程：用「参会助理 · Meeting Notes」模板建 Bot，建好 Google Meet / Zoom 会议后把链接发给它，在弹出的确认卡点同意即可入会，附截图；约 6.0k 粉 · 中文
 - [Matt Palmer 演示 Grok Bot 打电话（中英字幕）](https://x.com/MaiYangAI/status/2123585959891743075) — @MaiYangAI · 2026-11-20 · 约 7 分钟官方演示配中文字幕和要点：目前只能打美国、英国（华盛顿州、伊利诺伊州除外），每通最长 85 分钟、24 小时最多 50 通，不能做骚扰或自动外呼；拨号前必弹确认卡，通话中看实时转写，可随时把电话转给你本人；约 6.0k 粉 · 中文（字幕转述）
+- [同一个错纠正好几遍还在犯？把 Lauren Tan 的办法拆成新手 5 步](https://x.com/Mileson07/status/2123944594404716678) — @Mileson07 · 2026-11-21 · X 长文：以每周让 AI 写周报为例，每纠正一次就做成一道自动检查，而不是往说明里多加一行；产出一张「错在哪、怎么算对、怎么查」的 3 行卡片、一个由 AI 写的检查脚本，和一条交活前先自检再带回执的固定指令，不用自己写代码。约 9.2k 粉 · 中文
 
 ## 中文 · 多 Agent 作战室
 
@@ -164,6 +165,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot 云电脑托管 Claude Code：开跑前先弄清这 5 件事](https://x.com/Haosen9527/status/2121816309801611622) — @Haosen9527 · 2026-11-15 · X 长文：先分别确认 Claude 和 Grok Bot 的账号资格与用量；同一用户的 Bots 共享云电脑的文件、浏览器和登录状态，先看清权限覆盖哪些仓库；Claude Code 只支持 HTTP/HTTPS 代理，不支持 SOCKS，启动前查一次 IP 不等于全程受控；登录由本人完成，先用 `-p` 加只读工具跑一条读 README 的小任务，再让 Bot 派活并按代码差异和测试记录验收。附官方文档链接，不承诺不封号。约 7.6k 粉、约 31 赞 · 中文
 - [6 个 Marketplace Bot + 6 个开源项目，拼一套 AI 第二大脑](https://x.com/Mikocrypto11/status/2121935369406951916) — @Mikocrypto11 · 2026-11-15 · 长帖清单：Import Bot 迁移 ChatGPT/Claude/Codex 配置、Company Docs Q&A 带来源答文档、Meeting Recap Deck 会议纪要转演示稿、Projects Manager 用 Notion 分派任务、Executive Assistant 管日程、Morning Newspaper 夜间排版晨报；记忆和知识库侧配 GBrain、Khoj、Mem0、Basic Memory、Karakeep、Paperless-ngx，每项附链接，适合按需挑。约 1.7 万粉、约 30 赞 / 25 收藏 · 中文
 - [Muse 和 Grok Bot 互相指挥：Muse2API + 开源 CLI/Skill](https://x.com/cgnot996/status/2123401523837423747) — @cgnot996 · 2026-11-19 · 讲清两个方向怎么打通：Bot 调 Muse 用 Muse2API，Muse（或任意 Agent）调 Bot 用作者开源的 CLI + Skill，授权登录后即可派活；约 1.4 万粉、约 74 赞 / 95 收藏 · 中文
+- [怎么在 Grok Bot 里稳定用 Claude Code：云电脑登录 + 固定出口 IP](https://x.com/YuChen/status/2123661235115667486) — @YuChen · 2026-11-20 · X 长文：接入本身不难，难在云电脑 IP 会变、账号容易不稳；按准备 Claude 账号与套餐 → 在云电脑里登录 Claude Code → 固定出口 IP 三步走，配好后手机上也能调用。文中静态 IP 用的是一家代理服务商并附其链接。约 1.75 万粉、约 47 赞 · 中文
 
 ## 中文 · 出海一人公司与内容
 
@@ -199,6 +201,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grokbot 一周上线 60 篇外链：新手速通 SOP（附提示词）](https://x.com/loverboyy0321/status/2122258737326879190) — @loverboyy0321 · 2026-11-16 · X 长文：在云电脑登录 Gmail、X、GitHub 后，先带 Bot 完整走两遍外链平台的发布流程摸清卡点，再给「指定站点版 / 自主挖站版」两套提示词；写清哪些情况必须人工介入（验证码、扫码、二次验证）、一个 Bot 只做一件事，以及给每日额度设上限。约 135 赞 / 336 收藏 · 中文
 - [普通人用 Grok Bot 搞钱的 11 种玩法（附可直接复制的提示词）](https://x.com/Timojoy713/status/2122905845755265359) — @Timojoy713 · 2026-11-18 · X 长文：按接单、成品、内容、进货四类拆 11 条副业路径（本地店官网与客服预约、咨询、简历、翻译初稿、数字模板、小班课、垂类账号、不出镜视频、通讯、二手捡漏等），每条写适合谁、怎么搭、可粘贴提示词和常见坑；明确不承诺收入，对外发布和花钱默认要本人点头。约 6.5k 粉、约 61 赞 / 127 收藏 · 中文
 - [关注了 5000 多人，我如何用 Grok Bot 在 3 分钟内完成清理](https://x.com/_mlnbro/status/2123069122246533628) — @_mlnbro · 2026-11-18 · X 长文：让 Bot 把 X 关注列表整理成一张可筛选的表，再按表做全量梳理，附完整步骤和可直接复制的提示词，适合关注列表已经乱掉的账号。约 9.2k 粉、约 14 赞 · 中文
+- [还在每天盯后台？11 个 Agent 接手场景，附一张巡检任务单](https://x.com/Haosen9527/status/2123595981702971833) — @Haosen9527 · 2026-11-20 · X 长文：面向电商店铺，把总调度、定时巡检（拿昨日数据和前 7 天均值比，只报值得处理的变化）、把报表操作写成 Skill 等 11 个场景逐个讲清交付什么、谁验收；报表没取到要单独报出，调预算、补货仍由人决定，文末附可复制的巡检任务单。约 8.5k 粉 · 中文
+- [在 Grok Bot 里直接查价买域名：一句提示词，弹确认卡再付款](https://x.com/KinGao476942/status/2123721651946987897) — @KinGao476942 · 2026-11-20 · 短帖给出可直接复制的提示词：让 Bot 去 Cloudflare 查域名价格，调研完弹汇报卡，由你确认后才付款；作者一次买了三个，并附建站保姆级教程链接。约 1.7 万粉、约 19 收藏 · 中文
 
 
 ## 英文精选
@@ -429,6 +433,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot for Real Estate Investors: 15 Incredible Features](https://x.com/BeardyBrandon/status/2121271551823933622) — @BeardyBrandon · 2026-11-13 · X 长文：按房产投资公司的岗位和 SOP 讲 Grok Bot，15 项能力各配用法（一岗一 Bot、第二大脑、云电脑、演示教学、定时与 webhook 触发、Bot 邮箱分流、只读银行连接器、审批与 Vault、幕僚长、Slack/Teams、Team Bot、模板、打电话、语音边走边聊、可分享看板），结尾建议先做一个岗、一项技能再上定时；文末有作者免费指南和付费社群链接。约 5.1 万粉、约 120 赞 / 315 收藏 · 英文
 - [I own an HVAC and plumbing company. Here's how I actually use Grok Bot.](https://x.com/TylerGriffin/status/2121792697547497739) — @TylerGriffin · 2026-11-15 · X 长文：40 多人、30 辆车的暖通水电公司老板，按岗位拆出销售跟进、收件箱、招聘薪酬、评价监控、CRM 运营、数据看板、社媒七个 Bot，接 ServiceTitan、邮件、日历和短信，在路上就能派活：跟进报价、先向供应商核价再出锅炉报价、召回单自动找最近的技师排期。经验四条：署名发出的内容必须本人写过、改过或批准；一次只给一件活；改稿让它学你的口吻；先从枯燥的杂活下手。约 1.8k 粉、约 216 赞 / 416 收藏 · 英文
 - [How static Astro sites replaced WordPress for 40 client sites (using Grok Bot & Hermes)](https://x.com/webjuice_ie/status/2123413655425294695) — @webjuice_ie · 2026-11-19 · X 长文：SEO 代理把 40 个客户站从 WordPress 迁到静态 Astro，迁移按备份→接 Search Console→审计→只改被标记 URL→一跳 301→复审→重提 sitemap；之后 Grok Bot 负责拆需求、写 brief、验收，本机 Claude Code / Codex 开 draft PR，Hermes 做本地盘点和复核，所有改动人工合并；约 6.2k 粉、约 16 赞 / 44 收藏 · 英文
+- [Grok Bot 201: Design a Bot, then connect Bots into a workflow](https://x.com/tibor_tee/status/2123734105863139517) — @tibor_tee · 2026-11-20 · X 长文：整理 11 月 18 日官方 Grok Bot 201 课程：像招同事一样设计一个 Bot（先教写作原则、学你的邮件和 Slack 口吻、给它浏览器登录），再把多个 Bot 串成接力工作流，每个把结果交给下一个；附现场演示要点。约 9.9k 粉 · 英文
 
 ## 不收的例子
 
