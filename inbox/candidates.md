@@ -5200,3 +5200,15 @@ Skip：黑客松作品、空仓、gbot_cli 非官方客户端、行情喂数仓�
 
 Skip：Lukalearnscode 转述 poteto、marketplace 存档、hackathon/空仓、桌宠/多开/UI 小工具。
 白天雷达 inbox +4（最值得看 grokbot-seo-agent）。
+
+## 2026-11-21 10:35 Asia/Shanghai · T7 日更雷达
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| mrtalhim/grok-bot-whatsapp-mcp | https://github.com/mrtalhim/grok-bot-whatsapp-mcp | 常驻 WhatsApp MCP 桥 + Cloudflare Zero Trust MCP Portal 思路与技能，MIT | 编排 / 技能 | GitHub 新建 |
+| respp/grok-bot-mcp-cdp | https://github.com/respp/grok-bot-mcp-cdp | 让 Claude Code 等 MCP 客户端通过驱动 Grok Bot 界面调用其 Bot，MIT | 编排 | GitHub 新建 |
+| Nomad444/grok-bot-lab | https://github.com/Nomad444/grok-bot-lab | 每个只做一件事的小 Bot，导入即用，未声明许可证 | 技能 / 模板 | GitHub 新建 |
+| sargshep/gmm-grokbot-skills | https://github.com/sargshep/gmm-grokbot-skills | 课程配套公开技能集，未核许可证 | 技能 | GitHub 新建 |
+
+Skip：hackathon/空仓、交易/行情 bot、头像/UI 小工具、Lukalearnscode 转述 poteto、各行业 API 连接器。
+
