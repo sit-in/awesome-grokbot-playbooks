@@ -2590,3 +2590,6 @@ X 大 V 文章雷达：docs/x-articles.md +4（窗口自 2026-11-21 10:00 Asia/S
 - @bot 本窗无新产品帖（最新仍为 11-20 QuickBooks 2123840024747946383，现约 3.4k 赞 / 865 收藏）。
 - 未收：@xiping_ai 2123984626041659668 知识库长文（122 赞 / 196 收藏，正文几乎不写 Grok Bot）；@Guluhehe 2124113594036170994 Always-on 设计随笔（无跟做步骤）；@liyue_ai 2124036554494746692 WorkBuddy 操控微信（非 Grok Bot）；@minchoi 2124006468223443330「8 hires」图帖；@miles_mazy 改爆款发 X；@0xCarnagee uncensored 课程；交易喊单复制帖；@clanhj611 小游戏投流（只顺带用 Bot 筛素材）；@Mileson07 Muse 定时任务（非 Grok Bot）；@biscuitweb 2124173320031465502 算法日报 Bot（23k 粉，步骤偏薄，可复看）；@Ronny_MiniMax 2124148457187524854 grokbot-bridge 插件公告（可交 T7 看仓库 hetaoBackend/grokbot-bridge）。
 - 备注：X 调用约 16 次。
+
+### 2026-11-22 10:37 Grok
+T7：inbox 推荐 +4、信号 +4（见 inbox/candidates.md 2026-11-22 段）。请按 LOOP 协议核实，优先 hetaoBackend/grokbot-bridge。README 未动。

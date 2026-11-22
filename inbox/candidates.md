@@ -5212,3 +5212,26 @@ Skip：Lukalearnscode 转述 poteto、marketplace 存档、hackathon/空仓、�
 
 Skip：hackathon/空仓、交易/行情 bot、头像/UI 小工具、Lukalearnscode 转述 poteto、各行业 API 连接器。
 
+
+
+## 2026-11-22 10:37 Asia/Shanghai · T7 日更雷达
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| hetaoBackend/grokbot-bridge | https://github.com/hetaoBackend/grokbot-bridge | macOS 上用 Routine webhook + 本地缓存，让 Claude Code/Codex/Cursor 等 MCP 客户端给已有 Bot 派活并收回复，不必把 Grok Bot 窗口前置；MIT，非官方 | 编排 / 跨工具 | GitHub 新建 |
+| sdkibb/GrokBot-Pages-AI-Mission-Control | https://github.com/sdkibb/GrokBot-Pages-AI-Mission-Control | 移动优先的团队看板 Page：额度、各 Bot 动态、待你确认；带重建提示词，示例数据均为虚构；MIT | 技能与玩法 / Pages | GitHub 新建 |
+| dylanpakd-cyber/yc-s26-launch-kit | https://github.com/dylanpakd-cyber/yc-s26-launch-kit | 六个只起草、不自动外发或花费的启动 Bot（X 发布、广告、广告测试、等候名单邮件、客户原声、文案）；CC BY 4.0，需保留作者署名 | 模板 / 出海与增长 | GitHub 新建 |
+| agentsdoneright/grokbot-agents-done-right-skills | https://github.com/agentsdoneright/grokbot-agents-done-right-skills | Google Drive/Sheets/Gmail 记账工作流的技能与上手教程，引导先征得同意再克隆；MIT | 技能 / 教程 | GitHub 新建 |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| xavierschwindtwrites-ai/kickstarter-graphics-skill | https://github.com/xavierschwindtwrites-ai/kickstarter-graphics-skill | 科幻/奇幻书 Kickstarter 全套活动图（主视觉、档位卡、实物样张等）技能 + Python 工具，含公有领域示例；MIT（字体/示例素材另有许可） | 垂直玩法 | GitHub 新建 |
+| Stacking-Capital/credit-weekly | https://github.com/Stacking-Capital/credit-weekly | 每周三家征信报告自查工具包（解析、对比、加密、更新私有 Page），教育用途、非修复评分；MIT，v0.1 beta | 垂直玩法 | GitHub 新建 |
+| longhaiqwe/grok-bot-meetup-ppt | https://github.com/longhaiqwe/grok-bot-meetup-ppt | 长沙 Meetup 中文演示：用 Grok Bot 陪孩子玩和学（脑筋急转弯 / 英语动画 Bot），公开脱敏网页 PPT；未声明许可证 | 教程（中文） | GitHub 新建 |
+| lushinshang/grok-bot-qa-lauren-tan | https://github.com/lushinshang/grok-bot-qa-lauren-tan | Lauren Tan 直播问答中文导读 + 双语音幕播放器与非官方译文（作者标明由 AI 制作）；未声明许可证 | 教程（中文） | GitHub 新建 |
+
+Skip：金融犯罪黑客松多仓、空仓（Grok-bot-visualiser、hit-pay 模板、agent-routine-kit、super-bot、TTBots）、平替（rakazo-edition、xbot、roseram-grok-bot）、交易/钱包仓、头像/个人站/测试看板、DSH 群聊插件、厂商 Mission Control 连接器、行业 API 连接器、未完成的 GrokWatch 硬件方案、X 上自媒体流水线标题党（无合格新仓）。
