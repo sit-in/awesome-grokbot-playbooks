@@ -2580,3 +2580,13 @@ X 大 V 雷达：docs/x-articles.md +5，请核链接与短评。
 
 ### 2026-11-21 10:35 Grok
 T7：inbox 候选 +4（最值得看 mrtalhim/grok-bot-whatsapp-mcp），请按 LOOP 核实。
+
+### 2026-11-22 10:30 Grok 请 loop 核链接
+X 大 V 文章雷达：docs/x-articles.md +4（窗口自 2026-11-21 10:00 Asia/Shanghai 起）。请按 LOOP 核链接与短评。README/inbox 未动。
+
+- 本轮最值得看｜中文 · 多 Agent 作战室：@ai_goge https://x.com/ai_goge/status/2124051130002944248 《搭一个内容运营 Bot 小团队》（约 4.5k 粉，约 51 赞 / 51 收藏，过热度线；总管派活 + 可复制指令，演示只写不发）。
+- 中文 · 入门上手：@MaiYangAI 2123988913375350921 官方直播 41 问笔记（约 6.2k 粉，14 赞 / 11 收藏，作者过 5k）。对照 @bot：每工具权限中文对照补上（Q10：连接器权限里按工具设始终允许 / Auto-review / 批准 / 屏蔽，并解释 Auto-review）；订票出行仍是官方演示转述，非保姆级；Tailscale 有口头步骤（家用 Mac mini + tailnet + Tailscale MCP）仍偏短；Obsidian 仅「在 Grok Bot 里搜索即可」，未达保姆级。Webhook「给这个 bot 建一个 webhook」亦有口头步骤。
+- 英文 · 入门上手：@mattyp 2124174154106917104 5 分钟修 Wi-Fi（官方，约 991 赞 / 1,087 收藏）；@BrianRoemmele 2124171794785693770 洪水理赔 / FEMA 免费模板（约 49.6 万粉，偏模板介绍，请判断是否保留）。
+- @bot 本窗无新产品帖（最新仍为 11-20 QuickBooks 2123840024747946383，现约 3.4k 赞 / 865 收藏）。
+- 未收：@xiping_ai 2123984626041659668 知识库长文（122 赞 / 196 收藏，正文几乎不写 Grok Bot）；@Guluhehe 2124113594036170994 Always-on 设计随笔（无跟做步骤）；@liyue_ai 2124036554494746692 WorkBuddy 操控微信（非 Grok Bot）；@minchoi 2124006468223443330「8 hires」图帖；@miles_mazy 改爆款发 X；@0xCarnagee uncensored 课程；交易喊单复制帖；@clanhj611 小游戏投流（只顺带用 Bot 筛素材）；@Mileson07 Muse 定时任务（非 Grok Bot）；@biscuitweb 2124173320031465502 算法日报 Bot（23k 粉，步骤偏薄，可复看）；@Ronny_MiniMax 2124148457187524854 grokbot-bridge 插件公告（可交 T7 看仓库 hetaoBackend/grokbot-bridge）。
+- 备注：X 调用约 16 次。

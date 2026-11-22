@@ -60,6 +60,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot 参会助理 4 步上手：建 Bot、发会议链接、点同意入会](https://x.com/MaiYangAI/status/2123266207201763546) — @MaiYangAI · 2026-11-19 · 亲测入会流程：用「参会助理 · Meeting Notes」模板建 Bot，建好 Google Meet / Zoom 会议后把链接发给它，在弹出的确认卡点同意即可入会，附截图；约 6.0k 粉 · 中文
 - [Matt Palmer 演示 Grok Bot 打电话（中英字幕）](https://x.com/MaiYangAI/status/2123585959891743075) — @MaiYangAI · 2026-11-20 · 约 7 分钟官方演示配中文字幕和要点：目前只能打美国、英国（华盛顿州、伊利诺伊州除外），每通最长 85 分钟、24 小时最多 50 通，不能做骚扰或自动外呼；拨号前必弹确认卡，通话中看实时转写，可随时把电话转给你本人；约 6.0k 粉 · 中文（字幕转述）
 - [同一个错纠正好几遍还在犯？把 Lauren Tan 的办法拆成新手 5 步](https://x.com/Mileson07/status/2123944594404716678) — @Mileson07 · 2026-11-21 · X 长文：以每周让 AI 写周报为例，每纠正一次就做成一道自动检查，而不是往说明里多加一行；产出一张「错在哪、怎么算对、怎么查」的 3 行卡片、一个由 AI 写的检查脚本，和一条交活前先自检再带回执的固定指令，不用自己写代码。约 9.2k 粉 · 中文
+- [Matt Palmer 和 Eric Zakariasson 的 Grok Bot 直播问答，41 个问题，从旅行、会议、电话讲到 Directory](https://x.com/MaiYangAI/status/2123988913375350921) — @MaiYangAI · 2026-11-21 · X 长文：整理 11 月 20 日官方直播里的 41 个问题（附回放和时间戳），讲清机票酒店用行动卡片呈现、会议 Bot 能进聊天区办事、连接器可按工具设始终允许 / Auto-review / 批准或屏蔽，以及用一句「给这个 bot 建一个 webhook」接外部应用。约 6.2k 粉 · 中文
 
 ## 中文 · 多 Agent 作战室
 
@@ -83,6 +84,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot 怎么用才顺手：拆解 poteto 使用指南，先让 bot 读帖再改一件事](https://x.com/0xlangeai/status/2117197419779866647) — @0xlangeai · 2026-11-02 · X 长文：给出一段可直接复制的提示词，让 bot 读 poteto 主帖和补充帖后挑一件事先改；再拆 Dr Eggbot 设计岗位、一个职责、不做什么、复述加小样检查、把纠正写成 skill，附实操截图；约 1.2 万粉 · 中文
 - [九岗 Bot 怎么排：总入口拆活，不用群聊互相传话](https://x.com/xiaomovps/status/2118154686637474093) — @xiaomovps · 2026-11-05 · 长帖：小墨助手/Agent 安装/邮件/调研/X/SubStack/知识库/GitHub/图片视频九岗各管一摊，发帖与合并代码留人手确认；作者实测群聊互传又烧额度又跑偏，改成主入口分派；约 1.8 万粉、约 27 赞 / 22 收藏 · 中文
 - [用 Grok Bot + Codex 搭建多 Agent 团队：从架构设计到落地的完整教程](https://x.com/zhu185178/status/2120171874676347035) — @zhu185178 · 2026-11-10 · X 长文：用幕僚长调度 Writer/Editor/Researcher 等角色，任务记在 GitHub Ticket 上，Codex 在本机 Mac 后台执行、Webhook 回调验收；从零九步（独立用户、安装 Codex、GitHub、桌面端开本地执行、建幕僚长和第一个团队、配回调、跑通第一张单、再加定时与扩团队），对外发布走审批卡。约 1.7k 粉、约 236 赞 / 578 收藏 · 中文
+- [搭一个内容运营 Bot 小团队：一个总管，四个成员，规矩先定好](https://x.com/ai_goge/status/2124051130002944248) — @ai_goge · 2026-11-21 · X 长文：找不到群聊入口时改用总管派活，选题 / 写作 / 视频脚本 / 数据复盘四个成员按顺序交接；写清目录谁能写、成员不互相派活、发帖登录花钱都留人工，并附可复制的边界清单、派活和越界测试指令。约 4.5k 粉、约 51 赞 / 51 收藏 · 中文
 
 
 ## 中文 · Routine 雷达与额度
@@ -241,6 +243,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How to Clone Yourself With Grok Bot](https://x.com/liam_fallen/status/2122362101926662255) — @liam_fallen · 2026-11-17 · X 长文：新建以自己命名的 Clone Bot，在共享云电脑建 My Clone 文件夹（About Me、How I Work、My Decisions 等），用可复制提示词访谈工作方式、喂已完成的真实作品，再拿未告知答案的决策题测试；每周五复盘，未经批准不代发、不采购、不对他人冒充本人。约 9.5k 粉、约 65 赞 / 124 收藏 · 英文
 - [Automate Anything with Grok Bot](https://x.com/poteto/status/2123159537016533493) — @poteto · 2026-11-19 · X 长文：Grok Bot 团队的 Lauren Tan 讲自动化的思路：先分清目标和流程，把你平时的步骤、注意点、工具和验收方式教给 Bot，让它边做边改进、把跑通的流程存成技能，最后再挂成自动运行；附起步目标示例和可粘贴提示词。约 31 万粉、约 7.4k 赞 / 1.36 万收藏 · 英文
 - [Grok Bot purchase passkeys are live](https://x.com/alexmichael/status/2123162266530877548) — @alexmichael · 2026-11-19 · 短帖讲清购买通行密钥怎么配：Bot 替你订的机票酒店等付款前都要过通行密钥，设置时先收邮件验证码、再在电脑上保存通行密钥，之后每次按 Pay 后在浏览器里确认。约 3.3k 粉、约 134 赞 / 58 收藏 · 英文
+- [How to fix bad Wi-Fi in 5 minutes](https://x.com/mattyp/status/2124174154106917104) — @mattyp · 2026-11-22 · 官方演示：把相关帖子丢给 Bot 并说「按这个帮我修 wifi」，它会优化网络、查出还要找运营商处理的问题；作者提到下一步可以让 Bot 直接帮你给 ISP 打电话。约 13.5 万粉、约 991 赞 / 1,087 收藏 · 英文
+- [Flood Claim & FEMA Aid Desk: a Grok Bot for post-flood paperwork](https://x.com/BrianRoemmele/status/2124171794785693770) — @BrianRoemmele · 2026-11-22 · 免费模板：按 NFIP 清单逐房间整理照片和财产、起草损失通知和 FEMA 答卷（先核对官方灾害宣告），并列出与理算师见面时该问什么；不代为提交或签名，不索要社保号和银行信息。约 49.6 万粉 · 英文
 
 ### 多 Agent 作战室
 
