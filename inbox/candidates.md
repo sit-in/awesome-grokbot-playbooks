@@ -5270,3 +5270,33 @@ T7 同窗已收 lark / agentbridge / grokbot-mcp 等，本轮只补仓库名不�
 | gambrill/attunio | https://github.com/gambrill/attunio | 给 Grok Bot 小队做一次「个人工作方式」评估包（问题/计分/原型），onboard 后档案只留在 Bot 电脑、不再回访仓库；未声明许可证 | 技能 / 模板 | GitHub 新建 |
 
 Skip：与今日 T7 重复的推荐/信号不重记；另略过通用定格技能 claymotion、Loom 式自托管录屏 recitbot、用量看板、空仓 Muse-AI-、厂商/交易/平替（T7 已列）。
+
+## 2026-11-23 16:40 Asia/Shanghai · 周更候选
+
+> 从 11-16 周更后各轮「推荐」约 50 条，以及 github-radar 本周日报与 watchlist 里标【适合 Awesome】的条目中挑 5 条；gh 只读实查星标/许可/最近推送。对照 box 仓 README/docs/examples（README 自 11-09 未动）与前三周周更待确认条目去重。未 star/fork/PR。待 sitin 确认后才改 README。
+
+### 候选（5 条）
+
+1. [eddiearc/grokbot-lark](https://github.com/eddiearc/grokbot-lark) - 把 Grok Bot 接到飞书/Lark：把 skill 交给 Bot，它发开通链接和二维码，你确认一次「修改应用信息」，本机 relay 经官方 lark-cli 长连接收私聊/@，再经 Routine webhook 唤醒并以 Bot 应用身份回复，不必开公网入口。含测试与排障文档。可见范围要在开放平台自己限定；默认会给应用一批会话/文档/云盘权限（不含紧急电话短信、转移文档所有权和删文档）。比上周待确认的 feishu-grok-bot 更完整。0★ · MIT · 11-23 更新。
+   - 建议分类：💼 中文一人公司 / 🧩 技能与玩法　标签：`feishu` `lark` `bridge` `webhook` `zh`
+2. [DoubleDipCode/grokbot-seo-agent](https://github.com/DoubleDipCode/grokbot-seo-agent) - 在 Grok Bot 里搭一名只做策略、不改站不合并不发布的 SEO Agent：接自托管 OpenSEO 做关键词/竞品，写页面 brief 交给编码 agent；上线后先核 URL 真能打开，再批量向 Search Console 提交收录。可导入模板或按说明书手装 skills/routines。密钥不要进聊天和仓库。0★ · MIT · 11-20 更新。
+   - 建议分类：💼 中文一人公司 / 🧩 技能与玩法　标签：`seo` `search-console` `skill` `routine`
+3. [mrtalhim/grok-bot-whatsapp-mcp](https://github.com/mrtalhim/grok-bot-whatsapp-mcp) - 把常驻 WhatsApp 连接放到你自己的小 Linux 机（wacli），经 Cloudflare Zero Trust MCP Portal 给云端 Grok Bot 收发；只有 @、回复 Bot 或授权私聊才会唤醒 Routine，群闲聊在本地丢弃，Bot 电脑可以继续休眠。非官方。0★ · MIT · 11-20 更新。
+   - 建议分类：🧩 技能与玩法　标签：`whatsapp` `mcp` `bridge` `routine` `unofficial`
+4. [thescottking/grok-content-pipeline](https://github.com/thescottking/grok-content-pipeline) - 即插即用的 8 Bot 内容流水线：投进选题或资料，完成调研、按你口吻起草、人工味和事实核查两道门、配图内链，再出带 SEO/schema/FAQ 的 WordPress 草稿和 X/LinkedIn 文案；你批一次才发布（即时发布、不预约），之后用 Search Console 等复盘该刷新哪些旧文。失败会停在 HOLD.md 等你一句再继续。0★ · MIT · 11-19 更新。
+   - 建议分类：👥 多 Bot 团队 / 💼 中文一人公司　标签：`multi-bot` `content` `seo` `human-in-loop`
+5. [sdkibb/GrokBot-Pages-AI-Mission-Control](https://github.com/sdkibb/GrokBot-Pages-AI-Mission-Control) - 给 Grok Bot 小队用的移动优先作战看板 Page：本周额度与预估、各 Bot 动态、待你确认的事项；仓库提供单页和重建提示词。截图和提交的数据都是虚构示例，不是真实用量。0★ · MIT · 11-22 更新。
+   - 建议分类：👥 多 Bot 团队　标签：`multi-bot` `pages` `dashboard` `usage`
+
+注：5 条星标均为 0★，属于「玩法新、还没火」；收不收由 sitin 定。本周专项仓里星标最高的是派活桥 hetaoBackend/grokbot-bridge（4★），因 README 已有多座同类桥、上周 grok-bot-relay 仍待确认，故不占名额。
+
+### 没收（一句话理由）
+
+- 前三周周更 15 条（含 grokhouse、3d-campus、grok-bot-cn、feishu-grok-bot、conductor、usage-steward、grok-bot-relay 等）仍未进 README，不重复提。
+- 同类派活桥只记一笔：hetaoBackend/grokbot-bridge（4★）、sasa-mkwy/ask-grok-bots、musi27/agentbridge、0xJonty/grokbot-mcp、santmun/grokbot-skill，留 inbox。
+- PastaPastaPasta/grokbot-slack-presence：Slack 独立身份 + Socket Mode/FTS5/MCP/systemd，文档很完整，本轮名额让给飞书和 WhatsApp 渠道缺口，留 inbox。
+- 模板目录已较满：sanjeed5/awesome-grok-bots（CC0，市场模板+按角色精选，可互链）、anakaiti/grok-bot-marketplace，留观察。
+- 自托管平替该分类已满：w01fb0ss/PiBot（451★，Apache-2.0，未点名 Grok Bot）、davidondrej/superbot（424★）、avitwil/WitBox、kadaliao/dsh-bots（47★），留观察。
+- dylanpakd-cyber/yc-s26-launch-kit：六个只起草、不自动外发或花费的启动 Bot，正片 CC BY 4.0 且须保留作者署名，本轮名额让给 SEO/内容流水线。
+- 无许可证：nick-devvv/afterhours、delu543/wechat-local-export、Eniggman/telegram-grok-wake、feiw3440 上手手册等，先不收。
+- 厂商薄插件、交易、官方 App 补丁或逆向：按各轮 Skip 理由不收。
