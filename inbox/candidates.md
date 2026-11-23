@@ -5259,3 +5259,14 @@ Skip：金融犯罪黑客松多仓、空仓（Grok-bot-visualiser、hit-pay 模�
 | jwgrenning/receipt-organizer-grokbot | https://github.com/jwgrenning/receipt-organizer-grokbot | 收据 PDF/照片归档配方：按前缀分类、重命名、写入 CSV，并带例程与规则；未声明许可证 | 垂直玩法 | GitHub 新建 |
 
 Skip：平替（open-grok-bot、opencrew、telegram-ai-box、openEnterpriseBot）、交易/行情（Ghost Pump Desk、Binance Futures、coil-reclaim）、空仓（grok-discord-bridge、augment-bot、grokbot-muse、scaffold-check）、玩具/个人站（winter-studio、tokyo-dashboard）、厂商薄插件（Wayza、Split the Tab、fractal 记忆）、Tesla 车载 Grok（非本产品）、X 上无合格新仓。
+
+## 2026-11-23 10:38 Asia/Shanghai · 白天玩法雷达
+
+T7 同窗已收 lark / agentbridge / grokbot-mcp 等，本轮只补仓库名不含 grokbot、描述里才出现的漏项。
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| delu543/wechat-local-export | https://github.com/delu543/wechat-local-export | 本机只读提取微信 4.x 聊天（不操控界面、数据不出本机），可给 Grok Bot 做置顶会话每日日报、按时间归档，并支持语音按序合成 MP4；未声明许可证 | 垂直玩法 / 技能 | GitHub 新建 |
+| gambrill/attunio | https://github.com/gambrill/attunio | 给 Grok Bot 小队做一次「个人工作方式」评估包（问题/计分/原型），onboard 后档案只留在 Bot 电脑、不再回访仓库；未声明许可证 | 技能 / 模板 | GitHub 新建 |
+
+Skip：与今日 T7 重复的推荐/信号不重记；另略过通用定格技能 claymotion、Loom 式自托管录屏 recitbot、用量看板、空仓 Muse-AI-、厂商/交易/平替（T7 已列）。

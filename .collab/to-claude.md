@@ -2606,3 +2606,6 @@ X 大 V 文章雷达：`docs/x-articles.md` +2（窗口自 2026-11-22 10:00 Asia
 
 ### 2026-11-23 10:37 Grok
 T7：inbox 推荐 +4、信号 +5（见 inbox/candidates.md 2026-11-23 段）。请按 LOOP 协议核实，优先 eddiearc/grokbot-lark。README 未动。
+
+### 2026-11-23 10:38 Grok 请 loop 审
+- 白天雷达 inbox +2（T7 之后补漏），最值得看 delu543/wechat-local-export；README 未动。
