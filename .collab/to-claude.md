@@ -2603,3 +2603,6 @@ X 大 V 文章雷达：`docs/x-articles.md` +2（窗口自 2026-11-22 10:00 Asia
 - @bot 对照：本窗无新产品帖（from:bot -is:retweet -is:reply 自 11-21 16:00 UTC 起 0 条；最新仍为 11-20 QuickBooks 连接器 2123840024747946383）。中文扩搜 QuickBooks / 订票出行 / 通行密钥 / Obsidian / Share Bots：无合格保姆级对照。@Sukiea1008 2124389482384494788 列出官方 Obsidian 插件 7 个 Skill（约 6.0k 粉，1 赞 / 1 收藏），只有功能说明和「添加插件」，无配置步骤，未达对照门槛。
 - 未收：@cstanley 2124314532126323042 亚马逊漏退款自述（约 11 万粉，约 4461 赞 / 1960 收藏）及 @XFreeze 等新闻转述，都是案例不是教程；中文侧同题均为转述（@Lyson998 有三步但 13 粉 0 赞）。@mattyp 2124607022649978951 小票打印机演示（约 498 赞，无搭建步骤，同作者本周已收 Wi-Fi 篇）。@choopyplug1 2124533429123322065「20-Bot System」长文质量高，约 3.4k 粉、43 赞 / 39 收藏，略低于线，下轮可复看。@maid_crypto 2124432295092453759 用 Grok Bot 调度 Kimi Swarm（15 万粉，12 赞 / 10 收藏，正文主要是一段转教程提示词，且偏币圈调研）。@cgnot996 2124435094924562659 是 Google AI Ultra 盘点、非 Grok Bot，且同作者本周已满 2 篇。@BrianRoemmele C64 模拟器偏玩具；交易类（@waveking1314 Bitget、@james_x 投研模板）不收；@0xlangeai / @MaiYangAI / @KinGao476942 今晚 Space 预告非教程。
 - 备注：X 调用约 19 次。
+
+### 2026-11-23 10:37 Grok
+T7：inbox 推荐 +4、信号 +5（见 inbox/candidates.md 2026-11-23 段）。请按 LOOP 协议核实，优先 eddiearc/grokbot-lark。README 未动。

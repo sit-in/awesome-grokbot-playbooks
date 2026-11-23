@@ -5235,3 +5235,27 @@ Skip：hackathon/空仓、交易/行情 bot、头像/UI 小工具、Lukalearnsco
 | lushinshang/grok-bot-qa-lauren-tan | https://github.com/lushinshang/grok-bot-qa-lauren-tan | Lauren Tan 直播问答中文导读 + 双语音幕播放器与非官方译文（作者标明由 AI 制作）；未声明许可证 | 教程（中文） | GitHub 新建 |
 
 Skip：金融犯罪黑客松多仓、空仓（Grok-bot-visualiser、hit-pay 模板、agent-routine-kit、super-bot、TTBots）、平替（rakazo-edition、xbot、roseram-grok-bot）、交易/钱包仓、头像/个人站/测试看板、DSH 群聊插件、厂商 Mission Control 连接器、行业 API 连接器、未完成的 GrokWatch 硬件方案、X 上自媒体流水线标题党（无合格新仓）。
+
+
+## 2026-11-23 10:37 Asia/Shanghai · T7 日更雷达
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| eddiearc/grokbot-lark | https://github.com/eddiearc/grokbot-lark | 把 Grok Bot 接到飞书/Lark：扫码开通 Bot 应用，本机 relay 经官方 lark-cli 长连接收 DM/@，再经 Routine webhook 唤醒并回复；MIT，含测试与排障文档，非官方 | 编排 / 渠道 | GitHub 新建 |
+| musi27/agentbridge | https://github.com/musi27/agentbridge | 在 macOS 上让本地 Claude Code 与 Grok Bot 双向对话，每轮须经 Claude Code 权限提示由你批准（AI 不能代点）；MIT，v0.1，非官方 | 编排 / 跨工具 | GitHub 新建 |
+| 0xJonty/grokbot-mcp | https://github.com/0xJonty/grokbot-mcp | 在 Windows 上复用已登录的桌面端会话（不拷 token），用 MCP 从 Claude Desktop/Code 管理 Bot：读写人设、发消息、看历史与用量；MIT，非官方，依赖未公开接口 | 编排 / 跨工具 | GitHub 新建 |
+| Eniggman/telegram-grok-wake | https://github.com/Eniggman/telegram-grok-wake | 用 Telegram Serverless 做 webhook 中转，把私聊消息按 Routine 要求的鉴权唤醒 Grok Bot，不必在 Bot 电脑上轮询 getUpdates；未声明许可证 | 编排 / 渠道 | GitHub 新建 |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| dexcopeland/bot-templates | https://github.com/dexcopeland/bot-templates | 面向个人项目与 GRC（治理/风险/合规）的 Grok Bot 模板与技能包，可整夹复制安装；MIT | 模板 / 技能 | GitHub 新建 |
+| nusquama/grok-bots-cli | https://github.com/nusquama/grok-bots-cli | 非官方命令行：无账号、无 key，从终端或 Agent 读取公开 Marketplace 配方（技能/例程/记忆）；MIT | 工具 | GitHub 新建 |
+| pit3k/ha-addon-grokbot-client | https://github.com/pit3k/ha-addon-grokbot-client | Home Assistant 插件：常驻 grokbot-tunnel，在 HA 里登录后让 Bot 在这台系统上干活；MIT | 编排 / 垂直 | GitHub 新建 |
+| noa-ps/grok-bot-aidlc | https://github.com/noa-ps/grok-bot-aidlc | 一份交给 Grok Bot 即可搭起 Software Factory 十人小队（例程、记忆、群组房间）的构建说明，占位符需自填；未声明许可证 | 模板 / 作战室 | GitHub 新建 |
+| jwgrenning/receipt-organizer-grokbot | https://github.com/jwgrenning/receipt-organizer-grokbot | 收据 PDF/照片归档配方：按前缀分类、重命名、写入 CSV，并带例程与规则；未声明许可证 | 垂直玩法 | GitHub 新建 |
+
+Skip：平替（open-grok-bot、opencrew、telegram-ai-box、openEnterpriseBot）、交易/行情（Ghost Pump Desk、Binance Futures、coil-reclaim）、空仓（grok-discord-bridge、augment-bot、grokbot-muse、scaffold-check）、玩具/个人站（winter-studio、tokyo-dashboard）、厂商薄插件（Wayza、Split the Tab、fractal 记忆）、Tesla 车载 Grok（非本产品）、X 上无合格新仓。
