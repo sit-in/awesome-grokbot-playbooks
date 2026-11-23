@@ -5300,3 +5300,29 @@ Skip：与今日 T7 重复的推荐/信号不重记；另略过通用定格技�
 - dylanpakd-cyber/yc-s26-launch-kit：六个只起草、不自动外发或花费的启动 Bot，正片 CC BY 4.0 且须保留作者署名，本轮名额让给 SEO/内容流水线。
 - 无许可证：nick-devvv/afterhours、delu543/wechat-local-export、Eniggman/telegram-grok-wake、feiw3440 上手手册等，先不收。
 - 厂商薄插件、交易、官方 App 补丁或逆向：按各轮 Skip 理由不收。
+
+
+## 2026-11-23 16:50 Asia/Shanghai · 白天玩法雷达
+
+周更刚收 5 条待确认，本轮只补今早之后的新仓，以及今日 X 交叉里尚未进 inbox 的可复用玩法。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| Lum1104/paper-to-chinese | https://github.com/Lum1104/paper-to-chinese | 把 arXiv 论文的 LaTeX 源码在 Grok Bot / Dot / Muse 云电脑里译成中文并编成 PDF（不直接翻 PDF，以保留公式与排版）；带 SKILL.md，MIT | 技能与玩法 / 中文 | GitHub 新建 |
+| blotato/contentskills | https://github.com/blotato/contentskills | 用自然语言做短视频（口播剪辑或无脸解说，字幕/特效本地渲染），带官方 .grok-plugin；上手文档以 Claude Code 为主；AGPL-3.0 | 技能与玩法 / 内容 | GitHub 更新 + 插件清单 |
+| romangojiberryAI/gojiberryai-sales-os | https://github.com/romangojiberryAI/gojiberryai-sales-os | 13 个岗位的出境销售小队（找意向、研究、起草 LinkedIn、跟进、排会），经 GojiberryAI MCP 协作；MIT，约 198★；今日 X 交叉补漏（仓 9 月已公开） | 多 Bot 团队 / 出海与增长 | X 交叉 |
+| neohob/neo-news-bot | https://github.com/neohob/neo-news-bot | 把福利雷达收成无界面的每日采集 + 五维打分 CLI（仅 Python 标准库），输出候选清单供 Grok Bot 编日报；MIT | 技能与玩法 / 工具 | X 交叉 + GitHub 新建 |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| 8888VIP/grok-bot-changsha | https://github.com/8888VIP/grok-bot-changsha | Grok Bot 长沙自媒体实战 19 页公开演示（GitHub Pages）；未声明许可证 | 教程（中文） | GitHub 新建 |
+| Guzi212/grokbot-salon-ppt | https://github.com/Guzi212/grokbot-salon-ppt | 2026-11-22 线下沙龙演示：用 Grok Bot 做「越用越懂我」的私人电台，含网页讲稿与 PPT；未声明许可证 | 教程（中文） | GitHub 新建 |
+| AmericanSI/smooth-video-rules | https://github.com/AmericanSI/smooth-video-rules | 视频剪辑技能：避免黑场、控制字幕停留与旁白节奏、配乐闪避，并附交片前检查清单；未声明许可证 | 技能 | GitHub 新建 |
+| Acrylic959/grokbot-amoled216 | https://github.com/Acrylic959/grokbot-amoled216 | 第三方固件：把 GrokBot 动画角色刷到微雪 ESP32-S3-Touch-AMOLED-2.16（小智语音助手板），带表情图集与重力旋转；有 LICENSE，但 GitHub 未识别 SPDX | 硬件 / 固件 | GitHub 新建 |
+| rayriffy/even-g2-grok | https://github.com/rayriffy/even-g2-grok | 在 Even Realities G2 眼镜上读写 Grok Bot：跑在手机 Even App 里，经无状态网关中转，电脑可以关掉；未声明许可证 | 客户端 / 硬件 | GitHub 更新 |
+
+Skip：空仓（GrokBotProto）；平替（OpenGrokBot-Prime、Marion-Agent、pipibot、wayfindr 连接器网关）；非本产品（cathedral-grok-bot 是 Cathedral/Chutes 的 X mention bot）；个人站/看板（grokbotstudios 站点、keadlekory dashboard）；上轮已 Skip（pingcodeai/grokbotai、用量看板、tokyo-dashboard、交易仓）；个人编排无许可（maxharris1/factory）；未点名 Grok Bot 的通用福利站 freebie-radar；自托管平替大仓与 botark 桌面客户端不新开。

@@ -2609,3 +2609,10 @@ T7：inbox 推荐 +4、信号 +5（见 inbox/candidates.md 2026-11-23 段）。�
 
 ### 2026-11-23 10:38 Grok 请 loop 审
 - 白天雷达 inbox +2（T7 之后补漏），最值得看 delu543/wechat-local-export；README 未动。
+
+
+### 2026-11-23 16:50 Grok 请 loop 审
+- 白天雷达 inbox 推荐 +4、信号 +5（见 inbox/candidates.md 2026-11-23 16:50 段），最值得看 Lum1104/paper-to-chinese；README 未动。
+- 请优先核 paper-to-chinese 的云电脑 TeX 安装步骤是否可跟做。
+- gojiberryai-sales-os 含 Outreach Operator，请核是否会默认自动外发 LinkedIn。
+- blotato/contentskills 为 AGPL-3.0，且上手文档以 Claude Code 为主，请判断 Grok Bot 路径是否完整。
