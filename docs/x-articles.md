@@ -294,6 +294,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [A short guide on how I create high quality bots and manage my team](https://x.com/poteto/status/2116576229319233596) — @poteto · 2026-10-31 · SpaceXAI / Grok Bot 负责人长帖：加 Dr Eggbot 设计 Bot、少而精、让 Bot 自建 Skill 并可推私有 GitHub、接连接器与 Vault、减少手工复制、用新人入职方式介绍自己、语音脑暴后让 Bot「用自己的话复述」验收；约 24 万粉、约 5900 赞 / 1 万多收藏 · 英文
 - [Build Your Own Workflow Intelligence System With Grok Bot](https://x.com/liam_fallen/status/2121629595703087585) — @liam_fallen · 2026-11-14 · X 长文：先接两三款日常应用，建共享工作区，再搭四个 Bot（工作流分析、自动化调研、技能搭建、总管）和一块看板；分析 Bot 找出重复劳动，调研 Bot 判断值不值得自动化，技能搭建 Bot 写成可复用 Skill，跑通后再设成例程。12 步都附可复制岗位说明，建议先从三个工作流试起。约 9.5k 粉、约 21 赞 / 61 收藏 · 英文
 - [How to Split Your Company's Work Between Claude Code and Grok Bot](https://x.com/MichLieben/status/2123103792040456664) — @MichLieben · 2026-11-19 · X 长文：用两个问题分工，做一次反复复用的（活动搭建、技能、方案、设计）交给 Claude Code，按定时或事件触发的（回复、跟进、监控、日报）交给 Grok Bot；先给两边喂同一套资料库，再按 GTM、销售、内容、设计、SEO、招聘逐部门给配置步骤、可抄的 routine 和护栏。工具栈以作者团队的 ColdIQ 为主。约 1.4 万粉 · 英文
+- [T3 Code: build ai agent teams with all frontier models (Full-Course)](https://x.com/0xCodez/status/2124586834072330269) — @0xCodez · 2026-11-23 · X 长文：把 Claude Code、Codex、Antigravity、Grok Build 收进同一套 T3 Code 控制面，六步从安装、角色分工到交叉审查；第 6 步把 Grok Bot 设成不睡觉的调度员，用远程 MCP（OAuth、Supervised）把邮箱 / X / Slack 里的活写成任务喂给团队。约 5.5 万粉、约 160 赞 / 339 收藏 · 英文
 
 ### Routine 雷达与额度
 
@@ -438,6 +439,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [I own an HVAC and plumbing company. Here's how I actually use Grok Bot.](https://x.com/TylerGriffin/status/2121792697547497739) — @TylerGriffin · 2026-11-15 · X 长文：40 多人、30 辆车的暖通水电公司老板，按岗位拆出销售跟进、收件箱、招聘薪酬、评价监控、CRM 运营、数据看板、社媒七个 Bot，接 ServiceTitan、邮件、日历和短信，在路上就能派活：跟进报价、先向供应商核价再出锅炉报价、召回单自动找最近的技师排期。经验四条：署名发出的内容必须本人写过、改过或批准；一次只给一件活；改稿让它学你的口吻；先从枯燥的杂活下手。约 1.8k 粉、约 216 赞 / 416 收藏 · 英文
 - [How static Astro sites replaced WordPress for 40 client sites (using Grok Bot & Hermes)](https://x.com/webjuice_ie/status/2123413655425294695) — @webjuice_ie · 2026-11-19 · X 长文：SEO 代理把 40 个客户站从 WordPress 迁到静态 Astro，迁移按备份→接 Search Console→审计→只改被标记 URL→一跳 301→复审→重提 sitemap；之后 Grok Bot 负责拆需求、写 brief、验收，本机 Claude Code / Codex 开 draft PR，Hermes 做本地盘点和复核，所有改动人工合并；约 6.2k 粉、约 16 赞 / 44 收藏 · 英文
 - [Grok Bot 201: Design a Bot, then connect Bots into a workflow](https://x.com/tibor_tee/status/2123734105863139517) — @tibor_tee · 2026-11-20 · X 长文：整理 11 月 18 日官方 Grok Bot 201 课程：像招同事一样设计一个 Bot（先教写作原则、学你的邮件和 Slack 口吻、给它浏览器登录），再把多个 Bot 串成接力工作流，每个把结果交给下一个；附现场演示要点。约 9.9k 粉 · 英文
+- [How to run a clipping page on autopilot with Grok Bot](https://x.com/Creator_Toolbox/status/2124410099657503116) — @Creator_Toolbox · 2026-11-22 · X 长文：用 routine 每两小时检查片源，在 Bot 电脑上用 ffmpeg / yt-dlp 切竖屏字幕片段，经 Postiz 存成 TikTok / Instagram 草稿，你回复同意后再排期；附片源清单、版权提醒和可选的 Twitch 切片接口。约 5.8k 粉 · 英文
 
 ## 不收的例子
 

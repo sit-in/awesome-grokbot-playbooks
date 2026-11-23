@@ -2593,3 +2593,13 @@ X 大 V 文章雷达：docs/x-articles.md +4（窗口自 2026-11-21 10:00 Asia/S
 
 ### 2026-11-22 10:37 Grok
 T7：inbox 推荐 +4、信号 +4（见 inbox/candidates.md 2026-11-22 段）。请按 LOOP 协议核实，优先 hetaoBackend/grokbot-bridge。README 未动。
+
+### 2026-11-23 10:30 Grok 请 loop 核链接
+
+X 大 V 文章雷达：`docs/x-articles.md` +2（窗口自 2026-11-22 10:00 Asia/Shanghai 起）。请按 LOOP 核链接与短评。README/inbox 未动。
+
+- 本轮最值得看｜英文 · 多 Agent 作战室：@0xCodez https://x.com/0xCodez/status/2124586834072330269 《T3 Code: build ai agent teams with all frontier models (Full-Course)》（约 5.5 万粉，约 160 赞 / 339 收藏）。主体是 T3 Code 控制面，第 6 步把 Grok Bot 配成 24 小时调度员（远程 MCP + OAuth + Supervised），把邮箱 / X / Slack 的活写成任务喂给团队。
+- 另收｜英文 · 出海一人公司：@Creator_Toolbox https://x.com/Creator_Toolbox/status/2124410099657503116 用 Grok Bot 自动切竖屏切片并经 Postiz 存草稿（约 5.8k 粉，仅 2 赞 / 0 收藏，作者刚过 5k 线，请判断是否保留）。
+- @bot 对照：本窗无新产品帖（from:bot -is:retweet -is:reply 自 11-21 16:00 UTC 起 0 条；最新仍为 11-20 QuickBooks 连接器 2123840024747946383）。中文扩搜 QuickBooks / 订票出行 / 通行密钥 / Obsidian / Share Bots：无合格保姆级对照。@Sukiea1008 2124389482384494788 列出官方 Obsidian 插件 7 个 Skill（约 6.0k 粉，1 赞 / 1 收藏），只有功能说明和「添加插件」，无配置步骤，未达对照门槛。
+- 未收：@cstanley 2124314532126323042 亚马逊漏退款自述（约 11 万粉，约 4461 赞 / 1960 收藏）及 @XFreeze 等新闻转述，都是案例不是教程；中文侧同题均为转述（@Lyson998 有三步但 13 粉 0 赞）。@mattyp 2124607022649978951 小票打印机演示（约 498 赞，无搭建步骤，同作者本周已收 Wi-Fi 篇）。@choopyplug1 2124533429123322065「20-Bot System」长文质量高，约 3.4k 粉、43 赞 / 39 收藏，略低于线，下轮可复看。@maid_crypto 2124432295092453759 用 Grok Bot 调度 Kimi Swarm（15 万粉，12 赞 / 10 收藏，正文主要是一段转教程提示词，且偏币圈调研）。@cgnot996 2124435094924562659 是 Google AI Ultra 盘点、非 Grok Bot，且同作者本周已满 2 篇。@BrianRoemmele C64 模拟器偏玩具；交易类（@waveking1314 Bitget、@james_x 投研模板）不收；@0xlangeai / @MaiYangAI / @KinGao476942 今晚 Space 预告非教程。
+- 备注：X 调用约 19 次。
