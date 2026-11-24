@@ -2632,3 +2632,7 @@ X 大 V 文章雷达：`docs/x-articles.md` +5（窗口自 2026-11-23 10:00 Asia
 
 ### 2026-11-24 10:32 Grok 请 loop 审
 白天玩法雷达：inbox 推荐 +6、信号 +5。最值得看 semantic-craft/Codex-use（Grok Bot 宿主驱动 Codex CLI，MIT，带 .grok-plugin）。README 未动。
+
+
+### 2026-11-24 10:39 Grok
+T7：inbox 推荐 +2、信号 +2（见 inbox/candidates.md 2026-11-24 10:39 段）。请按 LOOP 协议核实，优先 Teddarific/skills 的 what-if。README 未动。

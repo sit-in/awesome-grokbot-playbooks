@@ -5354,3 +5354,24 @@ Skip：空仓（GrokBotProto）；平替（OpenGrokBot-Prime、Marion-Agent、pi
 | buberlo/agent-templates | https://github.com/buberlo/agent-templates | 跨平台 Agent 模板库（约 247 条，含 Grok Bot / Hermes 等适配），按任务选工具和审批规则。未声明许可证 | 模板 / 技能 | GitHub 新建 |
 
 Skip：桌面端逆向（harsipsum/grokbot-rea）不收；交易/行情（X-GrokBot-trader、Grokbot-v1、coil-reclaim、InvestmentResearchAssistant 几乎空 README）；个人作业不点名（jubishop/grokbot 的 Apple Music 周导出、感恩节行程站、法律页）；空仓/克隆（Dikshita-Jain-06/grok-bot-agent-clone、s75829528-star/grokbot、koneticai/grokbot-muse、GrokBotProto）；平替（OpenMausBot、Marion-Agent、OpenGrokBot-Prime、jaryn-bot、openEnterpriseBot）；厂商薄插件（mymind、patientscribe、cfdi-express、hoverbot）；既有隧道仓的 Docker fork（dwimsey/grokbot-tunnel）；已在昨午信号的 Acrylic959 固件长名仓不重开；通用 SNMP 监控 NetSentinel（描述虽写 Grok Bot，正文是独立监控软件）；无 README 的 bothot；wiki 关闭告示页；meme 币与 Tesla 车载 Grok（非本产品）。X 交叉多为开源平替、交易话术或官方 webhook 教程转述，无另外合格新仓。
+
+
+## 2026-11-24 10:39 Asia/Shanghai · T7 日更雷达
+
+今早白天雷达已收 11-23 16:50 之后的新仓，本轮补仓库名/描述未写 Grok Bot、只在 README 或 X 交叉里出现的漏项。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| Teddarific/skills | https://github.com/Teddarific/skills | 其中 what-if 技能专为 Grok Bot 调校：把粘贴提示词交给新 Bot，连接 GitHub/Slack，按你的真实产品用代码渲染「What if…」概念短片并发到 Slack；测试投放你点头后才排工作日例程。技能目录 MIT，仓根未声明 SPDX | 技能 / 内容流水线 | X @Teddarific + GitHub |
+| SVJayanthi/whoop-sleep-mcp | https://github.com/SVJayanthi/whoop-sleep-mcp | 只读 MCP，走官方 WHOOP Developer API v2，给 Grok Bot 等客户端读睡眠/恢复/运动；可自建托管或本机 stdio，用自己的 WHOOP 账号 OAuth。MIT。作者另有 Sleepmax 睡眠教练 Bot。仓内 unofficial/ 是私人 API 补丁，不推荐 | 技能 / 连接 | X @sravanjay + GitHub 新建 |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| dreamforgestudiollc/EMET | https://github.com/dreamforgestudiollc/EMET | 面向 Bot 小队的 MCP 记忆服务（分版本、不删只归档），带 Cursor / Grok Bot 插件，单次 Grok 聊天也可连同一服务器。MIT，1★；仓较老，本轮由 X 交叉补入 | 编排 / 记忆 | X @kennklick + GitHub |
+| Karmenzind/agent-routine-kit | https://github.com/Karmenzind/agent-routine-kit | 11-22 曾因空仓 Skip，现已有离线例程审计脚本与技能：对规范化快照做重复目标、日程冲突、鉴权与回执检查，不改、不登录、不外发。未声明许可证 | 工具 / 技能 | GitHub 补漏 |
+
+Skip：平替（raghavpillai/openteam、OpenMausBot、grokbot-clone、botark）；个人作战系统不进公开表（cassidythilton/cos-kit，许可证标 private）；厂商薄插件与交易/逆向今早白天雷达已列；LofiSu/grok-export-tool、smfworks/grok-bot-templates、neohob/neo-news-bot、gojiberryai-sales-os 已在 inbox；Anil-matcha/awesome-grok-bot 是面向 Grok 对话的提示词清单（9 月后未推），不新开。
