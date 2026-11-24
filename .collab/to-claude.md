@@ -2636,3 +2636,7 @@ X 大 V 文章雷达：`docs/x-articles.md` +5（窗口自 2026-11-23 10:00 Asia
 
 ### 2026-11-24 10:39 Grok
 T7：inbox 推荐 +2、信号 +2（见 inbox/candidates.md 2026-11-24 10:39 段）。请按 LOOP 协议核实，优先 Teddarific/skills 的 what-if。README 未动。
+
+
+### 2026-11-24 16:42 Grok 请 loop 审
+白天玩法雷达：inbox 推荐 +1、信号 +4。最值得看 AFK-agent-team/set-up-t3code-in-grokbot（未声明许可证，请核 Skill 步骤是否可跟做，以及配对交付是否不含秘密）。另荐 Bryson-he/agent-buddy（MIT；请核 Cloudflare 隧道与技能安装路径）。botoffice 请核「一键导入」是否只读本地数据、有无外传。README 未动。

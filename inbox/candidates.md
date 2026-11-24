@@ -5375,3 +5375,25 @@ Skip：桌面端逆向（harsipsum/grokbot-rea）不收；交易/行情（X-Grok
 | Karmenzind/agent-routine-kit | https://github.com/Karmenzind/agent-routine-kit | 11-22 曾因空仓 Skip，现已有离线例程审计脚本与技能：对规范化快照做重复目标、日程冲突、鉴权与回执检查，不改、不登录、不外发。未声明许可证 | 工具 / 技能 | GitHub 补漏 |
 
 Skip：平替（raghavpillai/openteam、OpenMausBot、grokbot-clone、botark）；个人作战系统不进公开表（cassidythilton/cos-kit，许可证标 private）；厂商薄插件与交易/逆向今早白天雷达已列；LofiSu/grok-export-tool、smfworks/grok-bot-templates、neohob/neo-news-bot、gojiberryai-sales-os 已在 inbox；Anil-matcha/awesome-grok-bot 是面向 Grok 对话的提示词清单（9 月后未推），不新开。
+
+
+## 2026-11-24 16:42 Asia/Shanghai · 白天玩法雷达
+
+今早白天雷达与 T7 已收条目不重开。本轮补 11-24 10:39 之后的新仓，以及今早窗口里已创建、随后才写完整的可复用玩法。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| Bryson-he/agent-buddy | https://github.com/Bryson-he/agent-buddy | Windows 屏幕顶部的角色槽：看 Claude Code / Cursor / Grok Bot 是否在忙或等你拍板，可在槽上、快捷键或通知里答复；本机 MCP 默认只听 127.0.0.1，云端 Bot 需开 Cloudflare 隧道并给每只 Bot 一份技能。MIT，已有安装包（未签名）；目前仅 Windows | 客户端 / 多 Bot | GitHub 新建 |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| AFK-agent-team/set-up-t3code-in-grokbot | https://github.com/AFK-agent-team/set-up-t3code-in-grokbot | 在 Grok Bot 工作机里安装、排障并分层验收 T3 Code 的中文 Agent Skill：含 SKILL.md、无脚本离线复盘页，覆盖 Tailscale 最小恢复、私密配对交付与 Antigravity ACP；CONTRIBUTING 写明尚未添加开源许可证 | 技能 / 教程（中文） | GitHub 新建（今早创建，午后才写完整） |
+| RD-FieldLab/grok-bot-proxy-fix | https://github.com/RD-FieldLab/grok-bot-proxy-fix | Windows 小工具：网页版能用、桌面端因未跟随系统代理而「无法加载」时，改用户目录里的 system-proxy.json（会备份）；声称在 Grok Bot 1.2.3 验证过。仓内只有 README，安装包在另一个账号的 Releases；未声明许可证 | 工具 / 客户端 | GitHub 新建 |
+| PandoraReads/botoffice | https://github.com/PandoraReads/botoffice | 把 Grok Bot 团队装进本机 3D 办公室：谁在线、谁找你、群聊当房间、周额度电子屏；宣称一键导入本机 Grok Bot 数据。未声明许可证，安装包仍在内测未放，官网走会员/家具商城 | 客户端 / 多 Bot 可视化 | GitHub 补漏（今早前已建，本窗才补完整说明） |
+| hm-chaimpion/mobile-shared-activity | https://github.com/hm-chaimpion/mobile-shared-activity | 公开共享工作区约定：同一活动下 Grok Bot / Codex / Claude 分车道对照，技能共用、秘密不进仓。刚建，未声明许可证，目前几乎是作者自用模板 | 编排 / 模板 | GitHub 新建 |
+
+Skip：平替（latiao-ai/personal-agent、zhukunpenglinyutong/nengyong-bot）；非本产品（Edg1931/GBXR 走 xAI Grok Voice/Vision API，不是 Grok Bot 云电脑）；空仓（akhmadwahyu280-maker/GROK-BOT-PREMIUM、ichigokekiii/grok-handoff）；错名（yash9614/bot_grok 是 PyTorch 教程）；个人例程不点名（thomasfinnell/x-algo-watch 盯 x-algorithm 后 webhook 叫醒作者自己的 Bot）；交易/币圈（sorana-bot、今午一批复制「马斯克转发 GrokBot 教程赚了美元」话术）；厂商/赛事插件（goalrace-mcp 面向 Grok 模型而非 Grok Bot）；闭源二进制（wangsen2020/agentrelay-releases，本窗 X 交叉见到，无源码）；9 月已公开的 jekajeka2/crosswalk.to（有官方 .grok-plugin，本窗未作交叉，不新开）；今早已 Skip 的厂商薄插件、交易、逆向、既有平替不重开。
