@@ -61,6 +61,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Matt Palmer 演示 Grok Bot 打电话（中英字幕）](https://x.com/MaiYangAI/status/2123585959891743075) — @MaiYangAI · 2026-11-20 · 约 7 分钟官方演示配中文字幕和要点：目前只能打美国、英国（华盛顿州、伊利诺伊州除外），每通最长 85 分钟、24 小时最多 50 通，不能做骚扰或自动外呼；拨号前必弹确认卡，通话中看实时转写，可随时把电话转给你本人；约 6.0k 粉 · 中文（字幕转述）
 - [同一个错纠正好几遍还在犯？把 Lauren Tan 的办法拆成新手 5 步](https://x.com/Mileson07/status/2123944594404716678) — @Mileson07 · 2026-11-21 · X 长文：以每周让 AI 写周报为例，每纠正一次就做成一道自动检查，而不是往说明里多加一行；产出一张「错在哪、怎么算对、怎么查」的 3 行卡片、一个由 AI 写的检查脚本，和一条交活前先自检再带回执的固定指令，不用自己写代码。约 9.2k 粉 · 中文
 - [Matt Palmer 和 Eric Zakariasson 的 Grok Bot 直播问答，41 个问题，从旅行、会议、电话讲到 Directory](https://x.com/MaiYangAI/status/2123988913375350921) — @MaiYangAI · 2026-11-21 · X 长文：整理 11 月 20 日官方直播里的 41 个问题（附回放和时间戳），讲清机票酒店用行动卡片呈现、会议 Bot 能进聊天区办事、连接器可按工具设始终允许 / Auto-review / 批准或屏蔽，以及用一句「给这个 bot 建一个 webhook」接外部应用。约 6.2k 粉 · 中文
+- [实测 6 款 Personal Agent 之后，按人群这样选](https://x.com/xiaomovps/status/2124743013595504974) — @xiaomovps · 2026-11-23 · 横评 Grok Bot、Meta Muse、Hermes Agent、OpenBot、OpenMausBot、OpenClaw：X 运营优先 Grok Bot，生活助理看 Muse，自管 VPS 看 Hermes，订阅多且要数据自管再看开源方案；建议把核心知识库留在自己手里。约 1.9 万粉、约 24 赞 / 44 收藏 · 中文
+- [订机票酒店：先让 Grok Bot 给出两个方案，你点头了再下单](https://x.com/lixinbao_X/status/2124902532187107823) — @lixinbao_X · 2026-11-24 · 讲清谁能用（The X Subscription 的 Premium / Super / Ultra），附可复制的找航班和酒店提示词，再按「下任务 → 看方案 → 确认后才订」走；付款走 Vault 或 1Password，验证码和通行密钥需自己接管电脑。约 4.8 万粉 · 中文
 
 ## 中文 · 多 Agent 作战室
 
@@ -85,7 +87,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [九岗 Bot 怎么排：总入口拆活，不用群聊互相传话](https://x.com/xiaomovps/status/2118154686637474093) — @xiaomovps · 2026-11-05 · 长帖：小墨助手/Agent 安装/邮件/调研/X/SubStack/知识库/GitHub/图片视频九岗各管一摊，发帖与合并代码留人手确认；作者实测群聊互传又烧额度又跑偏，改成主入口分派；约 1.8 万粉、约 27 赞 / 22 收藏 · 中文
 - [用 Grok Bot + Codex 搭建多 Agent 团队：从架构设计到落地的完整教程](https://x.com/zhu185178/status/2120171874676347035) — @zhu185178 · 2026-11-10 · X 长文：用幕僚长调度 Writer/Editor/Researcher 等角色，任务记在 GitHub Ticket 上，Codex 在本机 Mac 后台执行、Webhook 回调验收；从零九步（独立用户、安装 Codex、GitHub、桌面端开本地执行、建幕僚长和第一个团队、配回调、跑通第一张单、再加定时与扩团队），对外发布走审批卡。约 1.7k 粉、约 236 赞 / 578 收藏 · 中文
 - [搭一个内容运营 Bot 小团队：一个总管，四个成员，规矩先定好](https://x.com/ai_goge/status/2124051130002944248) — @ai_goge · 2026-11-21 · X 长文：找不到群聊入口时改用总管派活，选题 / 写作 / 视频脚本 / 数据复盘四个成员按顺序交接；写清目录谁能写、成员不互相派活、发帖登录花钱都留人工，并附可复制的边界清单、派活和越界测试指令。约 4.5k 粉、约 51 赞 / 51 收藏 · 中文
-
+- [用 Grok Bot 调度、Claude Code 写代码：经 T3 Code 把多台电脑串起来](https://x.com/alin_zone/status/2124819103701668321) — @alin_zone · 2026-11-23 · 五步：本机装 T3 Code 和 Claude Code，打开 T3 Connect，把 MCP 地址加到 Grok Bot 并走 OAuth，再定一条「编程任务都交给 Opus 5.5」的规则；默认可连 3 台机器。作者写明这套组合尚未亲自跑通，具体演示见视频。约 1.3 万粉、约 196 赞 / 341 收藏 · 中文
 
 ## 中文 · Routine 雷达与额度
 
@@ -111,7 +113,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Grok Bot 只负责拆任务和验收，干活交给 Pi：一份 Gemini 订阅两边用](https://x.com/chasen_liao/status/2120177161311297913) — @chasen_liao · 2026-11-10 · 四步：把 Gemini Pro 经 Magpie 反代到 VPS，只监听 Tailscale 内网，再用 CCW 接到本地 Pi；Grok Bot 拆任务、验收，执行走 Pi，跑完 webhook 叫醒 Bot 检查。作者说详细教程还在后面。约 6.8k 粉、约 396 赞 / 530 收藏 · 中文
 - [开源 GAP：Grok Bot 只写任务书和验收，终端跑腿交给同机的 Pi](https://x.com/chasen_liao/status/2120455125269692774) — @chasen_liao · 2026-11-11 · X 长文：把派活做成开源仓库，@bot 可按仓库自助配置；Pi 用你自己的模型额度（作者用 VPS 上的 Magpie 转接），完成时用 Webhook 叫醒 Bot 验收，避免轮询烧额度。删除、发送、付款、发帖仍要人工确认。约 7k 粉、约 280 赞 / 560 收藏 · 中文
 - [多 Bot 省额度保姆级教程：先查用量页，再按单个 Bot、Bot 之间、整套 Bot 三层砍空转](https://x.com/cgnot996/status/2122860541907743010) — @cgnot996 · 2026-11-18 · X 长文：额度多白花在浏览器硬点、Bot 之间来回传话、群聊协作和过密的定时检查；先在设置 → 用量与账单 → Grok Bot 用量里按 Bot、按来源找出大头，再一层层改（固定查数改走接口或脚本、一个 Bot 能做完别拆、定时间隔拉长、没变化不汇报）。约 1.4 万粉 · 中文
-
+- [额度掉得快，先把默认模型的 Fast 关掉](https://x.com/xiangxiang103/status/2124850623548166334) — @xiangxiang103 · 2026-11-23 · 改代码时 Grok Bot 会派 Cursor 云端智能体，用的是后台 Default Model；到设置里找到 Default Model，关掉 Fast、Context 选 256K。官方价目 Fast 按 2 倍扣，再超 256K 按 3 倍。方法来自 @minheo93698092，作者刚改尚未对比效果。约 1.8 万粉、约 261 赞 / 472 收藏 · 中文
 
 ## 中文 · Skills 与连接
 
@@ -168,6 +170,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [6 个 Marketplace Bot + 6 个开源项目，拼一套 AI 第二大脑](https://x.com/Mikocrypto11/status/2121935369406951916) — @Mikocrypto11 · 2026-11-15 · 长帖清单：Import Bot 迁移 ChatGPT/Claude/Codex 配置、Company Docs Q&A 带来源答文档、Meeting Recap Deck 会议纪要转演示稿、Projects Manager 用 Notion 分派任务、Executive Assistant 管日程、Morning Newspaper 夜间排版晨报；记忆和知识库侧配 GBrain、Khoj、Mem0、Basic Memory、Karakeep、Paperless-ngx，每项附链接，适合按需挑。约 1.7 万粉、约 30 赞 / 25 收藏 · 中文
 - [Muse 和 Grok Bot 互相指挥：Muse2API + 开源 CLI/Skill](https://x.com/cgnot996/status/2123401523837423747) — @cgnot996 · 2026-11-19 · 讲清两个方向怎么打通：Bot 调 Muse 用 Muse2API，Muse（或任意 Agent）调 Bot 用作者开源的 CLI + Skill，授权登录后即可派活；约 1.4 万粉、约 74 赞 / 95 收藏 · 中文
 - [怎么在 Grok Bot 里稳定用 Claude Code：云电脑登录 + 固定出口 IP](https://x.com/YuChen/status/2123661235115667486) — @YuChen · 2026-11-20 · X 长文：接入本身不难，难在云电脑 IP 会变、账号容易不稳；按准备 Claude 账号与套餐 → 在云电脑里登录 Claude Code → 固定出口 IP 三步走，配好后手机上也能调用。文中静态 IP 用的是一家代理服务商并附其链接。约 1.75 万粉、约 47 赞 · 中文
+- [把 Gemini 接到 Grok Bot：一句提示词新建 Bot，再用 Antigravity CLI 登录](https://x.com/KinGao476942/status/2124670445173825631) — @KinGao476942 · 2026-11-23 · 给主 Bot 一段可复制提示词，让它用 Antigravity CLI 建 Gemini Bot 并授权谷歌账号；若提示地区不可用，去谷歌改地址；云电脑 IP 落到国内时，文中还写了配置美国静态 IP 的步骤。约 1.8 万粉、约 187 赞 / 254 收藏 · 中文
 
 ## 中文 · 出海一人公司与内容
 

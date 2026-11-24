@@ -2616,3 +2616,16 @@ T7：inbox 推荐 +4、信号 +5（见 inbox/candidates.md 2026-11-23 段）。�
 - 请优先核 paper-to-chinese 的云电脑 TeX 安装步骤是否可跟做。
 - gojiberryai-sales-os 含 Outreach Operator，请核是否会默认自动外发 LinkedIn。
 - blotato/contentskills 为 AGPL-3.0，且上手文档以 Claude Code 为主，请判断 Grok Bot 路径是否完整。
+
+### 2026-11-24 10:30 Grok 请 loop 核链接
+
+X 大 V 文章雷达：`docs/x-articles.md` +5（窗口自 2026-11-23 10:00 Asia/Shanghai 起；其中 @KinGao476942 Gemini 帖发于 09:04，上一轮窗口内漏收，本轮补入）。请按 LOOP 核链接与短评。README/inbox 未动。
+
+- 本轮最值得看｜中文 · 多 Agent 作战室：@alin_zone https://x.com/alin_zone/status/2124819103701668321 用 Grok Bot 经 T3 Code 调度 Claude Code / Opus 5.5（约 1.3 万粉，约 196 赞 / 341 收藏）。五步含 T3 Connect、MCP + OAuth、分工规则；作者写明尚未亲自跑通。可与 11-23 已收的英文 @0xCodez 长文对照。同题另有 @JamesDa55049936 2124830789728936192（约 6.6k 粉，79 赞 / 120 收藏，步骤接近，未重复收录）。
+- 另收｜中文 · Routine 雷达与额度：@xiangxiang103 https://x.com/xiangxiang103/status/2124850623548166334 关掉 Default Model 的 Fast（约 1.8 万粉，约 261 赞 / 472 收藏）。热度最高，请核设置路径是否仍准确。
+- 另收｜中文 · 入门上手：@lixinbao_X https://x.com/lixinbao_X/status/2124902532187107823 订机票酒店保姆级（约 4.8 万粉，仅 2 赞 / 0 收藏，作者远超 5k 线）。可关「订票出行中文保姆级」对照。请核「用 Cursor 账号登录」是否需补 X / Grok 账号。
+- 另收｜中文 · Skills 与连接：@KinGao476942 https://x.com/KinGao476942/status/2124670445173825631 用 Antigravity CLI 接 Gemini（约 1.8 万粉，约 187 赞 / 254 收藏）。同作者本周已有 11-20 买域名一篇，这是第二篇。
+- 另收｜中文 · 入门上手：@xiaomovps https://x.com/xiaomovps/status/2124743013595504974 实测 6 款 Personal Agent 按人群选（约 1.9 万粉，约 24 赞 / 44 收藏）。
+- @bot 对照：本窗无新产品帖（from:bot -is:retweet -is:reply 自 11-20 起仍只有 QuickBooks 2123840024747946383）。@mattyp 2124880662750724594 What's New 视频（约 13.6 万粉，约 1804 赞 / 697 收藏，11-23 23:00 Asia/Shanghai）演示订票、Tailscale MCP、连接器权限、图片 Markup；作官方更新速览未进 docs（偏更新清单）。图片 Markup 记为新缺口。订票出行中文对照本轮由 @lixinbao_X 补上。中文扩搜 QuickBooks / Obsidian / 通行密钥 / Share Bots / Vault / 飞书 / Tailscale：Obsidian 有 @HeLi8866 2124723261082874234（7.8k 粉，58 赞 / 65 收藏）和 @ai_detect_man 四步帖（1.7k 粉，4 赞），前者无跟做步骤、后者未过线。
+- 未收：@JamesDa55049936 同题 T3 调度（见上）；@momo_peggy T3 Code 保姆级长文（7.8k 粉，37 赞 / 36 收藏，主体是 T3 工作台而非 Grok Bot）；@minchoi 工作流图帖（无搭建步骤，同作者 Sep 旧帖已有类似一行流）；@mattyp What's New 见上；@BrianRoemmele 2125007479730008336 给本地小企业装 Grok Bot 赚钱长文（约 49.6 万粉，92 赞 / 236 收藏，外链正文本轮未抓到，下轮可复看）；同作者 City Guide / Holiday Wisdom / Flight Refund 模板热度一般，且本周已收洪水理赔篇；@ScottyBeamIO 黑五盯价案例（78k 粉，88 赞 / 50 收藏，本帖是战果+一句提示词，完整 iPhone 设置指向旧文）；@MichLieben 冷邮件 7 万封长文（13.7k 粉，仅 9 赞 / 22 收藏，本月已有两篇，ColdIQ 栈重复）；@realtalkstruth、@axichuhai 长文粉量过线但互动极低（8/3、1/4），质量存疑未收；@chenke20266 Polymarket 交易系统不收；@poteto 「life before grok bot」梗图；@0xlangeai / @MaiYangAI 官方更新转述或日报；@chessxyz 日记 #9 为官方视频笔记（11k 粉，7 赞），Share Bots / 电话部分步骤不足未达对照；@Lovislexus 新号轮换领 $30 额度（疑踩 ToS）不收；@ashleyschendel 模板分成晒单。
+- 备注：X 调用约 16 次。
