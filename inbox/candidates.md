@@ -5326,3 +5326,31 @@ Skip：与今日 T7 重复的推荐/信号不重记；另略过通用定格技�
 | rayriffy/even-g2-grok | https://github.com/rayriffy/even-g2-grok | 在 Even Realities G2 眼镜上读写 Grok Bot：跑在手机 Even App 里，经无状态网关中转，电脑可以关掉；未声明许可证 | 客户端 / 硬件 | GitHub 更新 |
 
 Skip：空仓（GrokBotProto）；平替（OpenGrokBot-Prime、Marion-Agent、pipibot、wayfindr 连接器网关）；非本产品（cathedral-grok-bot 是 Cathedral/Chutes 的 X mention bot）；个人站/看板（grokbotstudios 站点、keadlekory dashboard）；上轮已 Skip（pingcodeai/grokbotai、用量看板、tokyo-dashboard、交易仓）；个人编排无许可（maxharris1/factory）；未点名 Grok Bot 的通用福利站 freebie-radar；自托管平替大仓与 botark 桌面客户端不新开。
+
+
+## 2026-11-24 10:32 Asia/Shanghai · 白天玩法雷达
+
+昨午白天雷达与周更已收条目不重开。本轮补 11-23 16:50 之后的新仓，以及昨午窗口里已创建、随后才写完整的可复用玩法。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| semantic-craft/Codex-use | https://github.com/semantic-craft/Codex-use | 把 Grok Bot（或 Antigravity / DSH）放在前面当宿主，在隔离的 git worktree 里驱动本机 Codex CLI，用 JSONL 核对真实跑过的命令和退出码，再把结果写成可读说明；带官方 .grok-plugin 和中文说明。MIT | 技能与玩法 / 开发 | GitHub 新建 |
+| davidYichengWei/x-via-grokbot | https://github.com/davidYichengWei/x-via-grokbot | 给 Claude Code / Codex / Cursor 用的 MCP：走 Grok Bot 官方 Webhook Routine 搜 X，结果经 ntfy 端到端加密回传，不必另开 X API 或 xAI API。MIT | 技能与玩法 / 桥 | GitHub 新建（昨午创建，傍晚才写完整） |
+| pedrofigueiredo25/grok-bot-helper | https://github.com/pedrofigueiredo25/grok-bot-helper | 非官方 Windows 托盘伴侣：全局快捷键唤出输入框，经 grokbot:// 深链发给指定 Bot，并只读本地缓存展示最新回复和 Bot 列表（补上 Windows 还没有的官方快捷提问）。MIT；文档写明接口可能随官方更新失效 | 客户端 / 工具 | GitHub 新建 |
+| zedatrix/action-board | https://github.com/zedatrix/action-board | 本地决策看板：总管 Bot 用命令行提起待你拍板的事项，你在网页或聊天里答复，答案经 webhook 回传；另有项目里程碑页。README 按「总管 Bot 自行给主人安装」来写。MIT | 多 Bot 团队 / 工具 | GitHub 新建 |
+| pfrederiksen/grokbot-splunk-o11y | https://github.com/pfrederiksen/grokbot-splunk-o11y | 非官方教程：用标准库 Python 每五分钟把云电脑健康和 routine 心跳打到 Splunk Observability（可用免费档），连续两次失败才提醒，仪表盘和告警按代码下发。MIT，1★ | 技能与玩法 / 可观测 | GitHub 新建 |
+| JezebelGraves/Grok-Modders-Kit-for-Skyrim | https://github.com/JezebelGraves/Grok-Modders-Kit-for-Skyrim | 把 Grok Bot 当成谨慎的 Skyrim（SE/AE/VR）模组助手：Windows 安装脚本 + 云电脑技能，先只读诊断，改文件需你批准且可回滚；不转发任何游戏模组。代码 MIT，文档 CC BY 4.0 | 技能与玩法 | GitHub 新建 |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| klipov/Grok-bot-visualiser | https://github.com/klipov/Grok-bot-visualiser | 像素办公室里看 Bot 是否在忙：Windows 上用 UI Automation 读取桌面端侧栏（不耗 API 额度）；macOS/Linux 只能看演示。11-22 曾因空仓 Skip，现已有完整说明。未声明许可证 | 客户端 / 多 Bot 可视化 | GitHub 补漏 |
+| forcequit/twilio-grok-voice-bridge | https://github.com/forcequit/twilio-grok-voice-bridge | 面向非美国用户的可分享安装模板：在自建桥上用 Twilio + xAI Grok Voice 让 Grok Bot 外呼本地号码；基于已在 inbox 的 jeffhuber 上游，MIT，不单开推荐 | 技能 / 语音 | GitHub 新建 |
+| kamogeloshotholo-ai/grok-bot-portfolio | https://github.com/kamogeloshotholo-ai/grok-bot-portfolio | 用 Grok Bot 跑租赁运营、招标合规、比赛报名等一人公司案例（先记录、外发需人批）。未声明许可证 | 教程 / 出海一人公司 | GitHub 新建 |
+| PaulbCatalyst/sales-messaging-assistant-kit | https://github.com/PaulbCatalyst/sales-messaging-assistant-kit | WhatsApp + 飞书/Lark 销售消息助手的安装包（SETUP-GUIDE + tgz）。未声明许可证，仓很薄 | 技能 / 销售 | GitHub 新建 |
+| buberlo/agent-templates | https://github.com/buberlo/agent-templates | 跨平台 Agent 模板库（约 247 条，含 Grok Bot / Hermes 等适配），按任务选工具和审批规则。未声明许可证 | 模板 / 技能 | GitHub 新建 |
+
+Skip：桌面端逆向（harsipsum/grokbot-rea）不收；交易/行情（X-GrokBot-trader、Grokbot-v1、coil-reclaim、InvestmentResearchAssistant 几乎空 README）；个人作业不点名（jubishop/grokbot 的 Apple Music 周导出、感恩节行程站、法律页）；空仓/克隆（Dikshita-Jain-06/grok-bot-agent-clone、s75829528-star/grokbot、koneticai/grokbot-muse、GrokBotProto）；平替（OpenMausBot、Marion-Agent、OpenGrokBot-Prime、jaryn-bot、openEnterpriseBot）；厂商薄插件（mymind、patientscribe、cfdi-express、hoverbot）；既有隧道仓的 Docker fork（dwimsey/grokbot-tunnel）；已在昨午信号的 Acrylic959 固件长名仓不重开；通用 SNMP 监控 NetSentinel（描述虽写 Grok Bot，正文是独立监控软件）；无 README 的 bothot；wiki 关闭告示页；meme 币与 Tesla 车载 Grok（非本产品）。X 交叉多为开源平替、交易话术或官方 webhook 教程转述，无另外合格新仓。
