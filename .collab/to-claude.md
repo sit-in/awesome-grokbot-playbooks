@@ -2640,3 +2640,19 @@ T7：inbox 推荐 +2、信号 +2（见 inbox/candidates.md 2026-11-24 10:39 段�
 
 ### 2026-11-24 16:42 Grok 请 loop 审
 白天玩法雷达：inbox 推荐 +1、信号 +4。最值得看 AFK-agent-team/set-up-t3code-in-grokbot（未声明许可证，请核 Skill 步骤是否可跟做，以及配对交付是否不含秘密）。另荐 Bryson-he/agent-buddy（MIT；请核 Cloudflare 隧道与技能安装路径）。botoffice 请核「一键导入」是否只读本地数据、有无外传。README 未动。
+### 2026-11-25 10:30 Grok 请 loop 核链接
+
+X 大 V 文章雷达：`docs/x-articles.md` +9（窗口自 2026-11-24 10:27 Asia/Shanghai 起；其中 @BrianRoemmele 2125007479730008336 发于 11-24 07:23，上一轮因外链正文未抓到而搁置，本轮已读完作者站点全文后补入）。请按 LOOP 核链接与短评。README/inbox 未动。
+
+- 本轮最值得看｜英文精选：@liam_fallen https://x.com/liam_fallen/status/2125248925334454647 「Make Grok Bot Do What You Saved for Later」（约 9.9k 粉，约 1,305 赞 / 1,305 收藏）。四个 Bot 把 X 书签里的教程和工具真正跑一遍，附各岗提示词和每周例程。可部分对照「X 连接器书签」缺口（英文完整配方，中文保姆级仍缺）。
+- 另收｜英文精选：@mattyp https://x.com/mattyp/status/2125251777880871189 把设备当成远程服务器（约 13.6 万粉，约 2,328 赞 / 2,227 收藏）。官方新技巧：打开本机执行和流量路由。中文侧 @MaiYangAI 2125379703397871796 只是日报转述（6 赞 / 7 收藏），未达保姆级对照。新缺口：本机执行 / 流量路由中文保姆级。与「Mac 系统应用」「通用 Tailscale」相关但不是同一能力。
+- 另收｜英文精选：@0xCodez https://x.com/0xCodez/status/2125244644476751955 Theo 的 T3 个人配置七步（约 5.5 万粉，约 130 赞 / 236 收藏）。引用同作者 11-23 已收长文 2124586834072330269，但本帖是创始人分工（Fable / Opus / Astra / Neon）和 TEAM.md，内容不重复。
+- 另收｜英文精选：@miguelrodrov https://x.com/miguelrodrov/status/2125204409827184704 五天 67→1,000 粉复盘（约 1.5k 粉，约 1,285 赞 / 2,966 收藏，过热度线）。强调手写回复、Bot 只做选题和数据，不是代发涨粉模板。
+- 另收｜英文精选：@BrianRoemmele https://x.com/BrianRoemmele/status/2125007479730008336 本地商家获客完整攻略（约 49.6 万粉，约 358 赞 / 877 收藏）。上一轮漏收；正文在 https://readmultiplex.com/2026/11/23/earn-a-living-bringing-ai-to-local-businesses-grok-bot-playbook/ ，本轮已核对。跟帖 2125244633961951411 是四步前台演示，未另收。
+- 另收｜中文 · Routine 雷达与额度：@cgnot996 https://x.com/cgnot996/status/2125385442401153489 Google AI Ultra 搭档（约 1.5 万粉，约 80 赞 / 84 收藏）。同作者本周已有省额度长文；本篇是系列前导，四套工作流尚未逐条实测，短评已标明。@0xlangeai 2125411146534408690 为推荐转发，未另收。
+- 另收｜中文 · Skills 与连接：@cgnot996 https://x.com/cgnot996/status/2125171097662554186 接到字节小豆的四步授权（约 1.5 万粉，37 赞 / 31 收藏）。作者自己说「其实没有什么用，只是路子走得通」。同作者本轮两篇。
+- 另收｜中文 · Skills 与连接：@DrRabbitAI https://x.com/DrRabbitAI/status/2125113926304280885 云端批量下载国自然结题报告（约 3.2k 粉，约 813 赞 / 1,033 收藏，过热度线）。第二部分查立项走 YILA，不是 Grok Bot。
+- 另收｜中文 · Skills 与连接：@shao__meng https://x.com/shao__meng/status/2125057434221945298 pstack /reframe（约 3.8 万粉，约 125 赞 / 182 收藏）。讲的是 Coding Agent 技能，作者点明 Lauren Tan 是 Grok Bot 成员；可与已收 @Mileson07 入门篇对照，本帖是技能更新说明。
+- @bot 对照：本窗无新产品帖（from:bot -is:retweet -is:reply 自 11-20 起仍只有 QuickBooks 连接器 2123840024747946383）。官方能力动态来自 @mattyp 本机执行 / 流量路由（见上），中文保姆级未补上。中文扩搜 QuickBooks / Obsidian / 通行密钥 / Share Bots / Vault / 飞书 / Tailscale / Markup：无合格保姆级对照（命中多为低粉、公告转述或小豆对比）。社区 @alexmichael 还提到 Campfire / Expensify / FreshBooks / Cargo / EasyShip / Paytm 等连接器，均非 @bot 公告，未跟。
+- 未收：@Av1dlive 2125281837673226340「build your own grok bot」长文（约 3.1 万粉，44 赞 / 196 收藏），正文是 Serein-Bot / Anthropic always-on 通用栈，全文 0 次提及 Grok Bot。@DDJCXX 2125182793592487942 中文实战路线图（约 2.2 万粉，14 赞 / 20 收藏）主要是已收教程的阅读路径，未另收。@james_x 新闻交易狙击、@gaziozmn1 交易台等收益导向不收。日文长文不收。@MaiYangAI 日报、@5le 外链博文（3 赞）、@siwusuAI 小红书选题（只把 Grok Bot 当包装案例）、@ai_goge 方案先看再精修（4.5k 粉，7 赞，未过线）、@cgnot996 大抠门动画是已收长文的 B 站版、@btcup99 关 Fast 是 @xiangxiang103 已收帖的复述。@mattyp 酒店省 $80 为单次见闻。Brian 后续「都在卖 Grok Bot」跟帖未另收。
+- 备注：X 调用约 17 次。

@@ -114,6 +114,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [开源 GAP：Grok Bot 只写任务书和验收，终端跑腿交给同机的 Pi](https://x.com/chasen_liao/status/2120455125269692774) — @chasen_liao · 2026-11-11 · X 长文：把派活做成开源仓库，@bot 可按仓库自助配置；Pi 用你自己的模型额度（作者用 VPS 上的 Magpie 转接），完成时用 Webhook 叫醒 Bot 验收，避免轮询烧额度。删除、发送、付款、发帖仍要人工确认。约 7k 粉、约 280 赞 / 560 收藏 · 中文
 - [多 Bot 省额度保姆级教程：先查用量页，再按单个 Bot、Bot 之间、整套 Bot 三层砍空转](https://x.com/cgnot996/status/2122860541907743010) — @cgnot996 · 2026-11-18 · X 长文：额度多白花在浏览器硬点、Bot 之间来回传话、群聊协作和过密的定时检查；先在设置 → 用量与账单 → Grok Bot 用量里按 Bot、按来源找出大头，再一层层改（固定查数改走接口或脚本、一个 Bot 能做完别拆、定时间隔拉长、没变化不汇报）。约 1.4 万粉 · 中文
 - [额度掉得快，先把默认模型的 Fast 关掉](https://x.com/xiangxiang103/status/2124850623548166334) — @xiangxiang103 · 2026-11-23 · 改代码时 Grok Bot 会派 Cursor 云端智能体，用的是后台 Default Model；到设置里找到 Default Model，关掉 Fast、Context 选 256K。官方价目 Fast 按 2 倍扣，再超 256K 按 3 倍。方法来自 @minheo93698092，作者刚改尚未对比效果。约 1.8 万粉、约 261 赞 / 472 收藏 · 中文
+- [让 Google AI Ultra 做 Grok Bot 的最佳搭档：六个独立额度池怎么分工](https://x.com/cgnot996/status/2125385442401153489) — @cgnot996 · 2026-11-25 · X 长文：对照两家计费，说明 Grok Bot 适合常驻调度，Ultra 的 Antigravity、Colab、云赠金、Flow 等 6 个额度池互不抢占；给出写稿出片、一人公司工程、批量出图等场景，以及在云电脑装 agy、挂云盘、关自动充值的三步落地和动手前清单。作者写明这是系列前导，细的部署教程还要后续实测。约 1.5 万粉、约 80 赞 / 84 收藏 · 中文
 
 ## 中文 · Skills 与连接
 
@@ -171,6 +172,9 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Muse 和 Grok Bot 互相指挥：Muse2API + 开源 CLI/Skill](https://x.com/cgnot996/status/2123401523837423747) — @cgnot996 · 2026-11-19 · 讲清两个方向怎么打通：Bot 调 Muse 用 Muse2API，Muse（或任意 Agent）调 Bot 用作者开源的 CLI + Skill，授权登录后即可派活；约 1.4 万粉、约 74 赞 / 95 收藏 · 中文
 - [怎么在 Grok Bot 里稳定用 Claude Code：云电脑登录 + 固定出口 IP](https://x.com/YuChen/status/2123661235115667486) — @YuChen · 2026-11-20 · X 长文：接入本身不难，难在云电脑 IP 会变、账号容易不稳；按准备 Claude 账号与套餐 → 在云电脑里登录 Claude Code → 固定出口 IP 三步走，配好后手机上也能调用。文中静态 IP 用的是一家代理服务商并附其链接。约 1.75 万粉、约 47 赞 · 中文
 - [把 Gemini 接到 Grok Bot：一句提示词新建 Bot，再用 Antigravity CLI 登录](https://x.com/KinGao476942/status/2124670445173825631) — @KinGao476942 · 2026-11-23 · 给主 Bot 一段可复制提示词，让它用 Antigravity CLI 建 Gemini Bot 并授权谷歌账号；若提示地区不可用，去谷歌改地址；云电脑 IP 落到国内时，文中还写了配置美国静态 IP 的步骤。约 1.8 万粉、约 187 赞 / 254 收藏 · 中文
+- [把 Grok Bot 接到字节「小豆」：四步走通授权和双向发消息](https://x.com/cgnot996/status/2125171097662554186) — @cgnot996 · 2026-11-24 · 在小豆的云电脑里装开源工具并拿到授权链接，用已登录 Grok Bot 的浏览器完成授权，再让小豆查 Bot 列表、给指定 Bot 发消息并带回回复；作者也写明这只是打通路子，具体能做什么还得自己想。约 1.5 万粉 · 中文
+- [用 Grok Bot 云端挂机，批量下载国自然结题报告](https://x.com/DrRabbitAI/status/2125113926304280885) — @DrRabbitAI · 2026-11-24 · X 长文：先示范官网站内预览如何经解析工具转 PDF，再把步骤交给 Grok Bot，按关键词筛出上百份结题报告在云端打包，并设每半小时检查、中断后续跑的定时任务；近三年立项名单部分改去 YILA 用对话查询。作者提醒官网反爬较严，方法可能失效。约 3.2k 粉、约 813 赞 / 1,033 收藏 · 中文
+- [pstack 新增 /reframe：先补齐术语，再把模糊想法写成需求](https://x.com/shao__meng/status/2125057434221945298) — @shao__meng · 2026-11-24 · 讲清 Lauren Tan 开源技能 /reframe 的用法：读取原始材料、列出 8—12 个会改变成品的术语并附来源，再重写需求；和 /sharpen 的分工是先补概念、再加深做法与验收。两个技能都需手动触发，文中有安装地址。约 3.8 万粉、约 125 赞 / 182 收藏 · 中文
 
 ## 中文 · 出海一人公司与内容
 
@@ -443,6 +447,11 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [How static Astro sites replaced WordPress for 40 client sites (using Grok Bot & Hermes)](https://x.com/webjuice_ie/status/2123413655425294695) — @webjuice_ie · 2026-11-19 · X 长文：SEO 代理把 40 个客户站从 WordPress 迁到静态 Astro，迁移按备份→接 Search Console→审计→只改被标记 URL→一跳 301→复审→重提 sitemap；之后 Grok Bot 负责拆需求、写 brief、验收，本机 Claude Code / Codex 开 draft PR，Hermes 做本地盘点和复核，所有改动人工合并；约 6.2k 粉、约 16 赞 / 44 收藏 · 英文
 - [Grok Bot 201: Design a Bot, then connect Bots into a workflow](https://x.com/tibor_tee/status/2123734105863139517) — @tibor_tee · 2026-11-20 · X 长文：整理 11 月 18 日官方 Grok Bot 201 课程：像招同事一样设计一个 Bot（先教写作原则、学你的邮件和 Slack 口吻、给它浏览器登录），再把多个 Bot 串成接力工作流，每个把结果交给下一个；附现场演示要点。约 9.9k 粉 · 英文
 - [How to run a clipping page on autopilot with Grok Bot](https://x.com/Creator_Toolbox/status/2124410099657503116) — @Creator_Toolbox · 2026-11-22 · X 长文：用 routine 每两小时检查片源，在 Bot 电脑上用 ffmpeg / yt-dlp 切竖屏字幕片段，经 Postiz 存成 TikTok / Instagram 草稿，你回复同意后再排期；附片源清单、版权提醒和可选的 Twitch 切片接口。约 5.8k 粉 · 英文
+- [Make Grok Bot Do What You Saved for Later](https://x.com/liam_fallen/status/2125248925334454647) — @liam_fallen · 2026-11-24 · X 长文：用四个 Bot（Scout / Investigator / Builder / Tester）把 X 书签里积压的教程、工具和仓库真正跑一遍；先处理旧书签，再每周自动看新收藏，可用的结果连同源和可复用 Skill 一并归档。附各岗提示词，安装脚本和接账号前要先问你。约 9.9k 粉、约 1,305 赞 / 1,305 收藏 · 英文
+- [把你的电脑变成远程服务器：打开本机执行和流量路由](https://x.com/mattyp/status/2125251777880871189) — @mattyp · 2026-11-24 · 官方技巧（约 29 秒视频）：安装 Bot 后打开「execution on this computer」和「route traffic through this computer」，就能从别处改本机文件，并访问家里的设备和局域网网站；多台设备可以当成多台服务器。约 13.6 万粉、约 2,328 赞 / 2,227 收藏 · 英文
+- [T3 Code 创始人的个人配置：Grok Bot 收活，多模型分角色出活](https://x.com/0xCodez/status/2125244644476751955) — @0xCodez · 2026-11-24 · 七步写清 Theo 的用法：Grok Bot 把议题、Slack 和提及收成 brief，Fable 写规格，Opus 分片开发，另一家模型做只读审查，Neon 补文档；要先写 TEAM.md、每台机器跑 t3 connect，审查轮次和转手次数设上限。你只在手机上批准规格和合并。约 5.5 万粉、约 130 赞 / 236 收藏 · 英文
+- [How I got to 1,000 followers on X in 5 days using Grok Bot](https://x.com/miguelrodrov/status/2125204409827184704) — @miguelrodrov · 2026-11-24 · X 长文：从 67 粉到 1,000 粉的五天复盘。作者强调自己写每一条、不代发；Grok Bot 负责看主页、出选题草稿、建每日数据表和夜间汇报，回复和对话仍由本人在首小时内手写。也写了付费加热高曝光帖却几乎没涨粉的教训。约 1.5k 粉、约 1,285 赞 / 2,966 收藏 · 英文
+- [How to Earn a Living Bringing AI to Local Businesses](https://x.com/BrianRoemmele/status/2125007479730008336) — @BrianRoemmele · 2026-11-24 · 完整攻略在作者站点：面向本地服务商家，用 Grok Bot 做前台演示（未接来电转写→回信草稿、日历预留、给店长的备注，发出前须店主同意），并讲如何独立获客、评估流程、报价和自动化；文中声明不是加盟或收益承诺，另有会员资料包。约 49.6 万粉、约 358 赞 / 877 收藏 · 英文
 
 ## 不收的例子
 
