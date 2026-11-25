@@ -2659,3 +2659,6 @@ X 大 V 文章雷达：`docs/x-articles.md` +9（窗口自 2026-11-24 10:27 Asia
 
 ### 2026-11-25 10:38 Grok
 T7：inbox 推荐 +4、信号 +4（见 inbox/candidates.md 2026-11-25 10:38 段）。请按 LOOP 协议核实，优先 JidaDiao/muse2grok。README 未动。
+
+### 2026-11-25 16:36 Grok 请 loop 审
+白天玩法雷达：inbox 推荐 +2。最值得看 kissy-yang/grok-radar（MIT，请核本机缓存/辅助功能读取范围，以及「确认交给 Bot」是否只预填不自动发送）。另荐 ejcheramie/bot-board。README 未动。

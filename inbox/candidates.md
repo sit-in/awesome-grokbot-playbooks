@@ -5422,3 +5422,15 @@ Skip：平替（latiao-ai/personal-agent、zhukunpenglinyutong/nengyong-bot）�
 
 Skip：平替（bryancolvinfilm-bot/bot-bots、segersniels/clots 虽描述写 Grok Bot、正文是本机常驻 Claude 机器人）；落地页/私有拷贝客户端（Wantre/better-grokbot，仓内是介绍站而非完整应用源码）；厂商薄插件（Benevolo/crmown-mcp-plugin）；jbellsolutions/disruptor-revenue-os-grokbot 为同作者无许可证 drop-in pack，既有政策不重列；空仓/无说明（pikes89/GroK-Bot、popoaichuiniu/SelfGrokBot、gmlmz/grokbot-data-backup、pranavr2324-byte/grokbot、SQ3691/Grok-bot-AIDC-IT-O-M、divergenetwork/Grok-Bot、nicholasgigliotti47-hash/Grok-bot-terminal-、erictimmer/pages-test）；个人作业（gt3c02/food-diary 由 Grok Bot 写的食记页、zmlworks/line-half-mask 只是 Grok Bot 代写的 Firefox 插件、Junenicholson/grokbot-qa-ko 单支视频韩语摘要）；maxharris1/factory 昨午已因无许可证 Skip，不重开；X 交叉 Paytm 官方集成、CaliLumberJack Bridge Bot 模板、OSRS Coach 目录页均无合格新公开仓；已 Skip 的平替/交易/逆向/厂商薄插件不重开。
 
+## 2026-11-25 16:36 Asia/Shanghai · 白天玩法雷达
+
+今早 T7 已收 10:38 之前的条目。本轮只补其后新仓，以及仓库名不含 grokbot、描述里才出现的漏项。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| kissy-yang/grok-radar | https://github.com/kissy-yang/grok-radar | 本机 macOS 看板：看谁在跑、点开本机缓存里的一轮对话、把事件交给指定 Bot（打开官方客户端预填草稿，发送仍需你确认），并显示每周额度。MIT，含测试与中英界面；需 Apple Silicon、已登录的官方客户端和辅助功能权限 | 客户端 / 多 Bot 看板 | GitHub 新建 |
+| ejcheramie/bot-board | https://github.com/ejcheramie/bot-board | 多 Bot 团队看板（Grok Bot Page 或独立 HTML）：提醒、等你处理、进行中、受阻、本周完成；卡片含截止与加急，看板本身不代发、不付款。MIT，带安装/重建 skills 与例程，样例卡为虚构 | 技能与玩法 / Pages | GitHub 新建 |
+
+Skip：平替（aha-duoduoduo/ProkBot 给官方客户端打补丁连自建 Host；michael-muir/grokbot-clone 逆向界面/protobuf 的桌面平替；banele303/carDealership-teamates 自称 Grok Bot 开源平替；latiao-ai/personal-agent、bryancolvinfilm-bot/bot-bots 今早已 Skip 不重开）；落地页/私有拷贝补丁（Wantre/better-grokbot 仍是介绍站+exe，不重开）；空仓/几乎空（usung325/grokBots、uselesssoso/touchbar-is-back 只有一句 README）；非本产品（Hiwa-Forge/grok-bot 是 xAI API 笔记本；xialuyu5-oss/ai-privacy-switches 写的是 grok.com / Grok Build；realchendahuang/before-you-install-t3code 是 T3 Code 审计；santinofuentesAI/mobilebot 是 Android 本地 Agent；thirstyeggplant/aubergine 通用终端画布；jiangxingfan1-coder/Open-Agent-API 作者称未测过 Grok Bot）；桌宠/UI 小工具（wildmaker/grok-bot-checkin-confetti、shardulmarathe/grok-bot-timer）；无说明数据页（nicholasgigliotti47-hash/Grok-bot-terminal- 无 README）；个人内部手册不点名进公开候选；通用营销规则包（Shoberman2/marketing-rules 虽提到 Grok Bot，但不是本产品专项配方）；厂商插件（getcustomaise/customaise-mcp 描述里列出 Grok Bot，非专项配方）；X 上无合格新仓（官方 Project Ops 指南转述、TermiX 赏金、迁 Hermes 长文无仓）。
