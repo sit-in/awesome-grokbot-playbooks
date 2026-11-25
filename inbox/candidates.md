@@ -5397,3 +5397,28 @@ Skip：平替（raghavpillai/openteam、OpenMausBot、grokbot-clone、botark）�
 | hm-chaimpion/mobile-shared-activity | https://github.com/hm-chaimpion/mobile-shared-activity | 公开共享工作区约定：同一活动下 Grok Bot / Codex / Claude 分车道对照，技能共用、秘密不进仓。刚建，未声明许可证，目前几乎是作者自用模板 | 编排 / 模板 | GitHub 新建 |
 
 Skip：平替（latiao-ai/personal-agent、zhukunpenglinyutong/nengyong-bot）；非本产品（Edg1931/GBXR 走 xAI Grok Voice/Vision API，不是 Grok Bot 云电脑）；空仓（akhmadwahyu280-maker/GROK-BOT-PREMIUM、ichigokekiii/grok-handoff）；错名（yash9614/bot_grok 是 PyTorch 教程）；个人例程不点名（thomasfinnell/x-algo-watch 盯 x-algorithm 后 webhook 叫醒作者自己的 Bot）；交易/币圈（sorana-bot、今午一批复制「马斯克转发 GrokBot 教程赚了美元」话术）；厂商/赛事插件（goalrace-mcp 面向 Grok 模型而非 Grok Bot）；闭源二进制（wangsen2020/agentrelay-releases，本窗 X 交叉见到，无源码）；9 月已公开的 jekajeka2/crosswalk.to（有官方 .grok-plugin，本窗未作交叉，不新开）；今早已 Skip 的厂商薄插件、交易、逆向、既有平替不重开。
+
+## 2026-11-25 10:38 Asia/Shanghai · T7 日更雷达
+
+昨午白天雷达已收 11-24 16:42 之前的条目。本轮补其后新仓，以及 README / X 交叉里才写清 Grok Bot 步骤的漏项。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| JidaDiao/muse2grok | https://github.com/JidaDiao/muse2grok | 自托管 Python 桥：Muse 用命令行把任务交给 Grok Bot，Bot 经 Webhook 唤醒、用 Helper 领取并回传答复；标准库 + SQLite，带测试与只读面板。MIT | 编排 / 跨工具 | GitHub 新建 |
+| Slingshot-Swag/grok-bot-bridge | https://github.com/Slingshot-Swag/grok-bot-bridge | 让 Claude 与已有 Grok Bot 对话：Claude 插件 + Bot 技能 + 自托管 Cloudflare Worker 中继（补上 Webhook 单向、无回执的缺口），约 15 分钟可搭。MIT，非官方 | 编排 / 跨工具 | GitHub 新建 |
+| oahuminister-collab/grokbot-switch | https://github.com/oahuminister-collab/grokbot-switch | Windows 桌面红绿开关：Agent 占用这台电脑前先查询，忙碌则让路，空闲可先弹窗询问；也可用闲置自动放行、本人一动手就收回租约。MIT，仅需 Python 标准库 | 客户端 / 多 Bot | GitHub 新建 |
+| zthreefires/relaybot | https://github.com/zthreefires/relaybot | 在 Mac 上让 Grok Bot 用 /codex 或 /claude 把改代码任务派给本机 Codex CLI / Claude Code，结果、报错和审批请求经 webhook 回到原对话，可回复续跑同一会话。MIT，早期，有中英说明与安装脚本；11-19 已建，此前雷达漏收 | 编排 / 跨工具 | GitHub 补漏 |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| HongtianChan/Grokbot-RedNote | https://github.com/HongtianChan/Grokbot-RedNote | 给 Grok Bot 用的小红书检索：走你已登录的 Chrome 会话只读搜索，标题和链接回到 Bot 对话。macOS only，开发中，未声明许可证，注明未经授权不能商用 | 技能 / 连接 | GitHub 新建 |
+| monkeydbobo/agent-board | https://github.com/monkeydbobo/agent-board | DeepSeek Harness 插件：把本机 DSH / Codex / Claude Code / Cursor / Grok Bot / Antigravity 收进只读看板，并可在独立 worktree 里做实现/评审协作（v1 协作固定 Codex/Claude）。MIT，带测试 | 编排 / 看板 | GitHub 新建 |
+| rickkeller/agent-bus-mcp | https://github.com/rickkeller/agent-bus-mcp | 已认证的 MCP 任务/咨询队列，让多个 Agent 在同一总线上传活。MIT。本窗补了 FOUR_CLIENTS 说明：Grok Bot、Claude Code、Cursor、Hermes 共用一个允许名单示例 | 编排 / 跨工具 | X @rickkeller69 + GitHub 文档更新 |
+| cremess/grok-bot-helper | https://github.com/cremess/grok-bot-helper | 已收的 pedrofigueiredo25/grok-bot-helper 已迁到此地址（同一仓库 id），Windows 非官方快捷提问托盘应用，MIT | 客户端 / 工具 | GitHub 更名 |
+
+Skip：平替（bryancolvinfilm-bot/bot-bots、segersniels/clots 虽描述写 Grok Bot、正文是本机常驻 Claude 机器人）；落地页/私有拷贝客户端（Wantre/better-grokbot，仓内是介绍站而非完整应用源码）；厂商薄插件（Benevolo/crmown-mcp-plugin）；jbellsolutions/disruptor-revenue-os-grokbot 为同作者无许可证 drop-in pack，既有政策不重列；空仓/无说明（pikes89/GroK-Bot、popoaichuiniu/SelfGrokBot、gmlmz/grokbot-data-backup、pranavr2324-byte/grokbot、SQ3691/Grok-bot-AIDC-IT-O-M、divergenetwork/Grok-Bot、nicholasgigliotti47-hash/Grok-bot-terminal-、erictimmer/pages-test）；个人作业（gt3c02/food-diary 由 Grok Bot 写的食记页、zmlworks/line-half-mask 只是 Grok Bot 代写的 Firefox 插件、Junenicholson/grokbot-qa-ko 单支视频韩语摘要）；maxharris1/factory 昨午已因无许可证 Skip，不重开；X 交叉 Paytm 官方集成、CaliLumberJack Bridge Bot 模板、OSRS Coach 目录页均无合格新公开仓；已 Skip 的平替/交易/逆向/厂商薄插件不重开。
+

@@ -2656,3 +2656,6 @@ X 大 V 文章雷达：`docs/x-articles.md` +9（窗口自 2026-11-24 10:27 Asia
 - @bot 对照：本窗无新产品帖（from:bot -is:retweet -is:reply 自 11-20 起仍只有 QuickBooks 连接器 2123840024747946383）。官方能力动态来自 @mattyp 本机执行 / 流量路由（见上），中文保姆级未补上。中文扩搜 QuickBooks / Obsidian / 通行密钥 / Share Bots / Vault / 飞书 / Tailscale / Markup：无合格保姆级对照（命中多为低粉、公告转述或小豆对比）。社区 @alexmichael 还提到 Campfire / Expensify / FreshBooks / Cargo / EasyShip / Paytm 等连接器，均非 @bot 公告，未跟。
 - 未收：@Av1dlive 2125281837673226340「build your own grok bot」长文（约 3.1 万粉，44 赞 / 196 收藏），正文是 Serein-Bot / Anthropic always-on 通用栈，全文 0 次提及 Grok Bot。@DDJCXX 2125182793592487942 中文实战路线图（约 2.2 万粉，14 赞 / 20 收藏）主要是已收教程的阅读路径，未另收。@james_x 新闻交易狙击、@gaziozmn1 交易台等收益导向不收。日文长文不收。@MaiYangAI 日报、@5le 外链博文（3 赞）、@siwusuAI 小红书选题（只把 Grok Bot 当包装案例）、@ai_goge 方案先看再精修（4.5k 粉，7 赞，未过线）、@cgnot996 大抠门动画是已收长文的 B 站版、@btcup99 关 Fast 是 @xiangxiang103 已收帖的复述。@mattyp 酒店省 $80 为单次见闻。Brian 后续「都在卖 Grok Bot」跟帖未另收。
 - 备注：X 调用约 17 次。
+
+### 2026-11-25 10:38 Grok
+T7：inbox 推荐 +4、信号 +4（见 inbox/candidates.md 2026-11-25 10:38 段）。请按 LOOP 协议核实，优先 JidaDiao/muse2grok。README 未动。
