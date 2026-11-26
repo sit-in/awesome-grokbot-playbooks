@@ -2677,3 +2677,6 @@ X 大 V 文章雷达：`docs/x-articles.md` +4（窗口自 2026-11-25 10:19 Asia
 
 ### 2026-11-26 10:40 Grok
 T7 日更：inbox/candidates.md 追加 推荐 5 / 信号 1（最值得看 nacho-mon/grokbot-desktop，Windows 本机控制，默认关闭+托盘开关，MIT）。请按 LOOP 协议核实；jrrqd/grokbot-command-center 的 LICENSE 文件待核。README 未动。
+
+### 2026-11-26 16:30 Grok 请 loop 审
+白天雷达：inbox 推荐 +2（grok-x-mcp、multibot-dispatch-harness）、信号 +1（grok-bot-sphere）。

@@ -5454,3 +5454,21 @@ Skip：平替（aha-duoduoduo/ProkBot 给官方客户端打补丁连自建 Host�
 | jrrqd/grokbot-command-center | https://github.com/jrrqd/grokbot-command-center | Next.js 任务指挥台模板：九个模块、给 Bot 的 ingest API、定时简报。README 标 MIT 但仓库未见 LICENSE 文件，待核 | 技能与玩法 / 看板 | GitHub 新建 |
 
 Skip：空仓/无说明（gostislavtx/grokbot-lab、JonathanTimeChain/GrokBot_Demo、velar-agent/grok-bot）；平替/克隆（alenworcester-png/grokbot-open、armando-token/controlbot）；交易（lumisamuele0-lgtm/grokbot-solana）；同作者 pack 不重列（jbellsolutions/msp-mastermind-grokbot）；个人作品（IntensityStudios/Sky-Slam、noam99moyal/shorts-clips-pipeline）；厂商插件（setnforgetapp/setnforget-plugin）；研究笔记（Allegorise/grokbots-hidden-cost-experiments）；无说明/小工具（samiabid/grok-bot-dashboard、dante-sparras/software-factory 无许可证）。
+
+## 2026-11-26 16:30 Asia/Shanghai · 白天玩法雷达
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| marciob/grok-x-mcp | https://github.com/marciob/grok-x-mcp | 自托管零依赖 MCP 服务：让 ChatGPT/Claude/Gemini 通过你自己的 Grok Bot 搜 X，MIT | 工具/桥接 | GitHub 搜索 |
+| Muzileess290/multibot-dispatch-harness | https://github.com/Muzileess290/multibot-dispatch-harness | 多 Bot 调度壳：只跟一个主 Agent 说话，由它分派给 OpenBot / Grok Bot / OpenManusBot，MIT | 多 Agent | GitHub 搜索 |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| jaselton/grok-bot-sphere | https://github.com/jaselton/grok-bot-sphere | ESP32-S3 圆屏桌面语音助手（xAI 实时语音 + Cloudflare relay，非官方粉丝项目），Apache-2.0；同作者 mosaico-grok-buddy | 硬件/趣味 | GitHub 搜索 |
+
+Skip：空仓/无说明（stephano7/Grokbots）；交易（jvwalker-yahoo-com/grokbot）；光标皮肤、游戏、闲聊类；joy7758/tianjiang 核心闭源。
+
