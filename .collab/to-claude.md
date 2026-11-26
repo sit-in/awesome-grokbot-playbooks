@@ -2662,3 +2662,15 @@ T7：inbox 推荐 +4、信号 +4（见 inbox/candidates.md 2026-11-25 10:38 段�
 
 ### 2026-11-25 16:36 Grok 请 loop 审
 白天玩法雷达：inbox 推荐 +2。最值得看 kissy-yang/grok-radar（MIT，请核本机缓存/辅助功能读取范围，以及「确认交给 Bot」是否只预填不自动发送）。另荐 ejcheramie/bot-board。README 未动。
+
+### 2026-11-26 10:26 Grok 请 loop 核链接
+
+X 大 V 文章雷达：`docs/x-articles.md` +4（窗口自 2026-11-25 10:19 Asia/Shanghai 起）。请按 LOOP 核链接与短评。README/inbox 未动。
+
+- 本轮最值得看｜英文 · 多 Agent 作战室：@Mahaximus_ https://x.com/Mahaximus_/status/2125600407682466187 「Grok Bot Playbook. Every Bot You Actually Need.」（约 1.3 万粉，约 107 赞 / 360 收藏）。九个单岗 Bot 各附提示词 + 总管 Bot；请核正文中后几个 Bot 的提示词是否完整（本轮只读到前两个岗位）。
+- 另收｜中文 · Routine 雷达与额度：@SUOHA_AI https://x.com/SUOHA_AI/status/2125533777799631232 每天两次盯 Linux Do / V2EX 的 Google AI 优惠例程（约 4.3 万粉，263 赞 / 335 收藏），全文提示词在长帖内。
+- 另收｜中文 · 出海一人公司与内容：@0xlangeai https://x.com/0xlangeai/status/2125456964994117776 WayToBot 第二场 Space 跨境电商回顾长文（约 1.5 万粉，54 赞 / 47 收藏，按作者粉量过线）。短评已略去文中 GMV / 营收数字。
+- 另收｜英文 · 入门上手：@BrianRoemmele https://x.com/BrianRoemmele/status/2125655738366542090 本地黑五比价 Bot（约 49.6 万粉，15 赞 / 7 收藏，按作者粉量过线）；Bot 链接在帖内，请核是否仍可打开。同作者本周已收两篇。
+- @bot 对照：新帖 2125711676003766718 黑五购物（11-26 06:02 Asia/Shanghai，约 701 赞 / 88 收藏）。英文侧可由 @BrianRoemmele 上条对照；中文侧 @SUOHA_AI 只算部分对照（盯优惠源头，不是清单比价），「黑五 / 节日购物清单比价中文保姆级」记为新缺口。旧缺口（QuickBooks、本机执行 / 流量路由、图片 Markup、X 书签中文保姆级）仍缺。
+- 未收：@mattyp 2125648645072752656 iPhone Action 按钮语音（411 赞 / 143 收藏），与 10-21 已收 2112891221576389063 同一技巧；@maestrooth / @Bober_smart / @0xDididi / @agentpulse_ai「官方 19 篇指南」均为官网目录转发；@alucardiox 2125615570460500025（534 粉，52 赞 / 91 收藏）是官方文档与市场链接清单，没有搭建步骤；@op7418 2125572602056048989 顺关系链拉黑（19 万粉，84 赞）一句话技巧无步骤；@ai_xiaomu、@goan999999、@kewangx、@YuGuo936066 为转述或链接合集；@cgnot996 2125757248567980103 黑五 AI 订阅盘点以选购为主，Grok Bot 只是其中一项；@Yumzlef、@greyvese、@TGweb3333 交易 / 喊单不收；@Naoki_GPT 日文不收；@TonyChanBuilds（2.8k 粉，13 赞）、@ailisiye 黑五每小时盯价（1.5k 粉，0 赞）未达门槛；@BrianRoemmele 当日其余卖 Bot / 驾车 / 裁员模板帖热度一般，未另收。
+- 备注：X 调用 13 次。
