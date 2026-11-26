@@ -5434,3 +5434,23 @@ Skip：平替（bryancolvinfilm-bot/bot-bots、segersniels/clots 虽描述写 Gr
 | ejcheramie/bot-board | https://github.com/ejcheramie/bot-board | 多 Bot 团队看板（Grok Bot Page 或独立 HTML）：提醒、等你处理、进行中、受阻、本周完成；卡片含截止与加急，看板本身不代发、不付款。MIT，带安装/重建 skills 与例程，样例卡为虚构 | 技能与玩法 / Pages | GitHub 新建 |
 
 Skip：平替（aha-duoduoduo/ProkBot 给官方客户端打补丁连自建 Host；michael-muir/grokbot-clone 逆向界面/protobuf 的桌面平替；banele303/carDealership-teamates 自称 Grok Bot 开源平替；latiao-ai/personal-agent、bryancolvinfilm-bot/bot-bots 今早已 Skip 不重开）；落地页/私有拷贝补丁（Wantre/better-grokbot 仍是介绍站+exe，不重开）；空仓/几乎空（usung325/grokBots、uselesssoso/touchbar-is-back 只有一句 README）；非本产品（Hiwa-Forge/grok-bot 是 xAI API 笔记本；xialuyu5-oss/ai-privacy-switches 写的是 grok.com / Grok Build；realchendahuang/before-you-install-t3code 是 T3 Code 审计；santinofuentesAI/mobilebot 是 Android 本地 Agent；thirstyeggplant/aubergine 通用终端画布；jiangxingfan1-coder/Open-Agent-API 作者称未测过 Grok Bot）；桌宠/UI 小工具（wildmaker/grok-bot-checkin-confetti、shardulmarathe/grok-bot-timer）；无说明数据页（nicholasgigliotti47-hash/Grok-bot-terminal- 无 README）；个人内部手册不点名进公开候选；通用营销规则包（Shoberman2/marketing-rules 虽提到 Grok Bot，但不是本产品专项配方）；厂商插件（getcustomaise/customaise-mcp 描述里列出 Grok Bot，非专项配方）；X 上无合格新仓（官方 Project Ops 指南转述、TermiX 赏金、迁 Hermes 长文无仓）。
+
+## 2026-11-26 10:40 Asia/Shanghai · T7 日更雷达
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| nacho-mon/grokbot-desktop | https://github.com/nacho-mon/grokbot-desktop | 让 Grok Bot 看见并操作一台 Windows 电脑：只听 127.0.0.1、带令牌，控制默认关闭，只有托盘菜单能开关（CLI 不能），每条命令经 Bot 的 Shell 审批。MIT | 客户端 / 本机控制 | GitHub 新建 |
+| CageEcho/grok-figma-bridge-skill | https://github.com/CageEcho/grok-figma-bridge-skill | 把 Grok Bot 接到本机 Figma Desktop 的中英双语指南 + Skill（走开源 figma-unified-mcp 插件桥、不配 Token），README 明说测过什么、没测过什么。MIT | 技能 / 连接 | GitHub 新建 |
+| vibeforge1111/grokbot-ai-gaming-team-by-meta-alchemist | https://github.com/vibeforge1111/grokbot-ai-gaming-team-by-meta-alchemist | 给 Grok Bot 的游戏开发专家团：15 个模板，按 100 分量表基于你采集的证据评分并互相交接发现，发帖/工单/上传都停在草稿。MIT | 技能与玩法 / 团队模板 | GitHub 新建 |
+| austinmao/zero-human-starter-pack | https://github.com/austinmao/zero-human-starter-pack | 可整段粘贴的提示词包：把 Grok Bot 搭成 8 个小团队 Bot（邮件、日历、任务、消息、文件等），邮件不经确认不发送，另有增长/运营/生活扩展包。MIT | 作战室模板 | GitHub 新建 |
+| konopat/grokbot-team-kit | https://github.com/konopat/grokbot-team-kit | 俄语为主的团队参考包：老板+助理+各线负责人，加统一任务服务与控制台 Agent 进度页，已脱敏，可整包交给 Bot 照做。MIT | 作战室模板 | GitHub 新建 |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| jrrqd/grokbot-command-center | https://github.com/jrrqd/grokbot-command-center | Next.js 任务指挥台模板：九个模块、给 Bot 的 ingest API、定时简报。README 标 MIT 但仓库未见 LICENSE 文件，待核 | 技能与玩法 / 看板 | GitHub 新建 |
+
+Skip：空仓/无说明（gostislavtx/grokbot-lab、JonathanTimeChain/GrokBot_Demo、velar-agent/grok-bot）；平替/克隆（alenworcester-png/grokbot-open、armando-token/controlbot）；交易（lumisamuele0-lgtm/grokbot-solana）；同作者 pack 不重列（jbellsolutions/msp-mastermind-grokbot）；个人作品（IntensityStudios/Sky-Slam、noam99moyal/shorts-clips-pipeline）；厂商插件（setnforgetapp/setnforget-plugin）；研究笔记（Allegorise/grokbots-hidden-cost-experiments）；无说明/小工具（samiabid/grok-bot-dashboard、dante-sparras/software-factory 无许可证）。

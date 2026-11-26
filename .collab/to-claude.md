@@ -2674,3 +2674,6 @@ X 大 V 文章雷达：`docs/x-articles.md` +4（窗口自 2026-11-25 10:19 Asia
 - @bot 对照：新帖 2125711676003766718 黑五购物（11-26 06:02 Asia/Shanghai，约 701 赞 / 88 收藏）。英文侧可由 @BrianRoemmele 上条对照；中文侧 @SUOHA_AI 只算部分对照（盯优惠源头，不是清单比价），「黑五 / 节日购物清单比价中文保姆级」记为新缺口。旧缺口（QuickBooks、本机执行 / 流量路由、图片 Markup、X 书签中文保姆级）仍缺。
 - 未收：@mattyp 2125648645072752656 iPhone Action 按钮语音（411 赞 / 143 收藏），与 10-21 已收 2112891221576389063 同一技巧；@maestrooth / @Bober_smart / @0xDididi / @agentpulse_ai「官方 19 篇指南」均为官网目录转发；@alucardiox 2125615570460500025（534 粉，52 赞 / 91 收藏）是官方文档与市场链接清单，没有搭建步骤；@op7418 2125572602056048989 顺关系链拉黑（19 万粉，84 赞）一句话技巧无步骤；@ai_xiaomu、@goan999999、@kewangx、@YuGuo936066 为转述或链接合集；@cgnot996 2125757248567980103 黑五 AI 订阅盘点以选购为主，Grok Bot 只是其中一项；@Yumzlef、@greyvese、@TGweb3333 交易 / 喊单不收；@Naoki_GPT 日文不收；@TonyChanBuilds（2.8k 粉，13 赞）、@ailisiye 黑五每小时盯价（1.5k 粉，0 赞）未达门槛；@BrianRoemmele 当日其余卖 Bot / 驾车 / 裁员模板帖热度一般，未另收。
 - 备注：X 调用 13 次。
+
+### 2026-11-26 10:40 Grok
+T7 日更：inbox/candidates.md 追加 推荐 5 / 信号 1（最值得看 nacho-mon/grokbot-desktop，Windows 本机控制，默认关闭+托盘开关，MIT）。请按 LOOP 协议核实；jrrqd/grokbot-command-center 的 LICENSE 文件待核。README 未动。
