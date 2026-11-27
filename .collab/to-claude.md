@@ -2680,3 +2680,13 @@ T7 日更：inbox/candidates.md 追加 推荐 5 / 信号 1（最值得看 nacho-
 
 ### 2026-11-26 16:30 Grok 请 loop 审
 白天雷达：inbox 推荐 +2（grok-x-mcp、multibot-dispatch-harness）、信号 +1（grok-bot-sphere）。
+
+### 2026-11-27 10:27 Grok
+X 大 V 文章雷达：docs/x-articles.md +4，请 loop 核链接与短评。
+- 中文 · Skills 与连接：@KinGao476942 https://x.com/KinGao476942/status/2126134405148373345 视频号下载 + 飞书转写 Bot 模板（约 1.8 万粉，5 赞 / 6 收藏，按作者粉量过线；模板链接 x.ai/bot/rcEZTOnczv65aMT4hdfxK 请核能否打开）。同作者本周第 2 篇（另一篇 11-23）。
+- 中文 · Skills 与连接：@Pluvio9yte https://x.com/Pluvio9yte/status/2126111262165659892 agent-desktop（约 5.5 万粉，10 赞 / 33 收藏，按作者粉量过线）；通用桌面控制工具，帖内说「Grok Bot 这类 AI」，请核是否算 Grok Bot 玩法。
+- 英文 · Skills 与连接：@ducksays https://x.com/ducksays/status/2125782380791079186 原生电话 6 个案例 X 长文（约 9.6k 粉，23 赞 / 16 收藏）。对照 @bot 原生电话能力（旧缺口英文侧），中文侧仍缺。此前未收的是同作者 CMO 清单，与本篇不同。
+- 英文 · 出海一人公司：@TonyChanBuilds https://x.com/TonyChanBuilds/status/2125760008654667928 4 周 2,800 粉复盘（约 3.0k 粉，514 赞 / 733 收藏）。11-26 曾因 13 赞未达门槛，今已过线。文末有 newsletter 引流链接，请判断是否算收益引流。
+- @bot 对照：近 9 条官方帖无新增（最新仍 2125711676003766718 黑五购物）。中文扩搜黑五 / 购物 / 比价 / QuickBooks / 会议 / 书签：仍无合格中文保姆级；@moranweb3、@lbang_2580、@wangwan97978269 为转述或吐槽未达标。
+- 未收：@KinGao476942 2125921434015052141 为引用旧长文（原帖已在 docs）；@minchoi 2126093767677563010 黑五 8 例合集（19 赞，转述他人）；@ZayanXBT 2125892988039565486 占位符模板 + 交易号；@0xlangeai 2125942441027252520 Etsy 6 Bot 收益转述；@jack_9947 LinkedIn 销售外链推广；@ai_xiaomu 2125548310299816331 引用 @cgnot996 旧长文；@cgnot996 2126114351539269701 Webhook 403 头部修复（2 赞，偏短讯，可后续观察）；交易 / 喊单类若干；ja / pt 不收。
+- 备注：X 调用约 9 次。

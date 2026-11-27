@@ -176,6 +176,8 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [把 Grok Bot 接到字节「小豆」：四步走通授权和双向发消息](https://x.com/cgnot996/status/2125171097662554186) — @cgnot996 · 2026-11-24 · 在小豆的云电脑里装开源工具并拿到授权链接，用已登录 Grok Bot 的浏览器完成授权，再让小豆查 Bot 列表、给指定 Bot 发消息并带回回复；作者也写明这只是打通路子，具体能做什么还得自己想。约 1.5 万粉 · 中文
 - [用 Grok Bot 云端挂机，批量下载国自然结题报告](https://x.com/DrRabbitAI/status/2125113926304280885) — @DrRabbitAI · 2026-11-24 · X 长文：先示范官网站内预览如何经解析工具转 PDF，再把步骤交给 Grok Bot，按关键词筛出上百份结题报告在云端打包，并设每半小时检查、中断后续跑的定时任务；近三年立项名单部分改去 YILA 用对话查询。作者提醒官网反爬较严，方法可能失效。约 3.2k 粉、约 813 赞 / 1,033 收藏 · 中文
 - [pstack 新增 /reframe：先补齐术语，再把模糊想法写成需求](https://x.com/shao__meng/status/2125057434221945298) — @shao__meng · 2026-11-24 · 讲清 Lauren Tan 开源技能 /reframe 的用法：读取原始材料、列出 8—12 个会改变成品的术语并附来源，再重写需求；和 /sharpen 的分工是先补概念、再加深做法与验收。两个技能都需手动触发，文中有安装地址。约 3.8 万粉、约 125 赞 / 182 收藏 · 中文
+- [开源「视频号下载 + 文字稿转录」Bot 模板](https://x.com/KinGao476942/status/2126134405148373345) — @KinGao476942 · 2026-11-27 · 对主 Bot 说一句「请帮我添加这个视频号 Bot」并附模板链接即可装上；按指引完成下载和飞书文档初始化后，把视频号链接发给它，自动回传视频并把文字稿转写进飞书。作者注明仅限学习研究、勿商用。约 1.8 万粉 · 中文
+- [让 Grok Bot 操控电脑时装上 agent-desktop](https://x.com/Pluvio9yte/status/2126111262165659892) — @Pluvio9yte · 2026-11-27 · 读软件控件结构而不是截图，更准也更省 Token，不抢鼠标和输入焦点；画面变化会报 STALE_REF 便于重读重试。安装 `npm install -g agent-desktop`，走 MCP 则运行 `agent-desktop mcp`。约 5.5 万粉、约 33 收藏 · 中文
 
 ## 中文 · 出海一人公司与内容
 
@@ -384,6 +386,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [Family Cyber Shield：家庭网络安全 bot（DNS 过滤、防火墙、通行密钥/2FA、钓鱼邮件复核）](https://x.com/Texas_Twins_Dad/status/2116335904692330881) — @Texas_Twins_Dad · 2026-10-31 · 公开模板：挡钓鱼与恶意站点、带你开 Mac 防火墙与隐身模式、设通行密钥和双重验证并标可疑邮件，报警前再核一遍；改动由本人操作，bot 从不索要密码或验证码；约 1.1 万粉 · 英文
 - [Hey Siri 唤起 Grok Bot 语音聊天：不用常开麦克风的三步快捷指令](https://x.com/Texas_Twins_Dad/status/2116748190649037285) — @Texas_Twins_Dad · 2026-11-01 · 快捷指令里加「Start a Voice Chat with Bot」、改名、允许锁屏运行，就能用 Siri 唤起，不额外耗电；255 赞、326 收藏 · 英文
 - [Make Grok Bot Clone Your Paid Software](https://x.com/liam_fallen/status/2123108268415263058) — @liam_fallen · 2026-11-19 · X 长文：搭一个 App Cloner，让 Grok Bot 调研你在付费的软件、只记下你真正用的功能、写构建规格，交给 Cursor 云端 Agent 开发，再拿原版逐项测试、把问题打回修复，最后得到可本地运行或自托管的版本；附角色提示词和每一步可复制的指令。约 9.7k 粉、约 234 赞 / 405 收藏 · 英文
+- [6 Phone Calls You Can Hand to Your Grok Bot Today](https://x.com/ducksays/status/2125782380791079186) — @ducksays · 2026-11-26 · X 长文讲原生电话怎么用：说清目标和边界，Bot 先展示拨给谁、问什么，点 Call 才拨出；通话中可看实时转写，结束有录音，答不上的问题会弹给你。附 6 个真实案例：问宽带资费、长时间客服排队、找装修报价并预约、电话取消订阅、改机票、打给诊所。约 9.6k 粉 · 英文
 
 ### 出海一人公司
 
@@ -456,6 +459,7 @@ X 上其他作者写的 Grok Bot 长文、串帖和实操分享，按主题分�
 - [T3 Code 创始人的个人配置：Grok Bot 收活，多模型分角色出活](https://x.com/0xCodez/status/2125244644476751955) — @0xCodez · 2026-11-24 · 七步写清 Theo 的用法：Grok Bot 把议题、Slack 和提及收成 brief，Fable 写规格，Opus 分片开发，另一家模型做只读审查，Neon 补文档；要先写 TEAM.md、每台机器跑 t3 connect，审查轮次和转手次数设上限。你只在手机上批准规格和合并。约 5.5 万粉、约 130 赞 / 236 收藏 · 英文
 - [How I got to 1,000 followers on X in 5 days using Grok Bot](https://x.com/miguelrodrov/status/2125204409827184704) — @miguelrodrov · 2026-11-24 · X 长文：从 67 粉到 1,000 粉的五天复盘。作者强调自己写每一条、不代发；Grok Bot 负责看主页、出选题草稿、建每日数据表和夜间汇报，回复和对话仍由本人在首小时内手写。也写了付费加热高曝光帖却几乎没涨粉的教训。约 1.5k 粉、约 1,285 赞 / 2,966 收藏 · 英文
 - [How to Earn a Living Bringing AI to Local Businesses](https://x.com/BrianRoemmele/status/2125007479730008336) — @BrianRoemmele · 2026-11-24 · 完整攻略在作者站点：面向本地服务商家，用 Grok Bot 做前台演示（未接来电转写→回信草稿、日历预留、给店长的备注，发出前须店主同意），并讲如何独立获客、评估流程、报价和自动化；文中声明不是加盟或收益承诺，另有会员资料包。约 49.6 万粉、约 358 赞 / 877 收藏 · 英文
+- [How I got 2,800 followers on X in 4 weeks using Grok Bot](https://x.com/TonyChanBuilds/status/2125760008654667928) — @TonyChanBuilds · 2026-11-26 · X 长文起号复盘：Bot 读 X 数据找有效帖、口述想法转草稿、过一遍去 AI 腔质检、经 Buffer 按约 2 小时间隔排期、每月扫粉丝里的机器人号；回复全部亲手写。文末有 10 步可照做清单和作者 newsletter 链接。约 514 赞 / 733 收藏 · 英文
 
 ## 不收的例子
 
