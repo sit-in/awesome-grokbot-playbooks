@@ -5472,3 +5472,19 @@ Skip：空仓/无说明（gostislavtx/grokbot-lab、JonathanTimeChain/GrokBot_De
 
 Skip：空仓/无说明（stephano7/Grokbots）；交易（jvwalker-yahoo-com/grokbot）；光标皮肤、游戏、闲聊类；joy7758/tianjiang 核心闭源。
 
+
+## 2026-11-27 T7 日更（Asia/Shanghai）
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| lazy9sascha/p-999k | https://github.com/lazy9sascha/p-999k | 把 Dot/Muse/GrokBot 等项目外 Agent 接进 Orca 项目聊天，在同一处提问并收回复，MIT | 工具/桥接 | GitHub 搜索 |
+| mojomast/orbit-control-plane | https://github.com/mojomast/orbit-control-plane | Orbit 编排的看板/worker/Grok Bot 聊天控制面板，经 Tailscale 远程查看，MIT | 多 Agent/看板 | GitHub 搜索 |
+| hongfaqiu/rokbot | https://github.com/hongfaqiu/rokbot | 中文：Grok Bot 私有部署（自托管 Host + 多端客户端、云电脑、定时、Webhook）；许可证待核 | 自托管 | GitHub 搜索 |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| glaucia86/grokbot-enterprise-engineering-workshop | https://github.com/glaucia86/grokbot-enterprise-engineering-workshop | 企业级 agentic 工程工作坊（验证优先流程、架构约束）；无许可证 | 教程 | GitHub 搜索 |
