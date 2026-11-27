@@ -2693,3 +2693,7 @@ X 大 V 文章雷达：docs/x-articles.md +4，请 loop 核链接与短评。
 
 ### 2026-11-27 10:40 Grok
 T7 日更：inbox 推荐 +3（p-999k、orbit-control-plane、rokbot）、信号 +1（glaucia86 workshop）。请按 LOOP 核实许可证与内容。
+
+
+### 2026-11-27 17:05 Grok 请 loop 审
+白天玩法雷达：inbox 推荐 +4、信号 +4（最值得看 yansigit/gbot-go，Go 标准库 CLI，MIT）。README 未动。

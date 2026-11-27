@@ -5488,3 +5488,29 @@ Skip：空仓/无说明（stephano7/Grokbots）；交易（jvwalker-yahoo-com/gr
 | 名称 | 链接 | 一句话 | 分类建议 | 来源 |
 |------|------|----------|--------|------|
 | glaucia86/grokbot-enterprise-engineering-workshop | https://github.com/glaucia86/grokbot-enterprise-engineering-workshop | 企业级 agentic 工程工作坊（验证优先流程、架构约束）；无许可证 | 教程 | GitHub 搜索 |
+
+
+## 2026-11-27 17:05 Asia/Shanghai · 白天玩法雷达
+
+今早 T7 已收条目不重开。本轮补 11-26 16:30 之后、以及今早 T7 窗口漏收的可复用玩法。
+
+### 推荐
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| yansigit/gbot-go | https://github.com/yansigit/gbot-go | 用 Go 标准库写的 Grok Bot 云端 CLI：PKCE 登录、一对一/房间发消息、轮询或流式监听、管理 agent；grokbot-client 协议的移植，与已有 Node CLI 互补，MIT | 工具/CLI | GitHub 搜索 |
+| GantisStorm/bb-plugin-grok-bot-panel | https://github.com/GantisStorm/bb-plugin-grok-bot-panel | 在 BB 线程里挂上单个 Grok Bot：看聊天、名册、X 卡片、审批和用量，不改账号侧配置；macOS + Windows，MIT | 客户端/插件 | GitHub 搜索 |
+| rastermanden/loom-bot | https://github.com/rastermanden/loom-bot | 可分享的 Grok Bot 模板：用 loom-cli 在本机开 Loom 会话，完成、失败或要你拍板时把问题做成点选卡片，MIT | 技能与玩法 | GitHub 搜索 |
+| htetahyan/grok-bot-faceless-video-gen | https://github.com/htetahyan/grok-bot-faceless-video-gen | 用本地 Python / FFmpeg / TTS 做无露脸短视频的 Agent Skill 包，预览后才发布，MIT | 技能与玩法 | GitHub 搜索 |
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| lwclark/whoop-webhook-relay | https://github.com/lwclark/whoop-webhook-relay | 把已验签的 WHOOP webhook 转给 Grok Bot Routine webhook 的小中继（带测试）；未声明许可证 | 工具/桥接 | GitHub 搜索 |
+| brownkun/grok-bot-14-day-course | https://github.com/brownkun/grok-bot-14-day-course | 非官方 14 天习惯课，打成可让 Bot 教你的 Skill（基于 Lauren Tan 公开帖，链回原帖）；未声明许可证 | 教程/技能 | GitHub 搜索 |
+| vantasnerdan/workflow-system-plugin | https://github.com/vantasnerdan/workflow-system-plugin | 本地 MCP：让 Claude Code / Grok Bot 以「agent 账号」连到工作流站点认领步骤；未声明许可证 | 工具/桥接 | GitHub 搜索 |
+| zkl2333/bot-playbook | https://github.com/zkl2333/bot-playbook | 给主控 Bot 查阅的模型分派与多 Bot 协同偏好文档（纯文档、不改全局规则）；未声明许可证 | 多 Agent | GitHub 搜索 |
+
+Skip：空仓/薄仓（eduardomendesprofissional-jpg/grokbotedu、alangao2025-dev/grok-bot-report、pit3k/app-change-logs、infoxicator/mcp-wake、A0339x/ai-business-setup、mayvvv/ochat）；厂商插件（lakarijeprvovencani/moonya-plugin、aspekt19/loyal-spark-plugin）；平替/克隆（RustColeone/dsh-deepseek-bot、zunyu7971-cell/dsh-grokbot、polchan/dsh-group-chat、amitsangal78/open-bot、blesalesteam-sudo/HermesBot、qwweerdf/Mellio）；交易（LeoCheng802/Grok-Bot）；同作者 pack（jbellsolutions）；已收同步（zabrodsk/bot2bot-lite 与已收 bot2bot 同内容拆仓）；用 Bot 做出来的产品或趣味（w0rldwid3vib3s/ai-checkup、chieletni/grok-kun-clock、zmlworks/stripe-tester）；个人获客案例（dwadlane/ai-executive-team-grok-bot）；书籍配套复制页无许可证（daholl92）；描述写 Grok Bot、README 实为 Slack 转写（jongomez94/habla）；无 README 的分享稿（ZenoWangzy/grokbot-talk）；数据源非玩法（SoundMindsAI/kings-taster-data）；薄前端占位与提示词小镇（bstefans16/fomo-desk-app、Enriques415/grokbot_site_antigravity）。X 交叉本窗多为 Article，未补到未收录的合格新仓。
+
