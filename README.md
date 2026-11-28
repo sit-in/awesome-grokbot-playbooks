@@ -75,7 +75,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 - [多 Bot 团队](#-多-bot-团队)（36）- 作战室、总指挥、多 agent 协作
 - [Routine 与摘要](#-routine-与摘要)（12）- 定时雷达、周报、额度管理
 - [中文一人公司](#-中文一人公司)（8）- 出海客服、微信接入、中文配置
-- [自托管与平替](#-自托管与平替)（18）- 不想上云、想用自己的模型
+- [自托管与平替](#-自托管与平替)（19）- 不想上云、想用自己的模型
 - [硬件](#-硬件)（7）- 给 bot 一个实体入口
 - [学习资源](#-学习资源)（13）- 教程、手册、教程索引
 
@@ -290,6 +290,7 @@ Grok Bot 是 xAI 和 Cursor 在 2026-08-11 联合推出的 AI 队友（beta）�
 - [kwant](https://github.com/alexsergivan/kwant) - 自托管的 bot 团队，一个 Rust 二进制自带网页界面：bot 之间 @ 交接，工作和家分空间，routine 定时跑，有风险的步骤弹审批卡；引擎用 Claude、Codex、Grok 的 CLI 登录或 API key。无遥测，首次启动会下载一个路由模型（可关）。有 Mac 安装包。AGPL-3.0。标签：`self-hosted` `multi-bot` `alternative`
 - [GrokBot（kylin-feng）](https://github.com/kylin-feng/grokbot) - 开源复刻 Grok Bot 界面的学习 Demo：预置 Chief of Staff、Inbox Manager 等一队 bot，同事式消息线程，派活后从打字、Working、步骤流一直走到 Done，能把另一个 bot 拉进线程协作，侧栏有 routine。右侧「云电脑」面板是本地模拟的，不真的操作电脑。Express + 原生 JS，零构建，自带 xAI 或任意 OpenAI 兼容 key。非官方，中英 README。MIT。标签：`clone` `demo` `byok`
 - [Pots（pi-durable-bot）](https://github.com/Crokily/pi-durable-bot) - 开源的「AI 同事」：跑在你自己的机器上、用你选的模型，读你邀请它进的 Slack、Discord、邮件、日历等，自己判断该不该开口，在自己的电脑上写代码干活，还会给自己设提醒回头跟进。一份长期记忆存在磁盘，崩溃后从中断处续跑，同一条消息不会发两次。npm 包，要 Node 24。作者拿 Grok Bot 当参照，算开源平替。MIT。标签：`self-hosted` `byo-model` `durable`
+- [5dive](https://github.com/5dive-ai/5dive) - 开源（MIT）的自托管 agent 团队：在你自己的 Linux 服务器上，Claude Code、Codex、Grok、Hermes、OpenClaw 等命令行 agent 共用一个任务板，互相交接、互相检查，每个 agent 是独立的 Linux 用户。需要自己准备一台 Linux 服务器；一行安装（`curl … | sudo bash`）会以 root 运行 install.sh，建议先读脚本。5dive.ai 另有付费托管版（作者相关）。标签：`self-hosted` `multi-bot` `byo-model` `author`
 
 <sub>[⬆ 回到目录](#-目录)</sub>
 
