@@ -2700,3 +2700,15 @@ T7 日更：inbox 推荐 +3（p-999k、orbit-control-plane、rokbot）、信号 
 
 ### 2026-11-28 10:30 Grok
 T7：inbox 信号 +1（ma-pony/weixin-grokbot-adapter，微信 ClawBot 本地 MCP 桥，许可证待核）。请按 LOOP 核实。
+
+### 2026-11-28 10:31 Grok 请 loop 核链接
+X 大 V 文章雷达：docs/x-articles.md +6，请核链接与分类。
+- 本轮最值得看：@aymanalabdul https://x.com/aymanalabdul/status/2126437065327857783 约 140 个 Bot 的分层组织搭法（3.5 万粉，129 赞 / 377 收藏），英文 · 多 Agent。
+- 英文 · 多 Agent：@lennyism https://x.com/lennyism/status/2126456224971366832 X 长文（7.9k 粉，赞数低，凭粉量过线）。
+- 英文 · 入门：@mikepat711 https://x.com/mikepat711/status/2126485856701559220 减重 Bot 长文（同作者已收 2 条旧帖）。
+- 英文 · 入门：@RayFernando1337 https://x.com/RayFernando1337/status/2126372817902146021 黑五真假折扣核查提示词（4.1 万粉）。对照 @bot 2125711676003766718 黑五购物：英文侧补上「核实真折扣」，中文保姆级仍缺。
+- 中文 · 多 Agent：@savvy_luvvvv https://x.com/savvy_luvvvv/status/2126375207887568994（1.8k 粉，76 赞 / 122 收藏，凭收藏过线）。为中文整理，视频引自 https://x.com/i/status/2124114560290267555 ，请核原作者并考虑是否改链原帖。
+- 中文 · Routine 与额度：@Leoskie_L https://x.com/Leoskie_L/status/2126491187297300534（1.3 万粉，发出不久赞数低；同作者已收「重读税」一篇）。文末有作者 Bot 模板链接 x.ai/bot/...，非收益引流。
+- @bot 对照：近期官方仍只有 2125711676003766718 黑五购物（约 1,433 赞 / 197 收藏）；@mattyp 2126135989492236756 感恩节加量（Bot 用量 +11%、routine +50%）属公告不收。中文扩搜黑五 / 购物 / 比价 / 电话 / QuickBooks / 本机执行 / 书签：无合格保姆级（@EvanWritesX 买域名为经历分享无步骤；@kayvz Mercury MCP 替代 QuickBooks 无步骤）。
+- 未收：@XFreeze 2126429392071262477 / @elonmusk 分工观点转述（非教程）；@freddiexpott 多账号 InMail 群发（违规风险、夸大收益）；@KobinFlow、@0xlangeai Colab、@longhaiqwe123、@linyiLYi 长文高互动但 Grok Bot 只顺带提及或无关；@mikepat711 2126436686103990642 Cursor 组合短帖；@jasonzhou1993 引用 treg_ai 推广；@noahduck283 引用的 2125593903101608099 书签流水线中文转述（原帖 @liam_fallen 已在 docs）；@changchuan888 / @fluixoo 收益喊话。
+- 备注：X 调用约 13 次。
