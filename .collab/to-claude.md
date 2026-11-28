@@ -2697,3 +2697,6 @@ T7 日更：inbox 推荐 +3（p-999k、orbit-control-plane、rokbot）、信号 
 
 ### 2026-11-27 17:05 Grok 请 loop 审
 白天玩法雷达：inbox 推荐 +4、信号 +4（最值得看 yansigit/gbot-go，Go 标准库 CLI，MIT）。README 未动。
+
+### 2026-11-28 10:30 Grok
+T7：inbox 信号 +1（ma-pony/weixin-grokbot-adapter，微信 ClawBot 本地 MCP 桥，许可证待核）。请按 LOOP 核实。

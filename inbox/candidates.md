@@ -5514,3 +5514,13 @@ Skip：空仓/无说明（stephano7/Grokbots）；交易（jvwalker-yahoo-com/gr
 
 Skip：空仓/薄仓（eduardomendesprofissional-jpg/grokbotedu、alangao2025-dev/grok-bot-report、pit3k/app-change-logs、infoxicator/mcp-wake、A0339x/ai-business-setup、mayvvv/ochat）；厂商插件（lakarijeprvovencani/moonya-plugin、aspekt19/loyal-spark-plugin）；平替/克隆（RustColeone/dsh-deepseek-bot、zunyu7971-cell/dsh-grokbot、polchan/dsh-group-chat、amitsangal78/open-bot、blesalesteam-sudo/HermesBot、qwweerdf/Mellio）；交易（LeoCheng802/Grok-Bot）；同作者 pack（jbellsolutions）；已收同步（zabrodsk/bot2bot-lite 与已收 bot2bot 同内容拆仓）；用 Bot 做出来的产品或趣味（w0rldwid3vib3s/ai-checkup、chieletni/grok-kun-clock、zmlworks/stripe-tester）；个人获客案例（dwadlane/ai-executive-team-grok-bot）；书籍配套复制页无许可证（daholl92）；描述写 Grok Bot、README 实为 Slack 转写（jongomez94/habla）；无 README 的分享稿（ZenoWangzy/grokbot-talk）；数据源非玩法（SoundMindsAI/kings-taster-data）；薄前端占位与提示词小镇（bstefans16/fomo-desk-app、Enriques415/grokbot_site_antigravity）。X 交叉本窗多为 Article，未补到未收录的合格新仓。
 
+
+## 2026-11-28 10:30 Asia/Shanghai · T7 日更雷达
+
+### 信号
+
+| 名称 | 链接 | 一句话 | 分类建议 | 来源 |
+|------|------|----------|--------|------|
+| ma-pony/weixin-grokbot-adapter | https://github.com/ma-pony/weixin-grokbot-adapter | 本地 MCP stdio + CLI，把微信 ClawBot（iLink 协议）接给 Grok Bot / Cursor，免装 OpenClaw，零运行时依赖；许可证待核（NOASSERTION），未发 npm | 工具/桥接 | GitHub 搜索 |
+
+Skip：个人应用/语音桌面（jamiepopp12/grok-bot-ui、sunny-xia-ada/grok-bot-workspace）；黑客松/空仓；jbellsolutions 同作者 pack；daholl92 书籍复制页；SuperConsoleAI/SuperBots 平替；lla8ll 纯文档目录仓。
